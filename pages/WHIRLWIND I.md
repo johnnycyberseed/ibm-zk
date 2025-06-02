@@ -1,1 +1,4 @@
-- Developed in the late 1940s at
+- Developed in the late 1940s at [[MIT]] under the direction of [[J.W. Forrester]]
+- Was a [[stored program]] 16-bit computer.
+- Generally regarded as the precursor to early IBM and DEC computers.
+-
