@@ -1,0 +1,3 @@
+- Consulted to [[The Moore School (Univ. of Penn)]]
+	- worked on the design of [[EDVAC]]
+-

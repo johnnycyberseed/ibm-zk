@@ -1,2 +1,3 @@
 - The conceptual framework used by most computers.
+- Devised by [[John von Neumann]]
 -
