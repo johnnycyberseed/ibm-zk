@@ -22,6 +22,7 @@
 	-
 - Dashed lines : Control
 - Solid lines: Data
+- ## Components
 - ### Arithmetic and Logic Unit
 	- Does math: add, subtract, multiply, divide
 	- Does logic ops: shift, conjunction, disjunction, complementation.
@@ -36,7 +37,7 @@
 	- programs are stored in memory and execute sequentially (the [[program counter]] points to the next instruction in memory)
 	- data flows only from/to "Input Units"/"Output Units" into the ALU; not directly into memory
 	- the control unit fetches, decodes, and executes each instruction in sequence.
-	-
+-
 -
 	-
 	-
