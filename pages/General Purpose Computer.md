@@ -11,7 +11,13 @@
 					- a result (might replace an operand)
 					- condition code (stored in the [[status register]])
 				- generally come in the following classes:
-					- A
+					- Arithmetic instructions
+					- Logical (or boolean) instructions
+					- Move instructions
+					- Branch (or jump) instructions
+					- Comparison instructions
+					- I/O instructions
+					- Control instructions
 			- has a set of objects/entities (that are manipulated by instructions)
 				- registers
 				- memory
@@ -26,7 +32,6 @@
 			- instruction execution unit
 			- cache
 			- control unit
-		-
 	- Memory
 	- I/O subsystem
 - There's an "interruption mechanism"
