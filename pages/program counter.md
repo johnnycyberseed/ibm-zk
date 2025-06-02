@@ -1,3 +1,6 @@
 - can play a number of roles, depending on the architecture:
 - can also be a [[status register]]
-- can
+- can display the [[condition code]]
+- on [[S/370]]
+	- can contain a
+-
