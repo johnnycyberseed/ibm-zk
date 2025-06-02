@@ -22,14 +22,17 @@
 	-
 - Dashed lines : Control
 - Solid lines: Data
-- ## Arithmetic and Logic Unit
+- ### Arithmetic and Logic Unit
 	- Does math: add, subtract, multiply, divide
 	- Does logic ops: shift, conjunction, disjunction, complementation.
 	- reads/writes to memory
-- ## Memory
+- ### Memory
 	- a linear array of cells numbered from 1 to _n_
 	- use to store both data and program (known as a [[stored program]])
+- ## Core Characteristics
+	- ## Data
 - ## Data Flow
 	- Data flows only from/to "Input Units"/"Output Units" into the ALU; not directly into memory
+-
 	-
 	-
