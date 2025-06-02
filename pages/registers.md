@@ -4,3 +4,5 @@
 - can be used in
 	- arithmetic operations (as accumulators)
 	- shift operations (as shift registers)
+	- addressing memory
+- addressed in 4 bits
