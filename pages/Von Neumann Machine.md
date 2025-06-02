@@ -34,9 +34,8 @@
 		- which means programs can be modified _during_ execution
 		- no distinction is made between data types (e.g. decimal vs. binary vs. floating point vs. character string)
 	- programs are stored in memory and execute sequentially (the [[program counter]] points to the next instruction in memory)
-	- Data flows only from/to "Input Units"/"Output Units" into the ALU; not directly into memory
-	-
-- ## Data Flow
+	- data flows only from/to "Input Units"/"Output Units" into the ALU; not directly into memory
+	- the control unit fetches, decodes, and executes each instruction in sequence.
 	-
 -
 	-
