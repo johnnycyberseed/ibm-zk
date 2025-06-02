@@ -30,7 +30,11 @@
 	- a linear array of cells numbered from 1 to _n_
 	- use to store both data and program (known as a [[stored program]])
 - ## Core Characteristics
-	- ## Data
+	- data and instructions are stored in memory
+		- which means programs can be modified _during_ execution
+		- no distinction is made between data types (e.g. decimal vs. binary vs. floating point vs. character string)
+	-
+	-
 - ## Data Flow
 	- Data flows only from/to "Input Units"/"Output Units" into the ALU; not directly into memory
 -
