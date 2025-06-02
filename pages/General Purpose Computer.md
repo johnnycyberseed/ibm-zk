@@ -2,6 +2,14 @@
 	- in contrast with older computers that were built for specific purposes
 - Main Elements
 	- CPU
+		- has an instruction set
+		- has a set of objects/entities (that are manipulated by instructions)
+			- registers
+			- memory
+			- program status word
+			- storage key
+			- channels
+		-
 	- Memory
 	- I/O subsystem
 - There's an "interruption mechanism"
