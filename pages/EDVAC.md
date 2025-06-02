@@ -1,0 +1,2 @@
+- Electronic Discrete Variable Automatic Computer
+- Built by the [[The Moore School (Univ. of Penn)]]

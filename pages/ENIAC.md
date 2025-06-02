@@ -1,4 +1,5 @@
 - Electronic Numerical Integrator and Computer
 - Built between 1943 and 1946
 - Primary use was the integration of ballistic equations
-- Built by
+- Built by [[The Moore School (Univ. of Penn)]]
+-
