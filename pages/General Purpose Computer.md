@@ -4,9 +4,13 @@
 	- CPU
 		- conceptually,
 			- has an instruction set
-				-
-				- Operation code
-				- Operands
+				- Instruction is:
+					- Operation code
+					- Operands
+				- when executed, gives:
+					- a result (might replace an operand)
+					- condition code (stored in the status register)
+					-
 				-
 			- has a set of objects/entities (that are manipulated by instructions)
 				- registers
