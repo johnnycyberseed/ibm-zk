@@ -10,12 +10,12 @@
 	    aru[Arithmetic and Logic Unit]
 	    outs[Output Units]
 	    
-	    control <--> ins
-	    control <--> mem
-	    control <--> outs
+	    control <-.-> ins
+	    control <-.-> mem
+	    control <-.-> outs
 	    ins <==> aru
 	    outs <==> aru
-	    mem <--> aru
+	    mem <-.-> aru
 	  
 	  ```
 -
