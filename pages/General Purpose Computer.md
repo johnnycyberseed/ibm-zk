@@ -10,6 +10,8 @@
 				- when executed, gives:
 					- a result (might replace an operand)
 					- condition code (stored in the [[status register]])
+				- generally come in the following classes:
+					- A
 			- has a set of objects/entities (that are manipulated by instructions)
 				- registers
 				- memory
