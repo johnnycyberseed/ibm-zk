@@ -7,12 +7,15 @@
 		- I/O subsystems and networks
 	- critique the architecture and design concepts
 - # Table of Contents
-	- Introduction to IBM computers
-	- Role of architecture in IBM mainframes
-	- 360 Architecture
-	- 370 Architecture
-	- 370/XA Architecture
-	- ESA/370 Architecture
+	- Introduction
+		- Introduction to IBM computers
+		- Role of architecture in IBM mainframes
+	- Evolution of the architecture
+		- 360 Architecture
+		- 370 Architecture
+		- 370/XA Architecture
+		- ESA/370 Architecture
+	-
 	- Techniques used by IBM in the design of mainframes
 	- 3033 processor design
 	- 308X processor design
@@ -21,5 +24,6 @@
 	- 9370 processor design
 	- DASD subsystems implementation
 	- Communication configurations
-	- Review nd concluding remarks
+	- Review and concluding remarks
+	-
 	-
