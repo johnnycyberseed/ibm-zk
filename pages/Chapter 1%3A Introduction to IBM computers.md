@@ -1,2 +1,5 @@
 - The computer industry got going in the 1950s with the success of the [[UNIVAC I]].
-- IBM entered with the 700/7000 seri
+- IBM entered with the 700/7000 series.
+- The industry was driven by both:
+	- the miniaturization of electronic circuits
+	-
