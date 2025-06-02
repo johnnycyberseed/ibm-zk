@@ -8,4 +8,6 @@
 		- a "base" register (as an operand in an instruction) points to a location in memory
 		- a "displacement" (another operand in an instruction) describes an offset from the base address.
 - addressed in 4 bits
+- In the [[S/360]] , there were 16 general purpose registers
+- In the [[S/370]], there were 16 general purpose registers
 -
