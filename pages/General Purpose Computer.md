@@ -1,0 +1,6 @@
+- As the name suggests, can solve many different kinds of problems
+	- in contrast with older computers that were built for specific purposes
+- Main Elements
+	- CPU
+	- Memory
+	- I/O subsystem ()
