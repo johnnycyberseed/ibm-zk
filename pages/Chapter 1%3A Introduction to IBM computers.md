@@ -2,4 +2,5 @@
 - IBM entered with the 700/7000 series.
 - The industry was driven by both:
 	- the miniaturization of electronic circuits
-	-
+	- the emergence of computer languages and software applications
+-
