@@ -5,6 +5,7 @@
 	- arithmetic operations (as accumulators)
 	- shift operations (as shift registers)
 	- addressing memory
-		- a "base" register ()
+		- a "base" register (as an operand in an instruction) points to a location in memory
+		- a "displacement" (another operand in an instruction) describes an offset from the base address.
 - addressed in 4 bits
 -
