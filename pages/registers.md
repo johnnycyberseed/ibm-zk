@@ -1,2 +1,6 @@
 - generally implemented using high-speed circuit elements
--
+- physically close to the ALU and CPU
+	- to minimize delays
+- can be used in
+	- arithmetic operations (as accumulators)
+	- shift operations (as shift registers)
