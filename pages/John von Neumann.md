@@ -11,7 +11,13 @@
 	    outs[Output Units]
 	    
 	    control <--> ins
+	    control <--> mem
+	    control <--> outs
+	    ins <--> aru
+	    outs <--> aru
+	    mem <--> aru
 	  
 	  ```
+-
 -
 -
