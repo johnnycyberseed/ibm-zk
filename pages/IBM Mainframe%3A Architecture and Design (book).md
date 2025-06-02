@@ -15,13 +15,14 @@
 		- 370 Architecture
 		- 370/XA Architecture
 		- ESA/370 Architecture
-	-
-	- Techniques used by IBM in the design of mainframes
-	- 3033 processor design
-	- 308X processor design
-	- 3090 processor design
-	- 4381 processor design
-	- 9370 processor design
+	- Design Concepts and Specific Implementations
+		- Techniques used by IBM in the design of mainframes
+		- 3033 processor design
+		- 308X processor design
+		- 3090 processor design
+		- Midrange Machines
+		- 4381 processor design
+		- 9370 processor design
 	- DASD subsystems implementation
 	- Communication configurations
 	- Review and concluding remarks
