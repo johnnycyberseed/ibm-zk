@@ -4,5 +4,6 @@
 - on [[S/370]]
 	- can contain a mode of operation
 	- can indicate a "state" of the computer: "supervisor", "problem", ...
--
+- one of its major roles relates to the [[interruption mechanism]]
+	- contains the address of the next executable instruction.
 -
