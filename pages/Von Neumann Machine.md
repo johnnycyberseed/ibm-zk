@@ -27,4 +27,5 @@
 	- Does logic ops: shift, conjunction, disjunction, complementation.
 - ## Memory
 	- a linear array of cells numbered from 1 to _n_
-	- use to store both data and co
+	- use to store both data and program (known as a [[stored program]])
+	-
