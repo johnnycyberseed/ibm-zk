@@ -4,12 +4,21 @@
 	- CPU
 		- conceptually,
 			- has an instruction set
+				-
+				- Operation code
+				- Operands
+				-
 			- has a set of objects/entities (that are manipulated by instructions)
 				- registers
 				- memory
 				- program status word
 				- storage key
 				- channels
+		- implementationally,
+			- instruction fetching unit
+			- instruction execution unit
+			- cache
+			- control unit
 		-
 	- Memory
 	- I/O subsystem
