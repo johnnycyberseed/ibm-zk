@@ -3,4 +3,5 @@
 - The industry was driven by both:
 	- the miniaturization of electronic circuits
 	- the emergence of computer languages and software applications
+- [[Von Neumann Machine]]
 -

@@ -1,2 +1,2 @@
-- A revolutionary concept (generally attributed to [[von Neumann]]) where both data and program were stored together in memory.
+- A revolutionary concept (generally attributed to [[John von Neumann]]) where both data and program were stored together in memory.
 -
