@@ -1,4 +1,5 @@
 - Internet Archive (hosted book): https://archive.org/details/ibmmainframesarc00pras/page/n5/mode/2up?view=theater
 	- can be borrowed for 14 days (in DRM-enabled PDF format to read on computer and mobile)
 - Goals
-	- describe the "principles of operation" used by IBM mainframes between the [[S/360]] and [[ESA/370]] models.
+	- describe the "principles of operation" used by IBM mainframes between the [[S/360]] and [[ESA/370]] architectures.
+	- describe the [[models]] that have interesting features
