@@ -1,1 +1,4 @@
-- Build to solve defense-related problems, including the simulation of the fi
+- Conceived of by Howard Aiken of Harvard University
+- Built by IBM
+- Built to solve defense-related problems, including the simulation of the first atomic bomb.
+-
