@@ -3,10 +3,10 @@
 - Main Elements
 	- CPU
 		- conceptually,
-			- has an...
+			- has an instruction set
 			- {{embed [[instruction set]]}}
 			- has a set of objects/entities (that are manipulated by instructions)
-				- registers
+				- [[registers]]
 				- memory
 				- [[program status word]]
 					- the combination of:

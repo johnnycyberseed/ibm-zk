@@ -1,0 +1,2 @@
+- generally implemented using high-speed circuit elements
+-
