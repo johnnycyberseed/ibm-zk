@@ -13,8 +13,8 @@
 	    control <--> ins
 	    control <--> mem
 	    control <--> outs
-	    ins <--> aru
-	    outs <--> aru
+	    ins <==> aru
+	    outs <==> aru
 	    mem <--> aru
 	  
 	  ```
