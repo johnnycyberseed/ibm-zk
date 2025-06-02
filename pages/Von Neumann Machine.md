@@ -28,4 +28,6 @@
 - ## Memory
 	- a linear array of cells numbered from 1 to _n_
 	- use to store both data and program (known as a [[stored program]])
+- ## Data Flow
+	- Data flows only from/to Output Units/Input
 	-
