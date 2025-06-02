@@ -9,13 +9,14 @@
 					- Operands
 				- when executed, gives:
 					- a result (might replace an operand)
-					- condition code (stored in the status register)
-					-
-				-
+					- condition code (stored in the [[status register]])
 			- has a set of objects/entities (that are manipulated by instructions)
 				- registers
 				- memory
-				- program status word
+				- [[program status word]]
+					- the combination of:
+						- the [[status register]]
+						- the [[program counter]]
 				- storage key
 				- channels
 		- implementationally,
