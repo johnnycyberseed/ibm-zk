@@ -2,4 +2,5 @@
 - Built between 1943 and 1946
 - Primary use was the integration of ballistic equations
 - Built by [[The Moore School (Univ. of Penn)]]
+- Was programmed by [[patch panel writing]]
 -
