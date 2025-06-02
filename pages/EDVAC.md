@@ -1,5 +1,4 @@
 - Electronic Discrete Variable Automatic Computer
 - Successor to the [[ENIAC]]
 - Implemented the concept of the [[stored program]]
--
 - Built by the [[The Moore School (Univ. of Penn)]]
