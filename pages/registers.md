@@ -5,4 +5,6 @@
 	- arithmetic operations (as accumulators)
 	- shift operations (as shift registers)
 	- addressing memory
+		- a "base" register ()
 - addressed in 4 bits
+-
