@@ -8,7 +8,7 @@
 	- critique the architecture and design concepts
 - # Table of Contents
 	- Introduction
-		- Introduction to IBM computers
+		- [[Chapter 1: Introduction to IBM computers]]
 		- Role of architecture in IBM mainframes
 	- Evolution of the architecture
 		- 360 Architecture
