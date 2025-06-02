@@ -21,6 +21,6 @@
 			- control unit
 	- Memory
 	- I/O subsystem
-- There's an "interruption mechanism"
+- There's an " [[interruption mechanism]] "
 	- replaces the currently executing program with an interrupt handler.
 -

@@ -2,5 +2,7 @@
 - can also be a [[status register]]
 - can display the [[condition code]]
 - on [[S/370]]
-	- can contain a
+	- can contain a mode of operation
+	- can indicate a "state" of the computer: "supervisor", "problem", ...
+-
 -
