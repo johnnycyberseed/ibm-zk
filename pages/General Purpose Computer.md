@@ -3,21 +3,8 @@
 - Main Elements
 	- CPU
 		- conceptually,
-			- has an instruction set
-				- Instruction is:
-					- Operation code
-					- Operands
-				- when executed, gives:
-					- a result (might replace an operand)
-					- condition code (stored in the [[status register]])
-				- generally come in the following classes:
-					- Arithmetic instructions
-					- Logical (or boolean) instructions
-					- Move instructions
-					- Branch (or jump) instructions
-					- Comparison instructions
-					- I/O instructions
-					- Control instructions
+			- has an...
+			- {{embed [[instruction set]]}}
 			- has a set of objects/entities (that are manipulated by instructions)
 				- registers
 				- memory

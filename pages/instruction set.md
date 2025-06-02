@@ -1,0 +1,14 @@
+- Instruction is:
+	- Operation code
+	- Operands
+- when executed, gives:
+	- a result (might replace an operand)
+	- condition code (stored in the [[status register]])
+- generally come in the following classes:
+	- Arithmetic instructions
+	- Logical (or boolean) instructions
+	- Move instructions
+	- Branch (or jump) instructions
+	- Comparison instructions
+	- I/O instructions
+	- Control instructions
