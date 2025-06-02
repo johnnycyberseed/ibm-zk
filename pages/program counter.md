@@ -1,0 +1,3 @@
+- can play a number of roles, depending on the architecture:
+- can also be a [[status register]]
+- can
