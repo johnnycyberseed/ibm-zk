@@ -13,4 +13,7 @@
 - In the [[S/370]], there were...
 	- 16 general purpose registers, and
 	- 16 control registers.
-- ##
+- ## Common Registers
+	- [[memory address register (MAR)]]
+	- [[memory data register (MDR)]]
+	-
