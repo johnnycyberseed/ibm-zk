@@ -1,4 +1,5 @@
 - Responsibilities:
 	- decode an I/O instruction
 	- interact with I/O units
-	- transfer data between the I/O unit
+	- transfer data between the I/O unit and memory, and
+	- interrupt the CPU on completion of the
