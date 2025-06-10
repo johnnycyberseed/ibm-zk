@@ -2,4 +2,7 @@
 	- decode an I/O instruction
 	- interact with I/O units
 	- transfer data between the I/O unit and memory, and
-	- interrupt the CPU on completion of the
+	- interrupt the CPU on completion of the I/O operation.
+- In [[S/360]], the I/O subsystems are called [[channels]] .
+- In [[S/370]] , the I/O subsystems are called [[channels]] .
+-
