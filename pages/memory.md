@@ -1,3 +1,7 @@
 - consists of cells numbered 1 through n.
 - Each cell can be a byte (like in [[S/370]]) or a word.
-- there
+- there are two addressing schemes: real and virtual
+- the address of a memory cell is often part of an instruction and made up of
+	- base register number,
+	- a displacement
+	- (optionally) an index register number.
