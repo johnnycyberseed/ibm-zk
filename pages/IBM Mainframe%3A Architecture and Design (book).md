@@ -11,10 +11,10 @@
 		- [[Chapter 1: Introduction to IBM computers]]
 		- Role of architecture in IBM mainframes
 	- Evolution of the architecture
-		- 360 Architecture
-		- 370 Architecture
-		- 370/XA Architecture
-		- ESA/370 Architecture
+		- [[S/360]] Architecture
+		- [[S/370]] Architecture
+		- [[370/XA]] Architecture
+		- [[ESA/370]] Architecture
 	- Design Concepts and Specific Implementations
 		- Techniques used by IBM in the design of mainframes
 		- High-End Machines
