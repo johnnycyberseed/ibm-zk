@@ -20,7 +20,7 @@
 			- cache
 			- control unit
 	- [[memory]]
-	- I/O subsystem
+	- [[I/O subsystem]]
 - There's an " [[interruption mechanism]] "
 	- replaces the currently executing program with an interrupt handler.
 -

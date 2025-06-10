@@ -1,0 +1,4 @@
+- Responsibilities:
+	- decode an I/O instruction
+	- interact with I/O units
+	- transfer data between the I/O unit
