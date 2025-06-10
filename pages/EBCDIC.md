@@ -1,4 +1,6 @@
 - Character encoding.
+- https://en.wikipedia.org/wiki/EBCDIC
+-
 - Acronym:
 	- Extended
 	- Binary
