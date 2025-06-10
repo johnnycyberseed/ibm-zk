@@ -1,2 +1,3 @@
+- fastest memory in the machine
 - typical access times in early mainframes were ~15 nanoseconds.
 -
