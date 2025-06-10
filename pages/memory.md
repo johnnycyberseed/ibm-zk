@@ -1,1 +1,3 @@
-- consists of cellsn numbered 1
+- consists of cells numbered 1 through n.
+- Each cell can be a byte (like in [[S/370]]) or a word.
+- there
