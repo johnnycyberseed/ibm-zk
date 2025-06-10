@@ -9,5 +9,6 @@
 	- a displacement,
 	- (optionally) an index register number.
 - There are three levels of memory:
-	- cache
-	- main storage
+	- [[cache (memory)]]
+	- main storage (memory)
+	- expanded storage
