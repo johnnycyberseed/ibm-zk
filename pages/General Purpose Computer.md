@@ -13,7 +13,7 @@
 						- the [[status register]]
 						- the [[program counter]]
 				- storage key
-				- [[channels]]
+				- [[channel]]
 		- implementationally,
 			- instruction fetching unit
 			- instruction execution unit
