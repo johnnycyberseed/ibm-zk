@@ -1,3 +1,3 @@
-- fastest memory in the machine
+- fastest memory in the machine and adjacent to the CPU
 - typical access times in early mainframes were ~15 nanoseconds.
--
+- generally, cache operations are "invisible" to the programmer.
