@@ -9,6 +9,6 @@
 	- a displacement,
 	- (optionally) an index register number.
 - There are three levels of memory:
-	- [[cache (memory)]]
-	- main storage (memory)
+	- [[cache (memory)]] ~15 nanoseconds access time
+	- main storage (memory) ~325 nanoseconds
 	- expanded storage

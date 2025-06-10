@@ -1,1 +1,2 @@
-- typical access times in early mainframes were
+- typical access times in early mainframes were ~15 nanoseconds.
+-
