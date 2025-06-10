@@ -7,7 +7,7 @@
 			- {{embed [[instruction set]]}}
 			- has a set of objects/entities (that are manipulated by instructions)
 				- [[registers]]
-				- memory
+				- [[memory]]
 				- [[program status word]]
 					- the combination of:
 						- the [[status register]]

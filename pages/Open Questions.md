@@ -1,0 +1,4 @@
+- What does "Computer Organization" mean?
+- Which processors are used in which architectures?
+- What does DASD mean?
+- What do they mean by "microcode"?
