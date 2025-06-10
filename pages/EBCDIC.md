@@ -2,9 +2,10 @@
 - https://en.wikipedia.org/wiki/EBCDIC
 -
 - Acronym:
-	- Extended
-	- Binary
-	- Coded
-	- Decimal
-	- Interchage
-	- Code
+	- **E**xtended
+	- **B**inary
+	- **C**oded
+	- **D**ecimal
+	- **I**nterchage
+	- **C**ode
+-
