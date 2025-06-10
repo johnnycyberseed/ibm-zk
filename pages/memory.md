@@ -2,9 +2,9 @@
 - Each cell can be a byte (like in [[S/370]]) or a word.
 - there are two addressing schemes: real and virtual
 	- this involves maintaining tables of real and virtual addresses
-	-
+	- usually the OS maintains the tables
+	- and the hardware dereferences from them
 - the address of a memory cell is often part of an instruction and made up of
 	- base register number,
 	- a displacement,
 	- (optionally) an index register number.
--

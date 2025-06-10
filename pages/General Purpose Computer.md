@@ -19,7 +19,7 @@
 			- instruction execution unit
 			- cache
 			- control unit
-	- Memory
+	- [[memory]]
 	- I/O subsystem
 - There's an " [[interruption mechanism]] "
 	- replaces the currently executing program with an interrupt handler.
