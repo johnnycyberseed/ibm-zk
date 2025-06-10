@@ -1,0 +1,8 @@
+- Character encoding.
+- Acronym:
+	- Extended
+	- Binary
+	- Coded
+	- Decimal
+	- Interchage
+	- Code
