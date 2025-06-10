@@ -5,4 +5,5 @@
 	- interrupt the CPU on completion of the I/O operation.
 - In [[S/360]], the I/O subsystems are called [[channels]] .
 - In [[S/370]] , the I/O subsystems are called [[channels]] .
+- in [[370/XA]], an I/O subsystem is called a [[channel subsystem]]
 -
