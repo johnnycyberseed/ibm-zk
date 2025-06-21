@@ -18,5 +18,6 @@
 		- have these characteristics:
 			- are _modular_ — can be composed of individual parts
 			- compatible across models of computers
-				-
+			- separates the concerns of resource management and processors
+			-
 	-
