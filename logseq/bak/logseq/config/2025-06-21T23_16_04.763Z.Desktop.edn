@@ -422,5 +422,4 @@
  :graph/forcesettings {:link-dist 70
  :charge-strength -800
  :charge-range 1800}
- :graph/settings {:builtin-pages? false
- :journal? true}}
+ :graph/settings {:builtin-pages? true}}
