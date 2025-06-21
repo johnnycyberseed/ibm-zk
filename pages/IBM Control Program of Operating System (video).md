@@ -5,6 +5,7 @@
 		- maximize _systems throughput_ — the amount of total work that can be achieved within a certain time given the current resources
 		- minimize _turnaround time_ — the time from the moment the job enters the machine shop and the results are ready
 		- providing key services —
+	- It
 - # Maximizing Systems Throughput
 	- minimizing transition times
 		- by encouraging job authors to use "standard" input and output data sources
