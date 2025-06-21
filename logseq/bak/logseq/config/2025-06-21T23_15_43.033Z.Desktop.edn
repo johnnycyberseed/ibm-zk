@@ -419,6 +419,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/forcesettings {:link-dist 70
+ :graph/forcesettings {:link-dist 60
  :charge-strength -800
- :charge-range 1800}}
+ :charge-range 3300}}
