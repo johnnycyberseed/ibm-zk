@@ -8,6 +8,6 @@
 		- data management
 			- device independence
 			- buffered input / output
-			- extensive library services (naming devices, )
+			- extensive library services (naming devices, the data that goes on them, and how they are organized)
 		- task management
 	-
