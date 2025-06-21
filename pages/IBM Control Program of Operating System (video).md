@@ -1,4 +1,10 @@
 - The video
 	- {{video https://www.youtube.com/watch?v=378S5Owi-BI}}
 - # Summary
-	- An hour-long lecture covering the theory behind the control system within the [[S/360]]
+	- An hour-long lecture covering the theory behind the control system within the [[S/360]] achieving these goals:
+		- systems throughput
+		- turnaround time
+		- providing key services
+		- data management
+		-
+	-
