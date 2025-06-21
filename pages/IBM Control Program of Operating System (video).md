@@ -3,6 +3,7 @@
 - # Summary
 	- An hour-long lecture covering the theory behind the control system within the [[S/360]] achieving these goals:
 		- systems throughput
+			-
 		- turnaround time
 		- providing key services
 		- data management
@@ -10,4 +11,6 @@
 			- buffered input / output
 			- extensive library services (naming devices, the data that goes on them, and how they are organized)
 		- task management
+			- allocating resources to independent tasks (i.e. programs)
+			- identifying tasks
 	-
