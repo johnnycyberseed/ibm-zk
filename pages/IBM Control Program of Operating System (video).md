@@ -19,6 +19,7 @@
 			- are _modular_ — can be composed of individual parts
 			- _compatible_ across models of computers
 			- "processors" (i.e. individual programs) can be safely ignorant of resource management
+			- protection — prevent one task from clobbering the resources of another task
 			-
 				-
 	-
