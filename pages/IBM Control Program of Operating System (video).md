@@ -8,10 +8,10 @@
 - # Maximizing Systems Throughput
 	- minimizing transition times
 		- by encouraging job authors to use "standard" input and output data sources
-		-
-	- buffering inputs and outputs (anticipatory)
-		-
+	- anticipating and resolving dependencies
+		- buffering inputs and outputs before the data is needed
 	-
+		-
 - Control Programs
 	- are responsible for:
 		- data management
