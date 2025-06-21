@@ -3,9 +3,9 @@
 - # Summary
 	- An hour-long lecture covering the theory behind the control system within the [[S/360]] achieving these goals:
 		- systems throughput
-			-
 		- turnaround time
 		- providing key services
+	- Control Programs have these responsibilities
 		- data management
 			- device independence
 			- buffered input / output
@@ -13,4 +13,5 @@
 		- task management
 			- allocating resources to independent tasks (i.e. programs)
 			- identifying tasks
+	-
 	-
