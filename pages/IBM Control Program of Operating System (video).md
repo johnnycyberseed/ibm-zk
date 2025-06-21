@@ -14,6 +14,7 @@
 			- task management
 				- allocating resources to independent tasks (i.e. programs)
 				- identifying tasks
+				- supporting scheduling tasks
 		- have these characteristics:
 			- are _modular_ — can be composed of individual parts
 			- compatible across models of computers
