@@ -5,22 +5,25 @@
 		- maximize _systems throughput_ — the amount of total work that can be achieved within a certain time given the current resources
 		- minimize _turnaround time_ — the time from the moment the job enters the machine shop and the results are ready
 		- providing key services —
-	- Control Programs
-		- are responsible for:
-			- data management
-				- device independence
-				- buffered input / output
-				- extensive library services (naming devices, the data that goes on them, and how they are organized)
-			- task management
-				- allocating resources to independent tasks (i.e. programs)
-				- identifying tasks
-				- supporting scheduling tasks
-		- have these characteristics:
-			- _modular_ — can be composed of individual parts
-			- _compatible_ — works without change across models of computers
-			- "processors" (i.e. individual programs) can be safely ignorant of resource management
-			- _protection_ — prevent one task from clobbering the resources of another task
-			- _complete and flexible_ — the identified structure is considered future proof
+- ## Maximizing Systems Throughput
+	- minimizing transition times
+	-
+- Control Programs
+	- are responsible for:
+		- data management
+			- device independence
+			- buffered input / output
+			- extensive library services (naming devices, the data that goes on them, and how they are organized)
+		- task management
+			- allocating resources to independent tasks (i.e. programs)
+			- identifying tasks
+			- supporting scheduling tasks
+	- have these characteristics:
+		- _modular_ — can be composed of individual parts
+		- _compatible_ — works without change across models of computers
+		- "processors" (i.e. individual programs) can be safely ignorant of resource management
+		- _protection_ — prevent one task from clobbering the resources of another task
+		- _complete and flexible_ — the identified structure is considered future proof
+	-
 		-
-			-
 	-
