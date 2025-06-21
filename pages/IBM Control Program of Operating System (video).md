@@ -7,6 +7,8 @@
 		- providing key services —
 - ## Maximizing Systems Throughput
 	- minimizing transition times
+		- by encouraging job authors to use "standard" input and output data sources
+		-
 	-
 - Control Programs
 	- are responsible for:
