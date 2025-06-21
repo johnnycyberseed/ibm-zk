@@ -5,13 +5,14 @@
 		- systems throughput
 		- turnaround time
 		- providing key services
-	- Control Programs have these responsibilities
-		- data management
-			- device independence
-			- buffered input / output
-			- extensive library services (naming devices, the data that goes on them, and how they are organized)
-		- task management
-			- allocating resources to independent tasks (i.e. programs)
-			- identifying tasks
-	-
+	- Control Programs
+		- are responsible for:
+			- data management
+				- device independence
+				- buffered input / output
+				- extensive library services (naming devices, the data that goes on them, and how they are organized)
+			- task management
+				- allocating resources to independent tasks (i.e. programs)
+				- identifying tasks
+		- have
 	-
