@@ -16,5 +16,6 @@
 				- identifying tasks
 		- have these characteristics:
 			- are _modular_ — can be composed of individual parts
-			- compatible
+			- compatible across models of computers
+				-
 	-
