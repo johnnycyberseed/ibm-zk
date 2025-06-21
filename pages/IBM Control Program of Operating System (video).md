@@ -6,5 +6,8 @@
 		- turnaround time
 		- providing key services
 		- data management
-		-
+			- device independence
+			- buffered input / output
+			- extensive library services (naming devices, )
+		- task management
 	-
