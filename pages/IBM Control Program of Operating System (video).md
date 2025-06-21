@@ -17,7 +17,8 @@
 				- supporting scheduling tasks
 		- have these characteristics:
 			- are _modular_ — can be composed of individual parts
-			- compatible across models of computers
-			- programs run
+			- _compatible_ across models of computers
+			- "processors" (i.e. individual programs) can be safely ignorant of resource management
 			-
+				-
 	-
