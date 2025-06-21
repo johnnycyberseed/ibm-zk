@@ -2,8 +2,8 @@
 	- {{video https://www.youtube.com/watch?v=378S5Owi-BI}}
 - # Summary
 	- An hour-long lecture covering the theory behind the control system within the [[S/360]] achieving these goals:
-		- systems throughput
-		- turnaround time
+		- maximize _systems throughput_ — the amount of total work that can be achieved
+		- minimize _turnaround time_
 		- providing key services
 	- Control Programs
 		- are responsible for:
