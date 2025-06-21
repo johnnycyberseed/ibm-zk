@@ -16,10 +16,10 @@
 				- identifying tasks
 				- supporting scheduling tasks
 		- have these characteristics:
-			- are _modular_ — can be composed of individual parts
-			- _compatible_ across models of computers
+			- _modular_ — can be composed of individual parts
+			- _compatible_ — works without change across models of computers
 			- "processors" (i.e. individual programs) can be safely ignorant of resource management
-			- protection — prevent one task from clobbering the resources of another task
-			-
+			- _protection_ — prevent one task from clobbering the resources of another task
+			- _complete and flexible_ — the identified structure is
 				-
 	-
