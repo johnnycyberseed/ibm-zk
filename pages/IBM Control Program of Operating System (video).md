@@ -9,7 +9,8 @@
 	- minimizing transition times
 		- by encouraging job authors to use "standard" input and output data sources
 		-
-	-
+	- buffering inputs and outputs (anticipatory)
+		-
 	-
 - Control Programs
 	- are responsible for:
