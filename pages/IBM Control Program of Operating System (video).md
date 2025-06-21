@@ -1,7 +1,7 @@
 - The video
 	- {{video https://www.youtube.com/watch?v=378S5Owi-BI}}
 - # Summary
-	- Deep dive into the theory behind the structure and execution of [[JCL]] jobs.
+	- Deep dive into the theory behind the Operating System/360 structure and execution of [[JCL]] jobs.
 	- An hour-long lecture covering the theory behind the control system within the [[S/360]] achieving these goals:
 		- maximize _systems throughput_ — the amount of total work that can be achieved within a certain time given the current resources
 		- minimize _turnaround time_ — the time from the moment the job enters the machine shop and the results are ready
