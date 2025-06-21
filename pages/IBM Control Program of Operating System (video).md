@@ -2,9 +2,9 @@
 	- {{video https://www.youtube.com/watch?v=378S5Owi-BI}}
 - # Summary
 	- An hour-long lecture covering the theory behind the control system within the [[S/360]] achieving these goals:
-		- maximize _systems throughput_ — the amount of total work that can be achieved
-		- minimize _turnaround time_
-		- providing key services
+		- maximize _systems throughput_ — the amount of total work that can be achieved within a certain time given the current resources
+		- minimize _turnaround time_ — the time from the moment the job enters the machine shop and the results are ready
+		- providing key services —
 	- Control Programs
 		- are responsible for:
 			- data management
