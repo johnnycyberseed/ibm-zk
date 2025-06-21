@@ -20,6 +20,7 @@
 			- _compatible_ — works without change across models of computers
 			- "processors" (i.e. individual programs) can be safely ignorant of resource management
 			- _protection_ — prevent one task from clobbering the resources of another task
-			- _complete and flexible_ — the identified structure is
-				-
+			- _complete and flexible_ — the identified structure is considered future proof
+		-
+			-
 	-
