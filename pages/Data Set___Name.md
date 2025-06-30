@@ -1,0 +1,8 @@
+-
+- Structure:
+	- 1 to 44 characters
+	- one or more
+- aka:
+	- DNAME
+	- DSN
+-

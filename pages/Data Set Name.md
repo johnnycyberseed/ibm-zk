@@ -1,4 +1,0 @@
-- aka:
-	- DNAME
-	- DSN
--

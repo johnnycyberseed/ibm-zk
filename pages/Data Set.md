@@ -1,3 +1,3 @@
 -
-- identified by a [[Data Set Name]]
+- identified by a [[Data Set/Name]]
 -
