@@ -9,4 +9,7 @@
 	- **Physical Location Index** — maps a given dataset name to its physical [[extents]]
 - Used by the  [[Data Set List Utility]] to list the datasets on a given [[volume]]
 - [[Catalog]] is a more system-wide directory (whereas a [[VTOC]] is specific to a given [[volume]]).
-- Utilities that use
+- Utilities that use [[VTOC]]
+	- [[utility/IEHLIST]]
+	- [[utility/IEHPROGM]]
+	- [[IDCAMS]]
