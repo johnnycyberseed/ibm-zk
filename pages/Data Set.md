@@ -1,2 +1,4 @@
 - the mainframe equivalent of a file.
 - identified by a [[Data Set/Name]]
+- kinds of [[Data Set]]s:
+	-
