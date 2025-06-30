@@ -12,4 +12,4 @@
 - Utilities that use [[VTOC]]
 	- [[utility/IEHLIST]]
 	- [[utility/IEHPROGM]]
-	- [[IDCAMS]]
+	- [[utility/IDCAMS]]
