@@ -24,7 +24,7 @@
 		- Midrange Machines
 			- 4381 processor design
 			- 9370 processor design
-	- DASD subsystems implementation
+	- [[DASD]] subsystems implementation
 	- Communication configurations
 	- Review and concluding remarks
 	-
