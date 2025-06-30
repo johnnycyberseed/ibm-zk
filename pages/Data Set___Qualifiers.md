@@ -1,0 +1,1 @@
+- Acts similar to (but not exactly like) a directory or folder name.
