@@ -1,0 +1,2 @@
+- a simple sequence of records
+- the simplest kind of data set.
