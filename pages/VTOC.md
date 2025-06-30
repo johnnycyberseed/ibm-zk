@@ -1,2 +1,5 @@
 - Volume Table of Contents
--
+- A critical data structure in the z/OS mainframe operating system.
+- Purposes
+	- **Catalog of Data Sets** — holds metadata about _all_ datasets stored on a specific [[DASD]]
+	- **Physical Location Index** —
