@@ -2,4 +2,10 @@
 - A critical data structure in the z/OS mainframe operating system.
 - Purposes
 	- **Catalog of Data Sets** — holds metadata about _all_ datasets stored on a specific [[DASD]]
-	- **Physical Location Index** —
+		- dataset size
+		- location
+		- creation date
+		-
+	- **Physical Location Index** — maps a given dataset name to its physical [[extents]]
+	-
+	-
