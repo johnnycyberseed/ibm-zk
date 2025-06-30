@@ -3,4 +3,5 @@
 	- 1 to 8 characters long
 	- starts with an
 		- {{embed [[alphabetic character]]}} or
-		- [[national character]]
+		- {{embed [[national character]]}}
+-

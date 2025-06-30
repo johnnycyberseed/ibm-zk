@@ -2,7 +2,8 @@
 - Structure:
 	- 1 to 44 characters
 	- one or more [[Data Set/Qualifiers]], separated by periods `.`
-	-
+- Are case-insensitive
+-
 - aka:
 	- DNAME
 	- DSN
