@@ -5,7 +5,7 @@
 		- dataset size
 		- location
 		- creation date
-		-
+		- used/free space
 	- **Physical Location Index** — maps a given dataset name to its physical [[extents]]
-	-
+- Used by the  [[Data Set List Utility]] to list the datasets
 	-
