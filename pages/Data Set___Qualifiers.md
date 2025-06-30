@@ -2,5 +2,5 @@
 - structure
 	- 1 to 8 characters long
 	- starts with an
-		- alphabetic character or
+		- {{embed [[alphabetic character]]}} or
 		- [[national character]]
