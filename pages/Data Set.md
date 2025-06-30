@@ -1,3 +1,3 @@
--
+- the mainframe equivalent of a file.
 - identified by a [[Data Set/Name]]
 -
