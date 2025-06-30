@@ -1,1 +1,6 @@
 - Acts similar to (but not exactly like) a directory or folder name.
+- structure
+	- 1 to 8 characters long
+	- starts with an
+		- alphabetic character or
+		- [[national character]]
