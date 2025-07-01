@@ -4,7 +4,7 @@
 	- [[Data Set/Type/Sequential Data Set (PS)]]
 	- [[Data Set/Type/Partitioned Data Set (PDS)]]
 	- [[Data Set/Type/Extended PDS (PDSE)]]
-	- [[Virtual Storage Access Method (VSAM)]]
+	- [[Data Set/Type/Virtual Storage Access Method (VSAM)]]
 	-
 	-
 	-
