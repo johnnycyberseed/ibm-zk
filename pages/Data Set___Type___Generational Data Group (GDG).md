@@ -1,1 +1,4 @@
 - A collection of like-named [[Data Set/Type/Sequential Data Set (PS)]]s
+- New versions (or generations) are created over time
+	- using the `(+1)`
+-
