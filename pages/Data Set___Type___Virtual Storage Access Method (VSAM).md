@@ -1,3 +1,6 @@
 - A family of data set types optimized for performance and flexible access
-- [[Data Set/Type/Entry-Sequenced (ESDS)]]
+- Types:
+	- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
+	- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]]
+	-
 -
