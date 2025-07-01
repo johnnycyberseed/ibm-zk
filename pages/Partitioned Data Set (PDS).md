@@ -1,2 +1,3 @@
 - acts like a container (like an archive file)
+- commonly used for holding source code for programs
 -

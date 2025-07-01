@@ -3,6 +3,8 @@
 - kinds of [[Data Set]]s:
 	- [[Sequential Data Set (PS)]]
 	- [[Partitioned Data Set (PDS)]]
+	- [[Extended PDS (PDSE)]]
+	-
 	-
 	-
 	-
