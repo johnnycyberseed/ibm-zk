@@ -1,1 +1,1 @@
-- Records accessed by relative number
+- Records accessed by relative number (the array type in VSAM)

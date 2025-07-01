@@ -1,0 +1,1 @@
+- a sequential set of records (the VSAM equivalent of [[Data Set/Type/Sequential Data Set (PS)]])
