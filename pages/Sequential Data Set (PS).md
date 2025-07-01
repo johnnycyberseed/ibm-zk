@@ -1,2 +1,5 @@
 - a simple sequence of records
 - the simplest kind of data set.
+-
+- Commonly used for producing reports.
+-
