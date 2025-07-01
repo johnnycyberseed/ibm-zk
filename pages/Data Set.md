@@ -7,7 +7,7 @@
 	- [[Data Set/Type/Virtual Storage Access Method (VSAM)]]
 	- [[Data Set/Type/Generational Data Group (GDG)]]
 	- [[Data Set/Type/Hierarchical File System (HFS)]]
-- {{renderer :mermaid_6863f8db-129f-4bc7-b56f-29244030f897, 3}}
+- {{renderer :mermaid_6863f8db-129f-4bc7-b56f-29244030f897, 5}}
 	- ```mermaid
 	  graph LR
 	      A["Data Sets in z/OS"]
