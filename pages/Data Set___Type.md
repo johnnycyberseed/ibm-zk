@@ -1,10 +1,10 @@
 - kinds of [[Data Set]]s (rough order of sophistication):
 	- [[Data Set/Type/Physical Sequential (PS)]] — like a flat file
 	- [[Data Set/Type/Partitioned Data Set (PDS)]] — like a folder or archive
-	- [[Data Set/Type/Extended PDS (PDSE)]] — new and improved
+	- [[Data Set/Type/Extended PDS (PDSE)]] — new and improved PDS
 	- [[Data Set/Type/VSAM]]
 	- [[Data Set/Type/Generational Data Group (GDG)]]
-	- [[Data Set/Type/Hierarchical File System (HFS)]]
+	- [[Data Set/Type/Hierarchical File System (HFS)]] — Unix-like directory
 	- Diagram...
 	  collapsed:: true
 		- {{renderer :mermaid_6863fa01-83ef-47a4-893a-ecac8b45712b, 5}}
