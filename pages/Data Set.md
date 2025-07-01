@@ -1,5 +1,5 @@
 - the mainframe equivalent of a file.
-- identified by a [[Data Set/Name]]
+- identified by a [[Data Set/Name (DSN)]]
 - kinds of [[Data Set]]s:
 	- [[Data Set/Type/Sequential Data Set (PS)]]
 	- [[Data Set/Type/Partitioned Data Set (PDS)]]
