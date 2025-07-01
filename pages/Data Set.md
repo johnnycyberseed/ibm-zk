@@ -5,6 +5,8 @@
 	- [[Data Set/Type/Partitioned Data Set (PDS)]]
 	- [[Data Set/Type/Extended PDS (PDSE)]]
 	- [[Data Set/Type/Virtual Storage Access Method (VSAM)]]
+	- [[Data Set/Type/Generational Data Group (GDG)]]
+	-
 	-
 	-
 	-
