@@ -1,0 +1,1 @@
+- records accessed by key (the hashmap of VSAM)

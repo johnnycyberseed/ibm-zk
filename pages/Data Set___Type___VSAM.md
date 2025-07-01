@@ -3,6 +3,7 @@
 - Types:
 	- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
 	- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]]
+	- [[Data Set/Type/VSAM/Relative Record (RRDS)]]
 	-
 	-
 -
