@@ -1,4 +1,5 @@
 - Time Share Option
-- An
-- Includes an interactive shell: [[TSO/ISPF]]
+- An interactive shell for [[z/OS]]
+- Includes a character-based GUI: [[TSO/ISPF]]
+-
 -
