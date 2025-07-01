@@ -6,11 +6,12 @@
 	- ```
 	  (RACF msg) (username)  LAST ACCESS AT ...
 	  (username) LOGON IN PROGRESS ...
-	  (JES msg) TSU34156 (username) STARTED  CPUA CN(00)
+	  (JES msg) (jobname) (username) STARTED  CPUA CN(00)
 	  NO BROADCAST MESSAGES
 	  
 	  ```
 		- for example:
 		- `(RACF msg)` : `ICH70001I`
 		- `(username)` : `TKMA6S1`
-		- `(JES msg)` : ``
+		- `(JES msg)` : `$HASP165`
+		- `(jobname)` : `TSU34156`
