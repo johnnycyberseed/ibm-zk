@@ -7,9 +7,10 @@
 	- [[Data Set/Type/Virtual Storage Access Method (VSAM)]]
 	- [[Data Set/Type/Generational Data Group (GDG)]]
 	- [[Data Set/Type/Hierarchical File System (HFS)]]
-- {{renderer :mermaid_6863f8db-129f-4bc7-b56f-29244030f897, 5}}
-	- ```mermaid
-	  graph LR
+- {{renderer :mermaid_6863f8e0-be83-4615-99a0-efd351eefe4d, 4}}
+	- id:: 6863f8e0-be83-4615-99a0-efd351eefe4d
+	  ```mermaid
+	  graph TD
 	      A["Data Sets in z/OS"]
 	  
 	      %% Top-level categories
@@ -21,19 +22,19 @@
 	      A --> B6["UNIX File Systems"]
 	  
 	      %% VSAM types
-	      B4 --> C1["KSDS\nKey-Sequenced"]
-	      B4 --> C2["ESDS\nEntry-Sequenced"]
-	      B4 --> C3["RRDS\nRelative Record"]
-	      B4 --> C4["LDS\nLinear"]
+	      B4 --> C1["KSDS<br>Key-Sequenced"]
+	      B4 --> C2["ESDS<br>Entry-Sequenced"]
+	      B4 --> C3["RRDS<br>Relative Record"]
+	      B4 --> C4["LDS<br>Linear"]
 	  
 	      %% GDG versioning
-	      B5 --> D1["Generation 0\n(current)"]
-	      B5 --> D2["Generation +1\n(new)"]
-	      B5 --> D3["Generation -1\n(previous)"]
+	      B5 --> D1["Generation 0<br>(current)"]
+	      B5 --> D2["Generation +1<br>(new)"]
+	      B5 --> D3["Generation -1<br>(previous)"]
 	  
 	      %% Unix-style
-	      B6 --> E1["HFS\n(legacy)"]
-	      B6 --> E2["zFS\n(modern)"]
+	      B6 --> E1["HFS<br>(legacy)"]
+	      B6 --> E2["zFS<br>(modern)"]
 	  
 	      %% Labels
 	      classDef system fill:#f9f,stroke:#333,stroke-width:1px;
