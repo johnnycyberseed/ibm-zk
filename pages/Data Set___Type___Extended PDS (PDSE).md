@@ -1,2 +1,5 @@
 - A modern replacement of the [[Data Set/Type/Partitioned Data Set (PDS)]]
--
+	- Better space management
+	- Better sharing options
+	- No need to manually compress
+	- supports versioning and concurrent access.
