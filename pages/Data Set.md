@@ -2,8 +2,8 @@
 - identified by a [[Data Set/Name]]
 - kinds of [[Data Set]]s:
 	- [[Data Set/Type/Sequential Data Set (PS)]]
-	- [[Partitioned Data Set (PDS)]]
-	- [[Extended PDS (PDSE)]]
+	- [[Data Set/Type/Partitioned Data Set (PDS)]]
+	- [[Data Set/Type/Extended PDS (PDSE)]]
 	- [[Virtual Storage Access Method (VSAM)]]
 	-
 	-
