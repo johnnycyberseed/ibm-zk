@@ -1,1 +1,1 @@
-- A full-screen menu system
+- A full-screen menu system — a text-based GUI for TSO
