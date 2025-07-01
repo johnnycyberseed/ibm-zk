@@ -7,9 +7,10 @@
 	- [[Data Set/Type/Virtual Storage Access Method (VSAM)]]
 	- [[Data Set/Type/Generational Data Group (GDG)]]
 	- [[Data Set/Type/Hierarchical File System (HFS)]]
-- {{renderer :mermaid_6863f97b-3bbe-432f-a9c4-018039b806ec, 4}}
+- {{renderer :mermaid_6863fa01-83ef-47a4-893a-ecac8b45712b, 5}}
+  collapsed:: true
 	- ```mermaid
-	  graph TD
+	  graph LR
 	      A["Data Sets in z/OS"]
 	  
 	      %% Top-level categories
@@ -24,16 +25,16 @@
 	      B4 --> C1["KSDS Key-Sequenced"]
 	      B4 --> C2["ESDS Entry-Sequenced"]
 	      B4 --> C3["RRDS Relative Record"]
-	      B4 --> C4["LDS<br>Linear"]
+	      B4 --> C4["LDS Linear"]
 	  
 	      %% GDG versioning
-	      B5 --> D1["Generation 0<br>(current)"]
-	      B5 --> D2["Generation +1<br>(new)"]
-	      B5 --> D3["Generation -1<br>(previous)"]
+	      B5 --> D1["Generation 0 (current)"]
+	      B5 --> D2["Generation +1 (new)"]
+	      B5 --> D3["Generation -1 (previous)"]
 	  
 	      %% Unix-style
-	      B6 --> E1["HFS<br>(legacy)"]
-	      B6 --> E2["zFS<br>(modern)"]
+	      B6 --> E1["HFS (legacy)"]
+	      B6 --> E2["zFS (modern)"]
 	  
 	      %% Labels
 	      classDef system fill:#f9f,stroke:#333,stroke-width:1px;
