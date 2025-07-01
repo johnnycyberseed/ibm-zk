@@ -1,0 +1,4 @@
+- a simple sequence of records
+- the simplest kind of data set.
+- consider it the "flat file" of the file system
+- Commonly used for producing reports.

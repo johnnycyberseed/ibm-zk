@@ -1,7 +1,7 @@
 - the mainframe equivalent of a file.
 - identified by a [[Data Set/Name]]
 - kinds of [[Data Set]]s:
-	- [[Sequential Data Set (PS)]]
+	- [[Data Set/Type/Sequential Data Set (PS)]]
 	- [[Partitioned Data Set (PDS)]]
 	- [[Extended PDS (PDSE)]]
 	- [[Virtual Storage Access Method (VSAM)]]
