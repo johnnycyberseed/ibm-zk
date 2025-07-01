@@ -1,1 +1,3 @@
-- a sequential set of records (the VSAM equivalent of [[Data Set/Type/Sequential Data Set (PS)]])
+- a sequential set of records (the VSAM equivalent of [[Data Set/Type/Physical Sequential (PS)]])
+-
+-

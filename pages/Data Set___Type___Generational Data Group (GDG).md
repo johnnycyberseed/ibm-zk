@@ -1,4 +1,4 @@
-- A collection of like-named [[Data Set/Type/Sequential Data Set (PS)]]s
+- A collection of like-named [[Data Set/Type/Physical Sequential (PS)]]s
 - New versions (or generations) are created over time
 	- using the `(+1)` [[Data Set/Name (DSN)]] syntax
 - Commonly used for managing
