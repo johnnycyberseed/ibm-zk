@@ -7,9 +7,38 @@
 	- [[Data Set/Type/Virtual Storage Access Method (VSAM)]]
 	- [[Data Set/Type/Generational Data Group (GDG)]]
 	- [[Data Set/Type/Hierarchical File System (HFS)]]
--
-	-
-	-
-	-
-	-
-	-
+- {{renderer :mermaid_6863f70a-ea20-486a-824d-147fe5fe788f, 3}}
+	- ```mermaid
+	  graph TD
+	      A[Data Sets in z/OS]
+	  
+	      %% Top-level categories
+	      A --> B1["Sequential (PS)"]
+	      A --> B2["Partitioned (PO)"]
+	      A --> B3["Extended Partitioned (PDSE)"]
+	      A --> B4["VSAM"]
+	      A --> B5["Generation Data Group (GDG)"]
+	      A --> B6["UNIX File Systems"]
+	  
+	      %% VSAM types
+	      B4 --> C1["KSDS\nKey-Sequenced"]
+	      B4 --> C2["ESDS\nEntry-Sequenced"]
+	      B4 --> C3["RRDS\nRelative Record"]
+	      B4 --> C4["LDS\nLinear"]
+	  
+	      %% GDG versioning
+	      B5 --> D1["Generation 0\n(current)"]
+	      B5 --> D2["Generation +1\n(new)"]
+	      B5 --> D3["Generation -1\n(previous)"]
+	  
+	      %% Unix-style
+	      B6 --> E1["HFS\n(legacy)"]
+	      B6 --> E2["zFS\n(modern)"]
+	  
+	      %% Labels
+	      classDef system fill:#f9f,stroke:#333,stroke-width:1px;
+	      classDef vsam fill:#bbf,stroke:#333,stroke-width:1px;
+	      class B4,C1,C2,C3,C4 vsam;
+	      class B6,E1,E2 system;
+	  
+	  ```
