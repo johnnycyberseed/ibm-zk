@@ -21,9 +21,9 @@
 	      A --> B6["UNIX File Systems"]
 	  
 	      %% VSAM types
-	      B4 --> C1["KSDS<br>Key-Sequenced"]
-	      B4 --> C2["ESDS<br>Entry-Sequenced"]
-	      B4 --> C3["RRDS<br>Relative Record"]
+	      B4 --> C1["KSDS Key-Sequenced"]
+	      B4 --> C2["ESDS Entry-Sequenced"]
+	      B4 --> C3["RRDS Relative Record"]
 	      B4 --> C4["LDS<br>Linear"]
 	  
 	      %% GDG versioning
