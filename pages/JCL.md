@@ -4,10 +4,8 @@
 		- Given...
 			- a set of work (aka "Job"s)
 			- the input data and output data of each of those "Job"s
-				- including where and how they are store
+				- including where and how they are stored.
 		- determine the optimal data mount and execution order.
-		-
-		- Where exactly the required data is either stored or will be stored (channel, unit, volume, etc.)
-		-
-	- [[IBM Form C28-6539-x — 360 Job Control Language (manual)]]
+		- see [[IBM Form C28-6539-x — 360 Job Control Language (manual)]]
+	- It
 	-
