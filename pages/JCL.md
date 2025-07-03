@@ -1,3 +1,3 @@
 - Job Control Language
 - IBM invented JCL (first as part of [[OS/360]])
-	- According to
+	- According to IBM Form C28-6539-x
