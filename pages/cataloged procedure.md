@@ -1,2 +1,5 @@
 - a set of [[JCL]] statements stored in a [[Data Set/Type/Partitioned Data Set (PDS)]] in [[The Procedure Library]]
--
+- In contrast to [[JCL]] [[Job]]s, [[Procedure Library]]s cannot contain:
+	- `EXEC` statements referring to _other_ [[cataloged procedure]]s
+	- the `JOB` command
+	- `DD` statements wit the
