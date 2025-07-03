@@ -1,3 +1,4 @@
-- A [[Data Set/Type/Partitioned Data Set (PDS)]] named `SYS1.PROCLIB.`
+- A [[Data Set/Type/Partitioned Data Set (PDS)]] named `SYS1.PROCLIB`
 - Contains [[cataloged procedure]]s
--
+- Can be augmented with a user/site specific procedure library `SYS2.PROCLIB`
+	-
