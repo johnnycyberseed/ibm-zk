@@ -1,2 +1,3 @@
 - A [[Data Set/Type/Partitioned Data Set (PDS)]] named `SYS1.PROCLIB.`
-- Until
+- In contrast to [[JCL]] [[Job]]s, [[Procedure Library]]s cannot contain:
+	- `EXEC` statements referring to _other_
