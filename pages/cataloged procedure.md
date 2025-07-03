@@ -2,4 +2,6 @@
 - In contrast to [[JCL]] [[Job]]s, [[Procedure Library]]s cannot contain:
 	- `EXEC` statements referring to _other_ [[cataloged procedure]]s
 	- the `JOB` command
-	- `DD` statements wit the
+	- `DD` statements with the ddname `JOBLIB`
+	- `DD` statements with `*` or `DATA` coded in the operand field.
+	-
