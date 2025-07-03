@@ -1,9 +1,12 @@
 - Job Control Language
 - IBM invented JCL (first as part of [[OS/360]])
 	- Fundamentally it was to automate the job of an Operator:
-		- Given
-			- set of work (aka "Job"s), determine the optimal execution
-		- Given the corresponding set of data
+		- Given...
+			- a set of work (aka "Job"s)
+			- the input data and output data of each of those "Job"s
+				- including where and how they are stored
+		- determine the optimal execution
+		-
 		- Where exactly the required data is either stored or will be stored (channel, unit, volume, etc.)
 		-
 	- [[IBM Form C28-6539-x — 360 Job Control Language (manual)]]
