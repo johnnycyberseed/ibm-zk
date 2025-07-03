@@ -1,2 +1,2 @@
 - Job Control Language
-- JCL was
+- JCL
