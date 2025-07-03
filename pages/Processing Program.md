@@ -3,4 +3,4 @@
 	- IBM-distributed language processors (COBOL, Assembler)
 	- utility programs
 	- user-written programs
--
+- Usually stored in a [[Data Set/Type/Partitioned Data Set (PDS)]].
