@@ -1,0 +1,1 @@
+- a set of [[JCL]] statements stored in a [[Data Set/Type/Partitioned Data Set (PDS)]] in the "procedure library"
