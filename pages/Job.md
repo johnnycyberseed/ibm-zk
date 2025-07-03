@@ -1,3 +1,3 @@
-- A total processing application comprising one or more related [[Processing Programs]].
+- A total processing application comprising one or more related [[Processing Program]].
 - Is comprised of one or more [[Job Step]]s
 -

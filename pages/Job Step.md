@@ -1,1 +1,4 @@
-- The unit of work in a [[JCL]] [[Job]]
+- The unit of work in a [[JCL]] [[Job]] associated with
+	- one [[Processing Program]]
+	- or one [[cataloged procedure]]
+	- and related data.
