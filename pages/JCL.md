@@ -2,7 +2,7 @@
 - IBM invented JCL (first as part of [[OS/360]])
 	- Fundamentally it was to automate the job of an Operator:
 		- Given...
-			- a set of work (aka "Job"s)
+			- a set of work (aka " [[Job]] "s)
 			- the input data and output data of each of those "Job"s
 				- including where and how they are stored.
 		- determine the optimal data mount and execution order.
