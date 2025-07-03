@@ -1,1 +1,2 @@
-- A total processing applicatiocomprising one or more related [[processing programs]]
+- A total processing application comprising one or more related [[processing programs]].
+-

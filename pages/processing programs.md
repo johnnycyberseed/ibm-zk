@@ -1,0 +1,3 @@
+- Any program capable of operating in the problem program mode.
+- Includes:
+	- IBM-distributed language processors (COBOL, Assembler)
