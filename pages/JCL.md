@@ -4,8 +4,8 @@
 		- Given...
 			- a set of work (aka "Job"s)
 			- the input data and output data of each of those "Job"s
-				- including where and how they are stored
-		- determine the optimal execution
+				- including where and how they are store
+		- determine the optimal data mount and execution order.
 		-
 		- Where exactly the required data is either stored or will be stored (channel, unit, volume, etc.)
 		-
