@@ -6,7 +6,7 @@
 - members
 	- were voluntary
 	- Short-Range Committee
-		- 1959
+		- 1959, May thru Sept
 		- Chair
 			- Joseph H. Wegstein
 				- National Bureau of Standards (NBS)
