@@ -5,7 +5,11 @@
 	- ...
 - created
 	- at IBM
-	- by Grace Hopper
+	- by [[CODASYL]] (led by Grace Hopper)
 	- in 196?
 - influenced by
+	- [[FLOW-MATIC]]
+		-
+	- [[COMTRAN]]
+	- [[AIMACO]]
 	-
