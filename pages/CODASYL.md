@@ -1,9 +1,13 @@
-- Conference / Committee on **DA**ta **SY**stems **L**anguages
+- **CO**nference / **CO**mmittee on **DA**ta **SY**stems **L**anguages
 -
 - charter
+	- create and improve
 	-
 - members
 	- voluntary
+- funding
+	- United States Department of Defense
 - history
-	- 1959 — founded
+	- 1959, May — founded
+	-
 	-
