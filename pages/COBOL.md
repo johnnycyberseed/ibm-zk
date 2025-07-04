@@ -1,6 +1,5 @@
 - **CO**mmon **B**usiness-**O**riented **L**anguage
 - A COBOL program has the following structure:
-	- [[COBOL/Division]]
 	- [[COBOL/Division/Data]]
 	- ...
 - created
