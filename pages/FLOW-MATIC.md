@@ -1,7 +1,8 @@
 - the first English-like data processing language
 - created
 	- at Remington Rand
-	-
+	- by [[Grace Hopper]]
+-
 - # References
 	- https://en.wikipedia.org/wiki/FLOW-MATIC
 	-

@@ -13,4 +13,6 @@
 		- "COBOL 60 was 95% [[FLOW-MATIC]]" — [[Grace Hopper]]
 	- [[COMTRAN]]
 	- [[AIMACO]]
+- # References
+	- https://en.wikipedia.org/wiki/COBOL
 	-
