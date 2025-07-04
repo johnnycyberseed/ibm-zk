@@ -20,6 +20,7 @@
 			- 77 :: stand-alone items
 		- at that time in the design process, "88" was the next available slot
 			- it also makes it easy to spot in a listing
+	- diff: enums typically have a single value per named condition; in COBOL a [[condition-name (88)]] can specify multiple values and range of values.
 - # References
 	- https://www.mainframestechhelp.com/tutorials/cobol/88-level-number.htm
 	-
