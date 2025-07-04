@@ -1,0 +1,7 @@
+- The portion of a COBOL program wherein variables are declared.
+- colloquially, "Working Storage Section"
+- Types of [[COBOL variable]]s:
+	- ...
+	- [[COBOL variable/condition variable]]
+	- ...
+	-

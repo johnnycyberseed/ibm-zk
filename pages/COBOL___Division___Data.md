@@ -3,5 +3,5 @@
 - The Data Division has the following sections:
 	- ...
 	- [[COBOL/Division/Data/Section/File]]
-	- [[Working Storage Section]]
+	- [[COBOL/Division/Data/Section/Working Storage]]
 	- ...
