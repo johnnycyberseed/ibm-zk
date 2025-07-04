@@ -9,7 +9,8 @@
 - timeline
 	- 1959
 	- 1960 — COBOL-60
-	-
+	- ...
+	- 2023 — COBOL-2023
 - design influence
   id:: 686809b0-ff51-4220-be2c-4a1aa66705ab
 	- [[FLOW-MATIC]]
