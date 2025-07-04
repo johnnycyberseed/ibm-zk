@@ -7,7 +7,6 @@
 	- at IBM
 	- by [[CODASYL]] (advised by Grace Hopper)
 	- to address the spiraling costs of creating and translating programs.
-	  collapsed:: true
 		- src: https://en.wikipedia.org/wiki/COBOL#Background
 	-
 - timeline
