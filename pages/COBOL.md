@@ -4,7 +4,7 @@
 	- [[COBOL/Division/Environment]]
 	- [[COBOL/Division/Data]]
 	- [[COBOL/Division/Procedure]]
-- Each line of COBOL is broken into these areas:
+- Each line of COBOL is broken into five areas:
 	- ```
 	           11111111112222222222333333333344444444445555555555666666666677777777778
 	  12345678901234567890123456789012345678901234567890123456789012345678901234567890
