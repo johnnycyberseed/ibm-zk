@@ -1,2 +1,3 @@
 - a variable within a [[COBOL]] program that is comprised of [[condition-name (88)]] values.
+- analogus to the "enumeration" or "enum" type in other languages.
 -
