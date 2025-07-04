@@ -6,6 +6,16 @@
 	- programming language
 - members
 	- voluntary
+	- Manufacturers
+		- Burroughs
+		- IBM
+		- Honeywell
+		- RCA
+		- Sperry Rand
+		- Sylvania
+	- Agencies
+		- United States Air Force
+		- United States Nacy
 - funding
 	- United States Department of Defense
 - history
