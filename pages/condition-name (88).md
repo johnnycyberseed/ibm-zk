@@ -4,7 +4,7 @@
 - ## Origins
 	- lifted almost verbatim from [[COMTRAN]]
 - ## Purpose
-	- Absorb the verbosit
+	- Given that there is a closed set of possible values,
 - ## Notes
 	- why "88"?
 		- The [[CODASYL]] team design level numbers in decades:
