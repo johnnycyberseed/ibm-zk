@@ -8,9 +8,9 @@
 - ## Purpose
 	- Where there is a closed set of possible values for a variable,
 		- there are a class of errors avoided
-			- getting a literal value wrong in on of the many locations
+			- getting a literal value wrong in one of the many locations
 			- getting the conditional expression wrong when there are multiple values involved.
-		- through the use of [[condition-name (88)]]s
+		- through the use of condition-name's
 		-
 - ## Notes
 	- why "88"?
@@ -20,7 +20,7 @@
 			- 77 :: stand-alone items
 		- at that time in the design process, "88" was the next available slot
 			- it also makes it easy to spot in a listing
-	- diff: enums typically have a single value per named condition; in COBOL a [[condition-name (88)]] can specify multiple values and range of values.
+	- diff: enums typically have a single value per named condition; in COBOL a condition-name can specify multiple values and range of values.
 - # References
 	- https://www.mainframestechhelp.com/tutorials/cobol/88-level-number.htm
 	-
