@@ -24,10 +24,14 @@
 			- US National Bureau of Standards (NBS)
 	- Steering / Executive Committee
 		- Chair
-			- Charles A. Philiips
-				-
-				- US Department of Defense (DOD)
-				-
+			- Charles A. Phillips
+				- Data Systems Research Staff
+					- US Department of Defense (DOD)
+		- Technical Advisers
+			- Grace Hopper
+		- Delegates
+			-
+			-
 - funding
 	- United States Department of Defense
 - history
