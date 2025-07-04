@@ -1,4 +1,4 @@
 - The portion of the [[Data Division]] of a [[COBOL]] program wherein variables are declared.
-- Types of variables
-	- [[condition variable]]
+- Types of [[COBOL variable]]s:
+	- [[COBOL variable/condition variable]]
 	-
