@@ -3,7 +3,7 @@
 	- can be borrowed for 14 days (in DRM-enabled PDF format to read on computer and mobile)
 - # Goals
 	- describe the "principles of operation" used by IBM mainframes between the [[S/360]] and [[ESA/370]] architectures.
-	- describe the [[models]] that have interesting features and/or been successful in the marketplace.
+	- describe the [[machine models]] that have interesting features and/or been successful in the marketplace.
 	- provide an overview of the architecture and implementation of
 		- I/O subsystems and networks
 	- critique the architecture and design concepts
