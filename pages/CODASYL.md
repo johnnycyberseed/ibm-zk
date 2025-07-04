@@ -11,8 +11,9 @@
 				- National Bureau of Standards (NBS)
 		- Manufacturers
 			- Burroughs
-				- Mary K. Hawes
-					-
+				- [Mary K. Hawes](https://en.wikipedia.org/wiki/Mary_K._Hawes)
+					- identified the need for such a language
+					- responsible for making the case to
 			- IBM
 			- Honeywell
 			- RCA
