@@ -18,7 +18,11 @@
 	        Area
 	        (7)
 	  ```
-	-
+	- That is:
+		- Sequence Number Area (1-6)
+		- Indicator Area (7)
+			- `*` = line is a comment
+			- `D` = line is a debug statement
 - created
 	- at IBM
 	- by [[CODASYL]]
