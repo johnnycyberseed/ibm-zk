@@ -1,9 +1,10 @@
 - a named value of a [[COBOL variable/condition variable]]
+- colloquially: "88-level item"
 -
 - ## Origins
 	- lifted almost verbatim from [[COMTRAN]]
 - ## Purpose
-	-
+	- Absorb the verbosit
 - ## Notes
 	- why "88"?
 		- The [[CODASYL]] team design level numbers in decades:
