@@ -5,8 +5,11 @@
 	- ...
 - created
 	- at IBM
-	- by [[CODASYL]] (led by Grace Hopper)
-	- in 196?
+	- by [[CODASYL]] (advised by Grace Hopper)
+- timeline
+	- 1959
+	- 1960 — COBOL-60
+	-
 - design influence
   id:: 686809b0-ff51-4220-be2c-4a1aa66705ab
 	- [[FLOW-MATIC]]
