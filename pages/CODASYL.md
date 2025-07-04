@@ -19,6 +19,7 @@
 			- RCA
 			- Sperry Rand
 			- Sylvania
+				- Jean E. Sammet
 		- Agencies
 			- US Department of Defense (DOD) — funding
 			- US Air Force
