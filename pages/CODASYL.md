@@ -2,12 +2,15 @@
 -
 - charter
 	- create and improve
-	-
+	- common English-like business
+	- programming language
 - members
 	- voluntary
 - funding
 	- United States Department of Defense
 - history
 	- 1959, May — founded
+- outcomes
+	- produced the specification for [[COBOL]]
 	-
 	-
