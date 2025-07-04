@@ -1,2 +1,2 @@
 -
-- The Procedure Division can optionally have Sections.
+- The Procedure Division optionally can have Sections.
