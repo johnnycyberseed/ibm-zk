@@ -1,6 +1,6 @@
 - the first English-like data processing language
 - created
-	- at Remington Rand
+	- at Remington-Rand
 	- by [[Grace Hopper]]
 - timeline
 	- 1953 — [[Grace Hopper]] proposes that data processing solutions should be expressed in English
