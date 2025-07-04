@@ -8,7 +8,7 @@
 	- 1958 — compiler because publicly available
 	- 1959 — considered complete
 - design influence
-	- [[Laning and Zierler system]]
+	- [[Laning and Zierler system]] — altered [[Grace Hopper]]'s thinking through its ability to parsing algebraic formulae
 - # References
 	- https://en.wikipedia.org/wiki/FLOW-MATIC
 	-
