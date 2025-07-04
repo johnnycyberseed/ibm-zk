@@ -23,7 +23,10 @@
 		- Indicator Area (7)
 			- `*` = line is a comment
 			- `D` = line is a debug statement
-		- A
+			- `-` = line continuation
+			- `/` = source formatter
+		- A Area (8-11) —
+		- B Area (12-72)
 - created
 	- at IBM
 	- by [[CODASYL]]
