@@ -18,14 +18,16 @@
 			- Sperry Rand
 			- Sylvania
 		- Agencies
-			- United States
-				- Air Force
-				- Navy David Taylor Model Basin
-				- National Bureau of Standards (NBS)
+			- US Department of Defense (DOD) — funding
+			- US Air Force
+			- US Navy David Taylor Model Basin
+			- US National Bureau of Standards (NBS)
 	- Steering / Executive Committee
 		- Chair
 			- Charles A. Philiips
-				- Department of Defense
+				-
+				- US Department of Defense (DOD)
+				-
 - funding
 	- United States Department of Defense
 - history
