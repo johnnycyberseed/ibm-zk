@@ -5,7 +5,9 @@
 	- common English-like business
 	- programming language
 - members
-	- voluntary
+	- were voluntary
+	- Chair
+		- Joseph H. Wegstein
 	- Manufacturers
 		- Burroughs
 		- IBM
@@ -14,8 +16,10 @@
 		- Sperry Rand
 		- Sylvania
 	- Agencies
-		- United States Air Force
-		- United States Nacy
+		- United States
+			- Air Force
+			- Navy David Taylor Model Basin
+			- National Bureau of Standards
 - funding
 	- United States Department of Defense
 - history
