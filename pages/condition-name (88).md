@@ -11,7 +11,8 @@
 			- using the wrong literal value in one of the many locations it is named
 			- writing the wrong boolean expression when there are multiple values involved.
 		- through the use of condition-name's
-			- the literal
+			- the literals are DRY'ed up to a single declaration
+			- the boolean expressions are captured in a single declaration
 - ## Notes
 	- why "88"?
 		- The [[CODASYL]] team design level numbers in decades:
