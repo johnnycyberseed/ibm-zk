@@ -7,7 +7,7 @@
 	- at IBM
 	- by [[CODASYL]] (led by Grace Hopper)
 	- in 196?
-- COBOL design influence
+- design influence
   id:: 686809b0-ff51-4220-be2c-4a1aa66705ab
 	- [[FLOW-MATIC]]
 		- "COBOL 60 was 95% [[FLOW-MATIC]]" — [[Grace Hopper]]
