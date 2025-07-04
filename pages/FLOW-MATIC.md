@@ -2,7 +2,10 @@
 - created
 	- at Remington Rand
 	- by [[Grace Hopper]]
--
+- timeline
+	- 1955
+	- 1959
+	-
 - # References
 	- https://en.wikipedia.org/wiki/FLOW-MATIC
 	-
