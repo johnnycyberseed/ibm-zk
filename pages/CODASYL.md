@@ -16,7 +16,7 @@
 				- [Mary K. Hawes](https://en.wikipedia.org/wiki/Mary_K._Hawes), Computer Scientist
 					- identified the need for such a language
 					- responsible for making the case to ((68680ce4-f567-4043-8845-ca46e066d504)) to fund the conference
-			- IBM
+			- [[Internal Business Machines (IBM)]]
 			- Honeywell (Datamatic Division)
 			- Computer Science Corporation
 			- Sperry-Rand, Inc. ([[Remington-Rand Division]])
