@@ -4,7 +4,9 @@
 - ## Origins
 	- lifted almost verbatim from [[COMTRAN]]
 - ## Purpose
-	- Given that there is a closed set of possible values,
+	- Where there is a closed set of possible values for a variable,
+		- there are a class of errors avoided
+		- through the use of [[COBOL variable/condition variable]]s
 - ## Notes
 	- why "88"?
 		- The [[CODASYL]] team design level numbers in decades:
