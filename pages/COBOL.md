@@ -9,6 +9,8 @@
 	- to address the spiraling costs of creating and translating programs.
 		- src: https://en.wikipedia.org/wiki/COBOL#Background
 	-
+- motivations
+	- the lack of make/model independent programming languages
 - timeline
 	- 1959
 	- 1960 — COBOL-60
