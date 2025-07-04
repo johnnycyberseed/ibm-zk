@@ -10,7 +10,7 @@
 		- Chair
 			- Joseph H. Wegstein
 				- National Bureau of Standards (NBS)
-		- Manufacturers
+		- Manufacturers (6)
 			- Burroughs
 				- [Mary K. Hawes](https://en.wikipedia.org/wiki/Mary_K._Hawes), Computer Scientist
 					- identified the need for such a language
@@ -21,7 +21,7 @@
 			- Sperry Rand
 			- Sylvania
 				- [Jean E. Sammet](https://en.wikipedia.org/wiki/Jean_E._Sammet), Computer Scientist
-		- Agencies
+		- Agencies (3)
 			- US Department of Defense (DOD) — funding
 			- US Air Force
 			- US Navy David Taylor Model Basin
