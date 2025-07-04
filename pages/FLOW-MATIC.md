@@ -3,7 +3,7 @@
 	- at Remington Rand
 	- by [[Grace Hopper]]
 - timeline
-	- 1955
+	- 1955 — initial specification
 	- 1959
 	-
 - # References
