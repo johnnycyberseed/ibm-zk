@@ -7,7 +7,8 @@
 	- 1955 — initial specification and prototype produced
 	- 1958 — compiler because publicly available
 	- 1959 — considered complete
-	-
+- design influence
+	- [[Laning and Zierler system]]
 - # References
 	- https://en.wikipedia.org/wiki/FLOW-MATIC
 	-
