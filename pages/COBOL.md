@@ -5,6 +5,8 @@
 	- [[COBOL/Division/Data]]
 	- [[COBOL/Division/Procedure]]
 - Each line of COBOL is broken into these areas:
+	- ```
+	  ```
 - created
 	- at IBM
 	- by [[CODASYL]]
