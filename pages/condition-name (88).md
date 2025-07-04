@@ -6,7 +6,8 @@
 - ## Purpose
 	- Where there is a closed set of possible values for a variable,
 		- there are a class of errors avoided
-		- through the use of [[COBOL variable/condition variable]]s
+			-
+		- through the use of [[condition-name (88)]]s
 - ## Notes
 	- why "88"?
 		- The [[CODASYL]] team design level numbers in decades:
