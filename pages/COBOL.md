@@ -11,6 +11,8 @@
 	-
 - motivations
 	- the lack of make/model independent programming languages
+	- data processing systems needed to adapt to rapidly change and expanding requirements
+	-
 - timeline
 	- 1959
 	- 1960 — COBOL-60
