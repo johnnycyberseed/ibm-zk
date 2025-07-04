@@ -8,6 +8,7 @@
 	- were voluntary
 	- Chair
 		- Joseph H. Wegstein
+			- National Bureau of Standards (NBS)
 	- Manufacturers
 		- Burroughs
 		- IBM
@@ -19,7 +20,7 @@
 		- United States
 			- Air Force
 			- Navy David Taylor Model Basin
-			- National Bureau of Standards
+			- National Bureau of Standards (NBS)
 - funding
 	- United States Department of Defense
 - history
