@@ -1,5 +1,5 @@
 - a named value of a [[COBOL variable/condition variable]]
-- colloquially: "88-level item"
+- colloquially: "88-level condition"
 -
 - ## Origins
 	- lifted almost verbatim from [[COMTRAN]]
