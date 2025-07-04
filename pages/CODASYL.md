@@ -27,7 +27,7 @@
 			- US Navy David Taylor Model Basin
 			- US National Bureau of Standards (NBS)
 	- Steering / Executive Committee
-		- 1959 -
+		- 1959 - 1987
 		- Chair
 			- Charles A. Phillips
 			  id:: 68680ce4-f567-4043-8845-ca46e066d504
@@ -49,4 +49,6 @@
 	-
 - # References
 	- https://en.wikipedia.org/wiki/CODASYL
+	- https://archives.lib.umn.edu/repositories/3/resources/35
+		- Conference Records
 	-
