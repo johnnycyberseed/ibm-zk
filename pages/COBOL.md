@@ -6,6 +6,7 @@
 - created
 	- at IBM
 	- by [[CODASYL]] (advised by Grace Hopper)
+	- to address the spirial
 - timeline
 	- 1959
 	- 1960 — COBOL-60
