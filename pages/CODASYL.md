@@ -1,8 +1,9 @@
+- Conference / Committee on **DA**ta **SY**stems **L**anguages
 -
 - charter
 	-
 - members
-	-
+	- voluntary
 - history
 	- 1959 — founded
 	-
