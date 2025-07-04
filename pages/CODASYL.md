@@ -11,9 +11,9 @@
 				- National Bureau of Standards (NBS)
 		- Manufacturers
 			- Burroughs
-				- [Mary K. Hawes](https://en.wikipedia.org/wiki/Mary_K._Hawes)
+				- [Mary K. Hawes](https://en.wikipedia.org/wiki/Mary_K._Hawes), Computer Scientist
 					- identified the need for such a language
-					- responsible for making the case to
+					- responsible for making the case to ((68680ce4-f567-4043-8845-ca46e066d504)) to fund the conference
 			- IBM
 			- Honeywell
 			- RCA
@@ -27,6 +27,7 @@
 	- Steering / Executive Committee
 		- Chair
 			- Charles A. Phillips
+			  id:: 68680ce4-f567-4043-8845-ca46e066d504
 				- Data Systems Research Staff
 					- US Department of Defense (DOD)
 		- Technical Advisers
