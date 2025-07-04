@@ -22,7 +22,10 @@
 				- Air Force
 				- Navy David Taylor Model Basin
 				- National Bureau of Standards (NBS)
-	-
+	- Steering / Executive Committee
+		- Chair
+			- Charles A. Philiips
+				- Department of Defense
 - funding
 	- United States Department of Defense
 - history
