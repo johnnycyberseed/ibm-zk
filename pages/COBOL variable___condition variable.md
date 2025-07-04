@@ -1,6 +1,6 @@
 - a variable within a COBOL program that is comprised of [[condition-name (88)]] values.
 - aka "level-88 item" (when referring to the variable _and_ it's [[condition-name (88)]]s)
 - analogous to the "enumeration" or "enum" type in other languages.
-	- diff: enums typically have a single value per named condition; in [[COBOL]], a [[condition-name (88)]] can specify multiple values and range of values.
+	- diff: enums typically have a single value per named condition; in COBOL a [[condition-name (88)]] can specify multiple values and range of values.
 	-
 -
