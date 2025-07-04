@@ -18,9 +18,9 @@
 					- responsible for making the case to ((68680ce4-f567-4043-8845-ca46e066d504)) to fund the conference
 			- IBM
 			- Honeywell (Datamatic Division)
-			- RCA
-			- Sperry Rand
-			- Sylvania
+			- Computer Science Corporation
+			- Sperry-Rand, Inc. (Remington-Rand Division)
+			- Sylvania Electronic Products, Inc.
 				- [Jean E. Sammet](https://en.wikipedia.org/wiki/Jean_E._Sammet), Computer Scientist
 		- Agencies (3)
 			- US Department of Defense (DOD) — funding
