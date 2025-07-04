@@ -4,4 +4,5 @@
 	- in 1957
 	- at IBM
 	- by Bob Bemer
+- positioned by IBM as a business counterpart to FORTRAN
 -
