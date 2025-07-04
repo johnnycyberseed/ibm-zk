@@ -11,6 +11,7 @@
 	- 1960 — COBOL-60
 	- ...
 	- 2023 — COBOL-2023
+	- https://en.wikipedia.org/wiki/Timeline_of_programming_languages#1950s
 - design influence
   id:: 686809b0-ff51-4220-be2c-4a1aa66705ab
 	- [[FLOW-MATIC]]
@@ -19,4 +20,5 @@
 	- [[AIMACO]]
 - # References
 	- https://en.wikipedia.org/wiki/COBOL
+	-
 	-
