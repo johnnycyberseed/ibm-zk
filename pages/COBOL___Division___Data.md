@@ -2,6 +2,6 @@
 - colloquially "Data Division"
 - The Data Division has the following sections:
 	- ...
-	- [[File Section]]
+	- [[COBOL/Division/Data/Section/File]]
 	- [[Working Storage Section]]
 	- ...
