@@ -1,7 +1,7 @@
 - The portion of a COBOL program where variables are declared.
 - colloquially "Data Division"
 - The Data Division has the following sections:
-	- [[COBOL/Data Division/Section/File]]
-	- [[COBOL/Data Division/Section/Working Storage]]
+	- [[COBOL/Data Division/File Section]]
+	- [[COBOL/Data Division/Working Storage Section]]
 	- ...
 -

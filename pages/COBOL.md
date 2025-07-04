@@ -3,7 +3,7 @@
 	- [[COBOL/Identification Division]]
 	- [[COBOL/Environment Division]]
 	- [[COBOL/Data Division]]
-	- [[COBOL/Division/Procedure]]
+	- [[COBOL/Procedure Division]]
 - Each line of COBOL is broken into five areas:
 	- ```
 	           11111111112222222222333333333344444444445555555555666666666677777777778
