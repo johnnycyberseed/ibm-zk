@@ -3,5 +3,9 @@
 	- origins: lifted almost verbatim from [[COMTRAN]]
 - why "88"?
 	- The [[CODASYL]] team design level numbers in decades:
-		-
+		- 01..49 :: structure
+		- 66 :: renames
+		- 77 :: stand-alone items
+	- at that time in the design process, "88" was the next available slot
+		- it also makes it easy to spot in a listing
 	-
