@@ -3,7 +3,9 @@
 	- at Remington Rand
 	- by [[Grace Hopper]]
 - timeline
-	- 1955 — initial specification
+	- 1953 — [[Grace Hopper]] proposes that data processing solutions should be expressed in English
+	- 1955 — initial [[FLOW-MATIC]] specification and prototype produced
+	- 10
 	- 1959
 	-
 - # References
