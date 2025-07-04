@@ -5,4 +5,7 @@
 	- at IBM
 	- by Bob Bemer
 - positioned by IBM as a business counterpart to FORTRAN
+- pioneered
+	- the [[PIC clause]] data formatting
+	- paragraph-oriented program layout.
 -
