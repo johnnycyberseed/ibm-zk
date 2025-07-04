@@ -19,7 +19,7 @@
 			- IBM
 			- Honeywell (Datamatic Division)
 			- Computer Science Corporation
-			- Sperry-Rand, Inc. (Remington-Rand Division)
+			- Sperry-Rand, Inc. ([[Remington-Rand Division]])
 			- Sylvania Electronic Products, Inc.
 				- [Jean E. Sammet](https://en.wikipedia.org/wiki/Jean_E._Sammet), Computer Scientist
 		- Agencies (3)

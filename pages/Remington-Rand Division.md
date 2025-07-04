@@ -1,0 +1,2 @@
+- A division of the [[Sperry-Rand]] corporation
+-
