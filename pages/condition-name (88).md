@@ -1,1 +1,4 @@
-- a named value of a
+- a named value of a [[COBOL variable/condition variable]]
+- Inspiration
+	- lifted almost verbatim from [[COMTRAN]]
+	-
