@@ -8,8 +8,8 @@
 		- used/free space
 	- **Physical Location Index** — maps a given dataset name to its physical [[extents]]
 - Used by the  [[Data Set List Utility]] to list the datasets on a given [[volume]]
-- [[Catalog]] is a more system-wide directory (whereas a [[VTOC]] is specific to a given [[volume]]).
-- Utilities that use [[VTOC]]
+- [[Catalog]] is a more system-wide directory (whereas a [[Volume Table Of Contents (VTOC)]] is specific to a given [[volume]]).
+- Utilities that use [[Volume Table Of Contents (VTOC)]]
 	- [[utility/IEHLIST]]
 	- [[utility/IEHPROGM]]
 	- [[utility/IDCAMS]]
