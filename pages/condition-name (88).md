@@ -3,7 +3,8 @@
 -
 - ## Origins
 	- lifted almost verbatim from [[COMTRAN]]
-	-
+	  collapsed:: true
+		- src: https://retrocomputing.stackexchange.com/questions/31713/how-widespread-was-cobols-concept-of-a-condition-name
 - ## Purpose
 	- Where there is a closed set of possible values for a variable,
 		- there are a class of errors avoided
