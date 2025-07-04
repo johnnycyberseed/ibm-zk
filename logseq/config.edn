@@ -423,4 +423,4 @@
  :charge-strength -500
  :charge-range 4000}
  :graph/settings {:builtin-pages? false
- :journal? true}}
+ :journal? false}}
