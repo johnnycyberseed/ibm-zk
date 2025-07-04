@@ -1,0 +1,1 @@
+- The portion of the [[Data Division]] of a [[COBOL]] program wherein
