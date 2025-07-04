@@ -4,7 +4,8 @@
 	- ...
 - created
 	- at IBM
-	- by [[CODASYL]] (advised by Grace Hopper)
+	- by [[CODASYL]]
+		- advised by Grace Hopper
 	- to address the spiraling costs of creating and translating programs.
 		- src: https://en.wikipedia.org/wiki/COBOL#Background
 	-
