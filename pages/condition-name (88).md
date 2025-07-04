@@ -3,6 +3,7 @@
 -
 - ## Origins
 	- lifted almost verbatim from [[COMTRAN]]
+	-
 - ## Purpose
 	- Where there is a closed set of possible values for a variable,
 		- there are a class of errors avoided
