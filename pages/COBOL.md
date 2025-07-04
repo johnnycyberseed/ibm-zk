@@ -3,3 +3,9 @@
 	- ...
 	- [[Data Division]]
 	- ...
+- created
+	- at IBM
+	- by Grace Hopper
+	- in 196?
+- influenced by
+	-
