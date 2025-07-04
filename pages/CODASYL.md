@@ -1,9 +1,8 @@
 - **CO**nference / **CO**mmittee on **DA**ta **SY**stems **L**anguages
 -
 - charter
-	- create and improve
-	- common English-like business
-	- programming language
+	- create and improve common English-like business programming language
+	- standardizing database interfaces
 - members
 	- were voluntary
 	- Short-Range Committee
@@ -39,4 +38,7 @@
 - outcomes
 	- produced the specification for [[COBOL]]
 	-
+	-
+- # References
+	- https://en.wikipedia.org/wiki/CODASYL
 	-
