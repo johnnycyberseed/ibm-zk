@@ -7,6 +7,7 @@
 	- were voluntary
 	- Short-Range Committee
 		- 1959, May thru Sept
+			- June 23 — the first meeting
 		- Chair
 			- Joseph H. Wegstein
 				- National Bureau of Standards (NBS)
