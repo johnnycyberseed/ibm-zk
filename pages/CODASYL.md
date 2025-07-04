@@ -19,7 +19,8 @@
 			- RCA
 			- Sperry Rand
 			- Sylvania
-				- Jean E. Sammet
+				- [Jean E. Sammet](https://en.wikipedia.org/wiki/Jean_E._Sammet), Computer Scientist
+					-
 		- Agencies
 			- US Department of Defense (DOD) — funding
 			- US Air Force
