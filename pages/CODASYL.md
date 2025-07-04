@@ -21,7 +21,6 @@
 			- Sperry Rand
 			- Sylvania
 				- [Jean E. Sammet](https://en.wikipedia.org/wiki/Jean_E._Sammet), Computer Scientist
-					-
 		- Agencies
 			- US Department of Defense (DOD) — funding
 			- US Air Force
@@ -35,7 +34,8 @@
 				- Data Systems Research Staff
 					- US Department of Defense (DOD)
 		- Technical Advisers
-			- Grace Hopper
+			- [[Grace Hopper]]
+			-
 		- Delegates
 			-
 			-
