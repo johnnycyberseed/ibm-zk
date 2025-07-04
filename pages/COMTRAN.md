@@ -8,4 +8,6 @@
 - pioneered
 	- the [[PIC clause]] data formatting
 	- paragraph-oriented program layout.
+- never saw widespread adoption
+- but was influential in
 -
