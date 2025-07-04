@@ -10,9 +10,9 @@
 		- src: https://en.wikipedia.org/wiki/COBOL#Background
 	-
 - motivations
-	- the lack of make/model independent programming languages
+	- current programming languages are make/model-dependent.
 	- data processing systems needed to adapt to rapidly change and expanding requirements
-	-
+	- the current languages require significantly experienced staff to make those changes
 - timeline
 	- 1959
 	- 1960 — COBOL-60
