@@ -6,6 +6,7 @@
 - members
 	- were voluntary
 	- Short-Range Committee
+		- 1959
 		- Chair
 			- Joseph H. Wegstein
 				- National Bureau of Standards (NBS)
@@ -27,6 +28,7 @@
 			- US Navy David Taylor Model Basin
 			- US National Bureau of Standards (NBS)
 	- Steering / Executive Committee
+		-
 		- Chair
 			- Charles A. Phillips
 			  id:: 68680ce4-f567-4043-8845-ca46e066d504
