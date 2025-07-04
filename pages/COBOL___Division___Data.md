@@ -1,4 +1,5 @@
-- The portion of a [[COBOL]] program where variables are declared.
+- The portion of a COBOL program where variables are declared.
+- colloquially "Data Division"
 - The Data Division has the following sections:
 	- ...
 	- [[File Section]]
