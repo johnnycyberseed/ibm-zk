@@ -9,7 +9,7 @@
 	- in 196?
 - influenced by
 	- [[FLOW-MATIC]]
-		-
+		- "COBOL 60 was 95% [[FLOW-MATIC]]" — [[Grace Hopper]]
 	- [[COMTRAN]]
 	- [[AIMACO]]
 	-
