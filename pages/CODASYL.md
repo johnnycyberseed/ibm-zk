@@ -6,21 +6,23 @@
 	- programming language
 - members
 	- were voluntary
-	- Chair
-		- Joseph H. Wegstein
-			- National Bureau of Standards (NBS)
-	- Manufacturers
-		- Burroughs
-		- IBM
-		- Honeywell
-		- RCA
-		- Sperry Rand
-		- Sylvania
-	- Agencies
-		- United States
-			- Air Force
-			- Navy David Taylor Model Basin
-			- National Bureau of Standards (NBS)
+	- Short-Range Committee
+		- Chair
+			- Joseph H. Wegstein
+				- National Bureau of Standards (NBS)
+		- Manufacturers
+			- Burroughs
+			- IBM
+			- Honeywell
+			- RCA
+			- Sperry Rand
+			- Sylvania
+		- Agencies
+			- United States
+				- Air Force
+				- Navy David Taylor Model Basin
+				- National Bureau of Standards (NBS)
+	-
 - funding
 	- United States Department of Defense
 - history
