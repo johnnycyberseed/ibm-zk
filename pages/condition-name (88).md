@@ -1,4 +1,7 @@
 - a named value of a [[COBOL variable/condition variable]]
-- Inspiration
-	- lifted almost verbatim from [[COMTRAN]]
+- language design notes
+	- origins: lifted almost verbatim from [[COMTRAN]]
+- why "88"?
+	- The [[CODASYL]] team design level numbers in decades:
+		-
 	-
