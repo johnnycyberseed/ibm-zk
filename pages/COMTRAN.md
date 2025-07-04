@@ -9,5 +9,6 @@
 	- the [[PIC clause]] data formatting
 	- paragraph-oriented program layout.
 - never saw widespread adoption
-- but was influential in
+- but was a ((686809b0-ff51-4220-be2c-4a1aa66705ab))
+-
 -
