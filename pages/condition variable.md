@@ -1,0 +1,2 @@
+- a variable within a [[COBOL]] program that is comprised of [[condition-name (88)]] values.
+-
