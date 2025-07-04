@@ -1,2 +1,7 @@
 - **COM**mercial **TRAN**slator
+- English-like business data processing language
+- created
+	- in 1957
+	- at IBM
+	- by Bob Bemer
 -
