@@ -18,4 +18,5 @@
 			- 77 :: stand-alone items
 		- at that time in the design process, "88" was the next available slot
 			- it also makes it easy to spot in a listing
-		-
+- # References
+-
