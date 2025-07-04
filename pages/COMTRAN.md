@@ -1,3 +1,2 @@
-- IBM's Commercial Translator
--
+- **COM**mercial **TRAN**slator
 -
