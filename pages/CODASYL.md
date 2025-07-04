@@ -11,6 +11,8 @@
 				- National Bureau of Standards (NBS)
 		- Manufacturers
 			- Burroughs
+				- Mary K. Hawes
+					-
 			- IBM
 			- Honeywell
 			- RCA
