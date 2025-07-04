@@ -1,12 +1,15 @@
 - a named value of a [[COBOL variable/condition variable]]
-- language design notes
-	- origins: lifted almost verbatim from [[COMTRAN]]
-	- purpose
-- why "88"?
-	- The [[CODASYL]] team design level numbers in decades:
-		- 01..49 :: structure
-		- 66 :: renames
-		- 77 :: stand-alone items
-	- at that time in the design process, "88" was the next available slot
-		- it also makes it easy to spot in a listing
+-
+- ## Origins
+	- lifted almost verbatim from [[COMTRAN]]
+- ## Purpose
 	-
+- ## Notes
+	- why "88"?
+		- The [[CODASYL]] team design level numbers in decades:
+			- 01..49 :: structure
+			- 66 :: renames
+			- 77 :: stand-alone items
+		- at that time in the design process, "88" was the next available slot
+			- it also makes it easy to spot in a listing
+		-
