@@ -6,8 +6,10 @@
 - ## Purpose
 	- Where there is a closed set of possible values for a variable,
 		- there are a class of errors avoided
-			-
+			- getting a literal value wrong in on of the many locations
+			- getting the conditional expression wrong when there are multiple values involved.
 		- through the use of [[condition-name (88)]]s
+		-
 - ## Notes
 	- why "88"?
 		- The [[CODASYL]] team design level numbers in decades:
