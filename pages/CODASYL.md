@@ -7,7 +7,7 @@
 	- were voluntary
 	- Short-Range Committee
 		- 1959, May thru Sept
-			- June 23 — the first meeting
+			- June 23 — the first Committee meeting
 		- Chair
 			- Joseph H. Wegstein
 				- National Bureau of Standards (NBS)
@@ -24,9 +24,9 @@
 				- [Jean E. Sammet](https://en.wikipedia.org/wiki/Jean_E._Sammet), Computer Scientist
 		- Agencies (3)
 			- US Department of Defense (DOD) — funding
-			- US Air Force
+			- Air Materiel Command, US Air Force
 			- US Navy David Taylor Model Basin
-			- US National Bureau of Standards (NBS)
+			- US National Bureau of Standards (NBS), Department of Commerce
 	- Steering / Executive Committee
 		- 1959 - 1987
 		- Chair
