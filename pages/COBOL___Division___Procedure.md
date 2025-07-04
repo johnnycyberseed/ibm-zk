@@ -1,2 +1,2 @@
 -
-- The Data Division has the following sections:
+- The Procedure Division has the following sections:
