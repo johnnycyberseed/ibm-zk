@@ -19,14 +19,16 @@
 	        (7)
 	  ```
 	- That is:
-		- Sequence Number Area (1-6)
+		- Sequence Number Area (1-6) —
 		- Indicator Area (7)
 			- `*` = line is a comment
 			- `D` = line is a debug statement
 			- `-` = line continuation
 			- `/` = source formatter
-		- A Area (8-11) —
-		- B Area (12-72)
+		- A Area (8-11) — structure definition divisions, sections, level indicators
+		- B Area (12-72) — statements, sentences, and clauses
+		- Identification Area (73-80) — ignored by the compiler (can use for comments)
+	-
 - created
 	- at IBM
 	- by [[CODASYL]]
