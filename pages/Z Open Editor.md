@@ -1,0 +1,3 @@
+- IBM's free VS Code-based editor for mainframe developers
+- Supports
+- https://ibm.github.io/zopeneditor-about/Docs/getting_started.html#privacy-notice
