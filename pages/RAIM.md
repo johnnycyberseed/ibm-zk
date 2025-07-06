@@ -1,3 +1,4 @@
 - IBM's mainframe-class memory protection mechanism
 - It's like RAID for disks, but applied to memory
--
+- Using "striping" and "parity"
+	- Can recover operations if an entire memory module fails
