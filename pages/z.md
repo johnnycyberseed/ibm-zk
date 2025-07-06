@@ -6,4 +6,10 @@
 				- VM1 → z/OS
 				- VM2 → Linux
 				- VM3 → [[z/VM]] (nested!)
--
+- Offers six (6) Operating Systems
+	- [[z/OS]]
+	- [[z/VM]]
+	- [[Linux]]
+	- [[z/TPF]]
+	- [[z/VSE]]
+	-
