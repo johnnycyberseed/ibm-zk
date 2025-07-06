@@ -1,13 +1,10 @@
 - The 6th generation architecture of [[IBM]] mainframes
 - Virtualization:
-- ```
-  IBM Z Hardware
-  │
-  ├── PR/SM (firmware layer)
-  │   ├── LPAR A → runs z/OS directly
-  │   └── LPAR B → runs z/VM
-  │         ├── VM1 → z/OS
-  │         ├── VM2 → Linux
-  │         └── VM3 → z/VM (nested!)
-  ```
+	- IBM Z Hardware
+		- [[PR/SM]] (firmware layer)
+			- LPAR A → runs z/OS directly
+			- LPAR B → runs z/VM
+			  │         ├── VM1 → z/OS
+			  │         ├── VM2 → Linux
+			  │         └── VM3 → z/VM (nested!)
 -
