@@ -1,2 +1,2 @@
-- The IBM product line of mainframes
+- The 6th generation architecture of [[Internal Business Machines (IBM)]] mainframes
 -
