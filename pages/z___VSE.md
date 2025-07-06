@@ -1,2 +1,2 @@
 - z / Virtual Storage Extended
-- an operating system
+- an operating system used on the smaller IBM mainframe machines
