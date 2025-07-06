@@ -7,4 +7,5 @@
 	- I/O Channels
 	- Network Interfaces
 - You install and run a operating system inside each LPAR
+- Can further virtualize using [[z/VM]]
 -
