@@ -1,0 +1,3 @@
+- IBM's mainframe-class memory protection mechanism
+- It's like RAID for disks, but applied to memory
+-
