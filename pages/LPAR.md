@@ -1,5 +1,6 @@
 - Logical Partition
 - A hardware implemented virtualization of a machine
+- Defined using the [[PR/SM]] facility
 - Each LPAR gets its own:
 	- CPU
 	- RAM
