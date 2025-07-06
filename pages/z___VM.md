@@ -1,2 +1,2 @@
 - z/Virtual Machine
-- the hyperviz
+- the hypervisor that creates virtual environments where z/OS can run.
