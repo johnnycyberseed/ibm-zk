@@ -1,2 +1,9 @@
 - Logical Partition
+- A hardware implemented virtualization of a machine
+- Each LPAR gets its own:
+	- CPU
+	- RAM
+	- I/O Channels
+	- Network Interfaces
+- You install and run a operating system inside each LPAR
 -
