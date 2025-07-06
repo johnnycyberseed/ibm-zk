@@ -2,7 +2,7 @@
 	- 1950s — when the modern computer industry emerged
 	- [[UNIVAC I]] was the first commercially successful computer.
 	- IBM 700/7000 series
-- # IBM Mainframes
+- # [[IBM]] Mainframes
 	- 1964 — [[S/360]]
 	- 1970 — [[S/370]]
 	- 1981 — [[370/XA]]

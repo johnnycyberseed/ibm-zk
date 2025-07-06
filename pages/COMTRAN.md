@@ -2,7 +2,7 @@
 - English-like business data processing language
 - created
 	- in 1957
-	- at [[Internal Business Machines (IBM)]]
+	- at [[IBM]]
 	- by Bob Bemer
 - positioned by IBM as a business counterpart to FORTRAN
 - pioneered
