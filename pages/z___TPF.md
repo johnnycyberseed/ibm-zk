@@ -1,3 +1,7 @@
 - Transaction Processing Facility
 - A real-time operating system designed for fast, high-volume, high-throughput transaction processing
+- Specially designed for
+	- extreme volume
+	- large numbers of concurrent users
+	- very fast response times
 -
