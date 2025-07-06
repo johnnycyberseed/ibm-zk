@@ -7,5 +7,7 @@
 				- including where and how they are stored.
 		- determine the optimal data mount and execution order.
 		- see [[IBM Form C28-6539-x — 360 Job Control Language (manual)]]
--
+- # References
+	- https://www.ibm.com/docs/en/zos/latest?topic=introduction-job-control-language-jcl
+	-
 	-
