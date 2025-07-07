@@ -34,5 +34,6 @@
 	- `DD`
 		- `DSNAME` (`DSN`) — [[Data Set/Name (DSN)]]
 			- for temporary data set, prefix with `&&`
-				- e.g. `&&`
+				- e.g. `&&TODELETE`
+			-
 		-
