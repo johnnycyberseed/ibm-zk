@@ -2,7 +2,9 @@
 - Structure:
 	- 1 to 44 characters
 	- one or more [[Data Set/Qualifiers]], separated by periods `.`
-	- if the Data Set is a [[Data Set/Type/Partitioned Data Set (PDS)]]/ [[Data Set/Type/Extended PDS (PDSE)]], then
+	- if the Data Set is a [[Data Set/Type/Partitioned Data Set (PDS)]]/ [[Data Set/Type/Extended PDS (PDSE)]], then refer to the `member` with parens
+		- e.g. `USERID.PROCLIB(MAIN)`
+		-
 - Are case-insensitive
 -
 - aka:
