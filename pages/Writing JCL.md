@@ -30,4 +30,6 @@
 					- _all_ SMS messages
 			-
 				-
-- ##
+- ## Specifying Inputs and Outputs
+	- `DD`
+		- `DSNAME` (`DSN`) —
