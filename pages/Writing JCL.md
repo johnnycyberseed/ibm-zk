@@ -11,6 +11,11 @@
 				- `0` = (terse) print the `JOB` statement (and all comments up to the first JCL statement)
 				- `1` = (verbose) print all statements
 					- _all_ JCL statements
-					- _all_
+					- _all_ JES2/JES3 control statements
+					- _all_ procedure statements
+					- _all_ IEF653I messages
+				- `2` = (job-only)
+					- _all_ JCL statements
+					-
 				-
 	-
