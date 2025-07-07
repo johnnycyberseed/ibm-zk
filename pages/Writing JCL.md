@@ -32,5 +32,6 @@
 				-
 - ## Specifying Inputs and Outputs
 	- `DD`
-		- `DSNAME` (`DSN`) —
+		- `DSNAME` (`DSN`) — [[Data Set/Name (DSN)]]
+			-
 		-
