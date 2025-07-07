@@ -1,1 +1,2 @@
-- [[in-stream]] — ad-hoc / literal stream cast into records
+- [[in-stream]] — **small, structured, ad-hoc** — literal stream cast into one or more records.
+-
