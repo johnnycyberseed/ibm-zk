@@ -5,8 +5,10 @@
 		- Statement Images — `JESJCL`
 		- System Messages — `JESYSMSG`
 	- ### Controlling Output
-		- `JOB` statement's `MSGLEVEL` parameter
+		- `JOB ... MSGLEVEL(statements, messages)`
 			- https://www.ibm.com/docs/en/zos/3.1.0?topic=statement-msglevel-parameter
-		-
-			-
+			- statements:
+				- `0` = print the `JOB` statement (and all comments up to the first JCL statement)
+				- `1` = print _all_
+				-
 	-
