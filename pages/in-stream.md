@@ -1,4 +1,4 @@
 - a special type of [[Data Set]] encoded in [[JCL/DD]] statements
 - a small, embedded read-only data set coded right in the JCL listing.
-	- this allows the program to receive the input in the form of a Data Set
+	- to provide structured data
 	-
