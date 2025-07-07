@@ -1,1 +1,2 @@
-- In JCL, a small, embedded read-only data set
+- a special type of [[Data Set]] encoded in [[JCL/DD]] statements
+- a small, embedded read-only data set
