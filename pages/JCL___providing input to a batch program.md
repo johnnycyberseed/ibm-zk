@@ -1,0 +1,1 @@
+- [[in-stream]] — ad-hoc / literal stream cast into records

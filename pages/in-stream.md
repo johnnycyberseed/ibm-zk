@@ -1,4 +1,5 @@
 - a special type of [[Data Set]] encoded in [[JCL/DD]] statements
 - a small, embedded read-only data set coded right in the JCL listing.
-- among other means of providing input to a batch program, in-streams are structured data.
+- among other means of [[JCL/providing input to a batch program]], in-streams are structured data.
+	-
 	-
