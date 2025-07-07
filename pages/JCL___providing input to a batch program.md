@@ -1,5 +1,5 @@
 - [[in-stream]] — **small, structured, ad-hoc** — literal stream cast into one or more records.
 - [[JCL/EXEC/PARAM=]] — tiny literal string (<= 100 bytes) passed directly to the program
 - [[]]
-- TODO
+- TODO Extract other options from https://chatgpt.com/share/e/686becb8-5150-8001-a673-3bd931adc312
 -
