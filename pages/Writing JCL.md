@@ -31,9 +31,9 @@
 			-
 				-
 - ## Specifying Inputs and Outputs
-	- `DD`
+	- `DD` — Data Definition Statement
 		- `DSNAME` (`DSN`) — [[Data Set/Name (DSN)]]
 			- for temporary data set (including "in-stream" and sysout datasets), prefix with `&&`
 				- e.g. `&&TODELETE`
-			-
+			- referencing a previously declared
 		-
