@@ -1,1 +1,1 @@
-- In JCL, the special data set which
+- In JCL, a small, embedded read-only data set
