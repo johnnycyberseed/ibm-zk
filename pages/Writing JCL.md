@@ -1,7 +1,10 @@
 -
 - ## Job Output
 	- When a job runs, three data sets are created:
-		- JES Job log — `JESMSGLG`
-		-
+		- JES job log — `JESMSGLG`
+		- Statement Images — `JESJCL`
+		- System Messages — `JESYSMSG`
 	- (MSGLEVEL)
+		- https://www.ibm.com/docs/en/zos/3.1.0?topic=statement-msglevel-parameter
+		-
 	-
