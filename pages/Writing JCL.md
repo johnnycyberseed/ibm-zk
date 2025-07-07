@@ -16,13 +16,17 @@
 					- _all_ IEF653I messages
 				- `2` = (job-only)
 					- _all_ JCL statements
-					- _all_ JES2/JES3 control statements
+					- _all_ [[JES2]] / [[JES3]] control statements
 			- `messages`:
 				- `0` = (terse) JCL messages only
 					- _only_ JCL messages
 					- if the job abends, also prints JES and operator messages
 					- if SMS fails the job, also prints SMS messages
 				- `1` = (verbose) print all messages
-					-
+					- _all_ JCL messages
+					- _all_ JES2/JES3 messages
+					- _all_ operator messages
+					- _all_ SMS messages
+			-
 				-
 	-
