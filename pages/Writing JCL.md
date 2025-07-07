@@ -1,3 +1,7 @@
 -
-- ## Controlling Job Output (MSGLEVEL)
--
+- ## Job Output
+	- When a job runs, three data sets are created:
+		- JES Job log — `JESMSGLG`
+		-
+	- (MSGLEVEL)
+	-
