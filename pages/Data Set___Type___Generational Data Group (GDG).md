@@ -5,5 +5,7 @@
 	- time-series data
 	- backup data
 - The [[Data Set/Name (DSN)]] is aka "GDG base name"
+- One can create a GDG data set using the [[utility/IDCAMS]]
+-
 -
 -
