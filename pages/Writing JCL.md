@@ -7,7 +7,6 @@
 		- System Messages — `JESYSMSG`
 	- ### Controlling Output
 		- `JOB ... MSGLEVEL(statements, messages)`
-		  collapsed:: true
 			- https://www.ibm.com/docs/en/zos/3.1.0?topic=statement-msglevel-parameter
 			- `statements`:
 				- `0` = (terse) print the `JOB` statement (and all comments up to the first JCL statement)
