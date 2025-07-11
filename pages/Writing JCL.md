@@ -1,4 +1,5 @@
--
+## Format of JCL line
+	-
 - ## Job Output
 	- When a job runs, three data sets are created:
 		- JES job log — `JESMSGLG`
