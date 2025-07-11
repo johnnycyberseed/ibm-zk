@@ -1,0 +1,4 @@
+- Integrated Data Cluster Access Method Services
+-
+- # Resources
+	- https://www.ibm.com/docs/en/zos-basic-skills?topic=utilities-idcams-use-access-method-services-catalogs
