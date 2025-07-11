@@ -1,4 +1,4 @@
-## Format of JCL line
+## Format of JCL listing
 	-
 - ## Job Output
 	- When a job runs, three data sets are created:
