@@ -4,5 +4,6 @@
 - Commonly used for managing
 	- time-series data
 	- backup data
-- The [[Data Set/Name (DSN)]]
+- The [[Data Set/Name (DSN)]] is aka "GDG base name"
+-
 -
