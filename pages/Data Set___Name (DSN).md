@@ -6,7 +6,8 @@
 		- e.g. `USERID.PROCLIB(MAIN)`
 		-
 - Are case-insensitive
-- The first qualifier is aka "high-level
+- The first qualifier is aka "high-level qualifier" (HLQ)
+	- aka "my prefix", "my catalog entry"
 - aka:
 	- DNAME
 	- DSN
