@@ -6,7 +6,7 @@
 		- e.g. `USERID.PROCLIB(MAIN)`
 		-
 - Are case-insensitive
--
+- The first qualifier is aka "high-level
 - aka:
 	- DNAME
 	- DSN
