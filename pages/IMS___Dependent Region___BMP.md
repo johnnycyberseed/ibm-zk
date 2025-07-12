@@ -1,8 +1,8 @@
 -
-- started by JCL
+- typically started via JCL
 - Come in two flavors:
 	- Transaction-Oriented
 		- has access to the IMS message queue
-		-
+		- not scheduled by IMS, but by JCL (e.g. by an operator)
 	- Batch-Oriented
 		-
