@@ -13,6 +13,16 @@
 - APIs
 	- [[IMS DB/DL/I]]
 	- JDBC
-	-
+		- SQL
+- Supported Languages
+	- Java
+	- C/C++
+	- Assembler
+	- Pascal
+	- COBOL
+		- typically through [[IMS DB/DL/I]]
+	- PL/I
+	- REXX
+-
 	-
 	-
