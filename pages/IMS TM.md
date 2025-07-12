@@ -11,7 +11,8 @@
 	- up to 4000 applications in parallel
 	-
 - IMS Dependent Region
--
+	- a place where applications can be run
+	-
 - Messages
 	- each has an identifier
 - Message Types
@@ -26,4 +27,4 @@
 	- message is received by [[IMS TM/OTMA]]
 	- it hands the message to the [[IMS TM/Queue Manager]]
 	- the [[IMS TM/Scheduler]] services that queue
-		- determines which
+		- determines which dependent region
