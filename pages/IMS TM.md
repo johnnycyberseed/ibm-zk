@@ -9,13 +9,12 @@
 	- but there is a facility for synchronous processing (APPC)
 - Can process over 100,000 transactions per second
 -
--
-- IMS Control Region
-	- up to 4000 applications in parallel
-	-
-- IMS Dependent Region
-	- a place where applications can be run
-	-
+- ## Runtime Architecture
+	- IMS Control Region
+		- up to 4000 applications in parallel
+	- IMS Dependent Region
+		- a place where applications can be run
+		-
 - Messages
 	- each has an identifier
 - Message Types

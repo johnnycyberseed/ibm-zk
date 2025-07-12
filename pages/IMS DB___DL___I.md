@@ -1,4 +1,4 @@
 - Data Language I
-- "Dee'
+- "Dee-El One"
 - Native programming interface for IMS DB
 -
