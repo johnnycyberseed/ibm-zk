@@ -5,7 +5,10 @@
 	- [[IMS/DB]]
 	- [[IMS/TM]]
 	- [[IMS/DC]]
-	-
+	- Interfaces to IMS (diagram)
+		- ![image.png](../assets/image_1752333373572_0.png)
+		-
+-
 -
 - Concepts to explore
 	- RECON record information
