@@ -42,6 +42,7 @@
 	- the application wakes, de-queues the message and processes it
 - Applications
 	- Transaction-oriented (aka "message-driven")
-	- Batch-oriented
-		- for IMS systems with only IMS
+	- Batch-oriented (aka "non-message-driven")
+		- for IMS systems with only IMS DB, this is the only kind of application that can be deployed
+	-
 	-
