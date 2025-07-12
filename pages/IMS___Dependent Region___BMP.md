@@ -1,0 +1,8 @@
+-
+- started by JCL
+- Come in two flavors:
+	- Transaction-Oriented
+		- has access to the IMS message queue
+		-
+	- Batch-Oriented
+		-
