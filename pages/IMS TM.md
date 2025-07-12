@@ -1,4 +1,5 @@
 - IMS Transaction Manager
+- Plays the role of "Application Server"
 - a message-based transaction processor
 	- processes messages
 		- received from the terminal network (input)
