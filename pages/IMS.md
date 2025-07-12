@@ -2,6 +2,9 @@
 -
 - [[IMS/Transaction Manager]]
 -
+- Concepts to explore
+	- RECON record information
+	-
 -
 -
 - # References
