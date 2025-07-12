@@ -25,4 +25,5 @@
 - Message processing
 	- message is received by [[IMS TM/OTMA]]
 	- it hands the message to the [[IMS TM/Queue Manager]]
-	-
+	- the [[IMS TM/Scheduler]] services that queue
+		- determines which
