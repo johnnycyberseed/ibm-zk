@@ -1,3 +1,3 @@
-- A component of the [[IMS Control Region]] that determines which [[IMS Dependent Region]] and application a given message is destined.
+- A component of the [[IMS/Control Region]] that determines which [[IMS/Dependent Region]] and application a given message is destined.
 -
 - Scans transaction on the message

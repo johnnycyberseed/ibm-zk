@@ -1,2 +1,3 @@
 - an address space where applications can run
+- [[IMS/Dependent Region/MPR]]
 -

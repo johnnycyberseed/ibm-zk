@@ -11,8 +11,8 @@
 - Can process over 100,000 transactions per second
 -
 - ## The Online Environment
-	- [[IMS Control Region]] — front-end component that dispatches messages
-	- [[IMS Dependent Region]] — a place where applications can be run
+	- [[IMS/Control Region]] — front-end component that dispatches messages
+	- [[IMS/Dependent Region]] — a place where applications can be run
 		- Each region can be configured to best support the workloads that will be running there
 		- applications are "defined" via [[IMS TM/PSB]]s
 	- (maybe) other runtime targets? (e.g. running entirely outside of the mainframe)
@@ -37,7 +37,7 @@
 	- message is received by [[IMS TM/OTMA]]
 	- it hands the message to the [[IMS TM/Queue Manager]]
 	- the [[IMS TM/Scheduler]] services that queue
-		- determines which [[IMS Dependent Region]] the target application lives
+		- determines which [[IMS/Dependent Region]] the target application lives
 		- activates that application and points it to the message in the queue
 	- the application wakes, de-queues the message and processes it
 - Applications
