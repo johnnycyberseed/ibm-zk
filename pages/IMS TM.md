@@ -10,10 +10,10 @@
 - Can process over 100,000 transactions per second
 -
 - ## Runtime Architecture
-	- IMS Control Region
+	- [[IMS Control Region]]
 		- up to 4000 applications in parallel
 		- routes requests into
-	- IMS Dependent Region
+	- [[IMS Dependent Region]]
 		- a place where applications can be run
 		-
 - Messages
@@ -35,7 +35,7 @@
 	- message is received by [[IMS TM/OTMA]]
 	- it hands the message to the [[IMS TM/Queue Manager]]
 	- the [[IMS TM/Scheduler]] services that queue
-		- determines which dependent region the target application lives
+		- determines which [[IMS Dependent Region]] the target application lives
 		- activates that application and points it to the message in the queue
 	- the application wakes, de-queues the message and processes it
 	-

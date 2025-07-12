@@ -1,1 +1,3 @@
-- A component of the [[IMS Control Region]] that determines which [[IMS Dependent Region]] and
+- A component of the [[IMS Control Region]] that determines which [[IMS Dependent Region]] and application a given message is destined.
+-
+-
