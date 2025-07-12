@@ -10,8 +10,9 @@
 - Can process over 100,000 transactions per second
 -
 - ## Runtime Architecture
-	- [[IMS Control Region]] — the front-end component receiving
+	- [[IMS Control Region]] — front-end component that dispatches messages
 	- [[IMS Dependent Region]] — a place where applications can be run
+	- [[IMS TM/PSB]]
 	-
 - Messages
 	- each has an identifier
