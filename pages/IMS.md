@@ -25,7 +25,6 @@
 		- "training" videos
 		- self-paced courses
 		- sample code repos
-		-
 	- IMS Insiders: https://imsinsiders.wordpress.com/about/
 	-
 	-
