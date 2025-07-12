@@ -1,8 +1,11 @@
 - Information Management System
 - aka "IMS/ESA"
 -
--
-- [[IMS/Transaction Manager]]
+- Parts of IMS
+	- [[IMS/DC]]
+	- [[IMS/DB]]
+	- [[IMS/TM]]
+	-
 -
 - Concepts to explore
 	- RECON record information
