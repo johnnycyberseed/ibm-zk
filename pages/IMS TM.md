@@ -32,8 +32,6 @@
 		- by API
 		- by TCP/IP
 			- via [[IMS Connect]]
-			- https://www.ibm.com/docs/en/zos/latest?topic=guide-ims-tcpip
-	-
 	- message is received by [[IMS TM/OTMA]]
 	- it hands the message to the [[IMS TM/Queue Manager]]
 	- the [[IMS TM/Scheduler]] services that queue
