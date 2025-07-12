@@ -1,2 +1,5 @@
 - Open Database Manager
 -
+- Clients submit [[CSLDMI]] requests to:
+	- register with ODBM
+	- interact with IMS databases
