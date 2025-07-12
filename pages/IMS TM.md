@@ -43,5 +43,5 @@
 - Applications
 	- Transaction-oriented
 	- Batch-oriented
-		- for
+		- for IMS systems with only IMS
 	-
