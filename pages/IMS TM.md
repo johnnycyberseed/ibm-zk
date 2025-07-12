@@ -22,4 +22,5 @@
 		- e.g. query system status
 		-
 	- APPC — for synchronous processing
+- Message processing
 	-
