@@ -1,2 +1,5 @@
 - Common Service Layer
 -
+- # References
+	- https://www.ibm.com/docs/en/ims/latest?topic=apis-common-service-layer-csl
+-
