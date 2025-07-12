@@ -7,7 +7,7 @@
 	- [[IMS/DC]]
 	- Interfaces to IMS (diagram)
 		- ![image.png](../assets/image_1752333373572_0.png){:height 200, :width 800}
-		-
+	-
 -
 -
 - Concepts to explore
