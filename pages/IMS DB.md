@@ -1,6 +1,5 @@
 - IMS Database Manager
 - Presents a hierarchical database model to users
-- can be backed by a number of data stores
 - Features
 	- backup/recovery of database
 - Supported Backends:
@@ -11,4 +10,5 @@
 	- Root Segment
 	- Each segment can have multiple Child Segments
 	- Each relationship between a parent and child are known as "segment occurances"
-	-
+- APIs
+	- DL/I
