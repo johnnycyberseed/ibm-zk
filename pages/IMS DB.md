@@ -4,8 +4,7 @@
 - Features
 	- backup/recovery of database
 - Supported Backends:
-	- [[Full Function]]
-	-
+	- [[IMS DB/FF]]
 	- [[IMS DB/HALDB]]
 	- Fast Path
 - The Data Model
