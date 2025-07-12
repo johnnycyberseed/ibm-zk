@@ -15,7 +15,10 @@
 -
 - #  History
 	- 1968 — first introduced
-	- Was inspired from bespoke
+	- Was inspired from bespoke spaceship parts management as part of the Apollo program
+	  collapsed:: true
+		- src: https://mediacenter.ibm.com/media/Intro+to+IMS+-+What+is+IMS/0_beoagp8k/139456202
+	-
 - # References
 	- https://www.ibm.com/products/ims
 	- https://www.ibm.com/docs/en/ims/latest
