@@ -1,0 +1,4 @@
+- IMS Fast Path Programs
+- Similar to [[IMS/MPP]]
+	- started via JCL
+	-
