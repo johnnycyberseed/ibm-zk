@@ -1,4 +1,6 @@
 - Information Management System
+- aka "IMS/ESA"
+-
 -
 - [[IMS/Transaction Manager]]
 -
@@ -6,7 +8,9 @@
 	- RECON record information
 	-
 -
--
+- #  History
+	- 1968 — first introduced
+	-
 - # References
 	- https://www.ibm.com/products/ims
 	- https://www.ibm.com/docs/en/ims/latest
