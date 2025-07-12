@@ -1,5 +1,5 @@
 - Information Management System
-- aka "IMS/ESA"
+- has been known as: "IMS/ESA"
 -
 - Parts of IMS
 	- [[IMS DB]]
