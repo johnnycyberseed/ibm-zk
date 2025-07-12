@@ -40,9 +40,3 @@
 		- determines which [[IMS/Dependent Region]] the target application lives
 		- activates that application and points it to the message in the queue
 	- the application wakes, de-queues the message and processes it
-- Applications
-	- Transaction-oriented (aka "message-driven")
-	- Batch-oriented (aka "non-message-driven")
-		- for IMS systems with only IMS DB, this is the only kind of application that can be deployed
-	-
-	-

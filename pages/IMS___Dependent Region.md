@@ -1,4 +1,8 @@
 - an address space where applications can run
+- Application types
+	- Transaction-oriented (aka "message-driven")
+	- Batch-oriented (aka "non-message-driven")
+		- for IMS systems with only IMS DB, this is the only kind of application that can be deployed
 - Message-Driven Processing ()
 	- [[IMS/Dependent Region/MPR]]
 	- [[IMS/Dependent Region/JMP]]
