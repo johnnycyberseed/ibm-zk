@@ -12,11 +12,14 @@
 	-
 - IMS Dependent Region
 -
+- Messages
+	- each has an identifier
 - Message Types
 	- Transactions — payload is data intended for an underlying program to process
 		-
 	- Commands — for IMS itself to process
 		- usually sent by system programmers
 		- e.g. query system status
+		-
 	- APPC — for synchronous processing
 	-
