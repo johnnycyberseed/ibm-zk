@@ -1,2 +1,8 @@
 - IMS Transaction Manager
--
+- a message-based transaction processor
+	- processes messages
+		- received from the terminal network (input)
+		- created by application programs (output)
+	- a queueing mechanism for handling those messages
+	-
+	-
