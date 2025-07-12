@@ -1,2 +1,5 @@
 - Message-Processing Programs
+- Process requests from users or applications
+- ideally these are fast and short-lived
+- messages in / message out
 -
