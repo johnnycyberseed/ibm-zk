@@ -6,7 +6,7 @@
 - Supported Backends:
 	- [[IMS DB/FF]]
 	- [[IMS DB/HALDB]]
-	- Fast Path
+	- [[IMS DB/Fast Path]]
 - The Data Model
 	- Root Segment
 	- Each segment can have multiple Child Segments
