@@ -6,7 +6,7 @@
 	- [[IMS/TM]]
 	- [[IMS/DC]]
 	- Interfaces to IMS (diagram)
-		- ![image.png](../assets/image_1752333373572_0.png)
+		- ![image.png](../assets/image_1752333373572_0.png){:height 100}
 		-
 -
 -
