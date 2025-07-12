@@ -1,2 +1,5 @@
 -
+-
 - https://www.ibm.com/docs/en/zos/latest?topic=environment-role-ims-tcpip
+- https://www.ibm.com/docs/en/ims/latest?topic=connections-ims-connect-tcpip-communications
+-
