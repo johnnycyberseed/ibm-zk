@@ -6,6 +6,6 @@
 		- [[IMS/Dependent Region/IFP]]
 	- Batch Processing (aka "Non-Message Processing")
 		- [[IMS/Dependent Region/BMP]]
-		- [[IMS/Dependent Region/JMP]]
+		- [[IMS/Dependent Region/JBP]]
 		- for IMS systems with only IMS DB, this is the only kind of application that can be deployed
 -
