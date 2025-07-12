@@ -1,4 +1,8 @@
 - Program Specification Blocks
+- Describes the characteristics of applications
 - Contains metadata about a program
-	- language
+	- programming language
+	- inputs (like terminal specs)
+	- data definitions
+	-
 	-
