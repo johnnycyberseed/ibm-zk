@@ -1,0 +1,2 @@
+- an address space where applications can run
+-
