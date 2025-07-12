@@ -1,4 +1,4 @@
 - Advanced Program-to-Program Communication
 - When applications are using SNA communication facilities, remote clients use this API.
-	- in contrast with applications that are using TCP/IP communication facilities, which use [[IMS/TCP/IP]]
+	- in contrast with applications that are using TCP/IP communication facilities, which use [[IMS/TCP\IP]]
 	-
