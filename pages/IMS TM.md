@@ -6,7 +6,8 @@
 		- created by application programs (output)
 	- a queueing mechanism for handling those messages
 - messages are processed asynchronously
-	- but there is a facility for synchronous processing (APPC)
+	- but there is a facility for synchronous processing ([[IMS/APPC]])
+	-
 - Can process over 100,000 transactions per second
 -
 - ## Runtime Architecture
