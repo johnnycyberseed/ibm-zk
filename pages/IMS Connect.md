@@ -1,4 +1,3 @@
--
 - TCP/IP-based front end for [[IMS TM]].
 - Handles multiple inbound TCP/IP connections
 - Can route to multiple target [[IMS]] instances
