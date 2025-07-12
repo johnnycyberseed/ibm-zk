@@ -1,0 +1,12 @@
+- Information Management System
+-
+- [[IMS/Transaction Manager]]
+-
+-
+-
+- # References
+	- https://www.ibm.com/products/ims
+	- https://www.ibm.com/docs/en/ims/latest
+	- [IMS Primer (Redbook)](https://www.redbooks.ibm.com/abstracts/sg245352.html)
+	-
+	-
