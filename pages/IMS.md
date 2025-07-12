@@ -1,7 +1,5 @@
 - Information Management System
 - has been known as: "IMS/ESA"
--
--
 - Parts of IMS
 	- [[IMS DB]]
 	- [[IMS TM]]
@@ -12,7 +10,6 @@
 - IMS Access Methods
 	- VSAM (the same as [[Data Set/Type/VSAM]]?)
 	- OSAM
--
 -
 - #  History
 	- 1968 — first introduced
