@@ -1,5 +1,6 @@
 - IMS Database Manager
--
+- Presents a hierarchical database model to users
+- can be backed by a number of data stores
 - Features
 	-
 	- backup/recovery of database
