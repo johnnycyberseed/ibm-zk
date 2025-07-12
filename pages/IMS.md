@@ -3,8 +3,8 @@
 -
 - Parts of IMS
 	- [[IMS/DB]]
-	- [[IMS/DC]]
 	- [[IMS/TM]]
+	- [[IMS/DC]]
 	-
 -
 - Concepts to explore
