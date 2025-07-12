@@ -22,7 +22,7 @@
 	- https://www.ibm.com/docs/en/ims/latest
 	- [IMS Primer (Redbook)](https://www.redbooks.ibm.com/abstracts/sg245352.html)
 	- [IBM IMS Central](https://imsdev.github.io/index.html)
-		- includes v
+		- includes "training" videos
 	- IMS Insiders: https://imsinsiders.wordpress.com/about/
 	-
 	-
