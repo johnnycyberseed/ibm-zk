@@ -6,6 +6,10 @@
 	- a queueing mechanism for handling those messages
 - messages are processed asynchronously
 	- but there is a facility for synchronous processing (APPC)
+- IMS Control Region
+	-
+- IMS Dependent Region
+-
 - Message Types
 	- Transactions — payload is data intended for an underlying program to process
 	- Commands — for IMS itself to process
