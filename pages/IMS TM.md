@@ -41,7 +41,7 @@
 		- activates that application and points it to the message in the queue
 	- the application wakes, de-queues the message and processes it
 - Applications
-	- Transaction-oriented
+	- Transaction-oriented (aka "message-driven")
 	- Batch-oriented
 		- for IMS systems with only IMS
 	-
