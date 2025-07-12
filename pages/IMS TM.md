@@ -9,7 +9,6 @@
 - Can process over 100,000 transactions per second
 -
 -
-- IMS Connect
 - IMS Control Region
 	- up to 4000 applications in parallel
 	-
@@ -26,7 +25,12 @@
 		- e.g. query system status
 		-
 	- APPC — for synchronous processing
+-
 - Message processing
+	- outside systems send messages
+		- by API
+		- by TCP/IP
+			- is IMS Connect
 	- message is received by [[IMS TM/OTMA]]
 	- it hands the message to the [[IMS TM/Queue Manager]]
 	- the [[IMS TM/Scheduler]] services that queue
