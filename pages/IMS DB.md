@@ -4,10 +4,10 @@
 - Features
 	- backup/recovery of database
 - Supported Backends:
-	- Full Function
-		-
+	- [[Full Function]]
+	-
+	- [[IMS DB/HALDB]]
 	- Fast Path
-	- HALDB
 - The Data Model
 	- Root Segment
 	- Each segment can have multiple Child Segments
