@@ -12,7 +12,8 @@
 - ## Runtime Architecture
 	- [[IMS Control Region]] — front-end component that dispatches messages
 	- [[IMS Dependent Region]] — a place where applications can be run
-	- [[IMS TM/PSB]]
+		- applications are "defined" via [[IMS TM/PSB]]s
+		-
 	-
 - Messages
 	- each has an identifier
