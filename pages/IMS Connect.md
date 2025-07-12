@@ -6,5 +6,6 @@
 -
 - # References
 	- https://www.ibm.com/docs/en/ims/latest?topic=connections-ims-connect-tcpip-communications
--
+	- [The Lifecycle of an IMS Connect Transaction (video)](https://mediacenter.ibm.com/playlist/dedicated/189147413/1_cvhwa8r2/1_cgiaj7nd)
+	-
 -
