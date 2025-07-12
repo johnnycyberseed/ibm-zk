@@ -15,19 +15,18 @@
 	- [[IMS Dependent Region]] — a place where applications can be run
 		- Each region can be configured to best support the workloads that will be running there
 		- applications are "defined" via [[IMS TM/PSB]]s
-	- (maybe)
+	- (maybe) other runtime targets? (e.g. running entirely outside of the mainframe)
+-
+	-
 	-
 - Messages
 	- each has an identifier
 - Message Types
 	- Transactions — payload is data intended for an underlying program to process
-		-
 	- Commands — for IMS itself to process
 		- usually sent by system programmers
 		- e.g. query system status
-		-
-	- APPC — for synchronous processing
--
+	- [[IMS/APPC]] — for synchronous processing
 - Message processing
 	- outside systems send messages
 		- by API
@@ -41,5 +40,8 @@
 		- determines which [[IMS Dependent Region]] the target application lives
 		- activates that application and points it to the message in the queue
 	- the application wakes, de-queues the message and processes it
-	-
+- Applications
+	- Transaction-oriented
+	- Batch-oriented
+		- for
 	-
