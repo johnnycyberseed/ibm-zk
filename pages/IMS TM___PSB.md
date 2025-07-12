@@ -4,7 +4,8 @@
 	- programming language
 	- inputs (like terminal specs)
 	- data definitions
-- [[IMS TM/PCB]]s define what data or
+- [[IMS TM/PCB]]s define what data the application can view
+-
 	-
 - Questions
 	- Is this an extension of JCL?

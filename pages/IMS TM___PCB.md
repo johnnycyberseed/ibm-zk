@@ -1,2 +1,2 @@
-- Program Control Block
+- Program Communication Block
 -
