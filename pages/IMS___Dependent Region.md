@@ -1,13 +1,12 @@
 - an address space where applications can run
 - Application types
 	- Transaction-oriented (aka "message-driven")
+		- [[IMS/Dependent Region/MPR]]
+		- [[IMS/Dependent Region/JMP]]
+		- [[IMS/Dependent Region/IFP]]
 	- Batch-oriented (aka "non-message-driven")
 		- for IMS systems with only IMS DB, this is the only kind of application that can be deployed
-- Message-Driven Processing ()
-	- [[IMS/Dependent Region/MPR]]
-	- [[IMS/Dependent Region/JMP]]
-	- [[IMS/Dependent Region/IFP]]
 - Batch Processing (aka "Non-Message Processing")
-- [[IMS/Dependent Region/BMP]]
-- [[IMS/Dependent Region/JMP]]
+	- [[IMS/Dependent Region/BMP]]
+	- [[IMS/Dependent Region/JMP]]
 -
