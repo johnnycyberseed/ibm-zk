@@ -9,4 +9,5 @@
 - The Data Model
 	- Root Segment
 	- Each segment can have multiple Child Segments
+	- Each relationship between a parent and child are known as "segment occurances"
 	-
