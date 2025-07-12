@@ -2,4 +2,5 @@
 -
 - # References
 	- https://www.ibm.com/products/ims
+	- https://www.ibm.com/docs/en/ims/latest
 	-
