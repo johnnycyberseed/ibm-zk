@@ -1,4 +1,5 @@
 - Program Communication Block
 -
 - Types of PCBs
--
+- Can define the specific view the application is allowed of the schema in a database
+	- e.g. App A employee name + salary
