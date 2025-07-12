@@ -4,8 +4,10 @@
 		- received from the terminal network (input)
 		- created by application programs (output)
 	- a queueing mechanism for handling those messages
+- messages are processed asynchronously
+	- but there is a facility for
 - Message Types
 	- Transactions — payload is data intended for an underlying program to process
 	- Commands — for IMS itself to process
-	- APPC —
+	- APPC — for synchronous processing
 	-
