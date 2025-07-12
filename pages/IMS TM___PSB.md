@@ -6,8 +6,11 @@
 	- data definitions
 - [[IMS TM/PCB]]s define what data the application can view
 -
+-
+- # References
+	- https://www.ibm.com/docs/en/zos/3.1.0?topic=definitions-psb-definition
 	-
-- Questions
+- # Questions
 	- Is this an extension of JCL?
 	  collapsed:: true
 		- src: @4:19 of https://mediacenter.ibm.com/media/Introduction+to+IMS+Application+Development%2C+Part+1/1_2qqmbhul/139456202
