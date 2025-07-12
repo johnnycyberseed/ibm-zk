@@ -1,4 +1,5 @@
 - IMS Fast Path Programs
 - Similar to [[IMS/MPP]]
-	- started via JCL
+	- but is started via JCL
+- defined as "wait for input" transactions
 	-
