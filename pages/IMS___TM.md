@@ -5,5 +5,7 @@
 		- created by application programs (output)
 	- a queueing mechanism for handling those messages
 - Message Types
-	-
+	- Transactions — payload is data intended for an underlying program to process
+	- Commands — for IMS itself to process
+	- APPC —
 	-
