@@ -10,11 +10,8 @@
 - Can process over 100,000 transactions per second
 -
 - ## Runtime Architecture
-	- [[IMS Control Region]]
-		- up to 4000 applications in parallel
-		- routes requests into
-	- [[IMS Dependent Region]]
-		- a place where applications can be run
+	- [[IMS Control Region]] — the front-end component receiving
+	- [[IMS Dependent Region]] — a place where applications can be run
 	-
 - Messages
 	- each has an identifier
