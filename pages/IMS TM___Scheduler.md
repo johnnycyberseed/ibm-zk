@@ -1,0 +1,1 @@
+- A component of the [[IMS Control Region]] that determines which [[IMS Dependent Region]] and

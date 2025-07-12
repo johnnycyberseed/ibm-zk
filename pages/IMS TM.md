@@ -12,6 +12,7 @@
 - ## Runtime Architecture
 	- IMS Control Region
 		- up to 4000 applications in parallel
+		- routes requests into
 	- IMS Dependent Region
 		- a place where applications can be run
 		-
