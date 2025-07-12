@@ -14,7 +14,8 @@
 	- [[IMS DB/DL/I]]
 	- JDBC
 		- SQL
-	- [[IMS/CSL/ODBM]]
+	- [[IMS/CSL/ODBM]] for direct access to databases managed by IMS DB
+	-
 	-
 - Supported Languages
 	- Java
