@@ -1,2 +1,3 @@
 - Advanced Program-to-Program Communication
-- When
+- When applications are using SNA communication facilities, remote clients use this API.
+	- in contrast with applicatin
