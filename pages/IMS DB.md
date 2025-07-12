@@ -16,11 +16,12 @@
 		- SQL
 - Supported Languages
 	- Java
+		- typically using JDBC
 	- C/C++
 	- Assembler
 	- Pascal
 	- COBOL
-		- typically through [[IMS DB/DL/I]]
+		- typically using [[IMS DB/DL/I]]
 	- PL/I
 	- REXX
 -
