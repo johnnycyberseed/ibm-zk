@@ -8,6 +8,7 @@
 	- but there is a facility for synchronous processing (APPC)
 - Can process over 100,000 transactions per second
 -
+-
 - IMS Connect
 - IMS Control Region
 	- up to 4000 applications in parallel
