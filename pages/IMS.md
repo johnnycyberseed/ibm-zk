@@ -1,5 +1,6 @@
 - Information Management System
 - has been known as: "IMS/ESA"
+- Can process over 100,000 transactions per second
 -
 - Parts of IMS
 	- [[IMS DB]]
