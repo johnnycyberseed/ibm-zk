@@ -23,4 +23,5 @@
 		-
 	- APPC — for synchronous processing
 - Message processing
+	- message is received by [[IMS TM/OTMA]]
 	-
