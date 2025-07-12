@@ -13,6 +13,7 @@
 - APIs
 	- [[IMS DB/DL/I]]
 	- JDBC
+		- via [IMS Universal JDBC Driver](https://www.ibm.com/docs/en/ims/14.1.0?topic=drivers-programming-ims-universal-jdbc-driver)
 		- SQL
 	- [[IMS/CSL/ODBM]] for direct access to databases managed by IMS DB
 	-
