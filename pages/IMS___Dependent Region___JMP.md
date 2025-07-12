@@ -1,2 +1,5 @@
 - Java Message Processing region
+- Always written in Java
+- like [[IMS/MPP]]s
+	- message-in / message-out
 -
