@@ -6,3 +6,7 @@
 - Supported Backends:
 	- IMS DB
 	- DB2
+- The Data Model
+	- Root Segment
+	- Each segment can have multiple Child Segments
+	-
