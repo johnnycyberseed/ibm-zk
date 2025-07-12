@@ -6,7 +6,9 @@
 	- a queueing mechanism for handling those messages
 - messages are processed asynchronously
 	- but there is a facility for synchronous processing (APPC)
+- IMS Connect
 - IMS Control Region
+	- up to 4000 applications in parallel
 	-
 - IMS Dependent Region
 -
