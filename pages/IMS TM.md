@@ -30,7 +30,7 @@
 	- outside systems send messages
 		- by API
 		- by TCP/IP
-			- is IMS Connect
+			- via [[IMS Connect]]
 	- message is received by [[IMS TM/OTMA]]
 	- it hands the message to the [[IMS TM/Queue Manager]]
 	- the [[IMS TM/Scheduler]] services that queue
