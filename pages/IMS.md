@@ -2,8 +2,8 @@
 - aka "IMS/ESA"
 -
 - Parts of IMS
-	- [[IMS/DB]]
-	- [[IMS/TM]]
+	- [[IMS DB]]
+	- [[IMS TM]]
 	- [[IMS/DC]]
 	- Interfaces to IMS (diagram)
 	  collapsed:: true
