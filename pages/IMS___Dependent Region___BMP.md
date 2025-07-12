@@ -1,4 +1,5 @@
 - Batch Message Processing
+- These applications are _not_ started by the
 - typically started via JCL
 - Come in two flavors:
 	- Transaction-Oriented
