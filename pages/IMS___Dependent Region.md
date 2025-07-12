@@ -1,3 +1,8 @@
 - an address space where applications can run
+-
 - [[IMS/Dependent Region/MPR]]
+- [[IMS/Dependent Region/JMP]]
+- [[IMS/Dependent Region/IFP]]
+- [[IMS/Dependent Region/BMP]]
+- [[IMS/Dependent Region/JMP]]
 -
