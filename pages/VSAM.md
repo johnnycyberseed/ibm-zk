@@ -1,5 +1,11 @@
+- There are two major parts of VSAM
+	- Catalog Management
+		- Q: how is this different than the z/OS "Catalog"?
+		-
+	- Record Management
+	-
 -
-- # Features of VSAM
+- # Core Features of VSAM
 	- https://chatgpt.com/share/e/687661a1-6f38-8001-a02a-ca93c2df5aa5
 	- TL;DR. VSAM automates a lot of the nitty gritty
 		- geometry of physical hardware (especially the 3390 disk drive)
