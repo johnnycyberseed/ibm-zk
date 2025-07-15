@@ -18,9 +18,11 @@
 	- Physical Record
 		- aka "Block"
 	- Control Interval (CI)
+	  id:: 687665f1-6fa5-473c-9ebe-c2c2ccffc353
 		- can range from 512B to 32KB.
 		- acts as a kind of window of access (fetching, mostly?)
-		-
+	- Spanned Records
+		- logical records that are larger than the ((687665f1-6fa5-473c-9ebe-c2c2ccffc353)).
 	-
 	- Sphere
 - # Core Features of VSAM
