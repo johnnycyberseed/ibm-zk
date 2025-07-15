@@ -8,8 +8,13 @@
 	- Logical Record
 		- identified in one of three ways:
 			- key field (the logical primary key)
+				- can be up to 255 bytes in length
+				- must be unique across the data set
+				- There's also a secondary key or alternate key
+					- does not need to be unique
 			- Relative Byte Address (RBA) — bytes from the beginning of the data set to the start of the record
-			- Relative Record Number (RRN) — the index ()
+			- Relative Record Number (RRN) — the index (zero-based) of the record; the 4th record has an RRN of 3.
+			-
 	- Physical Record
 	-
 	- Sphere
