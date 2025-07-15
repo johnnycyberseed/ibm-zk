@@ -5,7 +5,6 @@
 	- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]]
 	- [[Data Set/Type/VSAM/Relative Record (RRDS)]]
 	- [[Data Set/Type/VSAM/Linear (LDS)]]
-	-
 -
 -
 -
