@@ -1,4 +1,6 @@
 -
 -
 - # References
+	- https://www.ibm.com/docs/en/redbooks/vsam-demystified
+		- PDF: https://www.redbooks.ibm.com/redbooks/pdfs/sg246105.pdf
 	-
