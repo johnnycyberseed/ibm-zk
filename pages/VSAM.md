@@ -4,7 +4,10 @@
 		-
 	- Record Management
 	-
--
+- # Key Concepts
+	- Logical Record
+	-
+	- Sphere
 - # Core Features of VSAM
 	- https://chatgpt.com/share/e/687661a1-6f38-8001-a02a-ca93c2df5aa5
 	- TL;DR. VSAM automates a lot of the nitty gritty
