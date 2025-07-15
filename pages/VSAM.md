@@ -16,6 +16,8 @@
 			- Relative Record Number (RRN) — the index (zero-based) of the record; the 4th record has an RRN of 3.
 			-
 	- Physical Record
+		- aka "Block"
+	-
 	-
 	- Sphere
 - # Core Features of VSAM
