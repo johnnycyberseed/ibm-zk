@@ -18,7 +18,8 @@
 	- Physical Record
 		- aka "Block"
 	- Control Interval (CI)
-		- can range from 512b
+		- can range from 512B to 32KB.
+		- a
 	-
 	- Sphere
 - # Core Features of VSAM
