@@ -19,7 +19,7 @@
 		- aka "Block"
 	- Control Interval (CI)
 		- can range from 512B to 32KB.
-		- a
+		- acts as a kind of
 	-
 	- Sphere
 - # Core Features of VSAM
