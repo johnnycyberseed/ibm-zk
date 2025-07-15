@@ -6,6 +6,11 @@
 	-
 - # Key Concepts
 	- Logical Record
+		- identified in one of three ways:
+			- key field (the logical primary key)
+			- Relative Byte Address (RBA) — bytes from the beginning of the data set to the start of the record
+			- Relative Record Number (RRN) — the index ()
+	- Physical Record
 	-
 	- Sphere
 - # Core Features of VSAM
