@@ -35,13 +35,18 @@
 		- A part of a VSAM Data Set.
 			- Each data set type has the appropriate components
 				- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] and [[Data Set/Type/VSAM/Virtual Relative Record (VRRDS)]] include an ((6877d550-1374-4f20-9c13-05dab5bc7793))
-				- the sequen
+				- the sequential-ish data sets have ((6877d53a-f4ad-4b28-b644-b0e1b5cea803))s only
+					- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
+					- [[Data Set/Type/VSAM/Relative Record (RRDS)]]
+					- [[Data Set/Type/VSAM/Linear (LDS)]]
+				-
 		- Each component has its own
 			- name
 			- entry in the [[Catalog]]
 			- entry in the [[VTOC]]
 		- there are two kinds of components:
 			- data component
+			  id:: 6877d53a-f4ad-4b28-b644-b0e1b5cea803
 			- index component
 			  id:: 6877d550-1374-4f20-9c13-05dab5bc7793
 				- collection of ((687662db-b23c-4fdf-bd60-3fa4aa27010c))s
