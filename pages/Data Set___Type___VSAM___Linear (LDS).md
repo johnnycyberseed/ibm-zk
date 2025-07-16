@@ -3,5 +3,6 @@
 - [[VSAM/Control Interval]] sizes are multiples of 4KB
 - all bytes are data bytes
 	- there is no embedded control information
-- [[VSAM/Logical Record]]s in an LDS must be blocked and deblocked by the
+- [[VSAM/Logical Record]]s in an LDS must be blocked and deblocked by the client program.
+- think: LDS is a non-VSAM data set with with some VSAM facilities
 -
