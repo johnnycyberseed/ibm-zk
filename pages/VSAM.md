@@ -13,14 +13,6 @@
 		- writes "channel programs" in memory (called Virtual Channel Programs) which are micro-instructions for hardware while reading or writing.
 		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 - # Key Concepts
-	- ## Component
-	  collapsed:: true
-		- {{embed [[VSAM/Component]]}}
-		-
-	- ## Cluster
-	  id:: 6877d907-7742-4c3c-a2be-0102f222a207
-		- one or two related [[VSAM/Component]]
-		- for each data set, there is an additional [[Catalog]] entry so that Data Sets with both [[VSAM/Component/Data]]s and [[VSAM/Component/Index]]s can be referenced as a unit.
 	- ## Alternate Indexes (AIX)
 	  id:: 6877db4d-218c-4736-ad77-e66f253d84df
 		- a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] ((6877d907-7742-4c3c-a2be-0102f222a207))
@@ -39,7 +31,7 @@
 		-
 	- ## Sphere
 		- is
-			- a base VSAM ((6877d907-7742-4c3c-a2be-0102f222a207)) and
+			- a base [[VSAM/Cluster]]  and
 			- all of its associated ((6877db4d-218c-4736-ad77-e66f253d84df))s.
 		-
 -
