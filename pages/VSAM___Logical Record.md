@@ -14,4 +14,5 @@
 			- HH = track number
 			- R = physical record number
 	- Relative Record Number (RRN)
+	  id:: 6877ea5c-4c5a-4654-8c55-ff8655832285
 		- the index (zero-based) of the record; the 4th record has an RRN of 3.
