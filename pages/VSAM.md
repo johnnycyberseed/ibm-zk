@@ -13,14 +13,6 @@
 		- writes "channel programs" in memory (called Virtual Channel Programs) which are micro-instructions for hardware while reading or writing.
 		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 - # Key Concepts
-	- ## Logical Record
-		- {{embed [[VSAM/Logical Record]]}}
-	-
-	- ## Physical Record
-	  collapsed:: true
-		- aka "Block"
-		- VSAM data sets can only be defined on [[DASD]] devices.
-		-
 	- ## Control Interval (CI)
 	  id:: 687665f1-6fa5-473c-9ebe-c2c2ccffc353
 	  collapsed:: true
