@@ -33,6 +33,7 @@
 		-
 	- Components
 		- A part of a VSAM Data Set.
+			- Each type of data set has i
 		- Each component has its own
 			- name
 			- entry in the [[Catalog]]
