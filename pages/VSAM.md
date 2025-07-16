@@ -7,7 +7,7 @@
 		-
 		-
 - # Key Concepts
-	- Logical Record
+	- ## Logical Record
 	  id:: 687662db-b23c-4fdf-bd60-3fa4aa27010c
 		- identified in one of three ways:
 			- key field (the logical primary key)
@@ -25,17 +25,17 @@
 					- R = physical record number
 			- Relative Record Number (RRN)
 				- the index (zero-based) of the record; the 4th record has an RRN of 3.
-	- Physical Record
+	- ## Physical Record
 		- aka "Block"
-	- Control Interval (CI)
+	- ## Control Interval (CI)
 	  id:: 687665f1-6fa5-473c-9ebe-c2c2ccffc353
 		- can range from 512B to 32KB.
 		- acts as a kind of window of access (fetching, mostly?)
-	- Spanned Records
+	- ## Spanned Records
 		- logical records that are larger than the ((687665f1-6fa5-473c-9ebe-c2c2ccffc353)).
-	- Control Area (CA)
+	- ## Control Area (CA)
 		-
-	- Components
+	- ## Components
 		- A part of a VSAM Data Set.
 			- Each data set type has the appropriate components
 				- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] and [[Data Set/Type/VSAM/Virtual Relative Record (VRRDS)]] include an ((6877d550-1374-4f20-9c13-05dab5bc7793))
@@ -43,7 +43,6 @@
 					- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
 					- [[Data Set/Type/VSAM/Relative Record (RRDS)]]
 					- [[Data Set/Type/VSAM/Linear (LDS)]]
-				-
 		- Each component has its own
 			- name
 			- entry in the [[Catalog]]
