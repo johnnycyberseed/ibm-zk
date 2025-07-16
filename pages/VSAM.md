@@ -14,7 +14,7 @@
 		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 - # Key Concepts
 	- ## Logical Record
-	- {{embed [[VSAM/Logical Record]]}}
+		- {{embed [[VSAM/Logical Record]]}}
 	-
 	- ## Physical Record
 		- aka "Block"

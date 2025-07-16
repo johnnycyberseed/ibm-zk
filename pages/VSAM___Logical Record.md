@@ -1,5 +1,4 @@
 - identified in one of three ways:
-  collapsed:: true
 	- key field (the logical primary key)
 	  id:: 687664a2-e8a0-4c13-bc1e-64add9b7ff55
 		- can be up to 255 bytes in length
