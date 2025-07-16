@@ -31,7 +31,6 @@
 	  collapsed:: true
 		- logical records that are larger than the ((687665f1-6fa5-473c-9ebe-c2c2ccffc353)).
 	- ## Control Area (CA)
-	-
 	- ## Component
 		- {{embed [[VSAM/Component]]}}
 		-
