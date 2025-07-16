@@ -8,6 +8,7 @@
 		-
 - # Key Concepts
 	- Logical Record
+	  id:: 687662db-b23c-4fdf-bd60-3fa4aa27010c
 		- identified in one of three ways:
 			- key field (the logical primary key)
 				- can be up to 255 bytes in length
@@ -33,7 +34,9 @@
 			- entry in the [[Catalog]]
 			- entry in the [[VTOC]]
 		- there are two kinds of components:
-			-
+			- data
+			- index
+				- collection of ((687662db-b23c-4fdf-bd60-3fa4aa27010c))s
 			-
 	- Sphere
 - # Core Features of VSAM
