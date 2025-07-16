@@ -1,1 +1,2 @@
 - Direct Access Storage Device
+- Typically, a hard drive.
