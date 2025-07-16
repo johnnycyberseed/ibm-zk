@@ -10,12 +10,9 @@
 	- entry in the [[Catalog]]
 	- entry in the [[VTOC]]
 - there are two kinds of components:
-	- ### data component
-	  id:: 6877d53a-f4ad-4b28-b644-b0e1b5cea803
-		-
+	-
 	- ### index component
 	  id:: 6877d550-1374-4f20-9c13-05dab5bc7793
-	  collapsed:: true
 		- collection of [[VSAM/Logical Record]]s
 		- contains
 			- the ((687664a2-e8a0-4c13-bc1e-64add9b7ff55))s
