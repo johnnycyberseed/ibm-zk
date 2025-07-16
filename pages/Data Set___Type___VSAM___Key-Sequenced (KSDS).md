@@ -7,6 +7,6 @@
 		- the key value must be unique
 	- the key value is immutable
 - also
-	- when a ((687662db-b23c-4fdf-bd60-3fa4aa27010c)) is
+	- when a [[VSAM/Logical Record]] is
 	-
 	-
