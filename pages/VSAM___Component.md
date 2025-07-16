@@ -1,6 +1,6 @@
 - A part of a VSAM Data Set.
 	- Each data set type has the appropriate components
-		- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] and [[Data Set/Type/VSAM/Variable-length Relative Record (VRRDS)]] include an ((6877d550-1374-4f20-9c13-05dab5bc7793))
+		- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] and [[Data Set/Type/VSAM/Variable-length Relative Record (VRRDS)]] include an [[VSAM/Component/Index]]
 		- the sequential-ish data sets have [[component/Data]]s only
 			- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
 			- [[Data Set/Type/VSAM/Relative Record (RRDS)]]
