@@ -1,1 +1,2 @@
 - records accessed by key (the hashmap of VSAM)
+- created using the [[utility/IDCAMS]]
