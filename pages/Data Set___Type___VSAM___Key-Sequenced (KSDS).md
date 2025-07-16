@@ -17,4 +17,5 @@
 		- records are enumerated in key order (either ascending or descending)
 	- direct
 		- must supply a key
-		-
+		- uses the b-tree to locate the corresponding record
+	-
