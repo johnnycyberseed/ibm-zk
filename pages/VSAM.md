@@ -37,7 +37,7 @@
 		-
 	- ## Cluster
 	  id:: 6877d907-7742-4c3c-a2be-0102f222a207
-		- one or two related ((687680d9-563d-40d0-ad51-d8aec7833c3d))
+		- one or two related [[VSAM/Component]]
 		- for each data set, there is an additional [[Catalog]] entry so that Data Sets with both ((6877d53a-f4ad-4b28-b644-b0e1b5cea803))s and ((6877d550-1374-4f20-9c13-05dab5bc7793))s can be referenced as a unit.
 	- ## Alternate Indexes (AIX)
 	  id:: 6877db4d-218c-4736-ad77-e66f253d84df
