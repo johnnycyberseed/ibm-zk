@@ -37,7 +37,7 @@
 	- ## Cluster
 	  id:: 6877d907-7742-4c3c-a2be-0102f222a207
 		- one or two related [[VSAM/Component]]
-		- for each data set, there is an additional [[Catalog]] entry so that Data Sets with both [[VSAM/Component/Data]]s and ((6877d550-1374-4f20-9c13-05dab5bc7793))s can be referenced as a unit.
+		- for each data set, there is an additional [[Catalog]] entry so that Data Sets with both [[VSAM/Component/Data]]s and [[VSAM/Component/Index]]s can be referenced as a unit.
 	- ## Alternate Indexes (AIX)
 	  id:: 6877db4d-218c-4736-ad77-e66f253d84df
 		- a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] ((6877d907-7742-4c3c-a2be-0102f222a207))
