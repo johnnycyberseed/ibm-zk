@@ -36,6 +36,7 @@
 	- ## Control Area (CA)
 		-
 	- ## Components
+	  id:: 687680d9-563d-40d0-ad51-d8aec7833c3d
 		- A part of a VSAM Data Set.
 			- Each data set type has the appropriate components
 				- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] and [[Data Set/Type/VSAM/Virtual Relative Record (VRRDS)]] include an ((6877d550-1374-4f20-9c13-05dab5bc7793))
@@ -48,9 +49,10 @@
 			- entry in the [[Catalog]]
 			- entry in the [[VTOC]]
 		- there are two kinds of components:
-			- data component
+			- ### data component
 			  id:: 6877d53a-f4ad-4b28-b644-b0e1b5cea803
-			- index component
+				-
+			- ### index component
 			  id:: 6877d550-1374-4f20-9c13-05dab5bc7793
 				- collection of ((687662db-b23c-4fdf-bd60-3fa4aa27010c))s
 				- contains
@@ -58,10 +60,11 @@
 					- and the ((687664aa-f465-4c56-860c-eaf22bf31e25))s
 					- of the logical records that contain those keys
 				- these indexes are in a B-Tree like structure
-			-
-				-
-				-
-			-
+	- ## Clusters
+		- one or two related ((687680d9-563d-40d0-ad51-d8aec7833c3d))
+		-
+		-
+		-
 	- Sphere
 - # Core Features of VSAM
 	- https://chatgpt.com/share/e/687661a1-6f38-8001-a02a-ca93c2df5aa5
