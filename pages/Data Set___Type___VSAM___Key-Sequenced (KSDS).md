@@ -15,4 +15,6 @@
 - access types
 	- sequential
 		- records are enumerated in key order (either ascending or descending)
-	-
+	- direct
+		- must supply a key
+		-
