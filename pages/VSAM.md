@@ -75,12 +75,14 @@
 		- Can use the [[utility/IDCAMS]] to define and create an AIX.
 			- by including the ((6877de3f-7502-4fe4-b15d-2373eaf086f6)) command
 		- Before you can access such data sets via their alternate indexes, a path must be defined in the catalog
-			- this is done through the [[utility/IDCAMS]]'
+			- this is done through the [[utility/IDCAMS]]'s ((6877df4d-343a-4b81-b943-3600c5e8183f)) command
+	-
 		-
 		-
 		-
 		-
-	- Sphere
+	- ## Sphere
+		-
 - # Core Features of VSAM
 	- https://chatgpt.com/share/e/687661a1-6f38-8001-a02a-ca93c2df5aa5
 	- TL;DR. VSAM automates a lot of the nitty gritty
