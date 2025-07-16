@@ -13,14 +13,9 @@
 		- writes "channel programs" in memory (called Virtual Channel Programs) which are micro-instructions for hardware while reading or writing.
 		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 - # Key Concepts
-	- ## Control Interval (CI)
-	  id:: 687665f1-6fa5-473c-9ebe-c2c2ccffc353
-	  collapsed:: true
-		- can range from 512B to 32KB.
-		- acts as a kind of window of access (fetching, mostly?)
 	- ## Spanned Records
 	  collapsed:: true
-		- logical records that are larger than the ((687665f1-6fa5-473c-9ebe-c2c2ccffc353)).
+		- logical records that are larger than the [[VSAM/Control Interval]].
 	- ## Control Area (CA)
 	- ## Component
 	  collapsed:: true
