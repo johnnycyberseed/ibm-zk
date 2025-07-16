@@ -1,4 +1,6 @@
 - Virtual Storage Access Method
+- no [[VSAM]]
+-
 - A family of data set types optimized for performance and flexible access
 - Types:
 	- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
