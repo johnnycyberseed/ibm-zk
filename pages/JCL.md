@@ -11,5 +11,9 @@
 -
 - # References
 	- https://www.ibm.com/docs/en/zos/latest?topic=introduction-job-control-language-jcl
-	-
+	- z/OS MVS JCL Reference, GC28-1757
+		- TODO locate and link to this guide, directly
+	- z/OS MVS JCL User's Guide, GC28-1758
+		- TODO locate and link to this guide, directly
+		-
 	-
