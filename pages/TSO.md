@@ -15,3 +15,8 @@
 		- `(username)` : `TKMA6S1`
 		- `(JES msg)` : `$HASP165`
 		- `(jobname)` : `TSU34156`
+-
+- # References
+	- z/OS TSO/E Command Reference, SA22-7782
+		- TODO locate and link to this document, directly
+	-
