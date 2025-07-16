@@ -8,5 +8,6 @@
 	- [[Data Set/Type/VSAM/Variable-length Relative Record (VRRDS)]]
 	- [[Data Set/Type/VSAM/Linear (LDS)]]
 -
--
+- Comparison (diagram)
+	- ![image.png](../assets/image_1752693853547_0.png){:height 0, :width 800}
 -
