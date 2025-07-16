@@ -18,8 +18,8 @@
 			-
 		- ### index component
 		  id:: 6877d550-1374-4f20-9c13-05dab5bc7793
+		  collapsed:: true
 			- collection of [[VSAM/Logical Record]]s
-				-
 			- contains
 				- the ((687664a2-e8a0-4c13-bc1e-64add9b7ff55))s
 				- and the ((687664aa-f465-4c56-860c-eaf22bf31e25))s
