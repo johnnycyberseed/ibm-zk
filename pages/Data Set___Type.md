@@ -3,6 +3,7 @@
 	- [[Data Set/Type/Partitioned Data Set (PDS)]] — like a folder or archive
 	- [[Data Set/Type/Extended PDS (PDSE)]] — new and improved PDS
 	- [[Data Set/Type/VSAM]]
+	  id:: 6863f468-b664-4b80-b5d8-b5e8218dd478
 	- [[Data Set/Type/Generational Data Group (GDG)]]
 	- [[Data Set/Type/Hierarchical File System (HFS)]] — Unix-like directory
 	- Diagram...

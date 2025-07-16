@@ -3,7 +3,7 @@
 		- Q: how is this different than the z/OS "Catalog"?
 		-
 	- Record Management
-	-
+		-
 - # Key Concepts
 	- Logical Record
 		- identified in one of three ways:
