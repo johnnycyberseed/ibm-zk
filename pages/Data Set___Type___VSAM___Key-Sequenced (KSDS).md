@@ -1,4 +1,9 @@
 - records accessed by key (the hashmap of VSAM)
 - created using the [[utility/IDCAMS]]'s ((6877e0f3-3ad1-4aa7-a2d7-068c7d4e2e7b)) with the ((6877e0f6-a278-4009-8565-f3711df822d1)) parameter
 - the key field has the following restrictions
-	- in all
+	- the key can be from 1 to 255 bytes
+	- across all ((687662db-b23c-4fdf-bd60-3fa4aa27010c))s,
+		- the key length must be the same
+		-
+	-
+	-
