@@ -33,7 +33,9 @@
 		-
 	- Components
 		- A part of a VSAM Data Set.
-			- Each type of data set has i
+			- Each data set type has the appropriate components
+				- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] and [[Data Set/Type/VSAM/Relative Record (RRDS)]]
+				-
 		- Each component has its own
 			- name
 			- entry in the [[Catalog]]
