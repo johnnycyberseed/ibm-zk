@@ -420,7 +420,8 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/forcesettings {:link-dist 180
- :charge-strength -200
- :charge-range 4000}
+ :charge-strength -1000
+ :charge-range 500}
  :graph/settings {:builtin-pages? false
- :journal? false}}
+ :journal? false
+ :orphan-pages? false}}
