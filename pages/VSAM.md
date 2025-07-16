@@ -34,8 +34,8 @@
 	- Components
 		- A part of a VSAM Data Set.
 			- Each data set type has the appropriate components
-				- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] and [[Data Set/Type/VSAM/Relative Record (RRDS)]] include an ((6877d550-1374-4f20-9c13-05dab5bc7793))
-				-
+				- [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] and [[Data Set/Type/VSAM/Virtual Relative Record (VRRDS)]] include an ((6877d550-1374-4f20-9c13-05dab5bc7793))
+				- the sequen
 		- Each component has its own
 			- name
 			- entry in the [[Catalog]]
