@@ -9,6 +9,6 @@
 	- [[DB2]]
 	- [[VSAM/Data-in-Virtual (DIV)]]
 - Components (diagram)
--
+	- ![image.png](../assets/image_1752693694445_0.png){:height 0, :width 800}
 -
 -
