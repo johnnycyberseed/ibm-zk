@@ -1,0 +1,5 @@
+- is made up of...
+	- a base [[VSAM/Cluster]]  and
+	- all of its associated [[VSAM/Alternate Index]]s.
+		-
+-
