@@ -1,6 +1,5 @@
 - records accessed by key (the hashmap of VSAM)
-- records can either be fixed-lengthed or variable-lengthed
--
+- records can either be fixed-length or variable-length
 - the key field has the following restrictions
 	- can be from 1 to 255 bytes
 	- across all [[VSAM/Logical Record]]s,
