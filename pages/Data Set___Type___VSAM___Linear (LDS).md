@@ -1,3 +1,6 @@
 -
 - created using the [[utility/IDCAMS]]'s ((6877e0f3-3ad1-4aa7-a2d7-068c7d4e2e7b)) with the ((6877fa2b-c92c-4270-81dd-5633cb0587db)) parameter
+- [[VSAM/Control Interval]] sizes are multiples of 4KB
+- all bytes are data bytes
+	- there are no
 -
