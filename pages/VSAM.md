@@ -38,11 +38,11 @@
 	- ## Cluster
 	  id:: 6877d907-7742-4c3c-a2be-0102f222a207
 		- one or two related [[VSAM/Component]]
-		- for each data set, there is an additional [[Catalog]] entry so that Data Sets with both ((6877d53a-f4ad-4b28-b644-b0e1b5cea803))s and ((6877d550-1374-4f20-9c13-05dab5bc7793))s can be referenced as a unit.
+		- for each data set, there is an additional [[Catalog]] entry so that Data Sets with both [[VSAM/Component/Data]]s and ((6877d550-1374-4f20-9c13-05dab5bc7793))s can be referenced as a unit.
 	- ## Alternate Indexes (AIX)
 	  id:: 6877db4d-218c-4736-ad77-e66f253d84df
 		- a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] ((6877d907-7742-4c3c-a2be-0102f222a207))
-			- contains a ((6877d550-1374-4f20-9c13-05dab5bc7793)) and ((6877d53a-f4ad-4b28-b644-b0e1b5cea803))
+			- contains a ((6877d550-1374-4f20-9c13-05dab5bc7793)) and [[VSAM/Component/Data]]
 			- allowing
 				- logical records of a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] or [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]] ((6877d907-7742-4c3c-a2be-0102f222a207))
 			- to be accessed sequentially by more than one key field.
