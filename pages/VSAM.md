@@ -16,7 +16,6 @@
 					- does not need to be unique
 			- Relative Byte Address (RBA) — bytes from the beginning of the data set to the start of the record
 			- Relative Record Number (RRN) — the index (zero-based) of the record; the 4th record has an RRN of 3.
-			-
 	- Physical Record
 		- aka "Block"
 	- Control Interval (CI)
@@ -27,6 +26,7 @@
 		- logical records that are larger than the ((687665f1-6fa5-473c-9ebe-c2c2ccffc353)).
 	- Control Area (CA)
 		-
+	- Components
 		-
 	- Sphere
 - # Core Features of VSAM
