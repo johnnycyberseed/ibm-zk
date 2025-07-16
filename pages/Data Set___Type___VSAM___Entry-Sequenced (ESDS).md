@@ -14,6 +14,7 @@
 	- direct
 		- you supply the ((687664aa-f465-4c56-860c-eaf22bf31e25))
 	- skip sequential (not supported)
--
+- components (diagram)
+	- ![image.png](../assets/image_1752692121054_0.png){:height 0, :width 800}
 -
 -
