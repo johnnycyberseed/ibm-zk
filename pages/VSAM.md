@@ -69,7 +69,10 @@
 	  id:: 6877db4d-218c-4736-ad77-e66f253d84df
 		- a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] ((6877d907-7742-4c3c-a2be-0102f222a207))
 			- contains a ((6877d550-1374-4f20-9c13-05dab5bc7793)) and ((6877d53a-f4ad-4b28-b644-b0e1b5cea803))
-			- allowing logical records of a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] or [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]] ((6877d907-7742-4c3c-a2be-0102f222a207)) to be
+			- allowing
+				- logical records of a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] or [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]] ((6877d907-7742-4c3c-a2be-0102f222a207))
+			- to be accessed sequentially by more than one key field.
+		-
 		-
 		-
 		-
