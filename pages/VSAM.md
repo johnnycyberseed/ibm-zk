@@ -14,17 +14,21 @@
 		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 - # Key Concepts
 	- ## Logical Record
+	  collapsed:: true
 		- {{embed [[VSAM/Logical Record]]}}
 	-
 	- ## Physical Record
+	  collapsed:: true
 		- aka "Block"
 		- VSAM data sets can only be defined on [[DASD]] devices.
 		-
 	- ## Control Interval (CI)
 	  id:: 687665f1-6fa5-473c-9ebe-c2c2ccffc353
+	  collapsed:: true
 		- can range from 512B to 32KB.
 		- acts as a kind of window of access (fetching, mostly?)
 	- ## Spanned Records
+	  collapsed:: true
 		- logical records that are larger than the ((687665f1-6fa5-473c-9ebe-c2c2ccffc353)).
 	- ## Control Area (CA)
 		-
