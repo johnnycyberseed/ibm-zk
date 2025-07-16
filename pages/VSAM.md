@@ -13,10 +13,6 @@
 		- writes "channel programs" in memory (called Virtual Channel Programs) which are micro-instructions for hardware while reading or writing.
 		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 - # Key Concepts
-	- ## Spanned Records
-	  collapsed:: true
-		- logical records that are larger than the [[VSAM/Control Interval]].
-	- ## Control Area (CA)
 	- ## Component
 	  collapsed:: true
 		- {{embed [[VSAM/Component]]}}

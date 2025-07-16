@@ -1,0 +1,1 @@
+- logical records that are larger than the [[VSAM/Control Interval]].

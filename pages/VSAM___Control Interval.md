@@ -1,3 +1,2 @@
--
 - can range from 512B to 32KB.
 - acts as a kind of window of access (fetching, mostly?)
