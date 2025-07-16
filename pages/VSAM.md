@@ -28,6 +28,7 @@
 				- the index (zero-based) of the record; the 4th record has an RRN of 3.
 	- ## Physical Record
 		- aka "Block"
+		- VSAM data sets can only be defined on
 	- ## Control Interval (CI)
 	  id:: 687665f1-6fa5-473c-9ebe-c2c2ccffc353
 		- can range from 512B to 32KB.
