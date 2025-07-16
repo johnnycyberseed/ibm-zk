@@ -73,6 +73,8 @@
 				- logical records of a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] or [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]] ((6877d907-7742-4c3c-a2be-0102f222a207))
 			- to be accessed sequentially by more than one key field.
 		- Can use the [[utility/IDCAMS]] to define and create an AIX.
+			- by including the ((6877de3f-7502-4fe4-b15d-2373eaf086f6)) command
+			-
 		-
 		-
 		-
