@@ -6,7 +6,14 @@
 		- see [[Data Set/Type/VSAM]] for Data Set types provided by VSAM
 		-
 		-
+- # Core Features
+	- https://chatgpt.com/share/e/687661a1-6f38-8001-a02a-ca93c2df5aa5
+	- TL;DR. VSAM automates a lot of the nitty gritty
+		- geometry of physical hardware (especially the 3390 disk drive)
+		- writes "channel programs" in memory (called Virtual Channel Programs) which are micro-instructions for hardware while reading or writing.
+		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 - # Key Concepts
+  collapsed:: true
 	- ## Logical Record
 	  id:: 687662db-b23c-4fdf-bd60-3fa4aa27010c
 		- identified in one of three ways:
@@ -88,13 +95,6 @@
 			- a base VSAM ((6877d907-7742-4c3c-a2be-0102f222a207)) and
 			- all of its associated ((6877db4d-218c-4736-ad77-e66f253d84df))s.
 		-
--
-- # Core Features of VSAM
-	- https://chatgpt.com/share/e/687661a1-6f38-8001-a02a-ca93c2df5aa5
-	- TL;DR. VSAM automates a lot of the nitty gritty
-		- geometry of physical hardware (especially the 3390 disk drive)
-		- writes "channel programs" in memory (called Virtual Channel Programs) which are micro-instructions for hardware while reading or writing.
-		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 -
 -
 - # References
