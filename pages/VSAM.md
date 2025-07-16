@@ -62,7 +62,7 @@
 				- these indexes are in a B-Tree like structure
 	- ## Clusters
 		- one or two related ((687680d9-563d-40d0-ad51-d8aec7833c3d))
-		-
+		- for each data set, there is an additional [[Catalog]] entry so that Data Sets with
 		-
 		-
 	- Sphere
