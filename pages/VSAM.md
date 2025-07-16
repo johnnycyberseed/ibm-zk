@@ -32,6 +32,8 @@
 			- name
 			- entry in the [[Catalog]]
 			- entry in the [[VTOC]]
+		- there are two kinds of components:
+			-
 			-
 	- Sphere
 - # Core Features of VSAM
