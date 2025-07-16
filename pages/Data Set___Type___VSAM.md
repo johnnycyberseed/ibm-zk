@@ -1,5 +1,5 @@
 - Virtual Storage Access Method
-- no [[VSAM]]
+- provided by the [[VSAM]] facility
 -
 - A family of data set types optimized for performance and flexible access
 - Types:
