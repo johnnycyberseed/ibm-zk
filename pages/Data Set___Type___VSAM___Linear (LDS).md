@@ -5,6 +5,10 @@
 	- there is no embedded control information
 - [[VSAM/Logical Record]]s in an LDS must be blocked and deblocked by the client program.
 - think: LDS is a non-VSAM data set with with some VSAM facilities
-- the most common user of this type of data set is [[DB2]]
-- used by the
+- most commonly used by:
+	- [[DB2]]
+	- [[VSAM/Data-in-Virtual (DIV)]]
+- Components (diagram)
+-
+-
 -
