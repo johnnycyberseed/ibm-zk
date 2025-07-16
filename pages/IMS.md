@@ -8,7 +8,7 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1752333373572_0.png){:width 800}
 - IMS Access Methods
-	- VSAM (the same as [[Data Set/Type/VSAM]]?)
+	- [[VSAM]]
 	- OSAM
 -
 - #  History
