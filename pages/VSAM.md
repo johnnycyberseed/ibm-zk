@@ -11,11 +11,13 @@
 	  id:: 687662db-b23c-4fdf-bd60-3fa4aa27010c
 		- identified in one of three ways:
 			- key field (the logical primary key)
+			  id:: 687664a2-e8a0-4c13-bc1e-64add9b7ff55
 				- can be up to 255 bytes in length
 				- must be unique across the data set
 				- There's also a secondary key or alternate key
 					- does not need to be unique
 			- Relative Byte Address (RBA) — bytes from the beginning of the data set to the start of the record
+			  id:: 687664aa-f465-4c56-860c-eaf22bf31e25
 			- Relative Record Number (RRN) — the index (zero-based) of the record; the 4th record has an RRN of 3.
 	- Physical Record
 		- aka "Block"
@@ -37,6 +39,8 @@
 			- data
 			- index
 				- collection of ((687662db-b23c-4fdf-bd60-3fa4aa27010c))s
+				- contains ((687664a2-e8a0-4c13-bc1e-64add9b7ff55))s and the ((687664aa-f465-4c56-860c-eaf22bf31e25))
+				-
 			-
 	- Sphere
 - # Core Features of VSAM
