@@ -9,8 +9,10 @@
 		- in stored record order
 		- empty slots are skipped
 	- direct
-		- provide the ((687664aa-f465-4c56-860c-eaf22bf31e25)) and the
+		- provide the ((687664aa-f465-4c56-860c-eaf22bf31e25))
+		- VSAM can calculate the ((6877f86b-4661-4ec6-a0a4-ed55341fdaf8)) by formula
 	- skip-sequentially
+		-
 	-
 - Components (diagram)
 	- ![image.png](../assets/image_1752692590691_0.png){:height 0, :width 800}
