@@ -25,6 +25,7 @@
 		- logical records that are larger than the ((687665f1-6fa5-473c-9ebe-c2c2ccffc353)).
 	- Control Area (CA)
 		-
+		-
 	- Sphere
 - # Core Features of VSAM
 	- https://chatgpt.com/share/e/687661a1-6f38-8001-a02a-ca93c2df5aa5
