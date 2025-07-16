@@ -1,3 +1,4 @@
 - a sequential set of records (the VSAM equivalent of [[Data Set/Type/Physical Sequential (PS)]])
-- created using the [[utility/IDCAMS]]'s ((6877e0f3-3ad1-4aa7-a2d7-068c7d4e2e7b)) with the ((6877e0f6-a278-4009-8565-f3711df822d1)) parameter
+- created using the [[utility/IDCAMS]]'s ((6877e0f3-3ad1-4aa7-a2d7-068c7d4e2e7b)) with the ((6877f357-9738-47fd-a3ff-5fb2c09c1f90)) parameter
+-
 -
