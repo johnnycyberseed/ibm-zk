@@ -14,7 +14,6 @@
 		- supports an automatic WAIT on your task when you _must_ know when an I/O operation is completed.
 - # Key Concepts
 	- ## Logical Record
-	  collapsed:: true
 		- {{embed [[VSAM/Logical Record]]}}
 	-
 	- ## Physical Record
@@ -32,6 +31,7 @@
 		- logical records that are larger than the ((687665f1-6fa5-473c-9ebe-c2c2ccffc353)).
 	- ## Control Area (CA)
 	- ## Component
+	  collapsed:: true
 		- {{embed [[VSAM/Component]]}}
 		-
 	- ## Cluster
