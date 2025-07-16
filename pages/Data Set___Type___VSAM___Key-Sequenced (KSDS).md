@@ -8,5 +8,6 @@
 	- the key value is immutable
 - also
 	- when a [[VSAM/Logical Record]] is
-	-
+- Components (diagram)
+	- ![image.png](../assets/image_1752690161234_0.png){height: }
 - created using the [[utility/IDCAMS]]'s ((6877e0f3-3ad1-4aa7-a2d7-068c7d4e2e7b)) with the ((6877e0f6-a278-4009-8565-f3711df822d1)) parameter
