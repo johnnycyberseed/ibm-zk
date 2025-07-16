@@ -1,4 +1,5 @@
 - There are two major parts of VSAM
+  title:: VSAM
 	- Catalog Management
 		- Q: how is this different than the z/OS "Catalog"?
 		-
