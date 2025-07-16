@@ -8,6 +8,11 @@
 		- add a new version of the record at the end of the data set
 		- re-use another record of the desired length as invalid
 - records are never split
--
+- access types
+	- sequential
+		- you can supply an ((687664aa-f465-4c56-860c-eaf22bf31e25))
+	- direct
+		- you supply the ((687664aa-f465-4c56-860c-eaf22bf31e25))
+	-
 -
 -
