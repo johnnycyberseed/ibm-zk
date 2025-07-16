@@ -10,9 +10,10 @@
 - records are never split
 - access types
 	- sequential
-		- you can supply an ((687664aa-f465-4c56-860c-eaf22bf31e25))
+		- you can supply an ((687664aa-f465-4c56-860c-eaf22bf31e25)) to start from a specific record
 	- direct
 		- you supply the ((687664aa-f465-4c56-860c-eaf22bf31e25))
-	-
+	- skip sequential (not supported)
+-
 -
 -
