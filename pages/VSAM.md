@@ -2,7 +2,6 @@
   title:: VSAM
 	- Catalog Management
 		- Q: how is this different than the z/OS "Catalog"?
-		-
 	- Record Management
 		- see [[Data Set/Type/VSAM]] for Data Set types provided by VSAM
 - # Core Features
