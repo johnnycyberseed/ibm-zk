@@ -1,2 +1,4 @@
 - Common Service Area
+- A region of virtual storage addressable by every [[z/OS]] address space.
+- Used for system-wide control blocks and communication
 -
