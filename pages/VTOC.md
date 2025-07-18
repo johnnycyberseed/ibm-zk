@@ -1,0 +1,15 @@
+- Volume Table of Contents
+- A critical data structure in the [[z/OS]] mainframe operating system.
+- Purposes
+	- **Catalog of Data Sets** — holds metadata about _all_ datasets stored on a specific [[DASD]]
+		- dataset size
+		- location
+		- creation date
+		- used/free space
+	- **Physical Location Index** — maps a given dataset name to its physical [[extents]]
+- Used by the  [[Data Set List Utility]] to list the datasets on a given [[volume]]
+- [[Catalog]] is a more system-wide directory (whereas a [[VTOC]] is specific to a given [[volume]]).
+- Utilities that use [[VTOC]]
+	- [[utility/IEHLIST]]
+	- [[utility/IEHPROGM]]
+	- [[utility/IDCAMS]]
