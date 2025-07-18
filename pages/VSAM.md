@@ -1,9 +1,8 @@
-- There are two major parts of VSAM
-  title:: VSAM
-	- Catalog Management
-		- Q: how is this different than the z/OS "Catalog"?
-	- Record Management
-		- see [[Data Set/Type/VSAM]] for Data Set types provided by VSAM
+- Virtual Storage Access Method
+- Catalog Management
+	- Q: how is this different than the z/OS "Catalog"?
+- Record Management
+	- see [[Data Set/Type/VSAM]] for Data Set types provided by VSAM
 -
 - # Core Features
 	- https://chatgpt.com/share/e/687661a1-6f38-8001-a02a-ca93c2df5aa5
