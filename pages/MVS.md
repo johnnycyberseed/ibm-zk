@@ -1,2 +1,3 @@
 - Multiple Virtual Storage
-- a base component of [[z/OS]] provides memory-management
+- a base component of [[z/OS]] providing memory-management and core OS services
+-
