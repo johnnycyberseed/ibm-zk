@@ -1,0 +1,2 @@
+- Multiple Virtual Storage
+- a base component of [[z/OS]] provides memory-management
