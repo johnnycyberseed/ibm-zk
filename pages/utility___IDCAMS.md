@@ -1,4 +1,5 @@
 - Integrated Data Cluster Access Method Services
+- aka "Access Methods Services"
 - provided by [[DFSMSdfp]]
 -
 -
