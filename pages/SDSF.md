@@ -1,2 +1,3 @@
 - System Display and Search Facility
-- a built-in z/OS GUI used to administer an instance ()
+- a built-in z/OS GUI used to monitor and manage a z/OS [[sysplex]]
+-
