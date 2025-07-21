@@ -8,6 +8,7 @@
 		- readers
 		- lines
 		- spool offloaders
+	- View checks from [[z/OS/Health Checker]]
 	-
 -
 - # References
