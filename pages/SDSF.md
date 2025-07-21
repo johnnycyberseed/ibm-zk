@@ -9,7 +9,7 @@
 		- lines
 		- spool offloaders
 	- View checks from [[z/OS/Health Checker]]
-	- Manage
+	- Manage [[z/OS/WLM]] scheduling
 -
 - # References
 	-
