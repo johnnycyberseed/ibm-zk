@@ -1,2 +1,2 @@
 - System Display and Search Facility
-- a built-in z/OS GUI
+- a built-in z/OS GUI used to administer an instance ()
