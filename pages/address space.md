@@ -1,2 +1,5 @@
 - the runtime container where programs and their data are accessed
-- within
+- within an address space, users can start multiple tasks using [[z/OS/Control Block/TCB]]s
+- analogous to a UNIX process
+	- [[ASID]]
+	-
