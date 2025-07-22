@@ -1,4 +1,5 @@
 - Facility that presents the total set of storage on the mainframe to a program such that it can theoretically address all of it.
 - aka "Virtual Memory"
 -
+- Partitioned out to programs to their [[address space]]
 -

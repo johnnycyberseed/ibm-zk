@@ -3,7 +3,7 @@
 	- Storage
 		- [[z/OS/CSTOR]]
 		- [[z/OS/AUX]]
-		- [[z/OS/Virtual Storage]]
+		- [[Virtual Storage]]
 		-
 	-
 - Facilities
