@@ -1,6 +1,7 @@
 - [[SMS]]
 -
-- Control Blocks:
+- [[z/OS/Control Block]]
+-
 - # References
 	- z/OS Basics — https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
 	- z/OS Documentation — https://www.ibm.com/docs/en/zos
