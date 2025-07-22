@@ -1,2 +1,3 @@
 - Storage external to the mainframe
-- Storage on [[DASD]],
+- e.g. Storage on [[DASD]]
+- accessed asynchronously
