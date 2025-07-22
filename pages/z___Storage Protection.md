@@ -2,6 +2,9 @@
 -
 - before a program can access a piece of real memory,
 	- every program has a [[PSW]]
+-
+- # References
+	- https://chatgpt.com/share/e/687fb8d3-1afc-8001-af52-f68cea2684d8
 	-
 -
 -
