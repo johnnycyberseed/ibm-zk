@@ -1,4 +1,4 @@
 -
 - # References
-	- https://www.ibm.com/docs/en/zos/2.5.0?topic=zm-zos-mvs-data-areas-volume-1-abe-iar
-	-
+	- https://www.ibm.com/docs/en/zos/2.2.0?topic=zm-zos-v2r2-mvs-data-areas-volume-1-abe-iax
+-
