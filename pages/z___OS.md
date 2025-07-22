@@ -1,3 +1,5 @@
 - [[SMS]]
 -
+- # References
+	- https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
 -
