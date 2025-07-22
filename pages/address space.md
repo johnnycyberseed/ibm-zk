@@ -5,7 +5,7 @@
 	- [[address space/ASID]]
 - ## Storage Map
 	- (diagram)
-	  collapsed:: true
+	  id:: 687fb224-d423-4332-9989-cef46c93324b
 		- ![image.png](../assets/image_1753199094633_0.png)
 - [[address space/private area]]
 -
