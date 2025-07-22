@@ -2,5 +2,5 @@
 	- https://www.redbooks.ibm.com/
 	- includes archived books
 - z/OS Documentation
-	- https://www.ibm.com/docs/en/zos
+	-
 	-
