@@ -18,4 +18,5 @@
 	- no extra network cables between systems
 	- near-zero network delay between systems
 	- no extra power supplies
+- [[z/Storage Protection]]
 -
