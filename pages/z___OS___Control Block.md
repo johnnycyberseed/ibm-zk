@@ -1,15 +1,12 @@
--
+- There are hundreds (thousands?) of
 - System-Related — one of these for the z/OS system.
 	- [[z/OS/Control Block/PSA]]
 	- [[z/OS/Control Block/CVT]]
+- Resource-Related
 	- [[z/OS/Control Block/SRB]]
 	- [[z/OS/Control Block/ASCB]]
-	-
-- Resource-Related
-	-
 - Job-Related
 	- [[z/OS/Control Block/JCT]]
-	-
 - Task-Related
 	- [[z/OS/Control Block/TCB]]
 	-
