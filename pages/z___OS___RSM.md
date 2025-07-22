@@ -1,2 +1,4 @@
 - Real Storage Manager
+- controls the allocation of [[z/OS/CSTOR]] during system init
+- pages in user or system functions during execution
 -
