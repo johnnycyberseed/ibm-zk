@@ -1,4 +1,14 @@
--
+- System-Related — one of these for the z/OS system.
+	- [[z/OS/Control Block/PSA]]
+	- [[z/OS/Control Block/CVT]]
+	- [[z/OS/Control Block/SRM]]
+- Resource-Related
+	-
+- Job-Related
+- Task-Related
+- [[z/OS/Control Block/Job-related]] — for each job spawned, there's one of these
+- [[z/OS/Control Block/Task-related]] — for each task (thread?)
+	-
 - # References
 	- https://www.ibm.com/docs/en/zos/2.2.0?topic=zm-zos-v2r2-mvs-data-areas-volume-1-abe-iax
 -
