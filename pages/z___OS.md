@@ -1,7 +1,9 @@
 - Foundations
 	- [[z/OS/Control Block]]
-	- [[z/OS/CSTOR]]
-	- [[z/OS/AUX]]
+	- Storage
+		- [[z/OS/CSTOR]]
+		- [[z/OS/AUX]]
+		-
 	-
 - Facilities
 	- [[z/OS/RSM]]
