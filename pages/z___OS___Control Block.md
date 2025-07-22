@@ -1,4 +1,7 @@
-- There are hundreds (thousands?) of
+- storage areas to help keep track of work
+- contains status data, tables or queues.
+-
+- There are hundreds (thousands?) of Control Blocks
 - System-Related — one of these for the z/OS system.
 	- [[z/OS/Control Block/PSA]]
 	- [[z/OS/Control Block/CVT]]
