@@ -15,4 +15,5 @@
 - # References
 	- z/OS Basics — https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
 	- z/OS Documentation — https://www.ibm.com/docs/en/zos
+	- "Back to Basics: z/OS Control Block Overview" — https://www.linkedin.com/pulse/back-basics-zos-control-block-overview-dean-montevago-1pxke/
 	-
