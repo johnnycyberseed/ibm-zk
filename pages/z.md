@@ -1,5 +1,5 @@
 - The 6th generation architecture of [[IBM]] mainframes
-- The name was chosen to
+- The name was chosen to indicate the machines had zero downtime.
 - Virtualization:
 	- [[PR/SM]] (firmware layer)
 		- [[LPAR]] A → runs z/OS directly
