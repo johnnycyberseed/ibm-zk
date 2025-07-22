@@ -1,3 +1,11 @@
 - Communication Vector Table
 - The master directory of other control blocks and tables used by control program routine
+- Holds key system wide information
+	- OS version
+	- pointers to
+		- [[z/OS/Control Block/LPA]]
+		- [[z/OS/Control Block/SQA]]
+		- [[z/OS/Control Block/CSA]]
+		-
 - Located at address 10 (PSA+0x10)
+-
