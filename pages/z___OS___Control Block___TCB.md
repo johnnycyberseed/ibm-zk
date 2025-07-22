@@ -1,3 +1,6 @@
+- Task Control Block
+- a repository of information and pointers associated with a task
 -
 - # References
+	- https://www.ibm.com/docs/en/zos/2.2.0?topic=information-tcb-heading
 	-
