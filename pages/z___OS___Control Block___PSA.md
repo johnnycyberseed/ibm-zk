@@ -1,5 +1,7 @@
 - Prefixed Save Area
--
+- The anchor for system-level data and interrupt handling.
+- Contains a pointer to the [[z/OS/Control Block/CVT]]
 - Lowest level control block
-- exists at address 0.
+- exists at address 0 (first 4k of storage)
+- Macro ID: IHAPSA
 -
