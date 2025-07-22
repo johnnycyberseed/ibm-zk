@@ -1,4 +1,5 @@
 - The 6th generation architecture of [[IBM]] mainframes
+- The name was chosen to
 - Virtualization:
 	- [[PR/SM]] (firmware layer)
 		- [[LPAR]] A → runs z/OS directly
