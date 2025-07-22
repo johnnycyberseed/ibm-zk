@@ -1,7 +1,7 @@
 - [[SMS]]
 -
 - [[Control blocks]]
-	- System-related — one of these for the z/OS system.
+	- [[z/OS/Control Block/System Related]] — one of these for the z/OS system.
 	- Resource-related — one of these for each device (CPU, storage, etc.)
 	- Job-related — for each job spawned, there's one of these
 	- Task-related —
