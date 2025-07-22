@@ -1,10 +1,10 @@
 - [[SMS]]
 -
-- [[Control blocks]]
-	- [[z/OS/Control Block/System Related]] — one of these for the z/OS system.
-	- [[z/OS/Control Block/Resource Related]] — one of these for each device (CPU, storage, etc.)
-	- [[z/OS/Control Block/Job-related]] — for each job spawned, there's one of these
-	- [[z/OS/Control Block/Task-related]] — for each task (thread?)
+-
+- [[z/OS/Control Block/CVT]] — one of these for the z/OS system.
+- [[z/OS/Control Block/Resource Related]] — one of these for each device (CPU, storage, etc.)
+- [[z/OS/Control Block/Job-related]] — for each job spawned, there's one of these
+- [[z/OS/Control Block/Task-related]] — for each task (thread?)
 	-
 - # References
 	- z/OS Basics — https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
