@@ -5,7 +5,7 @@
 		- [[z/OS/Control Block/CVT]]
 		- [[z/OS/Control Block/SRM]]
 	- Resource-Related
-		- [[z/OS/Control Block/DEB]] — one of these for each device (CPU, storage, etc.)
+		-
 	- Job-Related
 	- Task-Related
 - [[z/OS/Control Block/Job-related]] — for each job spawned, there's one of these
