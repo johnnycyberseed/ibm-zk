@@ -2,7 +2,6 @@
 - System-Related — one of these for the z/OS system.
 	- [[z/OS/Control Block/PSA]]
 	- [[z/OS/Control Block/CVT]]
-	- [[z/OS/Control Block/SRM]]
 - Resource-Related
 	-
 - Job-Related
