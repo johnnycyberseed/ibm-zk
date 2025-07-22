@@ -1,6 +1,7 @@
 - a means of ensuring that a program is authorized to use a piece of real memory.
 -
 - before a program can access a piece of real memory,
-	- every program has a
+	- every program has a [[PSW]]
+	-
 -
 -
