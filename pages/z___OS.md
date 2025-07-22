@@ -1,9 +1,11 @@
 - Foundations
 	- [[z/OS/Control Block]]
 	- [[z/OS/CSTOR]]
-	- [[z/OS/Auxiliary Storage]]
+	- [[z/OS/AUX]]
 	-
 - Facilities
+	- [[z/OS/RSM]]
+	-
 	- [[SMS]]
 -
 - # References
