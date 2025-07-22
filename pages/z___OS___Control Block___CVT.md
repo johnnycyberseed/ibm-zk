@@ -6,6 +6,5 @@
 		- [[z/OS/Control Block/LPA]]
 		- [[z/OS/Control Block/SQA]]
 		- [[z/OS/Control Block/CSA]]
-		-
 - Located at address 10 (PSA+0x10)
 -
