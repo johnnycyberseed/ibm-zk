@@ -1,0 +1,3 @@
+- the portion of the [[address space]] isolated from other [[address spaces]].
+- There are two:
+	- one below the

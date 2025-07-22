@@ -3,5 +3,7 @@
 - within an address space, users can start multiple tasks using [[z/OS/Control Block/TCB]]s
 - analogous to a UNIX process
 	- [[address space/ASID]]
-- private area is the portion of the address space isolated fom
+- [[address space/private area]]
+-
+-
 	-
