@@ -8,3 +8,6 @@
 		- [[z/OS/Control Block/CSA]]
 - Located at address 10 (PSA+0x10)
 -
+- # References
+	- https://www.ibm.com/docs/en/zos/2.2.0?topic=information-cvt-heading
+	-
