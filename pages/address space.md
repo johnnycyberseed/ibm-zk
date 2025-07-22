@@ -3,7 +3,9 @@
 - within an address space, users can start multiple tasks using [[z/OS/Control Block/TCB]]s
 - analogous to a UNIX process
 	- [[address space/ASID]]
--
+- there are two methods of inter-address space communication
+	- scheduling a [[z/OS/Control Block/SRB]]
+	- using cross-memory services and access registers
 - ## Storage Map
   collapsed:: true
 	- (diagram)
