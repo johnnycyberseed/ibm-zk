@@ -1,5 +1,5 @@
 - Task Control Block
-- a repository of information and pointers associated with a task within a
+- a repository of information and pointers associated with a task within an [[address space]]
 - analogous to a UNIX thread
 -
 - # References
