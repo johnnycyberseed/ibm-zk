@@ -7,6 +7,7 @@
 	- [[Data Set/Type/Generational Data Group (GDG)]]
 	- [[Data Set/Type/Hierarchical File System (HFS)]] — Unix-like directory
 	- Diagram...
+	  collapsed:: true
 		- {{renderer :mermaid_6863fa01-83ef-47a4-893a-ecac8b45712b, 5}}
 		  collapsed:: true
 			- ```mermaid
