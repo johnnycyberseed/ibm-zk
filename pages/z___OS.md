@@ -1,10 +1,10 @@
 - [[SMS]]
 -
 - [[Control blocks]]
-	- System-related
-	- Resource-related
-	- Job-related
-	- Task-related
+	- System-related — one of these for the z/OS system.
+	- Resource-related — one of these for each device (CPU, storage, etc.)
+	- Job-related — for each job spawned, there's one of these
+	- Task-related —
 - # References
 	- z/OS Basics — https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
 	- z/OS Documentation — https://www.ibm.com/docs/en/zos
