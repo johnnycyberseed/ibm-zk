@@ -1,0 +1,3 @@
+- address space identifier
+- analogous to a UNIX process' PID.
+-
