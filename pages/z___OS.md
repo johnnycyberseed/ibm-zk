@@ -1,9 +1,9 @@
 - Foundations
 	- [[z/OS/Control Block]]
 	- Storage
-		-
 		- [[z/OS/CSTOR]]
 		- [[z/OS/AUX]]
+		- [[z/OS/Virtual Storage]]
 		-
 	-
 - Facilities
