@@ -5,3 +5,6 @@
 - exists at address 0 (first 4k of storage)
 - Macro ID: IHAPSA
 -
+- # References
+	- https://www.ibm.com/docs/en/zos/2.2.0?topic=information-psa-heading
+	-
