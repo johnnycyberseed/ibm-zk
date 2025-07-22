@@ -1,7 +1,12 @@
 - [[SMS]]
 -
--
-- [[z/OS/Control Block/CVT]] — one of these for the z/OS system.
+- Control Blocks:
+	- System-Related — one of these for the z/OS system.
+		- [[z/OS/Control Block/CVT]]
+		- [[z/OS/Control Block/SRM]]
+	- Resource-Related
+	- Job-Related
+	-
 - [[z/OS/Control Block/Resource Related]] — one of these for each device (CPU, storage, etc.)
 - [[z/OS/Control Block/Job-related]] — for each job spawned, there's one of these
 - [[z/OS/Control Block/Task-related]] — for each task (thread?)
