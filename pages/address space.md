@@ -4,6 +4,8 @@
 - analogous to a UNIX process
 	- [[address space/ASID]]
 - [[address space/private area]]
--
+- Storage Map:
+	- ![image.png](../assets/image_1753199094633_0.png)
+	-
 -
 	-
