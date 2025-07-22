@@ -1,1 +1,4 @@
-- Facility that presents the total set of storage on the mainframe to a
+- Facility that presents the total set of storage on the mainframe to a program such that it can theoretically address all of it.
+- aka "Virtual Memory"
+-
+-
