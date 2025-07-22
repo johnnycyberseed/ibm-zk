@@ -1,2 +1,3 @@
 - Communication Vector Table
--
+- The master directory of other control blocks and tables used by control program routine
+- Located at address 10 (PSA+0x10)
