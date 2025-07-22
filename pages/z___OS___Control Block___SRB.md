@@ -1,5 +1,7 @@
 - Service Request Block
 - used as input to the [[z/OS/macro/SCHEDULE]] when shceduling a routine for asynchronous execution.
+- can be scheduled in the initiating [[address space]] or another [[address space]].
+-
 -
 - # References
 	- https://www.ibm.com/docs/en/zos/2.2.0?topic=information-srb-heading
