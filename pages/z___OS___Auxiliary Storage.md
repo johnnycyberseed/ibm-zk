@@ -1,0 +1,2 @@
+- Storage external to the mainframe
+- Storage on [[DASD]],
