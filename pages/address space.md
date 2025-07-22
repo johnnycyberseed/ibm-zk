@@ -3,9 +3,11 @@
 - within an address space, users can start multiple tasks using [[z/OS/Control Block/TCB]]s
 - analogous to a UNIX process
 	- [[address space/ASID]]
+- ## Storage Map
+	- (diagram)
+	  collapsed:: true
+		- ![image.png](../assets/image_1753199094633_0.png)
 - [[address space/private area]]
-- Storage Map:
-	- ![image.png](../assets/image_1753199094633_0.png)
-	-
+-
 -
 	-
