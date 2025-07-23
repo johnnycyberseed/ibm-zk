@@ -1,3 +1,4 @@
 - IMS
 -
-- MBR=  —
+- MBR=  — name of the application program
+-
