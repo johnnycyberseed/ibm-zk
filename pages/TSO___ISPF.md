@@ -3,4 +3,7 @@
 - A full-screen menu system — a text-based GUI for TSO
 - Includes:
 	- [[ISPF Editor]]
+-
+- # References
+	- https://www.ibm.com/docs/en/iptfz/7.1.0
 	-
