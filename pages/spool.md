@@ -1,3 +1,4 @@
 - Simultaneous Peripheral Operations OnLine.
+- [[JES]] uses one or more disk data sets for spooling.
 -
 -
