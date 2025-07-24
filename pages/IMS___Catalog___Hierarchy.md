@@ -20,7 +20,7 @@
 	- `DFSCPL00` — used for the initial load process
 	- `DFSCP001` — used for updated access
 		- e.g. ACBGEN and Catalog Populate utility (i.e. `DFS3UACB`), and purge utility
-	- `DFSCP000` — used for read access from COBOL/HLASM programs
+	- `DFSCP000` — used for read access from COBOL/ [[HLASM]] programs
 	- `DFSCP002` — used for read access from PL/1 programs
 	- `DFSCP003` — used for read access from PASCAL programs
 	-
