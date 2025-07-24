@@ -2,7 +2,11 @@
 - Introduced in IMS v12
 - It's technically optional
 	- required when,
-		-
+		- you're accessing IMS data from Java programs or .NET
+		- using IMS DB versioning
+		- using IMS native SQL support for COBOL
+		- using IMS-managed ACBs
+		- using DDL (which requires )
 - implemented as a [[IMS DB/HALDB]]
 - Contains metadata:
 	- for each database,
