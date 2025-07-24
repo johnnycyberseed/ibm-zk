@@ -10,7 +10,6 @@
 		- using DDL (which requires ((68824ee0-2573-4503-b539-958e4aabe1d4)))
 - implemented as a [[IMS DB/HALDB]]
 	- specifically a [[IMS DB/PHIDAM]] in [[Data Set/Type/OSAM]]s
-	-
 - Contains metadata:
 	- for each database,
 		- the [[IMS/segment]]s and their (hierarchical) relationships
@@ -18,5 +17,6 @@
 	- external data types of fields
 	- routines to transform incoming data to the storage format (and back again)
 	- the date/time pattern
+-
 - Not to be confused with the [[IMS/Repository]]
-	-
+-
