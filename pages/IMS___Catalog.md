@@ -2,4 +2,6 @@
 - Introduced in IMS v12
 - It's technically optional
 - implemented as a [[IMS DB/HALDB]]
--
+- Contains:
+	- for each database,
+		- the [[IMS/segment]]s and their (hierarchical) relationships
