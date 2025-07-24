@@ -1,0 +1,2 @@
+- Database Description
+- a [[z/OS/Control Block]] that defines the structure of a physical or logical database.
