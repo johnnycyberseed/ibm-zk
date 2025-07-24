@@ -20,6 +20,12 @@
 		- HDAM
 		- PHDAM
 		- HIDAM
+		- PHIDAM
+		- PSINDEX
+		- DEDB
+		- MSDB
+	- Can be stored in either
+		- a VSAM
 -
 - ## APIs
 	- [[IMS DB/DL/I]]
