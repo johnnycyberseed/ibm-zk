@@ -1,6 +1,8 @@
 -
 - Introduced in IMS v12
 - It's technically optional
+	- required when,
+		-
 - implemented as a [[IMS DB/HALDB]]
 - Contains metadata:
 	- for each database,
