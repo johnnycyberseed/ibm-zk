@@ -13,4 +13,5 @@
 		- Green —
 		- Blue —
 - There are two first child level segments for site customization: `DBDVEND` and `PSBVEND`
--
+- The DBD reserved name for the PHIDAM database is `DFSCD000`
+- The DBD reserved name for the PSINDEX database is `DFSCX`
