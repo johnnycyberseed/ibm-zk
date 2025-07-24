@@ -1,4 +1,5 @@
-- a [[HAL
+- a [[IMS DB/HALDB]] containing metadata about an IMS installation
+-
 - Introduced in IMS v12
 - It's technically optional
 	- required when,
