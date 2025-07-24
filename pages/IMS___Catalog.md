@@ -9,6 +9,7 @@
 		  id:: 68824ee0-2573-4503-b539-958e4aabe1d4
 		- using DDL (which requires ((68824ee0-2573-4503-b539-958e4aabe1d4)))
 - implemented as a [[IMS DB/HALDB]]
+	- specifically a [[IMS DB/PHIDAM]] in [[Data Set/Type/OSAM]]s
 	-
 - Contains metadata:
 	- for each database,
