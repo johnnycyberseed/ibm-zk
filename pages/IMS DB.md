@@ -20,7 +20,7 @@
 		- HDAM
 		- PHDAM
 		- HIDAM
-		- [[PHIDAM]]
+		- [[IMS DB/PHIDAM]]
 		- PSINDEX
 		- DEDB
 		- MSDB
