@@ -6,3 +6,8 @@
 	-
 - Segments within the IMS Catalog Hierarchy (diagram)
 	- ![image.png](../assets/image_1753372049970_0.png){:height 0, :width 1200}
+	- There are four (4) Data Set Groups:
+		- White —
+		- Grey —
+		- Green —
+		- Blue —
