@@ -14,8 +14,10 @@
 	- [[IMS DB/DL/I]]
 	- JDBC
 		- via [[IMS Universal JDBC Drivers]]
-		-
 		- SQL
+			- via a coprocessor
+				- https://www.ibm.com/docs/en/ims/14.1.0?topic=programming-application-sql
+				-
 	- [[IMS/CSL/ODBM]] for direct access to databases managed by IMS DB
 	-
 	-
