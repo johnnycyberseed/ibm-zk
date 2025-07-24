@@ -25,7 +25,9 @@
 		- DEDB
 		- MSDB
 	- Can be stored in either
-		- a VSAM
+		- a [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
+		- [[Data Set/Type/VSAM/OSAM]]
+		-
 -
 - ## APIs
 	- [[IMS DB/DL/I]]
