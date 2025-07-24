@@ -1,5 +1,5 @@
 -
-- At the top level, there are
+- HEADER — indicates which kind of resource
 	- DBD
 	- [[IMS TM/PSB]]
 		- each have one or more [[IMS TM/PCB]]s
