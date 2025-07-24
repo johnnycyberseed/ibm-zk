@@ -1,3 +1,3 @@
 - High-Availability Large Databases
 - Can hold up to 80 Terabytes.
--
+- Must be registered with the

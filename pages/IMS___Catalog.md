@@ -11,7 +11,8 @@
 - implemented as a [[IMS DB/HALDB]]
 	- specifically a [[IMS DB/PHIDAM]] in [[Data Set/Type/OSAM]]s
 	- defined with 4 DSGs
-	- has one secondary index: PSBs that referer
+	- has one secondary index: PSBs for a specific user database
+	-
 - Contains metadata:
 	- for each database,
 		- the [[IMS/segment]]s and their (hierarchical) relationships
