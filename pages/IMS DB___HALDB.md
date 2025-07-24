@@ -1,3 +1,4 @@
 - High-Availability Large Databases
 - Can hold up to 80 Terabytes.
-- Must be registered with the
+- Must be registered/defined in with the [[DBRC]] [[RECON]]s.
+-
