@@ -1,4 +1,8 @@
 -
-- At the top level
+- At the top level, there are
+	- DBD
+	- [[IMS TM/PSB]]
+		- each have one or more [[IMS TM/PCB]]s
+	-
 - Segments within the IMS Catalog Hierarchy (diagram)
 	- ![image.png](../assets/image_1753372049970_0.png){:height 0, :width 1200}
