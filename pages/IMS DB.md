@@ -10,7 +10,9 @@
 	- Root Segment
 	- Each segment can have multiple Child Segments
 	- Each relationship between a parent and child are known as "segment occurances"
-- APIs
+-
+-
+- ## APIs
 	- [[IMS DB/DL/I]]
 	- JDBC
 		- via [[IMS Universal JDBC Drivers]]
