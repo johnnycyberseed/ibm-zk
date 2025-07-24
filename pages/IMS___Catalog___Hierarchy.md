@@ -18,5 +18,8 @@
 	- The DBD reserved name for the PSINDEX database is `DFSCX000`
 - IMS Catalog PSBs
 	- `DFSCPL00` — used for the initial load process
-	- `DFSCP001`
+	- `DFSCP001` — used for updated access
+		- e.g. ACBGEN and Catalog Populate utility (i.e. `DFS3UACB`), and purge utility
+	- `DFSCP000` — used for read access from COBOL/HLASM programs
+	- `FDSCP002` — used for read access from PL/1
 	-
