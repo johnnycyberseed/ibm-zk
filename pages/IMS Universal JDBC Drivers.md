@@ -1,5 +1,6 @@
 -
-- Uses the
+- Queries the [[IMS/Catalog]] for metadata
+-
 - # References
 	- https://www.ibm.com/docs/en/ims/14.1.0?topic=drivers-programming-ims-universal-jdbc-driver
 	-
