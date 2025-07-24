@@ -6,7 +6,7 @@
 	- [[IMS DB/FF]]
 	- [[IMS DB/HALDB]]
 	- [[IMS DB/Fast Path]]
-- The Data Model
+- The Data Model of a database
 	- Root Segment
 	- Each segment can have multiple Child Segments
 	- Each relationship between a parent and child are known as "segment occurances"
@@ -17,11 +17,8 @@
 		- SQL
 			- via a coprocessor
 				- https://www.ibm.com/docs/en/ims/14.1.0?topic=programming-application-sql
-				-
 	- [[IMS/CSL/ODBM]] for direct access to databases managed by IMS DB
-	-
-	-
-- Supported Languages
+- ## Supported Languages
 	- Java
 		- typically using JDBC
 	- C/C++
@@ -31,6 +28,7 @@
 		- typically using [[IMS DB/DL/I]]
 	- PL/I
 	- REXX
--
+- ## Tools
+	-
 	-
 	-
