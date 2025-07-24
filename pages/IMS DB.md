@@ -2,16 +2,24 @@
 - Presents a hierarchical database model to users
 - Features
 	- backup/recovery of database
-- Supported Backends:
-	- [[IMS DB/FF]]
-	- [[IMS DB/HALDB]]
-	- [[IMS DB/Fast Path]]
 - The Data Model of a database
 	- Root Segment
 	- Each segment can have multiple Child Segments
 	- Each relationship between a parent and child are known as "segment occurances"
-- There are many types of Hierarchical Databases:
-	-
+- Supported Backends:
+	- [[IMS DB/FF]]
+	- [[IMS DB/HALDB]]
+	- [[IMS DB/Fast Path]]
+	- There are many types of Hierarchical Databases:
+		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
+		- HSAM
+		- HISAM
+		- SHSAM
+		- SHISAM
+		- GSAM
+		- HDAM
+		- PHDAM
+		- HIDAM
 -
 - ## APIs
 	- [[IMS DB/DL/I]]
