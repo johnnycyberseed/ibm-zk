@@ -10,7 +10,8 @@
 	- Root Segment
 	- Each segment can have multiple Child Segments
 	- Each relationship between a parent and child are known as "segment occurances"
--
+- There are many types of Hierarchical Databases:
+	-
 -
 - ## APIs
 	- [[IMS DB/DL/I]]
