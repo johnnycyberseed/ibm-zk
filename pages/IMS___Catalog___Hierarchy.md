@@ -1,12 +1,12 @@
 -
 - HEADER — indicates which kind of resource
-	- DBD
-	- [[IMS TM/PSB]]
-		- each have one or more [[IMS TM/PCB]]s
+	- [[IMS/DBD]]
+	- [[IMS/PSB]]
+		- each have one or more [[IMS/PCB]]s
 	-
 - Segments within the IMS Catalog Hierarchy (diagram)
 	- ![image.png](../assets/image_1753372049970_0.png){:height 0, :width 1200}
-	- Segment names typically correspond to macro statements in the DBD and [[IMS TM/PSB]] source.
+	- Segment names typically correspond to macro statements in the DBD and [[IMS/PSB]] source.
 	- There are four (4) Data Set Groups:
 		- White —
 		- Grey —

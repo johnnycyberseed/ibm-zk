@@ -4,7 +4,7 @@
 	- programming language
 	- inputs (like terminal specs)
 	- data definitions
-- contains one or more [[IMS TM/PCB]]s
+- contains one or more [[IMS/PCB]]s
 	- define what data the application can view
 - [[IMS TM/AIB]]
 -
