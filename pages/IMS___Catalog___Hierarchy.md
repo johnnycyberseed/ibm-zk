@@ -13,7 +13,10 @@
 		- Green —
 		- Blue —
 - There are two first child level segments for site customization: `DBDVEND` and `PSBVEND`
-- DBDs
+- IMS Catalog DBDs
 	- The DBD reserved name for the PHIDAM database is `DFSCD000`
 	- The DBD reserved name for the PSINDEX database is `DFSCX000`
--
+- IMS Catalog PSBs
+	- `DFSCPL00` — used for the initial load process
+	- `DFSCP001`
+	-
