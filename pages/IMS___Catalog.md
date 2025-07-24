@@ -13,7 +13,8 @@
 	- specifically a [[IMS DB/PHIDAM]] in [[Data Set/Type/OSAM]]s
 	- defined with 4 DSGs
 	- has one secondary index: PSBs for a specific user database
-	-
+- Has an extensive [[IMS/Catalog/Database]]
+-
 - Contains metadata:
 	- for each database,
 		- the [[IMS/segment]]s and their (hierarchical) relationships
