@@ -6,7 +6,8 @@
 		- using IMS DB versioning
 		- using IMS native SQL support for COBOL
 		- using IMS-managed ACBs
-		- using DDL (which requires )
+		  id:: 68824ee0-2573-4503-b539-958e4aabe1d4
+		- using DDL (which requires ((68824ee0-2573-4503-b539-958e4aabe1d4)))
 - implemented as a [[IMS DB/HALDB]]
 - Contains metadata:
 	- for each database,
