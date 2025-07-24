@@ -1,0 +1,5 @@
+-
+- Introduced in IMS v12
+- It's technically optional
+- implemented as a [[IMS DB/HALDB]]
+-

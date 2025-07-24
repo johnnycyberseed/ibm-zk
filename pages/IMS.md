@@ -10,6 +10,7 @@
 - IMS Access Methods
 	- [[VSAM]]
 	- OSAM
+- [[IMS/Catalog]]
 -
 - #  History
 	- 1968 — first introduced
