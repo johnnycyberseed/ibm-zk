@@ -5,4 +5,6 @@
 - Contains:
 	- for each database,
 		- the [[IMS/segment]]s and their (hierarchical) relationships
-		- for each [[IMS/segment]], its'
+		- for each [[IMS/segment]], it's key field
+	- external data types of fields
+	- routines to transform data
