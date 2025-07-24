@@ -2,9 +2,12 @@
 - Introduced in IMS v12
 - It's technically optional
 - implemented as a [[IMS DB/HALDB]]
-- Contains:
+- Contains metadata:
 	- for each database,
 		- the [[IMS/segment]]s and their (hierarchical) relationships
 		- for each [[IMS/segment]], it's key field
 	- external data types of fields
-	- routines to transform data
+	- routines to transform incoming data to the storage format (and back again)
+	- the date/time pattern
+-
+-
