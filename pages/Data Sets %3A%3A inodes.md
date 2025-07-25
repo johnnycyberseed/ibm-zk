@@ -1,2 +1,8 @@
 -
 -
+- ## How the analogy works ...
+-
+-
+-
+- ## Data Sets are not like inodes...
+-
