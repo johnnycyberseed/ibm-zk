@@ -29,4 +29,4 @@
 		- z/OS: pre-allocated extents
 	- Security metadata lives elsewhere
 		- Unix: permissions / ACLs in inode
-		- z/OS: RACF / ACF2 / TSS profiles
+		- z/OS: [[RACF]] / [[ACF2]] / TSS profiles
