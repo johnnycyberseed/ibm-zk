@@ -19,14 +19,14 @@
 	- "Data Set" is an umbrella term
 		- PS, PDS / PDSE, VSAM variants
 	- In z/OS, metadata is split across structures
-		- [[Catalog]] Catalog: logical info
+		- [[Catalog]] : logical info
 		- [[DSCB]] : physical info
 	- Byte vs record orientation
 		- Unix: byte stream
 		- z/OS: fixed / variable records
 	- Allocation model differs
 		- Unix: on-demand blocks, may fragment
-		- z/OS: pre-allocated extents
+		- z/OS: pre-allocated [[Data Set/Extents]].
 	- Security metadata lives elsewhere
 		- Unix: permissions / ACLs in inode
 		- z/OS: [[RACF]] / [[ACF2]] / TSS profiles
