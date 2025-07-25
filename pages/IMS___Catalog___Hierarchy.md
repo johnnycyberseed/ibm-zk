@@ -8,7 +8,7 @@
 	- ![image.png](../assets/image_1753372049970_0.png){:height 0, :width 1200}
 	- Segment names typically correspond to macro statements in the DBD and [[IMS/PSB]] source.
 	- There are four (4) Data Set Groups:
-		- White —
+		- White — `<HALDB data set prefix>.A00001`
 		- Grey —
 		- Green —
 		- Blue —
