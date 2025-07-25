@@ -7,13 +7,14 @@
 - Segments within the IMS Catalog Hierarchy (diagram)
 	- ![image.png](../assets/image_1753372049970_0.png){:height 0, :width 1200}
 	- Segment names typically correspond to macro statements in the DBD and [[IMS/PSB]] source.
-	- There are four (4) Data Set Groups:
+	- There are four (4) Data Set Groups (DSNs are not necessarily mapped to the color codes; just illustrating):
 		- White — `<HALDB data set prefix>.A00001`
 		- Grey — `<HALDB data set prefix>.B00001`
 		- Green — `<HALDB data set prefix>.C00001`
 		- Blue — `<HALDB data set prefix>.D00001`
 	- and two additional:
-		- `<HALDB data set prefix>.X00001`
+		- HIDAM index — `<HALDB data set prefix>.X00001`
+		- ILDS data set — `<HALDB data set prefix>.L00001`
 - There are two first child level segments for site customization: `DBDVEND` and `PSBVEND`
 - IMS Catalog DBDs
 	- The DBD reserved name for the PHIDAM database is `DFSCD000`
