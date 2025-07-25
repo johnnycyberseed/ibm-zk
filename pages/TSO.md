@@ -18,5 +18,6 @@
 -
 - # References
 	- z/OS TSO/E Command Reference, SA22-7782
-		- TODO locate and link to this document, directly
+		- https://publibz.boulder.ibm.com/epubs/pdf/ikj4c5b0.pdf
+		-
 	-
