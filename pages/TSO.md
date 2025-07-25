@@ -18,7 +18,6 @@
 -
 - # References
 	- z/OS TSO/E Command Reference
-		- https://www.ibm.com/docs/en/zos/2.5.0?topic=commands-list-tsoe
-		-
+		- https://www.ibm.com/docs/en/zos/2.5.0?topic=reference-tsoe-commands-subcommands
 		-
 	-
