@@ -4,14 +4,14 @@
 - ## How the analogy works
 	- Separate name from metadata
 		- Unix: directory entry → inode
-		- z/OS: catalog entry → DSCB
+		- z/OS: catalog entry → [[DSCB]]
 	- Store physical layout & attributes
 		- block / extent addresses
 		- size & timestamps
 		- attribute flags
 	- Map metadata to data blocks
 		- Unix: inode → file blocks
-		- z/OS: DSCB → dataset extents / records
+		- z/OS: [[DSCB]] → dataset extents / records
 	- Support multiple names for one object
 		- Unix: hard links share inode
 		- z/OS: catalog aliases / volser refs
@@ -20,7 +20,7 @@
 		- PS, PDS / PDSE, VSAM variants
 	- In z/OS, metadata is split across structures
 		- Catalog: logical info
-		- DSCB: physical info
+		- [[DSCB]] : physical info
 	- Byte vs record orientation
 		- Unix: byte stream
 		- z/OS: fixed / variable records
