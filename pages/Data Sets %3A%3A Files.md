@@ -1,5 +1,6 @@
-- ## Summary
-- The closest Unix equivalent of a **z/OS Data Set** is an ordinary Unix **file**, while the **Data Set Control Block (DSCB)** that lives in the VTOC is what most closely matches a Unix **inode**.
+## Summary
+- The closest Unix equivalent of a **z/OS Data Set** is an ordinary Unix **file**
+- the **Data Set Control Block (DSCB)** that lives in the [[Volume Table Of Contents (VTOC)]] is what most closely matches a Unix **inode**.
 -
 - ## How the analogy works
 - Both platforms separate the user-facing name (directory entry on Unix; catalog entry on z/OS) from the on-disk metadata structure (inode / DSCB).
