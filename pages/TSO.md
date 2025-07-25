@@ -18,6 +18,7 @@
 -
 - # References
 	- z/OS TSO/E Command Reference, SA22-7782
+		- https://www.ibm.com/docs/en/zos/2.5.0?topic=commands-list-tsoe
 		- https://publibz.boulder.ibm.com/epubs/pdf/ikj4c5b0.pdf
 		-
 	-
