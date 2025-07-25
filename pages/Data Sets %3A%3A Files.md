@@ -1,5 +1,5 @@
 ## Summary
-- The closest Unix equivalent of a **z/OS Data Set** is an ordinary Unix **file**
+- The closest Unix equivalent of a [[Data Set]] is an ordinary Unix **file**
 - the [[DSCB]] that lives in the [[VTOC]] is what most closely matches a Unix **inode**.
 -
 - ## How the analogy works
