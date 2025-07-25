@@ -1,18 +1,32 @@
 ## Summary
-- The closest Unix equivalent of a [[Data Set]] is an ordinary Unix **file**
-- the [[DSCB]] that lives in the [[VTOC]] is what most closely matches a Unix **inode**.
--
+- [[Data Set]] ≈ Unix **file**
+- [[DSCB]] in [[VTOC]] ≈ Unix **inode**
 - ## How the analogy works
-- Both separate the user-facing name from the on-disk metadata structure (inode / DSCB).
-  - Unix: directory entry
-  - z/OS: catalog entry
-- The inode and DSCB store physical layout information—block or extent addresses, size, timestamps, and attribute flags.
-- File contents (blocks) on Unix and records/blocks in a Data Set are located via those block/extents recorded in the inode/DSCB.
-- Multiple names can refer to the same object: Unix hard links → same inode; z/OS can catalog aliases or reference the same Data Set by volume serial.
--
+	- Separate name from metadata
+		- Unix: directory entry → inode
+		- z/OS: catalog entry → DSCB
+	- Store physical layout & attributes
+		- block / extent addresses
+		- size & timestamps
+		- attribute flags
+	- Map metadata to data blocks
+		- Unix: inode → file blocks
+		- z/OS: DSCB → dataset extents / records
+	- Support multiple names for one object
+		- Unix: hard links share inode
+		- z/OS: catalog aliases / volser refs
 - ## How the analogy breaks down
-- "Data Set" is a broader concept: it can be sequential (PS), partitioned (PDS / PDSE, acting a bit like a mini-filesystem), or VSAM datasets, whereas a Unix inode always describes a single file object.
-- The Unix inode holds (almost) all metadata; on z/OS the metadata is split between the catalog and the DSCB, so no single structure maps 1-to-1.
-- Unix files are generally byte-stream oriented; many Data Sets are record-oriented with fixed/variable record formats.
-- Allocation differs: Unix allocates blocks on demand and can fragment; Data Sets usually pre-allocate space in one or more contiguous extents.
-- Security metadata lives in the inode on Unix (permission bits, ACLs); on z/OS access control is enforced by RACF/ACF2/Top-Secret profiles outside the DSCB.
+	- "Data Set" is an umbrella term
+		- PS, PDS / PDSE, VSAM variants
+	- Metadata split across structures
+		- Catalog: logical info
+		- DSCB: physical info
+	- Byte vs record orientation
+		- Unix: byte stream
+		- z/OS: fixed / variable records
+	- Allocation model differs
+		- Unix: on-demand blocks, may fragment
+		- z/OS: pre-allocated extents
+	- Security metadata lives elsewhere
+		- Unix: permissions / ACLs in inode
+		- z/OS: RACF / ACF2 / TSS profiles
