@@ -19,7 +19,7 @@
 	- "Data Set" is an umbrella term
 		- PS, PDS / PDSE, VSAM variants
 	- In z/OS, metadata is split across structures
-		- Catalog: logical info
+		- [[Catalog]] Catalog: logical info
 		- [[DSCB]] : physical info
 	- Byte vs record orientation
 		- Unix: byte stream
