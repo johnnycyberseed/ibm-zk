@@ -1,10 +1,10 @@
 ## Summary
-	- Unix **interactive shell session** (e.g., `bash`, `zsh`) ≈ z/OS **TSO/E logon session**
+	- Unix **interactive shell session** (e.g., `bash`, `zsh`) ≈ z/OS [[TSO]]/E logon session
 	- Shell process (PID, controlling tty) ≈ TSO logon [[address space]] / LOGONID / LU (terminal)
 - ## How the analogy works
 	- Present a command-line interface
 		- Unix: shell prompt reads, parses, executes user commands
-		- z/OS: TSO READY prompt (or ISPF panels) accept CLIST / REXX / TSO commands
+		- z/OS: TSO READY prompt accept CLIST / REXX / TSO commands
 	- Maintain per-user environment
 		- Unix: environment variables, current working directory, ulimits, UID/GID
 		- z/OS: LOGONID, profile datasets, PREFIX, DATASET allocations, security context (RACF)
