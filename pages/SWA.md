@@ -1,6 +1,6 @@
 - Step Work Area
 - a collection of control blocks that JES builds when it converts the step’s JCL into internal form.
-- It holds
+- It hold
 	- the translated DD statements [[JFCB]]
 	- program parameters
 	- other per-step data that OPEN, CLOSE
