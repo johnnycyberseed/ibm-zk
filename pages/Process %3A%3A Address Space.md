@@ -1,2 +1,6 @@
+- ## Summary
 -
+- ## How the analogy works
+-
+- ## How the analogy breaks down
 -
