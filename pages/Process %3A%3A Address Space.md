@@ -23,7 +23,7 @@
 		- z/OS dispatcher selects **TCBs/SRBs**; an address space itself is never scheduled
 	- Shared common areas
 		- Unix: only kernel space is global; user processes cannot directly share arbitrary pages
-		- z/OS: all address spaces can map **CSA/SQA/LPA** – true global memory
+		- z/OS: all address spaces can map [[CSA]] / [[SQA]] / [[LPA]] – true global memory
 	- Lifetime & creation model
 		- Unix: `fork()` / `exec()` create new processes on demand
 		- z/OS: jobs & started tasks create whole address spaces; no simple fork-clone primitive
