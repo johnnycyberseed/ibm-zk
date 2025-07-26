@@ -12,3 +12,5 @@
 - Comparison (diagram)
 	- ![image.png](../assets/image_1752693853547_0.png){:height 0, :width 800}
 -
+- ## Common Operations
+	- [[How To Create a new VSAM Data Set]]
