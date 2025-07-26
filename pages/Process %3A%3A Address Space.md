@@ -29,7 +29,7 @@
 		- z/OS: jobs & started tasks create whole address spaces; no simple fork-clone primitive
 	- Hierarchy of control blocks
 		- Unix keeps most metadata in one `task_struct` (+ mm_struct)
-		- z/OS spreads state across [[z/OS/Control Block/ASCB]] → [[z/OS/Control Block/JSCB]] JSCB → TCB/SRB chain
+		- z/OS spreads state across [[z/OS/Control Block/ASCB]] → [[z/OS/Control Block/JSCB]] → [[z/OS/Control Block/TCB]]/ [[z/OS/Control Block/SRB]] chain
 	- Security identity granularity
 		- Unix: each process carries a single UID/GID set; threads share it
 		- z/OS: tasks inside an address space can switch credentials (e.g., authorized code issuing `SETUID`-like services)
