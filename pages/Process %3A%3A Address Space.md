@@ -1,6 +1,6 @@
 ## Summary
-- [[Address Space]] ≈ Unix **process**
-- [[ASCB]] / [[JSCB]] control blocks ≈ Unix **task_struct** / process descriptor
+- Unix **process** = [[Address Space]]
+- Unix **task_struct** / process descriptor = [[z/OS/Control Block/ASCB]] / [[z/OS/Control Block/JSCB]] control blocks
 - ## How the analogy works
 	- Provide a unique identity
 		- Unix: Process ID (**PID**)
