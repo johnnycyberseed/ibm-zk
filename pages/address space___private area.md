@@ -1,4 +1,4 @@
-- the portion of the [[address space]] isolated from other [[address spaces]].
+- the portion of the [[address space]] isolated from other [[address space]]s.
 - {{embed ((687fb224-d423-4332-9989-cef46c93324b))}}
 	- There are two:
 		- one below the 16MB line ("the line")
