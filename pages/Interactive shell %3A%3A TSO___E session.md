@@ -1,6 +1,37 @@
-- ## Summary
-- 
-- ## How the analogy works
-- 
-- ## How the analogy breaks down
-- 
+## Summary
+- Unix **interactive shell session** (e.g., `bash`, `zsh`) ≈ z/OS **TSO/E logon session**
+- Shell process (PID, controlling tty) ≈ TSO logon address space / LOGONID / LU (terminal)
+
+## How the analogy works
+	- Present a command-line interface
+		- Unix: shell prompt reads, parses, executes user commands
+		- z/OS: TSO READY prompt (or ISPF panels) accept CLIST / REXX / TSO commands
+	- Maintain per-user environment
+		- Unix: environment variables, current working directory, ulimits, UID/GID
+		- z/OS: LOGONID, profile datasets, PREFIX, DATASET allocations, security context (RACF)
+	- Act as interactive front-end for launching work
+		- Unix: `fork`/`exec` to run programs, background `&`, pipelines, job control
+		- z/OS: `CALL` or `EXEC` to run load modules, `SUBMIT` to launch batch jobs, multiple address spaces via STARTED tasks
+	- Provide text editing & scripting capabilities
+		- Unix: shell functions, here-docs, editors like `vi`
+		- z/OS: ISPF editor, REXX/CLIST scripting inside the session
+	- I/O routed through a terminal device
+		- Unix: pseudo-tty or physical tty
+		- z/OS: 3270 LU or tn3270 session mapped to the TSO address space
+
+## How the analogy breaks down
+	- Hosting model
+		- Unix shell is just another user process; killing it ends the session
+		- TSO/E session owns a dedicated address space managed by VTAM & JES; logging off terminates the entire address space, freeing datasets & control blocks
+	- Multiprogramming visibility
+		- Unix shell shows child PIDs and allows `fg`/`bg`
+		- TSO commands run either in the same address space or spawn separate initiators; limited traditional job control
+	- Terminal capabilities
+		- Unix: ANSI/VT100 streams with continuous scrolling
+		- 3270: screen-oriented, field-formatted I/O; input sent on ENTER/PF keys
+	- Resource allocation
+		- Unix: open files consume file descriptors; limits are per process
+		- TSO: dynamic dataset allocation (`ALLOC`), region size limits, enqueues handled by MVS
+	- Scripting language scope
+		- Unix shell syntax is built into the shell process itself
+		- TSO/E relies on external interpreters (CLIST, REXX) that run as command processors inside the session
