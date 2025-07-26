@@ -19,7 +19,7 @@
 			- `SHR` — the data set should exist; open in shared mode
 			- `MOD` — if the data set does not exist, create it. open so new records can be appended
 		- Termination Dispositions
-			- `DELETE` —
+			- `DELETE` — the data set is no longer needed (whether it's actually delete depends on if RACF )
 - # References
 	- https://www.ibm.com/docs/en/zos/3.1.0?topic=reference-dd-statement
 	-
