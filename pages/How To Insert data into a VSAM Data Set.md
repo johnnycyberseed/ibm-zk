@@ -6,8 +6,9 @@
   //DEFCLU   EXEC PGM=IDCAMS
   //SYSPRINT DD   SYSOUT=*
   //SYSIN    DD   *
-    DEFINE CLUSTER( -
+    DEFINE CLUSTER(                  -
            NAME(W044Z.ADHOC.COMPTES) -
-           KEU
-           )
+           KEYS(4 0)                 -
+           RECORDS(50))
+  /*
   ```
