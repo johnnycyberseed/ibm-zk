@@ -4,7 +4,7 @@
 - ## How the analogy works
 	- Separate name from metadata
 		- Unix: directory entry → inode
-		- z/OS: catalog entry → [[DSCB]]
+		- z/OS: [[Catalog]] entry → [[DSCB]]
 	- Store physical layout & attributes
 		- block / extent addresses
 		- size & timestamps
