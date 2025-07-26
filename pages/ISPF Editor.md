@@ -2,4 +2,5 @@
 - ## Common Commands
 	- `COLS ON` — turns on the line ruler
 		- useful for writing well-formed listings
-	- `HILITE` —
+	- `HILITE` — manage syntax highlighting
+	-
