@@ -1,8 +1,8 @@
 - Job-Step Control Block
 - holds JCL- and JES-related data for that step and points to the chain of TCBs/SRBs performing the work.
 - Each job step running in the address space (for example, one step in a batch job or a started task) gets its own JSCB.
-- the base for the job-step environment, in particular **SWA** and **Allocation**.
-- **SWA (Step Work Area)** — a collection of control blocks that JES builds when it converts the step’s JCL into internal form. It holds the translated DD statements (JFCBs), program parameters, and other per-step data that OPEN, CLOSE, and other system services reference during execution.
+- the base for the job step environment, in particular [[SWA]] SWA and Allocation.
+-
 - **Allocation** — the chain of control blocks owned by the MVS Allocation component that represent every data set or device assigned to this step (e.g., TIOT, UCB, DEB structures). The JSCB anchors this chain so Allocation can locate, manage, and later free all resources when the step finishes.
 -
 - # References
