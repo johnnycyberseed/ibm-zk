@@ -1,25 +1,23 @@
 ## Summary
 - [[Address Space]] ≈ Unix **process**
 - [[ASCB]] / [[JSCB]] control blocks ≈ Unix **task_struct** / process descriptor
-
-## How the analogy works
+- ## How the analogy works
 	- Provide a unique identity
 		- Unix: Process ID (**PID**)
-		- z/OS: Address-space ID (**ASID**)
+		- z/OS: [[address space/ASID]]
 	- Encapsulate virtual memory context
 		- Unix: page tables map virtual → physical pages
 		- z/OS: segment/page tables map virtual → real frames (24-, 31-, 64-bit)
 	- Contain schedulable execution units
 		- Unix: threads (kernel schedulable entities) live inside a process
-		- z/OS: **TCBs** & **SRBs** are the tasks inside an address space
+		- z/OS: [[z/OS/Control Block/TCB]]s & [[z/OS/Control Block/SRB]]s are the tasks inside an address space
 	- Own handle to operating-system resources
 		- Unix: file descriptors, signal handlers, credentials
 		- z/OS: DD statements, control blocks, security profile (RACF)
 	- Isolation boundary for faults & storage protection
 		- Unix: separate address spaces prevent one process corrupting another
 		- z/OS: key & storage-protection bits plus private area keep address spaces isolated
-
-## How the analogy breaks down
+- ## How the analogy breaks down
 	- Scheduling focus differs
 		- Unix dispatcher chooses a **thread**; the process is merely a container
 		- z/OS dispatcher selects **TCBs/SRBs**; an address space itself is never scheduled
