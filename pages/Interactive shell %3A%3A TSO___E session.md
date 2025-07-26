@@ -10,9 +10,9 @@
 		- z/OS: LOGONID, profile datasets, PREFIX, DATASET allocations, security context (RACF)
 	- Act as interactive front-end for launching work
 		- Unix: `fork`/`exec` to run programs, background `&`, pipelines, job control
-		- z/OS: `CALL` or `EXEC` to run load modules, `SUBMIT` to launch batch jobs, multiple address spaces via STARTED tasks
+		- z/OS: `CALL` or `EXEC` to run load modules, `SUBMIT` to launch batch jobs, multiple [[address space]]s via STARTED tasks
 	- Provide text editing & scripting capabilities
-		- Unix: shell functions, here-docs, editors like `vi`
+		- Unix: editors like `vi`, shell functions
 		- z/OS: ISPF editor, REXX/CLIST scripting inside the session
 	- I/O routed through a terminal device
 		- Unix: pseudo-tty or physical tty
