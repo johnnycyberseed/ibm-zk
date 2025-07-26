@@ -13,7 +13,7 @@
 		- z/OS: [[z/OS/Control Block/TCB]]s & [[z/OS/Control Block/SRB]]s are the tasks inside an address space
 	- Own handle to operating-system resources
 		- Unix: file descriptors, signal handlers, credentials
-		- z/OS: DD statements, control blocks, security profile (RACF)
+		- z/OS: DD statements, [[z/OS/Control Block]] , security profile [[RACF]]
 	- Isolation boundary for faults & storage protection
 		- Unix: separate address spaces prevent one process corrupting another
 		- z/OS: key & storage-protection bits plus private area keep address spaces isolated
