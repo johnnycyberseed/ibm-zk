@@ -7,5 +7,7 @@
   //SYSPRINT DD   SYSOUT=*
   //SYSIN    DD   *
     DEFINE CLUSTER( -
-    )
+           NAME(W044Z.ADHOC.COMPTES) -
+           KEU
+           )
   ```
