@@ -14,3 +14,5 @@
 -
 - ## Common Operations
 	- [[How To Create a new VSAM Data Set]]
+	- [[How To Insert data into a VSAM Data Set]]
+	-
