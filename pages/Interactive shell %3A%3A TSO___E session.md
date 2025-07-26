@@ -1,8 +1,7 @@
 ## Summary
-- Unix **interactive shell session** (e.g., `bash`, `zsh`) ≈ z/OS **TSO/E logon session**
-- Shell process (PID, controlling tty) ≈ TSO logon address space / LOGONID / LU (terminal)
-
-## How the analogy works
+	- Unix **interactive shell session** (e.g., `bash`, `zsh`) ≈ z/OS **TSO/E logon session**
+	- Shell process (PID, controlling tty) ≈ TSO logon [[address space]] / LOGONID / LU (terminal)
+- ## How the analogy works
 	- Present a command-line interface
 		- Unix: shell prompt reads, parses, executes user commands
 		- z/OS: TSO READY prompt (or ISPF panels) accept CLIST / REXX / TSO commands
@@ -18,8 +17,7 @@
 	- I/O routed through a terminal device
 		- Unix: pseudo-tty or physical tty
 		- z/OS: 3270 LU or tn3270 session mapped to the TSO address space
-
-## How the analogy breaks down
+- ## How the analogy breaks down
 	- Hosting model
 		- Unix shell is just another user process; killing it ends the session
 		- TSO/E session owns a dedicated address space managed by VTAM & JES; logging off terminates the entire address space, freeing datasets & control blocks
