@@ -1,10 +1,12 @@
 -
-- # List Data Sets from TSO/E
+- # List details of specific data set (TSO)
+	- To list a specific data set
 	- ```
 	    READY
-	   LISTCAT ENTRIES(&DSN.)
+	   LISTCAT ENTRIES(ADHOC.PROCLIB) ALL
 	  ```
-	-
+	- Note:
+		- DSNs are automatically prefixed to your
 - # Add a PDS to the EXEC Library
 	- e.g. with a PDS named `YOURID.REXX.EXEC` that contains a member named `IMSPING`
 	- ```
