@@ -1,6 +1,37 @@
-- ## Summary
--
-- ## How the analogy works
--
-- ## How the analogy breaks down
--
+## Summary
+- [[Address Space]] ≈ Unix **process**
+- [[ASCB]] / [[JSCB]] control blocks ≈ Unix **task_struct** / process descriptor
+
+## How the analogy works
+	- Provide a unique identity
+		- Unix: Process ID (**PID**)
+		- z/OS: Address-space ID (**ASID**)
+	- Encapsulate virtual memory context
+		- Unix: page tables map virtual → physical pages
+		- z/OS: segment/page tables map virtual → real frames (24-, 31-, 64-bit)
+	- Contain schedulable execution units
+		- Unix: threads (kernel schedulable entities) live inside a process
+		- z/OS: **TCBs** & **SRBs** are the tasks inside an address space
+	- Own handle to operating-system resources
+		- Unix: file descriptors, signal handlers, credentials
+		- z/OS: DD statements, control blocks, security profile (RACF)
+	- Isolation boundary for faults & storage protection
+		- Unix: separate address spaces prevent one process corrupting another
+		- z/OS: key & storage-protection bits plus private area keep address spaces isolated
+
+## How the analogy breaks down
+	- Scheduling focus differs
+		- Unix dispatcher chooses a **thread**; the process is merely a container
+		- z/OS dispatcher selects **TCBs/SRBs**; an address space itself is never scheduled
+	- Shared common areas
+		- z/OS: all address spaces can map **CSA/SQA/LPA** – true global memory
+		- Unix: only kernel space is global; user processes cannot directly share arbitrary pages
+	- Lifetime & creation model
+		- Unix: `fork()` / `exec()` create new processes on demand
+		- z/OS: jobs & started tasks create whole address spaces; no simple fork-clone primitive
+	- Hierarchy of control blocks
+		- z/OS spreads state across ASCB → JSCB → TCB/SRB chain
+		- Unix keeps most metadata in one `task_struct` (+ mm_struct)
+	- Security identity granularity
+		- Unix: each process carries a single UID/GID set; threads share it
+		- z/OS: tasks inside an address space can switch credentials (e.g., authorized code issuing `SETUID`-like services)
