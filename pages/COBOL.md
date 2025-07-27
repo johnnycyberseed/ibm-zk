@@ -29,29 +29,30 @@
 		- B Area (12-72) — statements, sentences, and clauses
 		- Identification Area (73-80) — ignored by the compiler (can use for comments)
 	-
-- created
-	- at IBM
-	- by [[CODASYL]]
-		- advised by Grace Hopper
-	- to address the spiraling costs of creating and translating programs.
-		- src: https://en.wikipedia.org/wiki/COBOL#Background
-	-
-- motivations
-	- current programming languages are make/model-dependent.
-	- data processing systems needed to adapt to rapidly change and expanding requirements
-	- the current languages require significantly experienced staff to make those changes
-- timeline
-	- 1959
-	- 1960 — COBOL-60
-	- ...
-	- 2023 — COBOL-2023
-	- https://en.wikipedia.org/wiki/Timeline_of_programming_languages#1950s
-- design influence
-  id:: 686809b0-ff51-4220-be2c-4a1aa66705ab
-	- [[FLOW-MATIC]]
-		- "COBOL 60 was 95% [[FLOW-MATIC]]" — [[Grace Hopper]]
-	- [[COMTRAN]]
-	- [[AIMACO]]
+- ## About
+	- ### Created
+		- at IBM
+		- by [[CODASYL]]
+			- advised by Grace Hopper
+		- to address the spiraling costs of creating and translating programs.
+			- src: https://en.wikipedia.org/wiki/COBOL#Background
+		-
+	- ### Motivations
+		- current programming languages are make/model-dependent.
+		- data processing systems needed to adapt to rapidly change and expanding requirements
+		- the current languages require significantly experienced staff to make those changes
+	- ### Timeline
+		- 1959
+		- 1960 — COBOL-60
+		- ...
+		- 2023 — COBOL-2023
+		- https://en.wikipedia.org/wiki/Timeline_of_programming_languages#1950s
+	- ### design influence
+	  id:: 686809b0-ff51-4220-be2c-4a1aa66705ab
+		- [[FLOW-MATIC]]
+			- "COBOL 60 was 95% [[FLOW-MATIC]]" — [[Grace Hopper]]
+		- [[COMTRAN]]
+		- [[AIMACO]]
 - # References
 	- https://en.wikipedia.org/wiki/COBOL
 	- http://www.bitsavers.org/pdf/codasyl/COBOL_Report_Apr60.pdf
