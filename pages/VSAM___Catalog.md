@@ -1,4 +1,5 @@
 - a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] cluster containing entries describing [[VSAM/Cluster]]s.
+- z/OS has a master catalog: [[VSAM/MCAT]]
 -
 -
 - # References
