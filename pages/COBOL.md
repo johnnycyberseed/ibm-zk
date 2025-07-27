@@ -29,30 +29,34 @@
 		- B Area (12-72) — statements, sentences, and clauses
 		- Identification Area (73-80) — ignored by the compiler (can use for comments)
 	-
-- ## About
-	- ### Created
+- # About
+  collapsed:: true
+	- ## Created
 		- at IBM
 		- by [[CODASYL]]
 			- advised by Grace Hopper
 		- to address the spiraling costs of creating and translating programs.
 			- src: https://en.wikipedia.org/wiki/COBOL#Background
 		-
-	- ### Motivations
+	- ## Motivations
 		- current programming languages are make/model-dependent.
 		- data processing systems needed to adapt to rapidly change and expanding requirements
 		- the current languages require significantly experienced staff to make those changes
-	- ### Timeline
+	- ## Timeline
 		- 1959
 		- 1960 — COBOL-60
 		- ...
 		- 2023 — COBOL-2023
 		- https://en.wikipedia.org/wiki/Timeline_of_programming_languages#1950s
-	- ### design influence
+	- ## Design Influences
 	  id:: 686809b0-ff51-4220-be2c-4a1aa66705ab
 		- [[FLOW-MATIC]]
 			- "COBOL 60 was 95% [[FLOW-MATIC]]" — [[Grace Hopper]]
 		- [[COMTRAN]]
 		- [[AIMACO]]
+- # How To...
+	- ## Compile and Run in JCL
+		-
 - # References
 	- https://en.wikipedia.org/wiki/COBOL
 	- http://www.bitsavers.org/pdf/codasyl/COBOL_Report_Apr60.pdf
