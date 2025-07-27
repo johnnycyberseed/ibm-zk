@@ -1,0 +1,6 @@
+- a [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]] cluster containing entries describing [[VSAM/Cluster]]s.
+-
+-
+- # References
+	- https://www.ibmmainframer.com/vsam-tutorial/vsam-catalog/
+	-

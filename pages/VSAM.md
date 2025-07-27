@@ -1,7 +1,8 @@
 - Virtual Storage Access Method
 - One of several access methods in [[z/OS]]
 - Catalog Management
-	- Q: how is this different than the z/OS "Catalog"?
+	- [[VSAM/Catalog]]
+	-
 - Record Management
 	- see [[Data Set/Type/VSAM]] for Data Set types provided by VSAM
 - # Core Features
