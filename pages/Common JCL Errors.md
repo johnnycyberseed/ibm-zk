@@ -2,4 +2,7 @@
 -
 - ## UABORT CODE 36
 	- ```
+	  UABORT CODE 36
+	  AMSDUMP  DD STATEMENT MISSING
 	  ```
+	-
