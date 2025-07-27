@@ -1,7 +1,5 @@
 - IMS Transaction Manager
-- (new name for "IMS DC")
-- [[IMS/DC]]
--
+- (new name for "IMS DC" — Data Communications Manager)
 - Plays the role of "Application Server"
 - a message-based transaction processor
 	- processes messages
