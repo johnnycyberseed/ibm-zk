@@ -1,5 +1,6 @@
 -
 - ## Jump Command
 	- Go to any other panel in ISPF:
-		- `=`
-		- then
+		- `=` (main screen option) `.` (second screen option) ...
+		-
+		-
