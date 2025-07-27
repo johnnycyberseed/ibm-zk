@@ -6,4 +6,5 @@
 	  AMSDUMP  DD STATEMENT MISSING
 	  ```
 	- Observed
-		- When a `SYSPRINT` was excluded
+		- When a `SYSPRINT` [[JCL/DD]] was excluded while using [[utility/IDCAMS]]
+		-
