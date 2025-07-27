@@ -3,4 +3,6 @@
 - ## Cheat Sheet
 	- Commands
 		- `OWNER` — to limit by specific user
-		- `PREFIX` — to filter
+		- `PREFIX` — to filter by job name (use wildcard `*` )
+	- Table Actions
+		- `?` — load
