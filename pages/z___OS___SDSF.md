@@ -1,7 +1,8 @@
 - System Display and Search Facility
 - a built-in z/OS GUI used to monitor and manage a z/OS [[sysplex]]
 - common actions
-	- display Jobs and their output
+	- display Jobs and their output — `ST` command
+	-
 	- list devices
 		- network connections and servers
 		- printsers
