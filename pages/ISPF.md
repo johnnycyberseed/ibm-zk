@@ -4,6 +4,8 @@
 - Includes:
 	- [[ISPF Editor]]
 -
+- [[ISPF Tips & Techniques]]
+-
 - # References
 	- https://www.ibm.com/docs/en/iptfz/7.1.0
 	-
