@@ -1,3 +1,6 @@
 - allows you to display information about jobs, started tasks, and TSO users on the JES queues.
 - on Tessier, direct access is `=13.14.ST`
--
+- ## Cheat Sheet
+	- Commands
+		- `OWNER` — to limit by specific user
+		- `PREFIX` — to filter
