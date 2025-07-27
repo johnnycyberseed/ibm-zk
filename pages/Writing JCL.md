@@ -1,6 +1,12 @@
 ## Format of JCL listing
 	-
-- ## Job Output
+- ## Specifying Inputs and Outputs
+	- `DD` — Data Definition Statement
+		- `DSNAME` (`DSN`) — [[Data Set/Name (DSN)]]
+			- for temporary data set (including [[in-stream]] and sysout datasets), prefix with `&&`
+				- e.g. `&&TODELETE`
+			- referencing a previously declared Data Definition
+- ## Job Execution Output
 	- When a job runs, three data sets are created:
 		- JES job log — `JESMSGLG`
 		- Statement Images — `JESJCL`
@@ -30,11 +36,3 @@
 					- _all_ SMS messages
 			-
 				-
-- ## Specifying Inputs and Outputs
-	- `DD` — Data Definition Statement
-		- `DSNAME` (`DSN`) — [[Data Set/Name (DSN)]]
-			- for temporary data set (including [[in-stream]] and sysout datasets), prefix with `&&`
-				- e.g. `&&TODELETE`
-			- referencing a previously declared Data Definition
-				-
-		-
