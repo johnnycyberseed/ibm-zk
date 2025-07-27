@@ -1,2 +1,3 @@
 - one or two related [[VSAM/Component]]
 - for each data set, there is an additional [[Catalog]] entry so that Data Sets with both [[VSAM/Component/Data]]s and [[VSAM/Component/Index]]s can be referenced as a unit.
+-
