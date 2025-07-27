@@ -55,7 +55,8 @@
 		- [[COMTRAN]]
 		- [[AIMACO]]
 - # How To...
-	- ## Compile and Run in JCL
+	- [[How to compile and run COBOL in JCL]]
+		-
 		-
 - # References
 	- https://en.wikipedia.org/wiki/COBOL
