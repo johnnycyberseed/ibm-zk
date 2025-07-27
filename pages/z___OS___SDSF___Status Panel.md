@@ -5,4 +5,5 @@
 		- `OWNER` — to limit by specific user
 		- `PREFIX` — to filter by job name (use wildcard `*` )
 	- Action Characters
-		- `?` — open the job in the Job
+		- `?` — open the job in the "Job Data Set" panel (i.e. view results)
+		- `P` — purge the job execution data sets (i.e. `JESYS`)
