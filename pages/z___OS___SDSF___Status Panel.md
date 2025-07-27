@@ -7,4 +7,5 @@
 	- Action Characters
 		- `?` — open the job in the "Job Data Set" panel (i.e. view results)
 		- `P` — purge the job execution data sets (i.e. `JESMSGLG`, `JESJCL`, `JESYSMSG`, `SYSPRINT`)
-			- enter `P` for multiple Jobs and hit `PF11` to purge multiples
+			- enter `P` for multiple Jobs and submit to purge multiples
+		-
