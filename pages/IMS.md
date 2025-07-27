@@ -29,6 +29,7 @@
 	- IMS Insiders: https://imsinsiders.wordpress.com/about/
 - # Resources
 	- Java / SpringBoot for IMS — https://github.com/imsdev/ims-java-jee-springboot
+	- [[File-AID for IMS]]
 	-
 	-
 	-
