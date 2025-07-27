@@ -4,5 +4,5 @@
 	- Commands
 		- `OWNER` — to limit by specific user
 		- `PREFIX` — to filter by job name (use wildcard `*` )
-	- Table Actions
-		- `?` — load
+	- Action Characters
+		- `?` — open the job in the Job
