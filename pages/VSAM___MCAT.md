@@ -1,0 +1,3 @@
+- the VSAM Master Catalog
+- contains entries regarding
+	-
