@@ -1,6 +1,6 @@
 - Time Share Option
 - An interactive shell for [[z/OS]]
-- Includes a character-based GUI: [[TSO/ISPF]]
+- Includes a character-based GUI: [[ISPF]]
 - ## Logon
 	- After logging on, TSO reports:
 	- ```
