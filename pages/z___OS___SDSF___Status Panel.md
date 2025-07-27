@@ -6,4 +6,5 @@
 		- `PREFIX` — to filter by job name (use wildcard `*` )
 	- Action Characters
 		- `?` — open the job in the "Job Data Set" panel (i.e. view results)
-		- `P` — purge the job execution data sets (i.e. `JESYS`)
+		- `P` — purge the job execution data sets (i.e. `JESMSGLG`, `JESJCL`, `JESYSMSG`, `SYSPRINT`)
+			- enter `P` for multiple Jobs and hit `PF11` to purge multiples
