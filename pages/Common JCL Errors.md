@@ -7,5 +7,6 @@
 	  ```
 	- Observed
 		- while using [[utility/IDCAMS]]
-			- was missing a  `SYSPRINT` [[JCL/DD]] was excluded
+			- a [[JCL/DD]] for `SYSPRINT` was missing
+			-
 		-
