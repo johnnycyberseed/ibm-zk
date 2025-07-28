@@ -8,5 +8,9 @@
 	- Observed
 		- while using [[utility/IDCAMS]]
 			- a [[JCL/DD]] for `SYSPRINT` was missing
-- ## Quiet
+	- Fix
+		-
+- ## Symbolic Name Mistyped (Quietly Failing)
+	- Observed
+	-
 	-
