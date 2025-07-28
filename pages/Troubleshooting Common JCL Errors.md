@@ -19,6 +19,7 @@
 		- In SDSF Status for Job, there was no output from the `GO` ProcStep
 	- Context
 		- Using [[procedure/IGYWCLG]]
-		-
+		- COBOL is deleting a record from a VSAM KSDS
+		- COBOL's `FILE-CONTROL.` paragraph names
 	-
 	-
