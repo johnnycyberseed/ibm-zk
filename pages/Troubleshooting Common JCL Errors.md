@@ -20,9 +20,12 @@
 	- Context
 		- Using [[procedure/IGYWCLG]]
 		- COBOL is deleting a record from a VSAM KSDS
-			- ```
+			- ```cobol
 			          FILE-CONTROL.
 			              SELECT COMPTES-FILE ASSIGN TO 'COMPTES'
 			  ```
-	-
+		- Calling JCL names the DD:
+		- ```JCL
+		  //GO.COMPTE    DD DSN=W044Z.ADHOC.COMPTES,DISP=SHR
+		  ```
 	-
