@@ -1,5 +1,6 @@
 - replacing a DD statement by redefining it in the calling JCL by its symbolic name
-- think: a sort of "parameter" for reusable JCL
+- think: a sort of "named parameter" for reusable JCL.
+-
 -
 - # References
 	- https://www.ibm.com/docs/en/zos-basic-skills?topic=do-jcl-dd-statements-advantages-using-symbolic-names
