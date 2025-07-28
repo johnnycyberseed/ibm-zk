@@ -6,6 +6,9 @@
 	- Use catalogued procedure `IGYWCL`
 		- https://www.ibm.com/docs/en/zos-basic-skills?topic=procedures-cobol-compile-link-procedure
 -
+- When the COBOL is processing data, it's common to use [[JCL/DD/override]] to supply the data definitions to the program
+-
+-
 - # References
 	-
 	-
