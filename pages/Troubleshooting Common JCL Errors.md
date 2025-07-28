@@ -20,6 +20,9 @@
 	- Context
 		- Using [[procedure/IGYWCLG]]
 		- COBOL is deleting a record from a VSAM KSDS
-		- COBOL's `FILE-CONTROL.` paragraph names
+			- ```
+			          FILE-CONTROL.
+			              SELECT COMPTES-FILE ASSIGN TO 'COMPTES'
+			  ```
 	-
 	-
