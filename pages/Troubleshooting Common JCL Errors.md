@@ -28,4 +28,6 @@
 	- Observed
 		- Max-RC reported was 0 (no error reported)
 		- In SDSF Status for Job, there was no output from the `GO` ProcStep
-		- The record
+		- The record that was targeted for deletion remained in the KSDS (the operation seemed to no occur).
+	- Fix
+		- The
