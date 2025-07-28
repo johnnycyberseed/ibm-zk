@@ -15,6 +15,9 @@
 			  ```
 - ## Symbolic Name Mistyped (Quietly Failing)
 	- Observed
-		- Total Job reported
+		- Max-RC reported was 0 (no error reported)
+		- In SDSF Status for Job, there was no output from the `GO` ProcStep
+	- Context
+		- Using ``
 	-
 	-
