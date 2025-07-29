@@ -58,5 +58,5 @@
 		- https://www.ibm.com/docs/en/ims-es/3.3.0?topic=development-ims-explorer-overview
 	-
 - # References
-	-
+	- IMS Database Application Programming (IBM Training) > [Section 2: IMS Database Hierarchy](https://learn.ibm.com/mod/video/view.php?id=256335)
 	-
