@@ -6,8 +6,10 @@
 	- Each layer of the hierarchy is referred to as a "segment"
 		- Top-level is the Root Segment (or "Level 1")
 		- Each segment can have multiple Child Segments
-		- Each relationship between a parent and child are known as "segment occurances"
+		- Each relationship between a parent and child are known as "segment occurrences"
+		- There can be up to 15 levels in a given database
 	- Each segment has one or more "fields"
+		-
 	-
 - Supported Backends:
 	- [[IMS DB/FF]]
@@ -55,5 +57,6 @@
 	- IMS Explorer for Development (E4D)
 		- https://www.ibm.com/docs/en/ims-es/3.3.0?topic=development-ims-explorer-overview
 	-
+- # References
 	-
 	-
