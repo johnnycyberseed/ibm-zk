@@ -3,6 +3,7 @@
 - Features
 	- backup/recovery of database
 - The Data Model of a database
+	- Defined in a [[IMS/DBD]]
 	- Each layer of the hierarchy is referred to as a "segment"
 		- Top-level is the Root Segment (or "Level 1")
 		- Each segment can have multiple Child Segments
