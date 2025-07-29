@@ -9,6 +9,8 @@
 		- using IMS-managed ACBs
 		  id:: 68824ee0-2573-4503-b539-958e4aabe1d4
 		- using DDL (which requires ((68824ee0-2573-4503-b539-958e4aabe1d4)))
+	- as late as 2022, there are still some non-trival number of IMS installs that are _not_ using the catalog
+	- when you don't use the catalog, you're reliant on DBD
 - implemented as a [[IMS DB/HALDB]]
 	- specifically a [[IMS DB/PHIDAM]] in [[Data Set/Type/OSAM]]s
 	- defined with 4 DSGs
