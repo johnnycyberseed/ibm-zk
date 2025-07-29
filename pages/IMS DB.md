@@ -9,7 +9,7 @@
 		- Each relationship between a parent and child are known as "segment occurrences"
 		- There can be up to 15 levels in a given database
 	- Each segment has one or more "fields"
-		-
+	- Each "row" within a segment is referred to as an "instance"
 	-
 - Supported Backends:
 	- [[IMS DB/FF]]
