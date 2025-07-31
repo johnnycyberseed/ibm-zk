@@ -4,4 +4,5 @@
 		- when the condition is _met_, this step is **skipped**.
 		- interpreted _in order_
 			- `COND=(1,LT)` :: "if 1 < (the max return code), do not execute."
-			- `COND=(4,LT)`
+			- `COND=(4,LT,STEP10)` :: "if 4 < (return code of step 'STEP10')
+		-
