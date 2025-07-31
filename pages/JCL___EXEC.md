@@ -5,4 +5,5 @@
 		- interpreted _in order_
 			- `COND=(1,LT)` :: "if 1 < (the max return code), do not execute."
 			- `COND=(4,LT,STEP10)` :: "if 4 < (return code of step 'STEP10')
+		- docs: https://www.ibm.com/docs/en/zos/2.5.0?topic=statement-cond-parameter
 		-
