@@ -1,5 +1,7 @@
 - Multiple Virtual Storage
 - The operating system introduced with the [[S/370]]
-- Remains the foundational part
-- a base component of [[z/OS]] providing memory-management and core OS services
+- Remains the foundational part of the operating system, today.
+	- still a base component of [[z/OS]] providing
+		- memory-management
+		- core OS services
 -
