@@ -1,4 +1,6 @@
 -
 - Commonly used params
-	- `COND=(...)` — whether to skip
-		-
+	- `COND=(...)` — whether to skip this `EXEC`
+		- when the condition is _met_, this step is skipped.
+		- interpreted _in sequence_
+			- `COND=(1,LT)` :: "if
