@@ -1,6 +1,7 @@
 -
 - Commonly used params
 	- `COND=(...)` — whether to skip this `EXEC`
-		- when the condition is _met_, this step is skipped.
+		- when the condition is _met_, this step is **skipped**.
 		- interpreted _in order_
-			- `COND=(1,LT)` :: "if 1 < (the max return code)
+			- `COND=(1,LT)` :: "if 1 < (the max return code), do not execute."
+			- `COND=(4,LT)`
