@@ -3,4 +3,4 @@
 	- `COND=(...)` — whether to skip this `EXEC`
 		- when the condition is _met_, this step is skipped.
 		- interpreted _in sequence_
-			- `COND=(1,LT)` :: "if
+			- `COND=(1,LT)` :: "if 1 < the max RC
