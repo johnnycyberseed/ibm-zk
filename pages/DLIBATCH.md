@@ -1,7 +1,7 @@
 - IMS
 -
-- MBR=  — name of the application program
--
+- MBR=  name of the application program
+- PSB= the [[IMS/PSB]]
 - Ultimately invokes [[DFSRRC00]]
 -
 -
