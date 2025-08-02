@@ -2,7 +2,8 @@
 -
 - MBR=  — name of the application program
 -
-- Ultimately invokes
+- Ultimately invokes [[DFSRRC00]]
+-
 -
 - # References
 	- https://www.ibm.com/docs/en/ims/15.4.0?topic=environments-dlibatch-procedure
