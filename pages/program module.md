@@ -1,7 +1,7 @@
 - the generic term for an executable on z/OS.
 - there are two systems:
 	- Legacy
-		- source listing => compiler =>
+		- *surce listing => compiler => Object Module => linkage editor => Load Module => Batch Loader
 	- load modules
 		- legacy
 		- limited to 16M in size
@@ -13,7 +13,6 @@
 - # How Program Modules are Made
 	-
 	- diagram
-	  collapsed:: true
 		- ![image.png](../assets/image_1754180789322_0.png){:height 0, :width 800}
 		-
 -
