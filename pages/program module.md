@@ -1,6 +1,7 @@
 - the generic term for an executable on z/OS.
 -
 - # How Program Modules are Made
+	-
 	- diagram
-		-
+		- ![image.png](../assets/image_1754180789322_0.png){:height 0, :width 800}
 		-
