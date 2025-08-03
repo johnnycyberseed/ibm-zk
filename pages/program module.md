@@ -1,5 +1,9 @@
 - the generic term for an executable on z/OS.
--
+- there are two types
+	- load modules
+		- legacy
+	- program objects
+		- newer
 - # How Program Modules are Made
 	-
 	- diagram
@@ -8,5 +12,6 @@
 		-
 -
 - # References
-	- Introduction to z https://www.ibm.com/docs/en/zos/2.5.0?topic=zmpmugr-introduction
+	- Introduction to Program Mangement — https://www.ibm.com/docs/en/zos/2.5.0?topic=zmpmugr-introduction
+		-
 	-
