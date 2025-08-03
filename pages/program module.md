@@ -1,5 +1,7 @@
 - the generic term for an executable on z/OS.
-- there are two types
+- there are two systems:
+	- Legacy
+		- source listing => compiler =>
 	- load modules
 		- legacy
 		- limited to 16M in size
@@ -7,7 +9,7 @@
 	- program objects
 		- newer
 		- stored in a [[Data Set/Type/Extended PDS (PDSE)]]
-	-
+-
 - # How Program Modules are Made
 	-
 	- diagram
