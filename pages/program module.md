@@ -1,9 +1,9 @@
 - the generic term for an executable on z/OS.
 - there are two systems:
 	- Legacy
-		- (Source Listing) => Compiler => (object module) => Linkage Editor => (load module) => Batch Loader
+		- (Source Listing) => Compiler => (object module) => Linkage Editor => (load module) => Batch Loader => (executable in memory)
 	- Program Management (new)
-		- (Source Listing) => Compiler => (object module) => Binder =>
+		- (Source Listing) => Compiler => (object module) => Binder => (program object / load module) => Loader => (executable in memory)
 	- load modules
 		- legacy
 		- limited to 16M in size
