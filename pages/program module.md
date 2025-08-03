@@ -2,8 +2,13 @@
 - there are two types
 	- load modules
 		- legacy
+		- limited to 16M in size
+		- lives in a [[Data Set/Type/Partitioned Data Set (PDS)]]
 	- program objects
 		- newer
+		-
+		- stored in a [[Data Set/Type/Extended PDS (PDSE)]]
+	-
 - # How Program Modules are Made
 	-
 	- diagram
