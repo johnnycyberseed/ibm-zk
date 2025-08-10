@@ -1,4 +1,5 @@
-- Summary of how COBOL
+- Summary of how COBOL can be compiled to a [[program module]] using JCL.
+-
 - ## Compile, Link, and "Go"
 	- Use catalogued procedure `IGYWCLG`
 		- https://www.ibm.com/docs/en/zos-basic-skills?topic=procedures-cobol-compile-link-go-procedure
