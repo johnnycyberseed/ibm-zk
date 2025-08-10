@@ -5,4 +5,3 @@
 	- user-written programs
 - Usually stored in Special [[Data Set/Type/Partitioned Data Set (PDS)]]s known as "libraries"
 -
--
