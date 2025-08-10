@@ -1,7 +1,8 @@
-- Any program capable of operating in the problem program mode.
+- Any program capable of operating in the program mode.
 - Includes:
 	- IBM-distributed language processors (COBOL, Assembler)
 	- utility programs
 	- user-written programs
 - Usually stored in Special [[Data Set/Type/Partitioned Data Set (PDS)]]s known as "libraries"
+-
 -
