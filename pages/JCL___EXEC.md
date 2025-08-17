@@ -8,7 +8,7 @@
 		- docs: https://www.ibm.com/docs/en/zos/2.5.0?topic=statement-cond-parameter
 	- `PGM=`
 	- `PROC=`
-	- `PARM=`
+	- `PARM=` / `PARMDD=`
 - Symbolic parameters
 	- src: https://www.mainframestechhelp.com/tutorials/jcl/symbolic-parameters.htm
 -
