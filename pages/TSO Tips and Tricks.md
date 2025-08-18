@@ -6,7 +6,7 @@
 	   LISTCAT ENTRIES(ADHOC.PROCLIB) ALL
 	  ```
 	- Note:
-		- DSNs are automatically prefixed to your
+		- DSNs are automatically prefixed to your username
 - # Add a PDS to the EXEC Library
 	- e.g. with a PDS named `YOURID.REXX.EXEC` that contains a member named `IMSPING`
 	- ```
@@ -21,4 +21,5 @@
 		- ```
 		  ALTLIB ACT APP(EXEC) DA('YOURID.REXX.EXEC')
 		  ```
-	-
+	- One of the many
+-
