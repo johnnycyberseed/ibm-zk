@@ -21,5 +21,6 @@
 		- ```
 		  ALTLIB ACT APP(EXEC) DA('YOURID.REXX.EXEC')
 		  ```
-	- One of the many
+	- One of the many [[search path]]s in z/OS
+	-
 -
