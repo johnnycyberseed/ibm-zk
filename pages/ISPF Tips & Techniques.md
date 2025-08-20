@@ -3,4 +3,3 @@
 	- Go to any other panel in ISPF:
 		- `=` (main screen option) `.` (second screen option) ...
 		-
-		-

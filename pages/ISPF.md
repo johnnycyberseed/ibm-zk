@@ -1,5 +1,4 @@
 - Interactive System Productivity Facility
--
 - A full-screen menu system — a text-based GUI for TSO
 - Includes:
 	- [[ISPF Editor]]
