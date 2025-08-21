@@ -10,6 +10,9 @@
 	  //   VOL=SER=WORK02,SPACE=(TRK,3,3)) 
 	  ```
 	- `SYSIN` — the control card
+	- `SYSPRINT` — where IEBGENER should put messages
+	- `SYSUT1` — the input data set
+	- `SYSUT2` —the output data set
 	-
 - # References
 	- https://www.ibm.com/docs/en/zos-basic-skills?topic=utilities-iebgener-utility-generate-copy-sequential-data-set
