@@ -3,4 +3,6 @@
 	- `COLS ON` — turns on the line ruler
 		- useful for writing well-formed listings
 	- `HILITE` — manage syntax highlighting
-	-
+-
+- ## Tips
+	- When editing a member of a PDS,
