@@ -6,4 +6,4 @@
 -
 - ## Tips
 	- When editing a member of a PDS, the command `EDIT XYZ` will attempt to edit the member named `XYZ` in the same PDS
-	-
+	- Using ISPF
