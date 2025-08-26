@@ -1,4 +1,5 @@
 - ISPF's multi-session feature
 - `F2` sets the position of the "split" (or if there is no split, creates one)
 - `SWAP LIST` — displays a dialog listing of all current screens
--
+- Usually displays a "split line" (dashed line)
+	- Can be disabled in ISPF Settings Panel
