@@ -1,5 +1,7 @@
 - Command syntax for transitioning immediately to a panel
 -
-- `=3.4` — Data Set List Utility
-- `=13.14.ST` — SDSF Status Panel (for viewing [[JES]] execution of [[JCL]] results)
+- In rough order of frequency of use:
+	- `=3.4` — Data Set List Utility
+	- `=2` — Edit Entry Panel
+	- `=13.14.ST` — SDSF Status Panel (for viewing [[JES]] execution of [[JCL]] results)
 -
