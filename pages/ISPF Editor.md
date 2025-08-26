@@ -8,6 +8,6 @@
 -
 - ## Tips
 	- When editing a member of a PDS, the command `EDIT XYZ` will attempt to edit the member named `XYZ` in the same PDS.
-		-
+		- this pushes the current editing session in a stack.
 	- `F2` to use [[ISPF/Split Screen]]
-	-
+		-
