@@ -8,5 +8,5 @@
 -
 - ## Tips
 	- When editing a member of a PDS, the command `EDIT XYZ` will attempt to edit the member named `XYZ` in the same PDS
-	- `F2` to use ISPF's split screen makes it possible to refer to / edit multiple files
+	- `F2` to use [[ISPF/Split Screen]]  to makes it possible to refer to / edit multiple files
 	-
