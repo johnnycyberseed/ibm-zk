@@ -1,4 +1,4 @@
 - ISPF's multi-session feature
-- `F2` sets the position of the "split" (or if there is non, )
+- `F2` sets the position of the "split" (or if there is no split, creates one)
 - `SWAP LIST` — displays a dialog listing of all current screens
 -
