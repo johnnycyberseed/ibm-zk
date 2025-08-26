@@ -3,6 +3,8 @@
 	- `COLS ON` — turns on the line ruler
 		- useful for writing well-formed listings
 	- `HILITE` — manage syntax highlighting
+	- `EDIT` — opens another instance of the editor
+		-
 -
 - ## Tips
 	- When editing a member of a PDS, the command `EDIT XYZ` will attempt to edit the member named `XYZ` in the same PDS
