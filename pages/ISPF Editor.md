@@ -5,7 +5,6 @@
 	- `HILITE` — manage syntax highlighting
 	- `EDIT` — opens another instance of the editor
 		- without an operand, it's like spawning another `=2` ([[ISPF/Edit Entry Panel]])
-		-
 -
 - ## Tips
 	- When editing a member of a PDS, the command `EDIT XYZ` will attempt to edit the member named `XYZ` in the same PDS
