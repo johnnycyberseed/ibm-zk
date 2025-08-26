@@ -2,10 +2,10 @@
 - [[Tessier]] direct access is `=13.14.ST`
 - ## Cheat Sheet
 	- Commands
-		- `OWNER` — to limit by specific user
-		- `PREFIX` — to filter by job name (use wildcard `*` )
+		- `OWNER` — to limit list by specific user
+		- `PREFIX` — to filter list by job name (use wildcard `*` )
 	- Action Characters
 		- `?` — open the job in the "Job Data Set" panel (i.e. view results)
 		- `P` — purge the job execution data sets (i.e. `JESMSGLG`, `JESJCL`, `JESYSMSG`, `SYSPRINT`)
 			- enter `P` for multiple Jobs and submit to purge multiples
-		-
+	-
