@@ -11,4 +11,7 @@
 -
 - Convert to
 - ```
+  # for a EBCDIC file with 80 characters...
+  
+  dd if=input.file bs=80 | fold -w 80
   ```
