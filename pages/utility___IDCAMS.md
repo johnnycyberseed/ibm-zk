@@ -1,5 +1,5 @@
 - Integrated Data Cluster Access Method Services
-- aka "Access Methods Services"
+- The executable program that processes Access Methods Services commands ([[AMS Commands]])
 - provided by [[DFSMSdfp]]
 -
 -
