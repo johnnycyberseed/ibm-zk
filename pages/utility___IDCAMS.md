@@ -1,10 +1,9 @@
 - Integrated Data Cluster Access Method Services
-- The executable program that processes Access Methods Services commands ([[AMS Commands]])
+- The executable program that processes Access Methods Services commands
+	-
 - provided by [[DFSMSdfp]]
 -
--
--
-- # Commands
+- # AMS Commands
 	- BLDINDEX
 	  id:: 6877de3f-7502-4fe4-b15d-2373eaf086f6
 	-
