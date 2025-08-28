@@ -1,6 +1,6 @@
 - Integrated Data Cluster Access Method Services
 - The executable program that processes Access Methods Services commands
-	-
+	- https://www.ibm.com/docs/en/zos/2.5.0?topic=dfsms-zos-access-method-services-commands
 - provided by [[DFSMSdfp]]
 -
 - # AMS Commands
