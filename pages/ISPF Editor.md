@@ -2,7 +2,7 @@
 - ## Common Commands
 	- `COLS ON` — turns on the line ruler
 		- useful for writing well-formed listings
-	- `HILITE` — manage syntax highlighting (`COBOL`, `JCL`, `REXX`)
+	- `HILITE (lang)` — manage syntax highlighting (e.g. `COBOL`, `JCL`, `REXX`)
 	- `EDIT` — opens another instance of the editor
 		- without an operand, it's like spawning another `=2` ([[ISPF/Edit Entry Panel]])
 -
