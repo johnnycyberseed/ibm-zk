@@ -1,7 +1,10 @@
+- REstructured eXtended eXecutor
 -
 -
 -
--
+- # References and Resources
+	- https://www.ibmmainframer.com/rexx-tutorial/
+	-
 - # History
 	- Created by Mike Cowlishaw, March 20, 1979
 		- https://www.rexxla.org/rexxlang/history/index.srsp
