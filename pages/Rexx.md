@@ -1,5 +1,11 @@
 -
-- Created by Mike
-	- His homepage was preserved by RexxLA:
-		- https://www.rexxla.org/rexxlang/history/mfc/rexx.html
-		-
+-
+-
+-
+- # History
+	- Created by Mike Cowlishaw, March 20, 1979
+		- https://www.rexxla.org/rexxlang/history/index.srsp
+		- His homepage was preserved by RexxLA:
+			- https://www.rexxla.org/rexxlang/history/mfc/rexx.html
+	-
+	-
