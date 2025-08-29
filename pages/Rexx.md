@@ -1,8 +1,12 @@
 - REstructured eXtended eXecutor
 -
 - # Writing REXX programs
-	-
--
+	- Start the first line of the program with a comment that begins with the string "REXX"
+		- ```
+		  /* REXX program that copies the contents of a GDG */
+		  ...
+		  ```
+		-
 -
 - # References and Resources
 	- https://www.ibmmainframer.com/rexx-tutorial/
