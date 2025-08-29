@@ -4,7 +4,7 @@
 	- (oldest to newest)
 	- OPC —
 	- TWS —
-	- IWSz — IBM
+	- IWSz — IBM Z Workload Scheduler
 -
 - # References
 	- https://www.ibm.com/docs/en/z-system-automation/4.3.0?topic=equipment-sazos-components
