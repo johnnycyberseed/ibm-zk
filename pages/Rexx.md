@@ -1,7 +1,7 @@
 - REstructured eXtended eXecutor
 -
 - # Writing REXX programs
-	- First line of the program must be /*REXX
+	-
 -
 -
 - # References and Resources
