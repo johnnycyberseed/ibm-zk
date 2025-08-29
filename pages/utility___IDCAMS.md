@@ -6,7 +6,6 @@
 - # AMS Commands
 	- BLDINDEX
 	  id:: 6877de3f-7502-4fe4-b15d-2373eaf086f6
-	-
 	- DEFINE
 	  id:: 6877e0f3-3ad1-4aa7-a2d7-068c7d4e2e7b
 		- CLUSTER
