@@ -11,7 +11,7 @@
 -
 - # References and Resources
 	- https://www.ibmmainframer.com/rexx-tutorial/
-	- https://rexxinfo.org/examples/index_examples.html
+	- z/OS example REXX scripts — https://rexxinfo.org/examples/index_examples.html
 	-
 	-
 - # History
