@@ -10,6 +10,7 @@
 -
 -
 - # References and Resources
+	- https://www.ibm.com/docs/en/zos/2.4.0?topic=guide-learning-rexx-language
 	- https://www.ibmmainframer.com/rexx-tutorial/
 	- z/OS example REXX scripts — https://rexxinfo.org/examples/index_examples.html
 	-
