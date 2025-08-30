@@ -11,6 +11,8 @@
 -
 - # References and Resources
 	- https://www.ibmmainframer.com/rexx-tutorial/
+	- https://rexxinfo.org/examples/index_examples.html
+	-
 	-
 - # History
 	- Created by Mike Cowlishaw, March 20, 1979
