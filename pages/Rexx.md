@@ -8,7 +8,9 @@
 		  ```
 			- this is not technically required (at least in a TSO/E exection)
 	- ## Stems (Arrays)
-		-
+		- REXX does not have native support for array data structures
+		- Stems fill this role
+			-
 	-
 -
 -
