@@ -13,7 +13,8 @@
 			-
 	-
 - # Running REXX programs
-	- [[TSO]] implementation allows REXX programs ("execs") to be run in any  [[address space]]
+	- [[TSO]] implementation allows REXX programs ("execs") to be run in any [[MVS]] [[address space]].
+	-
 -
 - # References and Resources
 	- https://www.ibm.com/docs/en/zos/2.4.0?topic=guide-learning-rexx-language
