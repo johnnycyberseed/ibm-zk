@@ -7,6 +7,9 @@
 		  ...
 		  ```
 			- this is not technically required (at least in a TSO/E exection)
+	- ## Stems (Arrays)
+		-
+	-
 -
 -
 - # References and Resources
