@@ -22,7 +22,8 @@
 	- z/OS example REXX scripts — https://rexxinfo.org/examples/index_examples.html
 	- Cowlishaw's book:
 		- https://ia801502.us.archive.org/33/items/REXXLanguage2ndEdition/REXX%20Language%20-%202nd%20Edition.pdf
-			- Also includes the
+			- Also includes the language's design principles and geneology
+			-
 	-
 - # History
 	- Created by Mike Cowlishaw, March 20, 1979
