@@ -1,6 +1,5 @@
 -
 - # References
 	- Hosted Docs: https://brexx370.readthedocs.io/en/latest/index.html
-	- GitHub: https://github.com/mainframed/brexx370/blob/master/doc/index.md
-	-
+	- GitHub: https://github.com/mvslovers
 -
