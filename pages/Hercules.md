@@ -1,7 +1,7 @@
 -
 -
 - # Resources
-	- MVS Open Source / Freeware — https://www.cbttape.org/
+	- MVS Open Source / Freeware — https://www.cbttape.org/cbtfaq.htm
 	-
 - # References
 	- 🔒 https://github.com/mechanical-orchard/herc
