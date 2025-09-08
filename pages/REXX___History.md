@@ -3,6 +3,9 @@
 	- Influenced by EXEC 2, by C. J. Stephenson
 	- an interface program known as the Yorktown SVC package (by Michel
 	  Hack)
+-
+- # REXX Language Committee
+	- coordinated by Wes Christensen
 - # Timeline
 	- Created by Mike Cowlishaw, March 20, 1979
 		- https://www.rexxla.org/rexxlang/history/index.srsp
