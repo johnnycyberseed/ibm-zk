@@ -23,8 +23,10 @@
 	- Cowlishaw's book:
 		- https://ia801502.us.archive.org/33/items/REXXLanguage2ndEdition/REXX%20Language%20-%202nd%20Edition.pdf
 			- Also includes the language's design principles and genealogy.
+- # Further Reading
+	- R. P. O'Hara and D. R. Gomberg, Modern Programming Using REXX, Prentice-Hall, Second edition (1988) ISBN 0-13-579329-5
 	-
-		-
+	-
 	-
 - # History
 	-
