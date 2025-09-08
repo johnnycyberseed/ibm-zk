@@ -25,7 +25,7 @@
 			- Also includes the language's design principles and genealogy.
 - # Further Reading
 	- R. P. O'Hara and D. R. Gomberg, Modern Programming Using REXX, Prentice-Hall, Second edition (1988) ISBN 0-13-579329-5
-	-
+	- M. F. Cowlishaw, The design of the REXX language, IBM Systems Journal, Volume 23, No. 4 (1984).
 	-
 	-
 - # History
