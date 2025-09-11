@@ -40,7 +40,7 @@
 		- `0304` — COBOL6 compile
 		  id:: 68c2e09c-eca2-4408-b942-5e4ec82d5653
 	- Semantically:
-		- Source Code
+		- Application Source Code
 			- ((68c2e065-6a9a-4f32-b256-1854569e9fbe))
 			- ((68c2e05d-ee09-4b5d-96fd-2b4e05c94f0c))
 			- ((68c2e09c-eca2-4408-b942-5e4ec82d5653))
@@ -54,9 +54,10 @@
 			- ((68c2e160-87ff-4aa1-b137-01cb88dd4738))
 		- Data Cards
 			- ((68c2e013-561c-4c48-a6c1-e7bdd6a4c50e))
+		- Build Artifacts
+			- ((68c2e00d-2e57-475e-9841-e66c7eb99d90))
 		-
 		- ((68c2e13d-ef05-4fd2-b77b-a031818f8acf))
-		- ((68c2e00d-2e57-475e-9841-e66c7eb99d90))
 		- ((68c2e093-20a7-4c18-928c-459d9d7df34d))
 		- ((68c2e0ab-3be0-44ac-9bd7-e270d37fa9f2))
 		- ((68c2e019-26a0-46ed-9381-49dbc4d93807))
