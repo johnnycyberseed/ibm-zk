@@ -9,16 +9,19 @@
 		- ```mermaid
 		  graph LR
 		    subgraph dev
-		      unit
-		      int
+		      UNIT
+		      INT
 		    end
 		    subgraph QA
 		      QA_
 		      HOLD
 		    end
 		    subgraph PROD
-		      fix
-		  
+		      FIX
+		      PROD_
 		    end
+		    UNIT-->INT
+		    INT-->QA
+		    QA
 		  ```
 -
