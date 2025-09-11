@@ -6,13 +6,13 @@
 	- `0030` —
 	- `0031` —
 	- `0032H` —
-	- `0041` — Copybook COBOL
+	- `0041` — COBOL Copybook
 	- `0042` — CLIST
 	- `0043` — JCL
 	- `0044` — Includes (link cards)
-	- `0045` —
-	- `0046` —
-	- `0047` —
+	- `0045` — Procedure Catalog
+	- `0046` — Data Library
+	- `0047` — [[Easytrieve]] Copybook
 	- `0050` —
 	- `0052` —
 	- `0060` —
