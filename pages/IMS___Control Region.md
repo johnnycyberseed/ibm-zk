@@ -1,7 +1,10 @@
 - can manage up to 4000 applications in parallel
 -
 - # Responsibilities
-	- handles all physical input and output to/from
+	- services _all_ DL/I calls
+		-
+	- handles all physical input and output to/from all databases
+		- therefore owns all databases
 -
 - # References and Resources
 	-
