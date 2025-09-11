@@ -8,10 +8,15 @@
 	- [[Endevor/Environments]]
 	  logseq.order-list-type:: number
 	- [[Endevor/Stages]]
+	  logseq.order-list-type:: number
 	- [[Endevor/Systems]]
+	  logseq.order-list-type:: number
 	- [[Endevor/Subsystems]]
+	  logseq.order-list-type:: number
 	- [[Endevor/Types]]
+	  logseq.order-list-type:: number
 	- [[Endevor/Elements]]
+	  logseq.order-list-type:: number
 	-
 - # References and Resources
 	- Technical Documentation

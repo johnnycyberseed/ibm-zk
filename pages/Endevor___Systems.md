@@ -1,0 +1,3 @@
+- the applications at the site
+- e.g. `FINANCE` for finance system; `MFG` for manufacturing
+-
