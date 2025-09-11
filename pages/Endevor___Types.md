@@ -4,8 +4,8 @@
 	- `0008` — MFS source (PROD=D1900)
 	- `0010` — Easytrieve compile and link
 	- `0030` — Link standard (Batch and BMP)
-	- `0031` —
-	- `0032H` —
+	- `0031` — Link BMB (IMS)
+	- `0032H` — Link IMSA (INTG=Y2460; ACCP=Y2450; PROD=D1900)
 	- `0041` — COBOL Copybook
 	- `0042` — CLIST
 	- `0043` — JCL
