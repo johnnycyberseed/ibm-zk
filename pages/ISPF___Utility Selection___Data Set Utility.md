@@ -19,4 +19,4 @@
 		  logseq.order-list-type:: number
 		- See `Data Set Utility` panel; See message `Data set allocated`
 		  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	-
