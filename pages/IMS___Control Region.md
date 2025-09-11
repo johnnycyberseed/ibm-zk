@@ -1,4 +1,7 @@
 - can manage up to 4000 applications in parallel
 -
+- # Responsibilities
+	- handles all physical input and output to/from
+-
 - # References and Resources
 	-
