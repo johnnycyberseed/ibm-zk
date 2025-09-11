@@ -5,8 +5,8 @@
 - Ultimately invokes [[DFSRRC00]]
 -
 - TODO Unpack the mystery of the similarly named PSB from [[AmHat]].
-	- The JCL mechanics for executing a procedure like [[DLIBATCH]] (i.e. that itself)
-	- https://chatgpt.com/share/e/688e9db8-de90-8001-9044-99259e8bc47f
+	- The JCL mechanics for executing a procedure like DLIBATCH (i.e. that itself invokes a program handing _that_ a program to execute.)
+		- https://chatgpt.com/share/e/688e9db8-de90-8001-9044-99259e8bc47f
 	- Mapping the flow from offline/batch program through IMS
 		- https://chatgpt.com/share/e/687544dd-88f8-8001-bd29-86e050ae8156
 	-
