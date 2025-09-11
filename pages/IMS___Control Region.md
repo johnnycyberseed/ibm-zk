@@ -7,5 +7,9 @@
 	- handles all physical input and output to/from all databases
 		- therefore owns all databases
 -
+- # Start up
+	-
+-
 - # References and Resources
+	- https://www.ibm.com/docs/en/ims/15.6.0?topic=environment-control-region
 	-
