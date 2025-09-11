@@ -6,7 +6,8 @@
 - ## Logon
 	- [[Koi]] LOGON sequence included
 		- After successful login...
-		- ```
+		- id:: 6864009d-4813-47b3-9d43-043f2a8566d9
+		  ```
 		  (RACF msg) (username)  LAST ACCESS AT ...
 		  (username) LOGON IN PROGRESS ...
 		  (JES msg) (jobname) (username) STARTED  CPUA CN(00)
