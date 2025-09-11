@@ -1,15 +1,19 @@
 - types of Elements
 - e.g. COBOL, ASEMBLER, BASIC, CLIST, COPYBOOK, JCL, ...
 - [[Tessier]] — ~90 types; numeric org (e.g. `0055` = REXX; `0002` = Assembler H Compile; `0002HL` = Assembler HL Compile; `204` = COBOL3 compile; `304` = COBOL6 compile;)
+	- `0010` —
 	- `0030` —
 	- `0041` —
 	- `0042` —
 	- `0043` —
-	-
+	- `0044` —
 	- `0045` —
 	- `0046` —
+	- `0047` —
 	- `0050` —
 	- `0052` —
 	- `0060` —
+	- `0304` —
+	-
 	-
 -
