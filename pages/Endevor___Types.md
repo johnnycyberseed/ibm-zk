@@ -45,8 +45,8 @@
 		- Link Cards
 			- ((68c2e087-8bf2-4616-a322-33c21b14622f))
 			- ((68c2e160-87ff-4aa1-b137-01cb88dd4738))
-		- Resources
-		- ((68c2e013-561c-4c48-a6c1-e7bdd6a4c50e))
+		- Runtime Control Cards
+			- ((68c2e013-561c-4c48-a6c1-e7bdd6a4c50e))
 		- ((68c2e152-896d-493a-b013-d75a90c674ea))
 		- ((68c2e0ba-dd04-45b0-933d-c60170da0ace))
 		- ((68c2e13d-ef05-4fd2-b77b-a031818f8acf))
