@@ -1,9 +1,9 @@
 - types of Elements
 - e.g. COBOL, ASEMBLER, BASIC, CLIST, COPYBOOK, JCL, ...
 - [[AmHat]] — ~90 types; numeric org (e.g. `0055` = REXX; `0002` = Assembler H Compile; `204` = COBOL3 compile;)
-	- `0008` —
-	- `0010` —
-	- `0030` —
+	- `0008` — MFS source (PROD=D1900)
+	- `0010` — Easytrieve compile and link
+	- `0030` — Link standard (Batch and BMP)
 	- `0031` —
 	- `0032H` —
 	- `0041` — COBOL Copybook
