@@ -4,6 +4,6 @@
 	- a name
 	- an ID (1 or 2)
 - Stages are linked together to define promotion routes (i.e. "mapping")
-	- https://techdocs.broadcom.com/us/en/ca-mainframe-software/devops/ca-endevor-software-change-manager/19-0/administrating/defining-maps-and-inventory-structures.html
+	- [Endevor > Administrating > Defining Maps and Inventory Structures](https://techdocs.broadcom.com/us/en/ca-mainframe-software/devops/ca-endevor-software-change-manager/19-0/administrating/defining-maps-and-inventory-structures.html)
 	-
 -
