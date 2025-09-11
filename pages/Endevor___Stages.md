@@ -1,0 +1,3 @@
+- a stage in the software development lifecycle
+- e.g. TEST, QA, FIX, PROD
+-
