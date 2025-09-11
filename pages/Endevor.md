@@ -4,8 +4,13 @@
 	- [[Tessier]]
 		- v18.1.0
 		- Launch: ISPF `=6`; `ENDEVOR`; `ENVPROD`
-- # Structure
+- # Hierarchy
 	- [[Endevor/Environments]]
+	- [[Endevor/Stages]]
+	- [[Endevor/Systems]]
+	- [[Endevor/Subsystems]]
+	- [[Endevor/Types]]
+	- [[Endevor/Elements]]
 	-
 - # References and Resources
 	- Technical Documentation
