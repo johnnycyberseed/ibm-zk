@@ -13,9 +13,9 @@
 	- `0045` — Procedure Catalog
 	- `0046` — Data Library
 	- `0047` — [[Easytrieve]] Copybook
-	- `0050` —
-	- `0052` —
-	- `0060` —
+	- `0050` — Copy link standard (Batch and BMP)
+	- `0052` — Copy module object
+	- `0060` — Documentation
 	- `0304` —
 	- `0002HL` — Assembler HL Compile
 	-
