@@ -15,5 +15,8 @@
 		  logseq.order-list-type:: number
 		- `Option ===>` — `A` (i.e. "Allocate new data set" action)
 		  logseq.order-list-type:: number
-		- See the `Allocate New Data Set` panel
+		- See the `Allocate New Data Set` panel, fully populated`; [ENTER]`
 		  logseq.order-list-type:: number
+		- See `Data Set Utility` panel; See message `Data set allocated`
+		  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
