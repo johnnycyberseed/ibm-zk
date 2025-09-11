@@ -2,7 +2,8 @@
 -
 - # Responsibilities
 	- services _all_ DL/I calls
-		-
+		- can be directly
+		- or indirectly through a separate DL/I address space (i.e. [[IMS/DLISAS]])
 	- handles all physical input and output to/from all databases
 		- therefore owns all databases
 -
