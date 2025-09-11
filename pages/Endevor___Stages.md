@@ -1,3 +1,7 @@
 - a stage in the software development lifecycle
 - e.g. TEST, QA, FIX, PROD
+- Stages have
+	- a name
+	- an ID (1 or 2)
+- Stages are linked together to define promotion routes
 -
