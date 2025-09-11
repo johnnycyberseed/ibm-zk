@@ -21,9 +21,10 @@
 		- `0304` — COBOL6 compile
 	- Semantically:
 		- Source Code
+			- `0002HL` — Assembler HL Compile
+			- `0304` — COBOL6 compile
 		- Link Cards
 		-
-		- `0002HL` — Assembler HL Compile
 		- `0008` — MFS source (PROD=D1900)
 		- `0010` — Easytrieve compile and link
 		- `0030` — Link standard (Batch and BMP)
@@ -39,6 +40,5 @@
 		- `0050` — Copy link standard (Batch and BMP)
 		- `0052` — Copy module object
 		- `0060` — Documentation
-		- `0304` — COBOL6 compile
 	-
 -
