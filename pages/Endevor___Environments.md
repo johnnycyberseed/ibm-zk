@@ -1,4 +1,6 @@
 - broadly meant as an organizational unit or area (something out of the org chart)
-- if there's really one group using the tool, can be
-	- e.g. dev, test, integration, staging, production
+- if there's really one group using the tool, can be separated into uses
+	- e.g. production vs. debugging/troubleshooting vs. explorations
+- [[Tessier]]
+	-
 -
