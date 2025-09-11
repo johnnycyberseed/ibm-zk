@@ -1,2 +1,3 @@
-- typically one of these for each
-	- dev,
+- typically one of these for each stage of the software development lifecycle.
+	- e.g. dev, test, integration, staging, production
+-
