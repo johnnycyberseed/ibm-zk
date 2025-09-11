@@ -4,7 +4,9 @@
 	- [[Tessier]]
 		- v18.1.0
 		- Launch: ISPF `=6`; `ENDEVOR`; `ENVPROD`
-		-
+- # Structure
+	- [[Endevor/Environments]]
+	-
 - # References and Resources
 	- Technical Documentation
 		- https://techdocs.broadcom.com/us/en/ca-mainframe-software/devops/ca-endevor-software-change-manager/19-0.html
