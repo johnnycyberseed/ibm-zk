@@ -1,24 +1,25 @@
 - types of Elements
 - e.g. COBOL, ASEMBLER, BASIC, CLIST, COPYBOOK, JCL, ...
 - [[AmHat]] — ~90 types; numeric org (e.g. `0055` = REXX; `0002` = Assembler H Compile; `204` = COBOL3 compile;)
-	- `0008` — MFS source (PROD=D1900)
-	- `0010` — Easytrieve compile and link
-	- `0030` — Link standard (Batch and BMP)
-	- `0031` — Link BMB (IMS)
-	- `0032H` — Link IMSA (INTG=Y2460; ACCP=Y2450; PROD=D1900)
-	- `0041` — COBOL Copybook
-	- `0042` — CLIST
-	- `0043` — JCL
-	- `0044` — Includes (link cards)
-	- `0045` — Procedure Catalog
-	- `0046` — Data Library
-	- `0047` — [[Easytrieve]] Copybook
-	- `0050` — Copy link standard (Batch and BMP)
-	- `0052` — Copy module object
-	- `0060` — Documentation
-	- `0304` — COBOL6 compile
-	- `0002HL` — Assembler HL Compile
-	-
+	- Sequentially:
+		- `0008` — MFS source (PROD=D1900)
+		- `0010` — Easytrieve compile and link
+		- `0030` — Link standard (Batch and BMP)
+		- `0031` — Link BMB (IMS)
+		- `0032H` — Link IMSA (INTG=Y2460; ACCP=Y2450; PROD=D1900)
+		- `0041` — COBOL Copybook
+		- `0042` — CLIST
+		- `0043` — JCL
+		- `0044` — Includes (link cards)
+		- `0045` — Procedure Catalog
+		- `0046` — Data Library
+		- `0047` — [[Easytrieve]] Copybook
+		- `0050` — Copy link standard (Batch and BMP)
+		- `0052` — Copy module object
+		- `0060` — Documentation
+		- `0304` — COBOL6 compile
+		- `0002HL` — Assembler HL Compile
+	- Semant
 	-
 	-
 -
