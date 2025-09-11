@@ -1,4 +1,4 @@
-- a standard
+- a standard JCL procedure that provides a high-level interface into executing in
 - IMS
 -
 - MBR=  name of the application program
