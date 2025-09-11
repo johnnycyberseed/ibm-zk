@@ -6,6 +6,7 @@
 		- Launch: ISPF `=6`; `ENDEVOR`; `ENVPROD`
 - # Hierarchy
 	- [[Endevor/Environments]]
+	  logseq.order-list-type:: number
 	- [[Endevor/Stages]]
 	- [[Endevor/Systems]]
 	- [[Endevor/Subsystems]]
