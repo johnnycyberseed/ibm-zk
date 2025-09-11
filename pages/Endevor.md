@@ -1,6 +1,6 @@
 - Defacto SCM for z/OS
 -
-- Typically started
+- Typically started from ISPF's TSO (`=6`)
 -
 - # References and Resources
 	- Technical Documentation
