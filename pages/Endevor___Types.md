@@ -1,3 +1,3 @@
 - types of Elements
 - e.g. COBOL, ASEMBLER, BASIC, CLIST, COPYBOOK, JCL, ...
-- [[Tessier]] — ~90 types; numeric org (e.g. ``)
+- [[Tessier]] — ~90 types; numeric org (e.g. `0055` = REXX; ``)
