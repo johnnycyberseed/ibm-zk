@@ -4,7 +4,7 @@
 	- `=3.4` — [[ISPF/Utility Selection/Data Set List Utility]]
 	- `=3.2` —  [[ISPF/Utility Selection/Data Set Utility]]
 	- `=2` — [[ISPF/Edit Entry Panel]]
-- [[Tessier]] specifics
+- [[AmHat]] specifics
 	- `=13.14.ST` — [[z/OS/SDSF/Status Panel]] (for viewing [[JES]] execution of [[JCL]] results)
 -
 -

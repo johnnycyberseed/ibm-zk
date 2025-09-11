@@ -4,7 +4,7 @@
 - PSB= the [[IMS/PSB]]
 - Ultimately invokes [[DFSRRC00]]
 -
-- TODO Unpack the mystery of the similarly named PSB from [[Tessier]].
+- TODO Unpack the mystery of the similarly named PSB from [[AmHat]].
 	- https://chatgpt.com/share/e/688e9db8-de90-8001-9044-99259e8bc47f
 	-
 - # References

@@ -1,7 +1,7 @@
 - Defacto SCM for z/OS
 -
 - Typically started from ISPF's TSO (`=6`)
-	- [[Tessier]]
+	- [[AmHat]]
 		- v18.1.0
 		- Launch: ISPF `=6`; `ENDEVOR`; `ENVPROD`
 - # Hierarchy
