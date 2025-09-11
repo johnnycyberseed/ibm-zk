@@ -1,0 +1,3 @@
+- components within a System
+- very application specific (e.g. for system `FINANCE` there could be subsystems `AP` and `AR`, etc.)
+-
