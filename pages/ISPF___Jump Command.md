@@ -1,7 +1,8 @@
 - Command syntax for transitioning immediately to a panel
 -
 - In rough order of frequency of use:
-	- `=3.4` — [[ISPF/Utility Selection/Data Set Utility]]
+	- `=3.4` — [[ISPF/Utility Selection/Data Set List Utility]]
+	- `=3.2` —  [[ISPF/Utility Selection/Data Set Utility]]
 	- `=2` — [[ISPF/Edit Entry Panel]]
 	- `=13.14.ST` — SDSF Status Panel (for viewing [[JES]] execution of [[JCL]] results)
 -
