@@ -26,6 +26,7 @@
 		  id:: 68c2e05d-ee09-4b5d-96fd-2b4e05c94f0c
 		- `0046` — Data Library
 		  id:: 68c2e013-561c-4c48-a6c1-e7bdd6a4c50e
+			- `$MEP....` — parameter values for named environment
 		- `0047` — [[Easytrieve]] Copybook
 		  id:: 68c2e0ab-3be0-44ac-9bd7-e270d37fa9f2
 		- `0050` — Copy link standard (Batch and BMP)
@@ -45,7 +46,7 @@
 		- Link Cards
 			- ((68c2e087-8bf2-4616-a322-33c21b14622f))
 			- ((68c2e160-87ff-4aa1-b137-01cb88dd4738))
-		- Runtime Control Cards
+		- Data Cards
 			- ((68c2e013-561c-4c48-a6c1-e7bdd6a4c50e))
 		- ((68c2e152-896d-493a-b013-d75a90c674ea))
 		- ((68c2e0ba-dd04-45b0-933d-c60170da0ace))
