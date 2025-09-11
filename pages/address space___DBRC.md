@@ -1,0 +1,6 @@
+- Database Recovery Control facility
+-
+- Runs in its own address space, but is subo
+- # References and Resources
+	- https://www.ibm.com/docs/en/ims/15.6.0?topic=environment-database-recovery-control-facility
+	-
