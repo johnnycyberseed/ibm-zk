@@ -1,1 +1,2 @@
-- names of typ
+- types of Elements
+- e.g. COBOL, ASEMBLER,
