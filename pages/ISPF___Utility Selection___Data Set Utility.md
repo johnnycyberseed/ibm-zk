@@ -11,5 +11,9 @@
 		- See the `Data Set Information` panel; `[F3]`
 		  logseq.order-list-type:: number
 			- the data set information now populates the parameters for allocation
-		- `Other Partitioned, Sequential or VSAM Data Set:`
+		- `Other Partitioned, Sequential or VSAM Data Set:` — change this to the new data set name
+		  logseq.order-list-type:: number
+		- `Option ===>` — `A` (i.e. "Allocate new data set" action)
+		  logseq.order-list-type:: number
+		- See the `Allocate New Data Set` panel
 		  logseq.order-list-type:: number
