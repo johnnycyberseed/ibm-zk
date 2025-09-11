@@ -1,3 +1,4 @@
-- typically one of these for each stage of the software development lifecycle.
+- broadly meant as an organizational unit or area (something out of the org chart)
+-
 	- e.g. dev, test, integration, staging, production
 -
