@@ -8,5 +8,8 @@
 		  logseq.order-list-type:: number
 		- `[ENTER]`
 		  logseq.order-list-type:: number
-		- See the `Data Set Information` panel; hit `F3`
+		- See the `Data Set Information` panel; `[F3]`
+		  logseq.order-list-type:: number
+			- the data set information now populates the parameters for allocation
+		- `Other Partitioned, Sequential or VSAM Data Set:`
 		  logseq.order-list-type:: number
