@@ -8,7 +8,9 @@
 		- therefore owns all databases
 -
 - # Start up
-	-
+	- normally launched with the z/OS `START` command
+		- initializes the [[address space/DBRC]]
+		-
 -
 - # References and Resources
 	- https://www.ibm.com/docs/en/ims/15.6.0?topic=environment-control-region
