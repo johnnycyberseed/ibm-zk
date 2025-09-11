@@ -1,6 +1,7 @@
 - Database Recovery Control facility
 -
-- Runs in its own address space, but is subo
+- Runs in its own address space, but is subordinate to the [[IMS/Control Region]].
+- required by all online IMS systems
 - # References and Resources
 	- https://www.ibm.com/docs/en/ims/15.6.0?topic=environment-database-recovery-control-facility
 	-
