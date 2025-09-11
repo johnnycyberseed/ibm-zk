@@ -1,5 +1,4 @@
-- a standard JCL procedure that provides a high-level interface into executing in
-- IMS
+- a standard JCL procedure that provides a high-level interface into executing in [[IMS/DB Batch Environment]]
 -
 - MBR=  name of the application program
 - PSB= the [[IMS/PSB]]
