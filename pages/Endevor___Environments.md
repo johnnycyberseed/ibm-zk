@@ -1,6 +1,8 @@
 - broadly meant as an organizational unit or area (something out of the org chart)
 - if there's really one group using the tool, can be separated into uses
 	- e.g. production vs. debugging/troubleshooting vs. explorations
-- [[Tessier]] — e.g. `ENVPROD`, `ENVPANNE` (environnement de depannage), `ENVARCH`
+- [[Tessier]] — e.g. `ENVPROD`, `ENVPANNE` (environnement de depannage), `ENVARCH` (pour archive), et les autres
+	- typically `ENVPROD`
+-
 	-
 -
