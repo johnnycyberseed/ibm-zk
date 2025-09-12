@@ -55,6 +55,7 @@
 			  ```
 - # References and Resources
 	- https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-dbctl-environment#ims_dbctl_over
-	- GPT5 regarding the runtime structures of
+	- GPT5 regarding the runtime structures of DLIBATCH processing
+		-
 -
 -
