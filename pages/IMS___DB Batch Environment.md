@@ -54,8 +54,9 @@
 			      RRC00-->>JCL: Condition code & messages
 			  ```
 - # References and Resources
-	- https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-dbctl-environment#ims_dbctl_over
+	- IMS Docs describing the DBCTL Environment
+		- https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-dbctl-environment#ims_dbctl_over
 	- GPT5 regarding the runtime structures of DLIBATCH processing
-		-
+		- https://chatgpt.com/share/e/68c42a17-8a64-8001-b14d-fb204ba34cc9
 -
 -
