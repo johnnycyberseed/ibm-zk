@@ -1,6 +1,54 @@
 - an ad-hoc batch region created to enable a batch program to perform IMS DB work
 -
--
+- # DL/I Batch Processing
+	- {{renderer :mermaid_68c427e4-70f7-42ad-a989-e19f05e289c5, 3}}
+		- ```mermaid
+		  sequenceDiagram
+		      autonumber
+		      participant JES as JES2/3
+		      participant JCL as JCL Job (EXEC PGM=DFSRRC00)
+		      participant RRC00 as DFSRRC00 (Batch DL/I driver)
+		      participant APP as Application Program
+		      participant LI as DFSLI000 (Language Interface)
+		      participant DLI as DL/I Managers (in batch addr space)
+		      participant IRLM as IRLM (optional)
+		      participant VSAM as VSAM/OSAM Data Sets
+		      participant LOG as IEFRDER / Batch Log
+		  
+		      JES->>JCL: Start job
+		      JCL->>RRC00: PARM='DLI,prog,PSB,...'
+		      RRC00->>APP: Load & initialize program
+		      APP->>LI: DL/I call (e.g., GU/GN/ISRT/REPL/DLET)
+		      LI->>DLI: Build PCB/DIB params, branch to DL/I
+		  
+		      alt Read call (e.g., GU/GN)
+		          DLI->>VSAM: Locate & read CI/blocks
+		          VSAM-->>DLI: Segment(s)
+		          DLI-->>LI: Set PCB status + data
+		          LI-->>APP: Return to caller
+		      else Update call (ISRT/REPL/DLET)
+		          opt DBRC/IRLM enabled
+		              DLI->>IRLM: Lock request (db/dataset/record)
+		              IRLM-->>DLI: Lock granted
+		          end
+		          DLI->>VSAM: Write/Update/CI split as needed
+		          DLI->>LOG: Write log records (before/after images)
+		          opt Checkpoint (CHKP)
+		              APP->>LI: CHKP
+		              LI->>DLI: Syncpoint/commit
+		              DLI->>LOG: Checkpoint record
+		              opt IRLM in use
+		                  DLI->>IRLM: Release locks
+		              end
+		          end
+		          VSAM-->>DLI: I/O complete
+		          DLI-->>LI: Status (e.g., spaces/blank/' ' or GE/II/..)
+		          LI-->>APP: Return to caller
+		      end
+		  
+		      APP-->>RRC00: Program end
+		      RRC00-->>JCL: Condition code & messages
+		  ```
 - # References and Resources
 	- https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-dbctl-environment#ims_dbctl_over
 	-
