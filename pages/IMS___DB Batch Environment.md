@@ -2,7 +2,6 @@
 -
 - # DL/I Batch Processing
 	- DL/I Call Flow Sequence Diagram
-	  collapsed:: true
 		- Procedures like [[DLIBATCH]] ultimately invoke [[DFSRRC00]]
 		- {{renderer :mermaid_68c427e4-70f7-42ad-a989-e19f05e289c5, 8}}
 		  collapsed:: true
