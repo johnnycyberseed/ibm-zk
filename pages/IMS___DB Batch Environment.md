@@ -1,5 +1,7 @@
 - an ad-hoc batch region created to enable a batch program to perform IMS DB work
 -
-- # Refe
+- # References and Resources
+	- https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-dbctl-environment#ims_dbctl_over
+	-
 -
 -
