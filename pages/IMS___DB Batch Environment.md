@@ -1,7 +1,7 @@
 - an ad-hoc batch region created to enable a batch program to perform IMS DB work
 -
 - # DL/I Batch Processing
-	- {{renderer :mermaid_68c427e4-70f7-42ad-a989-e19f05e289c5, 3}}
+	- {{renderer :mermaid_68c427e4-70f7-42ad-a989-e19f05e289c5, 8}}
 		- ```mermaid
 		  sequenceDiagram
 		      autonumber
