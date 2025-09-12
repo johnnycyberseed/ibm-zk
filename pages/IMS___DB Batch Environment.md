@@ -2,6 +2,7 @@
 -
 - # DL/I Batch Processing
 	- DL/I Call Flow Sequence Diagram
+	  collapsed:: true
 		- Procedures like [[DLIBATCH]] ultimately invoke [[DFSRRC00]]
 		- {{renderer :mermaid_68c427e4-70f7-42ad-a989-e19f05e289c5, 8}}
 		  collapsed:: true
@@ -54,6 +55,6 @@
 			  ```
 - # References and Resources
 	- https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-dbctl-environment#ims_dbctl_over
-	-
+	- GPT5 regarding the runtime structures of
 -
 -
