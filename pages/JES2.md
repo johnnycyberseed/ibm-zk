@@ -2,6 +2,6 @@
 - # Initialization
 	- ...
 	- executes `SYS1.PROCLIB(JES2)`
-		- useful to
+		- look for the `PROC00` PROCLIB concatenation (typically )
 - # Resources and References
 	-
