@@ -1,4 +1,4 @@
-- allows you to display information about jobs, started tasks, TSO users on the JES queues.
+- allows you to display information about jobs, started tasks, [[JES]]/[[JES2]] configuration, TSO users on the JES queues.
 -
 - ## Cheat Sheet
 	- Commands
