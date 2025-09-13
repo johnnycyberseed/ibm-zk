@@ -5,6 +5,7 @@
 	- `=3.2` —  [[ISPF/Utility Selection/Data Set Utility]]
 	- `=2` — [[ISPF/Edit Entry Panel]]
 - [[AmHat]] specifics
-	- `=13.14.ST` — [[z/OS/SDSF/Status Panel]] (for viewing [[JES]] execution of [[JCL]] results)
--
+	- `=13.14.` — [[z/OS/SDSF]]
+		- `.ST` — [[z/OS/SDSF/Status Panel]] (for viewing [[JES]] execution of [[JCL]] results)
+		- `.PROC` —
 -
