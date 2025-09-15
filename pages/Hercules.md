@@ -1,9 +1,12 @@
 -
--
 - # Resources
 	- MVS Open Source / Freeware — https://www.cbttape.org/cbtfaq.htm
-	-
+	- Jay Moseley's — https://www.jaymoseley.com/hercules/
+		-
 - # References
+	-
 	- 🔒 https://github.com/mechanical-orchard/herc
 	- 🔒
+- # History
+	- created by Roger Bowler
 -
