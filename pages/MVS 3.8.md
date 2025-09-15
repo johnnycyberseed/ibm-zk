@@ -1,0 +1,4 @@
+-
+- # Fundamental Commands
+	- `/START SHUTDOWN` — proper shutdown of the system
+	-
