@@ -1,0 +1,5 @@
+- Author of some terrific material around [[MVS 3.8]]
+-
+- # Notably
+	- FAQ — https://www.jaymoseley.com/hercules/faq/mvsfaq.htm
+	-
