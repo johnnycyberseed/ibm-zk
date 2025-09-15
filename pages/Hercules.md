@@ -5,8 +5,9 @@
 	- [[Jay Moseley]] 's — https://www.jaymoseley.com/hercules/
 		-
 - # References
-	-
+	- https://sdl-hercules-390.github.io/html/
 	- 🔒 https://github.com/mechanical-orchard/herc
+		- oddly, as of 2025-09 I haven't gotten this to successfully IPL for me.
 	- 🔒
 - # History
 	- created by Roger Bowler
