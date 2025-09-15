@@ -21,5 +21,6 @@
 		- PDF: https://www.redbooks.ibm.com/redbooks/pdfs/sg246105.pdf
 	- https://www.youtube.com/playlist?list=PLLcYGaQ7eeuQr-AlEgf4GG-FzS3eimdlm
 	  id:: 6877ea5c-4290-4ea5-b564-71afd486f3f2
-	-
+	- [[Jay Moseley]]'s VSAM tutorial
+		- https://www.jaymoseley.com/hercules/vs_tutor/vstutor.htm
 	-
