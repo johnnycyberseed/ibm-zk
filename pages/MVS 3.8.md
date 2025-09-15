@@ -8,4 +8,7 @@
 		- pointed to by [[Jay Moseley]] when referring to an SDSF-like utility
 			- https://www.jaymoseley.com/hercules/faq/mvsfaq00.htm#General002
 	-
-	-
+- # Recommended References
+	- OS/VS Message Library [GC26-3920]
+	- OS/VS MVS JCL (Job Control Language) [GC28-0692]
+	- OS/VS2 MVS Utilities [GC26-3902]
