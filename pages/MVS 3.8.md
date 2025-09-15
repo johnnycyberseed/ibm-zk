@@ -10,5 +10,7 @@
 	-
 - # Recommended References
 	- OS/VS Message Library [GC26-3920]
+		- https://archive.org/details/bitsavers_ibm370OSVS39201OSVS2MVSUtilitiesMessagesRel3.8Jul8_12761435
+		-
 	- OS/VS MVS JCL (Job Control Language) [GC28-0692]
 	- OS/VS2 MVS Utilities [GC26-3902]
