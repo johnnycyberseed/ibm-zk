@@ -3,6 +3,8 @@
 -
 - # Resources
 	- Official site — https://sdl-hercules-390.github.io/html/
+	- Source code — https://github.com/SDL-Hercules-390/hyperion/releases
+	-
 	- [[Jay Moseley]] 's — https://www.jaymoseley.com/hercules/
 		-
 - # References
