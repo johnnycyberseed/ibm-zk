@@ -2,4 +2,8 @@
 - # Fundamental Commands
 	- `/START SHUTDOWN` — proper shutdown of the system
 -
-- #
+- # Sources of Additional Tools / Utilities
+	- https://www.prycroft6.com.au/vs2sw/
+		- pointed to by [[Jay Moseley]] when referring to an SDSF-like utility
+			-
+	-
