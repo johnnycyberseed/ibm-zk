@@ -3,8 +3,9 @@
 -
 - # Resources
 	- Official site — https://sdl-hercules-390.github.io/html/
-	- Source code — https://github.com/SDL-Hercules-390/hyperion/releases
-	- Another source: https://github.com/hercules-390/hyperion#the-hercules-system370-esa390-and-zarchitecture-emulator
+	- Source code
+		- https://github.com/SDL-Hercules-390/hyperion/releases
+		- Another source: https://github.com/hercules-390/hyperion#the-hercules-system370-esa390-and-zarchitecture-emulator
 	-
 	- [[Jay Moseley]] 's — https://www.jaymoseley.com/hercules/
 		-
