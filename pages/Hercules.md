@@ -2,10 +2,10 @@
 - Typically is running [[MVS 3.8]]
 -
 - # Resources
+	- Official site — https://sdl-hercules-390.github.io/html/
 	- [[Jay Moseley]] 's — https://www.jaymoseley.com/hercules/
 		-
 - # References
-	- https://sdl-hercules-390.github.io/html/
 	- 🔒 https://github.com/mechanical-orchard/herc
 		- oddly, as of 2025-09 I haven't gotten this to successfully IPL for me.
 	- 🔒
