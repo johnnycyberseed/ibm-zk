@@ -1,7 +1,7 @@
 -
 - # Resources
 	- MVS Open Source / Freeware — https://www.cbttape.org/cbtfaq.htm
-	- Jay Moseley's — https://www.jaymoseley.com/hercules/
+	- [[Jay Moseley]] 's — https://www.jaymoseley.com/hercules/
 		-
 - # References
 	-
