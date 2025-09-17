@@ -29,11 +29,14 @@
 		- 2013-07 — [[z/OS]] — v2 released
 	- 2014 — [[zEnterprise gen2]]
 	- 2015 — [[z/13]] — new "vector" architecture / last to support running OSs in ESA/390 mode.
-		- [[z/OS]] — ~v2
+		- [[z/OS]] — typically v2
 	- 2017 — [[z/14]] — pervasive encryption
 		- [[z/OS]] — v2.3+ (for encryption features)
 	- 20?? — [[z/15]]
 		- [[z/OS]] — typically v2.5 / v3.1
+	- 20?? — [[z/16]]
+	- 20?? — [[z/17]]
+	-
 	-
 		-
 -
