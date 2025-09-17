@@ -3,13 +3,13 @@
 	- [[UNIVAC I]] was the first commercially successful computer.
 	- IBM 700/7000 series
 - # [[IBM]] Mainframes
-	- Major
+	- ## Major computer, OS, and software releases
 	- 1964 — [[S/360]]
 		- [[OS_360]] — single user batch
 		- [[JCL]]
 	- 1970 — [[S/370]]
 		- 1971 — [[OS_VS1]] — single user batch with virtual storage
-		- 1974-03 — [[MVS]] GA'ed
+		- 1974-03 — [[MVS]]
 		- 1979-03-20 — Mike Cowlishaw proposed [[REXX]]
 	- 1981 — [[370/XA]]
 		- [[MVS_XA]]
