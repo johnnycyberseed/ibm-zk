@@ -3,7 +3,8 @@
 	- [[UNIVAC I]] was the first commercially successful computer.
 	- IBM 700/7000 series
 - # [[IBM]] Mainframes
-	- 1964 — [[S/360]] — single user batch
+	- 1964 — [[S/360]]
+		- [[OS_360]] — single user batch
 		- [[JCL]]
 	- 1970 — [[S/370]]
 		- 1971 — [[OS_VS1]] — single user batch with virtual storage
