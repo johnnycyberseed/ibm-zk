@@ -7,6 +7,7 @@
 - # Sources of Additional Tools / Utilities
 	- [[Jay Moseley/Installing MVS 3.8j Tutorial]]
 	- The CBT Tape — https://www.cbttape.org/cbtfaq.htm
+	- https://www.tommysprinkle.com/mvs/
 	- https://www.prycroft6.com.au/vs2sw/
 		- pointed to by [[Jay Moseley]] when referring to an SDSF-like utility
 			- https://www.jaymoseley.com/hercules/faq/mvsfaq00.htm#General002
@@ -19,5 +20,5 @@
 				- https://bitsavers.org/pdf/ibm/370/OS_VS2/
 				- up to https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/
 			- S/370 MVS — https://bitsavers.org/pdf/ibm/370/MVS/
-			-
+		-
 		-
