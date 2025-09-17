@@ -3,18 +3,13 @@
 	- `START SHUTDOWN` — proper shutdown of the system
 -
 - # Sources of Additional Tools / Utilities
+	- [[Jay Moseley/Installing MVS 3.8j Tutorial]]
 	- The CBT Tape — https://www.cbttape.org/cbtfaq.htm
 	- https://www.prycroft6.com.au/vs2sw/
 		- pointed to by [[Jay Moseley]] when referring to an SDSF-like utility
 			- https://www.jaymoseley.com/hercules/faq/mvsfaq00.htm#General002
 	-
 - # Recommended References
-	- OS/VS Message Library [GC26-3920]
-		- https://archive.org/details/bitsavers_ibm370OSVS39201OSVS2MVSUtilitiesMessagesRel3.8Jul8_12761435
-	- OS/VS MVS JCL (Job Control Language) [GC28-0692]
-		- https://archive.org/details/bitsavers_ibm370OSVS06925OSVS2MVSJCLRel3.8Apr84_23451058
-	- OS/VS2 MVS Utilities [GC26-3902]
-		- https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/GC26-3902-1_OS_VS2_MVS_Utilities_Rel_3.8_Sep83.pdf
 	- Bit Savers Library of IBM docs:
 		- https://bitsavers.org/pdf/ibm/
 			- S/370 MVS — https://bitsavers.org/pdf/ibm/370/MVS/
