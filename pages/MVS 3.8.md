@@ -7,8 +7,8 @@
 - # Sources of Additional Tools / Utilities
 	- [[Jay Moseley/Installing MVS 3.8j Tutorial]]
 	- The CBT Tape — https://www.cbttape.org/cbtfaq.htm
-	- Tommy Sprinkle's MVS page — https://www.tommysprinkle.com/mvs/
-	- Kevin Leonard's MVS 3.8 page — https://www.j76.org/vs2/index.html
+	- Tommy Sprinkle's MVS 3.8 site — https://www.tommysprinkle.com/mvs/
+	- Kevin Leonard's MVS 3.8 site — https://www.j76.org/vs2/index.html
 	- Greg Price's MVS 3.8 site
 		- Mods
 			- https://www.prycroft6.com.au/vs2mods/index.html
