@@ -1,5 +1,6 @@
 - Multiple Virtual Storage
 - rewritten / replaced [[OS_VS2]] — adding the ability for each user to have their own virtual address space.
+	- HUGE! this meant improved process isolation and much more guaranteed stability
 - The operating system introduced with the [[S/370]]
 - Remains the foundational part of the operating system, today.
 	- still a base component of [[z/OS]] providing
