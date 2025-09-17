@@ -17,7 +17,6 @@
 				- https://bitsavers.org/pdf/ibm/370/OS_VS/
 				- https://bitsavers.org/pdf/ibm/370/OS_VS1/
 				- https://bitsavers.org/pdf/ibm/370/OS_VS2/
-				-
 			- S/370 MVS — https://bitsavers.org/pdf/ibm/370/MVS/
 			-
 		-
