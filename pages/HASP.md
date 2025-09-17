@@ -1,7 +1,9 @@
 - Houston Automatic Spooling Priority
   title:: HASP
 - The predecessor to [[JES]]
-- According to the story, when JES was first introduced
+- According to the story, IBM needed to make JES appealing to the already product-market-fitted HASP
+	- this is in part why so many messages from JES have the `$HASP` prefix.
+-
 -
 - # References
 	- https://en.wikipedia.org/wiki/Houston_Automatic_Spooling_Priority
