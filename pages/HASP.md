@@ -8,4 +8,5 @@
 - # References
 	- https://en.wikipedia.org/wiki/Houston_Automatic_Spooling_Priority
 	- How HASP became JES — https://web.archive.org/web/20071009232601/http://www.redbug.org/dba/sharerpt/share79/o441.html
+	- Very short intro to JES — https://www.jaymoseley.com/hercules/installMVS/iSYSGENv8.htm#:~:text=JES2%20is%20the%20Job%20Entry%20Subsystem%202
 	-
