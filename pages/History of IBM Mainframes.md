@@ -35,8 +35,9 @@
 	- 2019-09 — [[z15]]
 		- [[z/OS]] — typically v2.5 / v3.1
 	- 2022-05 — [[z16]]
-		-
+		- [[z/OS]] — v2.3+ (2.2 is out of service) ; v3.1 to take full advantaged of AI features
 	- 2025-06 — [[z17]]
+		-
 	-
 	-
 		-
