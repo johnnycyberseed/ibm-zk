@@ -9,7 +9,10 @@
 	- The CBT Tape — https://www.cbttape.org/cbtfaq.htm
 	- Tommy Sprinkle's MVS page — https://www.tommysprinkle.com/mvs/
 	- Kevin Leonard's MVS 3.8 page — https://www.j76.org/vs2/index.html
-	-
+	- Greg Price's MVS 3.8
+		- Mods
+			-
+		- Software
 	- https://www.prycroft6.com.au/vs2sw/
 		- pointed to by [[Jay Moseley]] when referring to an SDSF-like utility
 			- https://www.jaymoseley.com/hercules/faq/mvsfaq00.htm#General002
