@@ -1,6 +1,7 @@
 - Programmer's guide to the facility used to describe updates to an OS/VS, OS/VS2, MVS system
 -
-- Learned about this through [[Jay Moseley]]'s
+- Learned about this through [[Jay Moseley/Installing MVS 3.8j Tutorial]]
+-
 -
 - # Locations
 	- jtigger's Google Drive — https://drive.google.com/file/d/15j8v6QFkTj0s0Jhoou0W3I3mi-3erske/view?usp=drive_link
