@@ -8,10 +8,10 @@
 	- https://www.prycroft6.com.au/vs2sw/
 		- pointed to by [[Jay Moseley]] when referring to an SDSF-like utility
 			- https://www.jaymoseley.com/hercules/faq/mvsfaq00.htm#General002
-	-
-- # Recommended References
+- # References
 	- Bit Savers Library of IBM docs:
 		- https://bitsavers.org/pdf/ibm/
+			- OS/VS —
 			- S/370 MVS — https://bitsavers.org/pdf/ibm/370/MVS/
 			-
 		-
