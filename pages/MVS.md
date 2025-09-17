@@ -1,4 +1,5 @@
 - Multiple Virtual Storage
+- rewritten / replaced [[OS_VS2]]
 - The operating system introduced with the [[S/370]]
 - Remains the foundational part of the operating system, today.
 	- still a base component of [[z/OS]] providing
@@ -6,7 +7,7 @@
 		- core OS services
 - 🤖 The evolution from OS/360 through MVS up to z/OS
 	- https://chatgpt.com/share/e/68b5be65-8fd0-8001-8cbe-3de0a6497874
-- The latest open source version of MVS is [[MVS 3.8]] is open sourced.
+- The latest version of MVS is [[MVS 3.8]] is open sourced.
 -
 - # References
 	- https://en.wikipedia.org/wiki/MVS
