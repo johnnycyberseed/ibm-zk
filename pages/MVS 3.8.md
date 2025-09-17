@@ -1,4 +1,5 @@
-- In effect,
+- In effect, the last release of [[OS_VS2]]
+-
 - # Fundamental Commands
 	- `START SHUTDOWN` — proper shutdown of the system
 -
