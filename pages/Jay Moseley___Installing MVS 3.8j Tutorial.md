@@ -5,4 +5,6 @@
 	- YouTube Playlist "MVS 3.8" by Matthew Wilson
 	  collapsed:: true
 		- {{video https://www.youtube.com/playlist?list=PL9tkJGALYJ6DZo4DbVANZiGIf2aELSSJY}}
+-
+- # Recommended Reading / References
 	-
