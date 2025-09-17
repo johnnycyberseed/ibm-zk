@@ -1,3 +1,4 @@
 - MVS Enterprise System Architecture
 - Added new I/O and storage support.
-- While introduced for the [[ESA/370]],
+- While introduced for the [[ESA/370]], also was installed on [[S/390]]s
+-
