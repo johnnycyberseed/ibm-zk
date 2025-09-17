@@ -1,6 +1,6 @@
 -
 - # Fundamental Commands
-	- `/START SHUTDOWN` — proper shutdown of the system
+	- `START SHUTDOWN` — proper shutdown of the system
 -
 - # Sources of Additional Tools / Utilities
 	- The CBT Tape — https://www.cbttape.org/cbtfaq.htm
