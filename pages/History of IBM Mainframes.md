@@ -23,7 +23,6 @@
 	- 2000-10 — [[zSeries/900]]
 		- [[z/OS]] — v1
 	- 2005 — [[System z9]]
-		- [[z/OS]] —
 	- 2008 — [[System z10]]
 	- 2010 — [[zEnterprise gen1]]
 		- 2013-07 — [[z/OS]] — v2 released
