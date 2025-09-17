@@ -26,6 +26,7 @@
 		- [[z/OS]] —
 	- 2008 — [[System z10]]
 	- 2010 — [[zEnterprise gen1]]
+		- 2013-07 — [[z/OS]] — v2 released
 	- 2014 — [[zEnterprise gen2]]
 	- 2015 — [[z/13]] — new "vector" architecture / last to support running OSs in ESA/390 mode.
 		- [[z/OS]] — ~v2
