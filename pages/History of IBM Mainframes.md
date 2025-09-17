@@ -21,8 +21,10 @@
 		- 1996 — [[OS_390]]
 		-
 	- 2000-10 — [[zSeries/900]]
-		- [[z/OS]]
-	-
+		- [[z/OS]] — v1 through
+	- 2005 — [[System z9]]
+		- [[z/OS]] —
+		-
 	- ...
 	- 2010 — [[zEnterprise gen1]]
 	-
