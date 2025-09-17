@@ -1,4 +1,5 @@
-- In effect, the last release of [[OS_VS2]]
+- In effect, the last release of [[MVS]]
+-
 -
 - # Fundamental Commands
 	- `START SHUTDOWN` — proper shutdown of the system
