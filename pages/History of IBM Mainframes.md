@@ -11,9 +11,11 @@
 		- 1974-03 — [[MVS]] GA'ed
 		- 1979-03-20 — Mike Cowlishaw proposed [[REXX]]
 	- 1981 — [[370/XA]]
-		-
+		- [[MVS_XA]]
 	- 1985 — [[30XX]]
 	- 1989 — [[ESA/370]]
+		- [[MVS_ESA]]
+		-
 	- ...
 	- 2010 — [[zEnterprise gen1]]
 	-
