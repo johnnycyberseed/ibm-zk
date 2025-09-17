@@ -1,3 +1,7 @@
 -
+-
 - # Locations
-	- jtigger's gDriverhttps://drive.google.com/file/d/15j8v6QFkTj0s0Jhoou0W3I3mi-3erske/view?usp=drive_link
+	- jtigger's Google Drive — https://drive.google.com/file/d/15j8v6QFkTj0s0Jhoou0W3I3mi-3erske/view?usp=drive_link
+	- Bit Savers — https://bitsavers.org/pdf/ibm/370/OS_VS/GC28-0673-6_OS_VS_System_Modification_Program_(SMP)_Systems_Programmers_Guide_7th_ed_198009.pdf
+	-
+-
