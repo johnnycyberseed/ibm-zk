@@ -5,7 +5,7 @@
 		- each have one or more [[IMS/PCB]]s
 	-
 - Segments within the IMS Catalog Hierarchy (diagram)
-	- ![image.png](../assets/image_1753372049970_0.png){:height 0, :width 1200}
+	- ![image.png](../assets/image_1753372049970_0.png){:height 730, :width 1200}
 	- Segment names typically correspond to macro statements in the DBD and [[IMS/PSB]] source.
 	- There are four (4) Data Set Groups (DSNs are not necessarily mapped to the color codes; just illustrating):
 		- White — `<HALDB data set prefix>.A00001`
