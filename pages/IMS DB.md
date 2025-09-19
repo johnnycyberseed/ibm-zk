@@ -12,13 +12,12 @@
 	- Each segment has one or more "fields"
 	- Each "row" within a segment is referred to as an "instance"
 	-
-- # Supported Backends
+- # Database Types (and supported )
 	- [[IMS DB/FF]]
 	- [[IMS DB/HALDB]]
 	- [[IMS DB/FP]]
 		- [[IMS DB/FP/DEDB]]
-		-
-		- MSDB
+		- [[IMS DB/FP/MSDB]]
 	- There are many types of Hierarchical Databases:
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
 		- HSAM
