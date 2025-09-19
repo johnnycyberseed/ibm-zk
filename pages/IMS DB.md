@@ -26,11 +26,11 @@
 		- Direct Access
 			- HDAM — Hierarchical
 				- HIDAM — ... Indexed
-	- [[IMS DB/FF]]  and [[IMS DB/HALDB]] — use HAL when DB will be very large (requiring partitions)
+	- [[IMS DB/FF]]  and [[IMS DB/HALDB]] — use HAL when DB will be very large (~40 TB) (requiring partitions)
 		- PHDAM — Partitioned Hierarchical
 			- [[IMS DB/PHIDAM]] — ... Indexed
 		- PSINDEX — Partitioned Secondary Index
-	- [[IMS DB/FP]] only
+	- [[IMS DB/FP]] only — use FP when high volume / low latency required and "simple" narrow kinds of data paths.
 		- [[IMS DB/FP/DEDB]] — Hierarchical Direct
 		- [[IMS DB/FP/MSDB]] — Hierarchical Direct
 	- Can be stored in either
