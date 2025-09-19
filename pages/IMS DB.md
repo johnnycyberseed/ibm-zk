@@ -12,11 +12,11 @@
 	- Each segment has one or more "fields"
 	- Each "row" within a segment is referred to as an "instance"
 	-
-- # Database Types (and supported )
+- # Database Types (and supported access methods)
 	- There are many types of Hierarchical Databases:
 		- Tables that detail each combo of database type and
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
-	- [[IMS DB/FF]] only — most common for batch applications
+	- [[IMS DB/FF]] only — the default baseline DB type; suitable for most common use cases.
 		- Sequential
 			- HSAM — Hierarchical
 				- HISAM — ... Indexed
@@ -26,7 +26,7 @@
 		- Direct Access
 			- HDAM — Hierarchical
 				- HIDAM — ... Indexed
-	- [[IMS DB/FF]]  and [[IMS DB/HALDB]]
+	- [[IMS DB/FF]]  and [[IMS DB/HALDB]] — use HAL when DB will be very large (requiring partitions)
 		- PHDAM — Partitioned Hierarchical
 			- [[IMS DB/PHIDAM]] — ... Indexed
 		- PSINDEX — Partitioned Secondary Index
