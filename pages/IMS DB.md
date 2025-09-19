@@ -21,6 +21,7 @@
 			- Types
 				- HDAM — Hierarchical
 					- [[IMS DB/FF/HIDAM]] — ... Indexed
+			- Maintains hierarchy between segments through pointers (rather than physically storing in hierarchical sequence)
 			- Can be stored in either
 				- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
 				- [[Data Set/Type/OSAM]]
