@@ -27,9 +27,9 @@
 			- HDAM — Hierarchical
 				- HIDAM — ... Indexed
 	- [[IMS DB/FF]]  and [[IMS DB/HALDB]]
-		- PHDAM
-		- [[IMS DB/PHIDAM]]
-		- PSINDEX
+		- PHDAM — Partitioned Hierarchical
+			- [[IMS DB/PHIDAM]] — ... Indexed
+		- PSINDEX —
 	- [[IMS DB/FP]] only
 		- [[IMS DB/FP/DEDB]]
 		- [[IMS DB/FP/MSDB]]
