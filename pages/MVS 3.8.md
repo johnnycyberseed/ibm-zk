@@ -1,6 +1,5 @@
 - The last release of [[MVS]]
-- The last release of any OS that IBM provided as effectively freeware
--
+- The last release of any OS that IBM provided as effectively freeware.
 -
 - # Fundamental Commands
 	- `START SHUTDOWN` — proper shutdown of the system
