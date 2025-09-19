@@ -1,3 +1,5 @@
 - Full Function IMS DB
+- Provides the ability to query data via [[IMS DB/DL/I]]
+-
 - One of the original database types offered with IMS
 -
