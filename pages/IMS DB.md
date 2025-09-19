@@ -16,6 +16,9 @@
 	- [[IMS DB/FF]]
 	- [[IMS DB/HALDB]]
 	- [[IMS DB/FP]]
+		- [[IMS DB/FP/DEDB]]
+		-
+		- MSDB
 	- There are many types of Hierarchical Databases:
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
 		- HSAM
@@ -28,8 +31,6 @@
 		- HIDAM
 		- [[IMS DB/PHIDAM]]
 		- PSINDEX
-		- DEDB
-		- MSDB
 	- Can be stored in either
 		- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
 		- [[Data Set/Type/OSAM]]
