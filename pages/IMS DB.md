@@ -13,23 +13,23 @@
 	- Each "row" within a segment is referred to as an "instance"
 	-
 - # Database Types (and supported )
-	- [[IMS DB/FF]]
-	- [[IMS DB/HALDB]]
-	- [[IMS DB/FP]]
-		- [[IMS DB/FP/DEDB]]
-		- [[IMS DB/FP/MSDB]]
 	- There are many types of Hierarchical Databases:
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
+		- PHDAM
+		- HIDAM
+		- [[IMS DB/PHIDAM]]
+		- PSINDEX
+	- [[IMS DB/FF]]
 		- HSAM
 		- HISAM
 		- SHSAM
 		- SHISAM
 		- GSAM
 		- HDAM
-		- PHDAM
-		- HIDAM
-		- [[IMS DB/PHIDAM]]
-		- PSINDEX
+	- [[IMS DB/HALDB]]
+	- [[IMS DB/FP]]
+		- [[IMS DB/FP/DEDB]]
+		- [[IMS DB/FP/MSDB]]
 	- Can be stored in either
 		- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
 		- [[Data Set/Type/OSAM]]
