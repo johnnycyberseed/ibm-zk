@@ -18,14 +18,14 @@
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
 	- [[IMS DB/FF]] only — most common for batch applications
 		- Sequential
-		- HSAM
-		- HISAM
-		- SHSAM
-		- SHISAM
-		- GSAM
-		-
-		- HDAM
-		- HIDAM
+			- HSAM — Hierarchical
+				- HISAM — ... Indexed
+			- SHSAM Simple Hierarchival
+				- SHISAM
+			- GSAM
+		- Direct Access
+			- HDAM
+			- HIDAM
 	- [[IMS DB/FF]]  and [[IMS DB/HALDB]]
 		- PHDAM
 		- [[IMS DB/PHIDAM]]
