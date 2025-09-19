@@ -20,12 +20,12 @@
 		- Sequential
 			- HSAM — Hierarchical
 				- HISAM — ... Indexed
-			- SHSAM Simple Hierarchival
-				- SHISAM
-			- GSAM
+			- SHSAM — Simple Hierarchical
+				- SHISAM — ... Indexed
+			- GSAM — Generalized
 		- Direct Access
-			- HDAM
-			- HIDAM
+			- HDAM — Hierarchical
+				- HIDAM — ... Indexed
 	- [[IMS DB/FF]]  and [[IMS DB/HALDB]]
 		- PHDAM
 		- [[IMS DB/PHIDAM]]
