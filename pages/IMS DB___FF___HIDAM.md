@@ -2,4 +2,6 @@
 - organized for
 	- Hierarchical
 	- Indexed
+		- an index is created and used to access records, allowing "random" direct access.
+	-
 -
