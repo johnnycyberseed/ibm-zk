@@ -2,7 +2,7 @@
 - Presents a hierarchical database model to users
 - Features
 	- backup/recovery of database
-- # The Data Model of a database
+- # The Data Model of a Database
 	- Defined in a [[IMS/DBD]]
 	- Each layer of the hierarchy is referred to as a "segment"
 		- Top-level is the Root Segment (or "Level 1")
@@ -12,10 +12,10 @@
 	- Each segment has one or more "fields"
 	- Each "row" within a segment is referred to as an "instance"
 	-
-- Supported Backends:
+- # Supported Backends
 	- [[IMS DB/FF]]
 	- [[IMS DB/HALDB]]
-	- [[IMS DB/Fast Path]]
+	- [[IMS DB/FP]]
 	- There are many types of Hierarchical Databases:
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
 		- HSAM
