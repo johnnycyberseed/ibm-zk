@@ -16,7 +16,7 @@
 	- There are many types of Hierarchical Databases:
 		- Tables that detail each combo of database type and
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
-	- [[IMS DB/FF]] only
+	- [[IMS DB/FF]] only — likely most
 		- HSAM
 		- HISAM
 		- SHSAM
