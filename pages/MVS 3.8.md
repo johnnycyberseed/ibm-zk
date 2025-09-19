@@ -1,4 +1,5 @@
-- In effect, the last release of [[MVS]]
+- The last release of [[MVS]]
+- The last release of any OS that IBM provided as effectively freeware
 -
 -
 - # Fundamental Commands
