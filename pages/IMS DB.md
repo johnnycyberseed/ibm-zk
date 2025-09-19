@@ -18,8 +18,12 @@
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
 	- [[IMS DB/FF]] only — the default baseline DB type; suitable for most common use cases.
 		- Hierarchical Direct Access (aka "HD" DBs)
-			- HDAM — Hierarchical
-				- [[IMS DB/FF/HIDAM]] — ... Indexed
+			- Types
+				- HDAM — Hierarchical
+					- [[IMS DB/FF/HIDAM]] — ... Indexed
+			- Can be stored in either
+				- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
+				- [[Data Set/Type/OSAM]]
 		- Sequential Access — all records and segments are physically adjacent in storage.
 			- HSAM — Hierarchical
 				- HISAM — ... Indexed
@@ -33,11 +37,6 @@
 	- [[IMS DB/FP]] only — use FP when high volume / low latency required and "simple" narrow kinds of data paths.
 		- [[IMS DB/FP/DEDB]] — Hierarchical Direct
 		- [[IMS DB/FP/MSDB]] — Hierarchical Direct
-	- Can be stored in either
-		- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
-		- [[Data Set/Type/OSAM]]
-		-
-		-
 -
 - ## APIs
 	- [[IMS DB/DL/I]]
