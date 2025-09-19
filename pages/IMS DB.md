@@ -29,10 +29,10 @@
 	- [[IMS DB/FF]]  and [[IMS DB/HALDB]]
 		- PHDAM — Partitioned Hierarchical
 			- [[IMS DB/PHIDAM]] — ... Indexed
-		- PSINDEX —
+		- PSINDEX — Partitioned Secondary Index
 	- [[IMS DB/FP]] only
-		- [[IMS DB/FP/DEDB]]
-		- [[IMS DB/FP/MSDB]]
+		- [[IMS DB/FP/DEDB]] — Hierarchical Direct
+		- [[IMS DB/FP/MSDB]] — Hierarchical Direct
 	- Can be stored in either
 		- [[Data Set/Type/VSAM/Entry-Sequenced (ESDS)]]
 		- [[Data Set/Type/OSAM]]
