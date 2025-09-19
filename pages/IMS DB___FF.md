@@ -1,5 +1,7 @@
 - Full Function IMS DB
 - Provides the ability to query data via [[IMS DB/DL/I]]
--
+- The general-purpose IMS databases.
+	- HDAM uses a "randomizer" to reach roots;
+	- HIDAM uses an index.
 - One of the original database types offered with IMS
 -
