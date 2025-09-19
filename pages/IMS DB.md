@@ -17,15 +17,15 @@
 		- Tables that detail each combo of database type and
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
 	- [[IMS DB/FF]] only — the default baseline DB type; suitable for most common use cases.
+		- Hierarchical Direct Access (aka "HD" DBs)
+			- HDAM — Hierarchical
+				- [[IMS DB/FF/HIDAM]] — ... Indexed
 		- Sequential Access — all records and segments are physically adjacent in storage.
 			- HSAM — Hierarchical
 				- HISAM — ... Indexed
 			- SHSAM — Simple Hierarchical
 				- SHISAM — ... Indexed
 			- GSAM — Generalized
-		- Hierarchical Direct Access (aka "HD" DBs)
-			- HDAM — Hierarchical
-				- [[IMS DB/FF/HIDAM]] — ... Indexed
 	- [[IMS DB/FF]]  and [[IMS DB/HALDB]] — use HAL when DB will be very large (~40 TB) (requiring partitions)
 		- PHDAM — Partitioned Hierarchical
 			- [[IMS DB/PHIDAM]] — ... Indexed
