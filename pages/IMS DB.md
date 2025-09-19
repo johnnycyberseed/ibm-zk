@@ -23,7 +23,7 @@
 			- SHSAM — Simple Hierarchical
 				- SHISAM — ... Indexed
 			- GSAM — Generalized
-		- Hierarchical Direct Access
+		- Hierarchical Direct Access (aka "HD" DBs)
 			- HDAM — Hierarchical
 				- [[IMS DB/FF/HIDAM]] — ... Indexed
 	- [[IMS DB/FF]]  and [[IMS DB/HALDB]] — use HAL when DB will be very large (~40 TB) (requiring partitions)
