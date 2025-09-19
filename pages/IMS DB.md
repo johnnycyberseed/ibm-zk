@@ -17,7 +17,7 @@
 		- Tables that detail each combo of database type and
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
 	- [[IMS DB/FF]] only — the default baseline DB type; suitable for most common use cases.
-		- Sequential
+		- Sequential Access — all records and segments are physically adjacent in storage.
 			- HSAM — Hierarchical
 				- HISAM — ... Indexed
 			- SHSAM — Simple Hierarchical
