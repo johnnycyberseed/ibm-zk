@@ -1,1 +1,5 @@
-- Full Function DB organized for Hierarchical
+- Full Function DB
+- organized for
+	- Hierarchical
+	- Indexed
+-
