@@ -1,7 +1,8 @@
 - Full Function DB
-- organized for
-	- Hierarchical
-	- Indexed
-		- an index is created and used to access records, allowing "random" direct access.
-	-
+	- organized for
+		- Hierarchical
+		- Indexed
+			- an index is created and used to access records, allowing "random" direct access.
+- Comprised of two databases: one for database records, the other for the HIDAM index.
+-
 -
