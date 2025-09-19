@@ -15,18 +15,18 @@
 - # Database Types (and supported )
 	- There are many types of Hierarchical Databases:
 		- https://www.ibm.com/docs/en/ims/15.4.0?topic=functions-summary-ims-database-types
-		- PHDAM
-		- HIDAM
-		- [[IMS DB/PHIDAM]]
-		- PSINDEX
-	- [[IMS DB/FF]]
+	- [[IMS DB/FF]] only
 		- HSAM
 		- HISAM
 		- SHSAM
 		- SHISAM
 		- GSAM
 		- HDAM
+		- HIDAM
 	- [[IMS DB/HALDB]]
+		- PHDAM
+		- [[IMS DB/PHIDAM]]
+		- PSINDEX
 	- [[IMS DB/FP]]
 		- [[IMS DB/FP/DEDB]]
 		- [[IMS DB/FP/MSDB]]
