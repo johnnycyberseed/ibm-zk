@@ -6,7 +6,8 @@
 		  /* REXX program that copies the contents of a GDG */
 		  ...
 		  ```
-			- this is not technically required (at least in a TSO/E exection)
+			- I'm not yet clear on when this is _required_ vs. not.
+		-
 	- ## Stems (Arrays)
 		- REXX does not have native support for array data structures
 		- Stems fill this role
