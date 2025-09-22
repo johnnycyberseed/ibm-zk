@@ -7,7 +7,10 @@
 		  ...
 		  ```
 			- I'm not yet clear on when this is _required_ vs. not.
-		-
+			- The error you get is:
+			  ```
+			  INVALID COMMAND NAME SYNTAX
+			  ```
 	- ## Stems (Arrays)
 		- REXX does not have native support for array data structures
 		- Stems fill this role
