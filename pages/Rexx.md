@@ -11,7 +11,7 @@
 			  ```
 			  INVALID COMMAND NAME SYNTAX
 			  ```
-			-
+				- x
 	- ## Stems (Arrays)
 		- REXX does not have native support for array data structures
 		- Stems fill this role
