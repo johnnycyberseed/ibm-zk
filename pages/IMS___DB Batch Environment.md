@@ -1,5 +1,5 @@
 - an ad-hoc batch region created to enable a batch program to perform IMS DB work
--
+- aka "offline"
 - # DL/I Batch Processing
 	- DL/I Call Flow Sequence Diagram
 		- Procedures like [[DLIBATCH]] ultimately invoke [[DFSRRC00]]
