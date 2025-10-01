@@ -4,8 +4,9 @@
 	- DL/I Call Flow Sequence Diagram
 		- Procedures like [[DLIBATCH]] ultimately invoke [[DFSRRC00]]
 		- Which prepare an environment for your "Application Program"
-		- Which makes DL/I calls
-			- e.g. for COBOL: https://www.ibm.com/docs/en/ims/15.4.0?topic=areas-coding-batch-program-in-cobol
+			- Which makes DL/I calls
+				- e.g. for COBOL: https://www.ibm.com/docs/en/ims/15.4.0?topic=areas-coding-batch-program-in-cobol
+			- Which is compiled and linked to the DFSLI000 via `IMSCOBOL` utility
 		- {{renderer :mermaid_68c427e4-70f7-42ad-a989-e19f05e289c5, 8}}
 		  collapsed:: true
 			- ```mermaid
