@@ -5,7 +5,7 @@
 		- Procedures like [[DLIBATCH]] ultimately invoke [[DFSRRC00]]
 		- Which prepare an environment for your "Application Program"
 		- Which makes DL/I calls
-			- https://www.ibm.com/docs/en/ims/15.4.0?topic=areas-coding-batch-program-in-cobol
+			- e.g. for COBOL: https://www.ibm.com/docs/en/ims/15.4.0?topic=areas-coding-batch-program-in-cobol
 		- {{renderer :mermaid_68c427e4-70f7-42ad-a989-e19f05e289c5, 8}}
 		  collapsed:: true
 			- ```mermaid
