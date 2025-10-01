@@ -1,7 +1,8 @@
 - an ad-hoc batch region created to enable a batch program to perform IMS DB work
-- aka "offline"
+- aka "offline" IMS
 - # DL/I Batch Processing
 	- DL/I Call Flow Sequence Diagram
+	  collapsed:: true
 		- Procedures like [[DLIBATCH]] ultimately invoke [[DFSRRC00]]
 		- Which prepare an environment for your "Application Program"
 			- Which makes DL/I calls
