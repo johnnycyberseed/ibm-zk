@@ -60,6 +60,8 @@
 			      RRC00-->>JCL: Condition code & messages
 			  ```
 - # References and Resources
+	- IMS Docs describing the DB Batch Environment
+		- https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-db-batch-environment
 	- IMS Docs describing the DBCTL Environment
 		- https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-dbctl-environment#ims_dbctl_over
 	- GPT5 regarding the runtime structures of DLIBATCH processing
