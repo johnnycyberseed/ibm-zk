@@ -13,6 +13,6 @@
 	- ```
 	  # for a EBCDIC file with 80 characters...
 	  
-	  dd if=input.file bs=80 | fold -w 80
+	  dd if=input.file conv=ascii bs=80 | fold -w 80
 	  ```
 -
