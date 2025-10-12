@@ -2,4 +2,6 @@
 - # References
 	- Hosted Docs: https://brexx370.readthedocs.io/en/latest/index.html
 	- GitHub: https://github.com/mvslovers
+	- BREXX Architecture (presentation): https://www.rexxla.org/presentations/2025/brexx_Architecture.pdf
+	-
 -
