@@ -1,5 +1,15 @@
 - Initial Program Load
 - the boot process on the mainframe for loading the Operating System.
 -
+- # Overview
+	- ## 5 Phases
+		- Hardware IPL
+		- IPL RIMs
+		- NIP RIMs
+		- MSI
+		- JES
 -
+- # Resources
+	- https://studylib.net/doc/18345777/prs3699-ipl-logic-flow-v2
+	-
 -
