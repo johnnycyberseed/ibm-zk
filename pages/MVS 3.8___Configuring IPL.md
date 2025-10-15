@@ -1,9 +1,8 @@
 - https://www.youtube.com/watch?v=PUhXhgUv_og&list=PLmD2RvHHbEaBa5elMJRsodJuVisNFTakU
 -
 - `SYS1.PARMLIB` — on earlier systems the _only_ [[Data Set/Type/Partitioned Data Set (PDS)]] that contains startup scripts.
-	- `COMMAND00`
+	- `COMMND00`
 		- `BSPPILOT` — works with [[Hercules]] to properly initialize the system
 			- Q: is this really just Hercules specific?
-		-
-	- `EDT00` — part of `BSPPILOT`
+	-
 -
