@@ -3,8 +3,6 @@
 -
 - # Fundamental Commands
 	- [[MVS 3.8/Commands Cheat Sheet]]
-		-
-		-
 -
 - # Sources of Additional Tools / Utilities
 	- [[Jay Moseley/Installing MVS 3.8j Tutorial]]
