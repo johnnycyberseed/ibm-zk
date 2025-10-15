@@ -4,5 +4,8 @@
 	- `COMMND00`
 		- `BSPPILOT` — works with [[Hercules]] to properly initialize the system
 			- Q: is this really just Hercules specific?
+-
+- # References
+	- https://hansen-family.com/mvs/parmlib.htm
 	-
 -
