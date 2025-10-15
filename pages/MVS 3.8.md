@@ -4,7 +4,8 @@
 - # Fundamental Commands
 	- `START SHUTDOWN` — proper shutdown of the system
 		- `/START SHUTDOWN` on [[Hercules]]
-	-
+	- [[MVS 3.8/Commands Cheat Sheet]]
+		-
 		-
 -
 - # Sources of Additional Tools / Utilities
