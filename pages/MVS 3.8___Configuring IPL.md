@@ -1,4 +1,5 @@
 - https://www.youtube.com/watch?v=PUhXhgUv_og&list=PLmD2RvHHbEaBa5elMJRsodJuVisNFTakU
 -
 - `SYS1.PARMLIB` — on earlier systems the _only_ [[Data Set/Type/Partitioned Data Set (PDS)]] that contains startup scripts.
--
+	- `COMMAND00`
+	- `EDT00` — part of `BSPPILOT`
