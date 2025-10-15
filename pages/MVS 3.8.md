@@ -3,6 +3,7 @@
 -
 - # Fundamental Commands
 	- [[MVS 3.8/Commands Cheat Sheet]]
+-
 - [[MVS 3.8/Configuring IPL]]
 - # Sources of Additional Tools / Utilities
 	- [[Jay Moseley/Installing MVS 3.8j Tutorial]]
@@ -16,7 +17,9 @@
 			- https://www.prycroft6.com.au/vs2sw/
 				- pointed to by [[Jay Moseley]] when referring to an SDSF-like utility: Queue
 					- https://www.jaymoseley.com/hercules/faq/mvsfaq00.htm#General002
-			-
+	- moshix's MVS utilities — https://github.com/moshix/mvs
+	-
+-
 - # References
 	- Bit Savers Library of IBM docs:
 		- https://bitsavers.org/pdf/ibm/
