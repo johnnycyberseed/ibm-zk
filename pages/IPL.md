@@ -5,7 +5,7 @@
 	- ## 5 Phases
 		- Hardware IPL
 		- IPL RIMs
-		- NIP RIMs
+		- NIP RIMs  — Nucleus Initialization Program
 		- MSI
 		- JES
 -
