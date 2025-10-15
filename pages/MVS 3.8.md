@@ -4,6 +4,9 @@
 - # Fundamental Commands
 	- [[MVS 3.8/Commands Cheat Sheet]]
 -
+- # Configuring IPL
+	- https://www.youtube.com/watch?v=PUhXhgUv_og&list=PLmD2RvHHbEaBa5elMJRsodJuVisNFTakU
+	-
 - # Sources of Additional Tools / Utilities
 	- [[Jay Moseley/Installing MVS 3.8j Tutorial]]
 	- The CBT Tape — https://www.cbttape.org/cbtfaq.htm
