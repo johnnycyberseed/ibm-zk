@@ -1,7 +1,10 @@
 ## Display Commands
 	- `D U,,,380,2` — display two devices, starting at address 380
 	- `D U,DASD,ONLINE`  — display all online DASD volumes
-	- `D A,L`  —
+	- `D A,L`  — display active jobs and users
+	- `D R,L` — display unanswered messages or actions
+	- `D T` — display time and date
+	-
 - # References
 	- https://www.jaymoseley.com/hercules/downloads/pdf/Volker%20Bandke%20Command%20Summaries.pdf
 	-
