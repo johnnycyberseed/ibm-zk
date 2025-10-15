@@ -4,8 +4,8 @@
 - # Fundamental Commands
 	- `START SHUTDOWN` — proper shutdown of the system
 		- `/START SHUTDOWN` on [[Hercules]]
-- # Additional Commands
-	- `d a,l` — display all address spaces (long format)
+	-
+		-
 -
 - # Sources of Additional Tools / Utilities
 	- [[Jay Moseley/Installing MVS 3.8j Tutorial]]
