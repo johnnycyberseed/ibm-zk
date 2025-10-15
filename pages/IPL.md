@@ -9,9 +9,9 @@
 		  logseq.order-list-type:: number
 		- NIP RIMs  — Nucleus Initialization Program Resource Initialization Modules
 		  logseq.order-list-type:: number
-		- MSI
+		- MSI — Master Scheduler Initialization
 		  logseq.order-list-type:: number
-		- JES
+		- JES — Job Entry Subsystem
 		  logseq.order-list-type:: number
 	-
 -
