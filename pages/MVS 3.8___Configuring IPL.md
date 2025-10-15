@@ -6,6 +6,8 @@
 			- Q: is this really just Hercules specific?
 -
 - # References
-	- https://hansen-family.com/mvs/parmlib.htm
+	- https://www.tommysprinkle.com/mvs/parmlib.html
+		- Mirrored at: https://hansen-family.com/mvs/parmlib.htm
+	-
 	-
 -
