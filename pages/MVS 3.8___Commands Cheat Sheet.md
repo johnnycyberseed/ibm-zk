@@ -1,7 +1,8 @@
 # Fundamentals
 	- `START SHUTDOWN` — proper shutdown of the system
 		- `/START SHUTDOWN` on [[Hercules]]
-		- Q: is this the same as the "Shutting down MVS" from [[Jay Moseley]]'s
+		- Q: is this the same as the "Shutting down MVS" from [[Jay Moseley]]'s Cheatsheet?
+	-
 		-
 - # Display Commands
 	- `D U,,,380,2` — display two devices, starting at address 380
