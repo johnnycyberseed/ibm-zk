@@ -1,7 +1,9 @@
 # Fundamentals
 	- `START SHUTDOWN` — proper shutdown of the system
 		- `/START SHUTDOWN` on [[Hercules]]
-- # Useful Display Commands
+		- Q: is this the same as the "Shutting down MVS" from [[Jay Moseley]]'s
+		-
+- # Display Commands
 	- `D U,,,380,2` — display two devices, starting at address 380
 	- `D U,DASD,ONLINE`  — display all online DASD volumes
 	- `D A,L`  — display active jobs and users
