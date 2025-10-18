@@ -1,3 +1,4 @@
--
+- A pre-Sysgen'ed distribution of [[MVS 3.8]].
+- Includes User Manual "TK5-In
 - The implementation of [[REXX]] is [[BREXX]]
 -
