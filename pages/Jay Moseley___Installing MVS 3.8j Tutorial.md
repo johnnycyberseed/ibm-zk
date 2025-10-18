@@ -5,7 +5,7 @@
 	  collapsed:: true
 		- {{video https://www.youtube.com/playlist?list=PL9tkJGALYJ6DZo4DbVANZiGIf2aELSSJY}}
 -
-- Perhaps the most valuable aspect of this tutorial is being introduced to the [[]]
+-
 - # Recommended Reading / References
 	- OS/VS Message Library [GC26-3920]
 		- https://archive.org/details/bitsavers_ibm370OSVS39201OSVS2MVSUtilitiesMessagesRel3.8Jul8_12761435
