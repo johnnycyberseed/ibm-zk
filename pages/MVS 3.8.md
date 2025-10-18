@@ -21,7 +21,9 @@
 					- https://www.jaymoseley.com/hercules/faq/mvsfaq00.htm#General002
 	- moshix's MVS utilities — https://github.com/moshix/mvs
 	-
--
+- # How to...
+	- [[How to add user to MVS]]
+	-
 - # References
 	- Bit Savers Library of IBM docs:
 		- https://bitsavers.org/pdf/ibm/
