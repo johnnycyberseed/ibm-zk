@@ -52,11 +52,11 @@
 		- Demand Paging
 		- Swapping
 		- Page Stealing
-		- Page Frame Table
-	- System Components
-		- Real Storage Manager (RSM)
-		- Auxiliary Storage Manager (ASM)
-		- Virtual Storage Manager (VSM)
+			- Page Frame Table
+		- System Components
+			- Real Storage Manager (RSM)
+			- Auxiliary Storage Manager (ASM)
+			- Virtual Storage Manager (VSM)
 	- Program Loading
 	- Virtual Storage Areas
 		- System Area
@@ -68,7 +68,7 @@
 			- Local System Queue Area (LSQA)
 			- Scheduler Work Area (SWA)
 			- Subpools 229/230
-		- System Region
+			- System Region
 			- Virtual (V=V) User Region
 			- Real (V=R) User Region
 	- Extensions and Options
