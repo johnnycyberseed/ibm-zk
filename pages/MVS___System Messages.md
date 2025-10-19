@@ -5,7 +5,7 @@
 	- AMA / AMB / AMD -- MVS Service Aids
 	- BLS -- IPCS (Interactive Problem Control System)
 	- DFH -- CICS
-	- DFS -- IMS/DLI
+	- DFS -- [[IMS DB]] / [[IMS DB/DL/I]]
 	- [[HASP]] -- JES2
 	- IAT -- JES3
 	- IBC -- Stand-alone utilities (DASD Initialization, Dump/Restore, etc.)
