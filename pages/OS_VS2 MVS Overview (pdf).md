@@ -217,9 +217,47 @@
 		- Task Recovery Routines
 		- Functional Recovery Routines
 	- Recovery Management Support
-	- Machine Check Handler
-	- Alternate CPU Recovery
-	- Channel Reconfiguration Hardware and Channel Set Switching
-	- Channel Check Handler
-	- Dynamic Device Reconfiguration
-	- Missing Interrupt Handler
+		- Machine Check Handler
+			- Alternate CPU Recovery
+			- Channel Reconfiguration Hardware and Channel Set Switching
+		- Channel Check Handler
+		- Dynamic Device Reconfiguration
+		- Missing Interrupt Handler
+- ## Chapter 10: Multiprocessing
+	- Loosely-Coupled Multiprocessing
+	- Tightly-Coupled Multiprocessing
+	- Configuration
+	- Logical Reconfiguration
+	- Physical Reconfiguration
+	- Communication
+		- MVS-Initiated Communication
+		- Hardware-Initiated Communication
+	- Control
+		- Physical Addresses
+		- Status and Control Information
+	- Attached Processor System
+	  
+	  ---
+- ### **Chapter 11: Monitoring System Activity**
+- System Management Facilities
+- Resource Measurement Facility
+- Dumping Facilities
+	- SNAP Dump
+	- ABEND Dump
+	- SVC Dump
+	- Stand-Alone Dump
+- Trace Facilities
+	- System Trace
+	- Generalized Trace Facility
+	- Master Trace
+- Serviceability Level Indication Processing
+- Program Event Recording Events
+- Error Events
+- Slip Actions
+	- Using SLIP Traps
+- SYS1.LOGREC Error Recording
+- Index
+  
+  ---
+  
+  Would you like me to continue with the **Figures section** next (the list that starts after Chapter 11)?
