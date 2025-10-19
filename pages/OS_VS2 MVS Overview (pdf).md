@@ -182,27 +182,27 @@
 		- Resource Monitoring
 - ## Chapter 8: Satisfying I/O Requests and Data Management
 	- Access Methods
-	- Data Organization
-	- Access Techniques
-	- Conventional Access Methods
-	- Telecommunication Access Methods
+		- Data Organization
+		- Access Techniques
+		- Conventional Access Methods
+		- Telecommunication Access Methods
 	- Scheduling I/O
-	- User Program Functions
-		- OPEN Processing
-		- I/O Request
-		- CLOSE Processing
+		- User Program Functions
+			- OPEN Processing
+			- I/O Request
+			- CLOSE Processing
 		- Access Method Function
-		- Control Blocks
-		- Channel Program
-		- EXCP Macro Instruction
-		- Appendages
-	- Input/Output Supervisor (IOS) Functions
-		- EXCP Driver Front End
-		- Channel Scheduler
-		- I/O Interruption Handler
-		- EXCP Driver Disabled Interruption Exit (DIE)
-		- Post Status
-		- EXCP Driver Back End
+			- Control Blocks
+			- Channel Program
+			- EXCP Macro Instruction
+			- Appendages
+		- Input/Output Supervisor (IOS) Functions
+			- EXCP Driver Front End
+			- Channel Scheduler
+			- I/O Interruption Handler
+			- EXCP Driver Disabled Interruption Exit (DIE)
+			- Post Status
+			- EXCP Driver Back End
 		- Summary
 	- Virtual Input/Output (VIO)
 	- Virtual Storage Access Method (VSAM)
@@ -214,8 +214,8 @@
 		- System Catalog
 - ## Chapter 9: Recovering from Errors
 	- Recovery Termination
-	- Task Recovery Routines
-	- Functional Recovery Routines
+		- Task Recovery Routines
+		- Functional Recovery Routines
 	- Recovery Management Support
 	- Machine Check Handler
 	- Alternate CPU Recovery
