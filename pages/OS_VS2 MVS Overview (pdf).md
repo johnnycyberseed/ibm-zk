@@ -249,9 +249,9 @@
 		- Generalized Trace Facility
 		- Master Trace
 	- Serviceability Level Indication Processing
-	- Program Event Recording Events
-	- Error Events
+		- Program Event Recording Events
+		- Error Events
 	- Slip Actions
 		- Using SLIP Traps
 	- SYS1.LOGREC Error Recording
-	- Index
+- Index
