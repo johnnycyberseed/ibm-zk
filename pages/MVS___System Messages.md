@@ -1,7 +1,5 @@
 -
-- | Prefix | Source Program |
-  |---|---|
-  | ADF | TSO Session Manager |
+- | ADF | TSO Session Manager |
   | AHL | MVS Generalized Trace Facility |
   | AMA / AMB / AMD | MVS Service Aids |
   | BLS | IPCS (Interactive Problem Control System) |
