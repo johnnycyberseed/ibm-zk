@@ -10,7 +10,8 @@
 - # References
 	- https://www.tommysprinkle.com/mvs/parmlib.html
 		- Mirrored at: https://hansen-family.com/mvs/parmlib.htm
-	- [[OS_VS2 MVS Overview (pdf)]]
-		- 4-7.
+	- ((68f55e1e-4ea7-45f0-9383-8698673963f0))
+	-
+		-
 	-
 -

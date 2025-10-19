@@ -110,6 +110,7 @@
 		- Initializing Real Storage
 		- Initializing a Master Address Space
 		- Obtaining System Parameters
+		  id:: 68f55e1e-4ea7-45f0-9383-8698673963f0
 			- The System Parameter Lists
 			- System Operator Activity
 	- Resource Initialization via RIMs
