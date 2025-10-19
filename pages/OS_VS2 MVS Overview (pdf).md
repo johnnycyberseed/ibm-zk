@@ -104,34 +104,34 @@
 		- The System Residence Volume
 		- The System Console
 - Initial Program Loading
-- Clearing Storage
-- Loading the Nucleus
+	- Clearing Storage
+	- Loading the Nucleus
 - Nucleus Initialization via NIP
-- Initializing Real Storage
-- Initializing a Master Address Space
-- Obtaining System Parameters
-- The System Parameter Lists
-- System Operator Activity
+	- Initializing Real Storage
+	- Initializing a Master Address Space
+	- Obtaining System Parameters
+		- The System Parameter Lists
+		- System Operator Activity
 - Resource Initialization via RIMs
-- Initializing I/O Devices
-- Initializing Volume Attributes
-- Initializing System Consoles
-- Initializing the System Catalog
-- Initializing the System Resources Manager
-	- Automatic Priority Group (APG) Initialization
-	- Installation Performance Specification Initialization (IPS)
-	- Optional System Tuning Parameter Initialization (OPT)
-	- Additional SRM Initialization
-- Initializing the Auxiliary Storage Manager
-	- Page Data Set Initialization
-	- Swap Data Set Initialization
-	- Duplex Data Set Initialization
-	- VIO Data Set Initialization
-- Initializing the Program Manager
-	- Pageable Link Pack Area Initialization
-	- Fixed Link Pack Area Initialization
-	- Modified Link Pack Area Initialization
-	- Table and List Initialization
+	- Initializing I/O Devices
+	- Initializing Volume Attributes
+	- Initializing System Consoles
+	- Initializing the System Catalog
+	- Initializing the System Resources Manager
+		- Automatic Priority Group (APG) Initialization
+		- Installation Performance Specification Initialization (IPS)
+		- Optional System Tuning Parameter Initialization (OPT)
+		- Additional SRM Initialization
+	- Initializing the Auxiliary Storage Manager
+		- Page Data Set Initialization
+		- Swap Data Set Initialization
+		- Duplex Data Set Initialization
+		- VIO Data Set Initialization
+	- Initializing the Program Manager
+		- Pageable Link Pack Area Initialization
+		- Fixed Link Pack Area Initialization
+		- Modified Link Pack Area Initialization
+		- Table and List Initialization
 - Master Scheduler Initialization
 	- Initializing the Master Scheduler Base
 	- Initiating the Master Scheduler
@@ -140,11 +140,9 @@
 	- Creating an Address Space for JES
 	- Initializing the Region Control Task
 	- Initiating JES
-	- Address Space Creation
+- Address Space Creation
 - TSO Initialization
-  
-  ---
-- ### **Chapter 5: Entering and Scheduling Work**
+- ## Chapter 5: Entering and Scheduling Work
 - Job Entry Subsystem Processing
 	- Input
 	- Execution
