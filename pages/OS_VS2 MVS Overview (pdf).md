@@ -166,17 +166,69 @@
 		- Service Request Blocks (SRBs)
 	- Dispatching Work
 	- Serializing the Use of Processors
-	- Enqueueing
-	- Locking
+		- Enqueueing
+		- Locking
 - ## Chapter 7: Managing System Resources
-- How the SRM Meets Its Objectives
-- Major Functional Areas of SRM
-- Communicating With SRM
-- SRM Control
-- Swap Analysis
-- The Workload Manager
-- The Resource Manager
-- Storage Management
-- I/O Management
-- Processor Management
-- Resource Monitoring
+	- How the SRM Meets Its Objectives
+		- Major Functional Areas of SRM
+		- Communicating With SRM
+	- SRM Control
+		- Swap Analysis
+	- The Workload Manager
+	- The Resource Manager
+		- Storage Management
+		- I/O Management
+		- Processor Management
+		- Resource Monitoring
+- Here are **just the section headings** (no dots or page numbers) for **Chapters 8 and 9** from your PDF:
+  
+  ---
+- ### **Chapter 8: Satisfying I/O Requests and Data Management**
+- Access Methods
+- Data Organization
+- Access Techniques
+- Conventional Access Methods
+- Telecommunication Access Methods
+- Scheduling I/O
+- User Program Functions
+	- OPEN Processing
+	- I/O Request
+	- CLOSE Processing
+	- Access Method Function
+	- Control Blocks
+	- Channel Program
+	- EXCP Macro Instruction
+	- Appendages
+- Input/Output Supervisor (IOS) Functions
+	- EXCP Driver Front End
+	- Channel Scheduler
+	- I/O Interruption Handler
+	- EXCP Driver Disabled Interruption Exit (DIE)
+	- Post Status
+	- EXCP Driver Back End
+	- Summary
+- Virtual Input/Output (VIO)
+- Virtual Storage Access Method (VSAM)
+	- Control Interval
+	- Key-Sequenced Data Set
+	- Entry-Sequenced Data Set
+	- Relative Record Data Set
+	- Alternate Indexes
+	- System Catalog
+	  
+	  ---
+- ### **Chapter 9: Recovering from Errors**
+- Recovery Termination
+- Task Recovery Routines
+- Functional Recovery Routines
+- Recovery Management Support
+- Machine Check Handler
+- Alternate CPU Recovery
+- Channel Reconfiguration Hardware and Channel Set Switching
+- Channel Check Handler
+- Dynamic Device Reconfiguration
+- Missing Interrupt Handler
+  
+  ---
+  
+  Would you like me to continue with **Chapters 10 and 11** next in the same clean heading-only format?
