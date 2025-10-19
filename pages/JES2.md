@@ -1,6 +1,8 @@
 - Job Entry Subsystem 2
 -
-- System Message Prefix: HASP
+- System Message Prefix: `HASP`
+	- see [[HASP]] for the connection.
+	-
 -
 - # Initialization
 	- view the System level PROCLIB using
