@@ -13,7 +13,7 @@
 		  logseq.order-list-type:: number
 		- JES — Job Entry Subsystem
 		  logseq.order-list-type:: number
-	-
+	- See
 -
 - # Resources
 	- https://studylib.net/doc/18345777/prs3699-ipl-logic-flow-v2

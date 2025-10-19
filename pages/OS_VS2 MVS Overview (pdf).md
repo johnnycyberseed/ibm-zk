@@ -105,7 +105,9 @@
 		- Initiating the Load Procedure
 			- The System Residence Volume
 			- The System Console
-	- Initial Program Loading
+	- id:: 68f55e1e-ed7f-4844-b25a-568b0e3a6a11
+	  
+	  Initial Program Loading
 		- Clearing Storage
 		- Loading the Nucleus
 	- Nucleus Initialization via NIP
