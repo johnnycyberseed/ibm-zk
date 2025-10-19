@@ -57,7 +57,7 @@
 			- Real Storage Manager (RSM)
 			- Auxiliary Storage Manager (ASM)
 			- Virtual Storage Manager (VSM)
-	- Program Loading
+		- Program Loading
 	- Virtual Storage Areas
 		- System Area
 		- Common Area
