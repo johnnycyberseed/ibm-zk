@@ -1,12 +1,11 @@
 - The first three, occasionally four, characters of the component/program name identify the program, and usually, serve to identify the error messages issued by the program.  Many of the prefixes originated in the OS/360 era, or earlier, and the origin of the prefix letters is no longer known.  Currently IBM maintains a registry of prefixes assigned both by IBM and by third parties.
-- Some of the known prefixes are:
+- Some of the known prefixes (not yet mapped to a program in this graph) are:
 	- ADF -- TSO Session Manager
 	- AHL -- MVS Generalized Trace Facility
 	- AMA / AMB / AMD -- MVS Service Aids
 	- BLS -- IPCS (Interactive Problem Control System)
 	- DFH -- CICS
 	- DFS -- [[IMS DB]] / [[IMS DB/DL/I]]
-	- [[HASP]] -- [[JES2]]
 	- IAT -- JES3
 	- IBC -- Stand-alone utilities (DASD Initialization, Dump/Restore, etc.)
 	- IBM -- PL/I library
