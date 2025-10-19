@@ -98,5 +98,69 @@
 		- Installing Programming Temporary Fixes (PTFs)
 		- Installing User Modifications
 		- SMP Control Functions
--
+- ## Chapter 4: Preparing the System for Work
+- Overview of the Initialization Process
+	- Initiating the Load Procedure
+		- The System Residence Volume
+		- The System Console
+- Initial Program Loading
+- Clearing Storage
+- Loading the Nucleus
+- Nucleus Initialization via NIP
+- Initializing Real Storage
+- Initializing a Master Address Space
+- Obtaining System Parameters
+- The System Parameter Lists
+- System Operator Activity
+- Resource Initialization via RIMs
+- Initializing I/O Devices
+- Initializing Volume Attributes
+- Initializing System Consoles
+- Initializing the System Catalog
+- Initializing the System Resources Manager
+	- Automatic Priority Group (APG) Initialization
+	- Installation Performance Specification Initialization (IPS)
+	- Optional System Tuning Parameter Initialization (OPT)
+	- Additional SRM Initialization
+- Initializing the Auxiliary Storage Manager
+	- Page Data Set Initialization
+	- Swap Data Set Initialization
+	- Duplex Data Set Initialization
+	- VIO Data Set Initialization
+- Initializing the Program Manager
+	- Pageable Link Pack Area Initialization
+	- Fixed Link Pack Area Initialization
+	- Modified Link Pack Area Initialization
+	- Table and List Initialization
+- Master Scheduler Initialization
+	- Initializing the Master Scheduler Base
+	- Initiating the Master Scheduler
+	- Initializing the Master Scheduler Region
+- Job Entry Subsystem Initialization
+	- Creating an Address Space for JES
+	- Initializing the Region Control Task
+	- Initiating JES
+	- Address Space Creation
+- TSO Initialization
+  
+  ---
+- ### **Chapter 5: Entering and Scheduling Work**
+- Job Entry Subsystem Processing
+	- Input
+	- Execution
+	- JES2 Job Scheduling
+	- JES3 Job Scheduling
+	- Additional Job Scheduling Functions
+	- Output
+	- Purge
+	- JES2 Features
+	- JES3 Features
+- Device Allocation
+	- Job Step Allocation
+	- JES3 Device Allocation
+	- Dynamic Allocation
+	  
+	  ---
+	  
+	  Would you like me to continue with **Chapters 6 and 7** next in the same heading-only format?
 -
