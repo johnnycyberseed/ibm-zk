@@ -54,7 +54,7 @@
 	- IHJ -- Checkpoint/Restart
 	- IHL -- OS Generalized Trace Facility
 	- IKF -- ANS COBOL compiler and OS/VS COBOL compiler
-	- IKJ -- TSO
+	- IKJ -- [[TSO]]
 	- IKM -- PL/I Syntax Checker
 	- IKT -- TSO/VTAM
 	- ILR -- MVS Auxiliary Storage Management
