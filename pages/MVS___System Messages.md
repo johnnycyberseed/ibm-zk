@@ -6,7 +6,7 @@
 	- BLS -- IPCS (Interactive Problem Control System)
 	- DFH -- CICS
 	- DFS -- [[IMS DB]] / [[IMS DB/DL/I]]
-	- [[HASP]] -- JES2
+	- [[HASP]] -- [[JES2]]
 	- IAT -- JES3
 	- IBC -- Stand-alone utilities (DASD Initialization, Dump/Restore, etc.)
 	- IBM -- PL/I library
