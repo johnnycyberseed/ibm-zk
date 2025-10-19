@@ -3,8 +3,7 @@
   
   The emulator starts up.
 - ### Phase 0.0 -- Preamble
-  
-  > 07:27:24 HHC01536W HDL: WARNING: '/hercules/lib/hercules' is not a valid directory
+- > 07:27:24 HHC01536W HDL: WARNING: '/hercules/lib/hercules' is not a valid directory
   > 07:27:24 HHC00007I Previous message from function 'hdl_checkpath' at hdl.c(759)
   > 07:27:24 HHC00100I Thread id 00000002011bde40, prio 5, name 'impl_thread' started
   > 07:27:24 HHC00100I Thread id 000000030613f000, prio 4, name 'logger_thread' started
@@ -64,25 +63,19 @@
   > 07:27:24 HHC17003I MAIN     storage is 16M (mainsize); storage is not locked
   > 07:27:24 HHC17003I EXPANDED storage is 0 (xpndsize); storage is not locked
 - ### Phase 0.1 -- HTTP Server
-  
-  A GUI for the emulator itself, not an HTTP service on the mainframe.
-  
-  > 07:27:24 HHC02204I PORT           set to port=8038 noauth
+- A GUI for the emulator itself, not an HTTP service on the mainframe.
+- > 07:27:24 HHC02204I PORT           set to port=8038 noauth
   > 07:27:24 HHC01802I HTTP server using root directory /Users/johnnycyberseed/workspace/learn/ibmz/hercules/mvs-turnkey5/mvs-tk5/hercules/httproot/
   > 07:27:24 HHC02204I ROOT           set to /Users/johnnycyberseed/workspace/learn/ibmz/hercules/mvs-turnkey5/mvs-tk5/hercules/httproot/
   > 07:27:24 HHC01807I HTTP server signaled to start
-  
-  > 07:27:24 HHC02204I NUMCPU         set to 1
+- > 07:27:24 HHC02204I NUMCPU         set to 1
   > 07:27:24 HHC02204I MAXCPU         set to 1
-  
-  > 07:27:24 HHC00100I Thread id 000000030654b000, prio 4, name 'http_server' started
+- > 07:27:24 HHC00100I Thread id 000000030654b000, prio 4, name 'http_server' started
   > 07:27:24 HHC02204I TZOFFSET       set to +0000
   > 07:27:24 HHC01802I HTTP server using root directory /Users/johnnycyberseed/workspace/learn/ibmz/hercules/mvs-turnkey5/mvs-tk5/hercules/httproot/
   > 07:27:24 HHC01803I HTTP server waiting for requests on port 8038
-  
-  Web server ready at http://localhost:8038/
-  
-  > 07:27:24 HHC00811I Processor CP00: architecture mode S/370
+- Web server ready at http://localhost:8038/
+- > 07:27:24 HHC00811I Processor CP00: architecture mode S/370
   > 07:27:24 HHC02204I ARCHLVL        set to S/370
   > 07:27:24 HHC02204I LPARNUM        set to BASIC
   > 07:27:24 HHC02204I DIAG8CMD       set to ENABLE  ECHO
