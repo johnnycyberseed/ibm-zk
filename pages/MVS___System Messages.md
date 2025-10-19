@@ -1,8 +1,8 @@
-- | ADF | TSO Session Manager |
+-
+- |
+  | ADF | TSO Session Manager |
   | AHL | MVS Generalized Trace Facility |
-  | AMA
-  AMB
-  AMD | MVS Service Aids |
+  | AMA / AMB / AMD | MVS Service Aids |
   | BLS | IPCS (Interactive Problem Control System) |
   | DFH | CICS |
   | DFS | IMS/DLI |
@@ -58,9 +58,7 @@
   | IKM | PL/I Syntax Checker |
   | IKT | TSO/VTAM |
   | ILR | MVS Auxiliary Storage Management |
-  | IMA
-  IMB
-  IMD | OS Service Aids |
+  | IMA / IMB / IMD | OS Service Aids |
   | IMC | OS Job Queue utilities |
   | IPD | FORTRAN IV Syntax Checker |
   | IRA | MVS System Resources Manager |
