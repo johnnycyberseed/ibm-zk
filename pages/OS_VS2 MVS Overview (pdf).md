@@ -75,22 +75,22 @@
 		- Fixed Link Pack Area (FLPA)
 		- Modified Link Pack Area (MLPA)
 		- BLDL Lists
-- ### **Chapter 3: Installing and Servicing the System**
+- ## Chapter 3: Installing and Servicing the System
 	- Installing the System
 		- Preliminary Considerations
 		- The Installation Plan
-		- Installation Tasks
-		- Checkpoints and Interdependencies
-		- Performance
-		- Staffing and Personnel
+			- Installation Tasks
+			- Checkpoints and Interdependencies
+			- Performance
+			- Staffing and Personnel
 	- System Generation
 		- Planning and Preparing for the System Generation
 		- Executing the System Generation
 		- Verifying the System Generation
-		- MVS System Installation Productivity Option (MVS System IPO)
-			- The MVS System IPO
-			- MVS System IPO Documentation
-			- The MVS System IPO Installation Plan
+	- MVS System Installation Productivity Option (MVS System IPO)
+		- The MVS System IPO
+		- MVS System IPO Documentation
+		- The MVS System IPO Installation Plan
 	- Servicing the System
 		- The System Modification Program (SMP)
 		- Installing Selectable Units (SUs)
