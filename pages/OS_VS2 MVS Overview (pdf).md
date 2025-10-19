@@ -1,16 +1,16 @@
 - https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/GC28-0984-1_OS_VS2_MVS_Overview_May1980.pdf
 - Chapter 1: Introduction
-	- Direct Benefits ............................................ 1-1
-		- Multiple Virtual Storage ................................. 1-1
-		      Addressing in MVS ..................................... 1-2
-		      Sharing Real Storage .................................. 1-3
-		      Summary ............................................... 1-4
-	- Multiprocessing .......................................... 1-4
-		- Tightly-Coupled and Loosely-Coupled Multiprocessing ... 1-4
-			- Availability .......................................... 1-5
-			- Flexibility ........................................... 1-6
-			- Attached Processor System ............................. 1-6
-		- Error Recovery ........................................... 1-6
+	- Direct Benefits
+		- Multiple Virtual Storage
+		      Addressing in MVS
+		      Sharing Real Storage
+		      Summary
+	- Multiprocessing
+		- Tightly-Coupled and Loosely-Coupled Multiprocessing
+			- Availability
+			- Flexibility
+			- Attached Processor System
+		- Error Recovery
 			- Recovery Management Support ........................... 1-7
 			- Recovery Termination Management ....................... 1-8
 			- Summary of Direct Benefits ............................ 1-9
