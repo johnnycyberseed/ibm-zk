@@ -11,30 +11,30 @@
 			- Flexibility
 			- Attached Processor System
 		- Error Recovery
-			- Recovery Management Support ........................... 1-7
-			- Recovery Termination Management ....................... 1-8
-			- Summary of Direct Benefits ............................ 1-9
-	- Indirect Benefits ........................................... 1-9
-	- Greater Support for Interactive Users .................... 1-9
-		- Sessions and Transactions ............................. 1-9
-		- Terminal I/O .......................................... 1-10
-		- Swapping .............................................. 1-10
-	- Improved Performance ..................................... 1-10
-		- Control of Performance ................................ 1-10
-		- Overview of the SRM ................................... 1-11
-		- Reduction in Bottlenecks .............................. 1-11
-	- Improved Security and Integrity .......................... 1-13
-		- Isolate and Protect ................................... 1-13
-		- Validate and Authorize ................................ 1-14
-		- User Responsibility ................................... 1-14
-	- Enhanced Function ........................................ 1-14
-		- Job Entry Subsystem ................................... 1-14
-			- JES2 ............................................... 1-15
-			- JES3 ............................................... 1-15
-		- Subsystem Interface ................................... 1-15
-		- System Generation and Initialization .................. 1-16
-			- System Generation .................................. 1-16
-			- System Initialization .............................. 1-16
-			- System Operation ................................... 1-16
-		- Virtual Storage Access Method (VSAM) .................. 1-16
-	- Summary ..................................................... 1-16
+			- Recovery Management Support
+			- Recovery Termination Management
+			- Summary of Direct Benefits
+	- Indirect Benefits
+	- Greater Support for Interactive Users
+		- Sessions and Transactions
+		- Terminal I/O
+		- Swapping
+	- Improved Performance
+		- Control of Performance
+		- Overview of the SRM
+		- Reduction in Bottlenecks
+	- Improved Security and Integrity
+		- Isolate and Protect
+		- Validate and Authorize
+		- User Responsibility
+	- Enhanced Function
+		- Job Entry Subsystem
+			- JES2
+			- JES3
+		- Subsystem Interface
+		- System Generation and Initialization
+			- System Generation
+			- System Initialization
+			- System Operation
+		- Virtual Storage Access Method (VSAM)
+	- Summary
