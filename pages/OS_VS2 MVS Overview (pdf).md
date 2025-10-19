@@ -157,4 +157,26 @@
 		- Job Step Allocation
 		- JES3 Device Allocation
 		- Dynamic Allocation
--
+- ## Chapter 6: Supervising the Execution of Work
+	- Interruption Processing
+		- The Role of Program Status Words
+		- The Interruption Handler (IH) Routines
+	- Creating Dispatchable Units of Work
+		- Task Control Blocks (TCBs)
+		- Service Request Blocks (SRBs)
+	- Dispatching Work
+	- Serializing the Use of Processors
+	- Enqueueing
+	- Locking
+- ## Chapter 7: Managing System Resources
+- How the SRM Meets Its Objectives
+- Major Functional Areas of SRM
+- Communicating With SRM
+- SRM Control
+- Swap Analysis
+- The Workload Manager
+- The Resource Manager
+- Storage Management
+- I/O Management
+- Processor Management
+- Resource Monitoring
