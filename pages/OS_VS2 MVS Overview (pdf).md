@@ -1,4 +1,4 @@
-- https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/GC28-0984-1_OS_VS2_MVS_Overview_May1980.pdf
+- https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/GC28-0984-1_OS_VS2_MVS_Overview_May1980.pdfh
 - # Table of Contents
 - ## Chapter 1: Introduction
 	- Direct Benefits
