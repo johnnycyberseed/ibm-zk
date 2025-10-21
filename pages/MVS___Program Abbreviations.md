@@ -63,6 +63,6 @@
 	- IPD -- FORTRAN IV Syntax Checker
 	- IRA -- MVS System Resources Manager
 	- IRB -- MF/1 (Measurement Facility/1)
-	- IST -- [[z/OS/VTAM]]
+	- IST -- [[VTAM]]
 	-
 -

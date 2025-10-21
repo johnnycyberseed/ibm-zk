@@ -20,7 +20,7 @@
 - ## How the analogy breaks down
 	- Hosting model
 		- Unix shell is just another user process; killing it ends the session
-		- TSO/E session owns a dedicated address space managed by [[z/OS/VTAM]] & [[JES]]; logging off terminates the entire address space, freeing datasets & control blocks
+		- TSO/E session owns a dedicated address space managed by [[VTAM]] & [[JES]]; logging off terminates the entire address space, freeing datasets & control blocks
 	- Multiprogramming visibility
 		- Unix shell shows child PIDs and allows `fg`/`bg`
 		- TSO commands run either in the same address space or spawn separate initiators; limited traditional job control
