@@ -6,4 +6,7 @@
 	- controls
 - for
 	- interactive terminals,
-	- printers, and application-to-application messaging across IBM systems. It’s comparable in scope to “TCP/IP,” but older and designed around IBM hosts and controllers.
+	- printers, and
+	- application-to-application messaging
+- across IBM systems.
+- comparable in scope to “TCP/IP,” but older and designed around IBM hosts and controllers.
