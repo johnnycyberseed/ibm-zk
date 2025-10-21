@@ -1,5 +1,8 @@
 - Virtual Telecommunications Access Manager
--
+- Establishes and controls sessions
+	- between users/devices (e.g., 3270 terminals/printers) and
+	- host applications (e.g. TSO/ISPF, CICS, IMS), and
+	- app-to-app via APPC/LU 6.2.
 -
 -
 - Layering (diagram)
