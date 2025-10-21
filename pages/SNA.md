@@ -1,0 +1,9 @@
+- Systems Network Architecture
+- IBM’s proprietary networking architecture
+- full stack of
+	- protocols
+	- roles
+	- controls
+- for
+	- interactive terminals,
+	- printers, and application-to-application messaging across IBM systems. It’s comparable in scope to “TCP/IP,” but older and designed around IBM hosts and controllers.
