@@ -1,0 +1,3 @@
+- a file containing compiled but not-yet linked code
+- usually in [[FB80]]
+-
