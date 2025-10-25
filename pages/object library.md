@@ -1,2 +1,6 @@
 - a [[Data Set/Type/Partitioned Data Set (PDS)]] that specifically contains [[object module]]s
-- e.g. `&SYSUID.LOADLIB`
+-
+- Examples:
+	- [[AmHat]] `&SYSUID.LOADLIB.CUR`
+		-
+	-
