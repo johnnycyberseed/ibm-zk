@@ -2,7 +2,7 @@
 -
 - Examples:
 	- [[AmHat]] `&SYSUID.LOADLIB.CUR`
-		- yeah, it's a common confusion that a PDS named "LOAD" would be a  when in fact it contains [[FB80]] and is an object
+		- yeah, it's a common confusion that a PDS named "LOAD" would contain "load modules" when in fact it contains [[FB80]] and is an "object library"
 		- the trick is to view the organization:
 			- [[FB80]]? it's likely "object deck" files (compiled, but not linked)
 			- U0 (Undefined org)? it's almost certainly a complied _and_ linked executable program module.
