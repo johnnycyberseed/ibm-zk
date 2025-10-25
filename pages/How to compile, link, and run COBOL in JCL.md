@@ -1,15 +1,18 @@
 - Summary of how COBOL can be compiled to a [[program module]] using JCL.
 -
-- ## Compile, Link, and "Go"
-	- Use catalogued procedure `IGYWCLG`
-		- https://www.ibm.com/docs/en/zos-basic-skills?topic=procedures-cobol-compile-link-go-procedure
-- ## Compile and Link
-	- Use catalogued procedure `IGYWCL`
-		- https://www.ibm.com/docs/en/zos-basic-skills?topic=procedures-cobol-compile-link-procedure
+- # Common
+	- ## Compile, Link, and "Go"
+		- Use catalogued procedure `IGYWCLG`
+			- https://www.ibm.com/docs/en/zos-basic-skills?topic=procedures-cobol-compile-link-go-procedure
+	- ## Compile and Link
+		- Use catalogued procedure `IGYWCL`
+			- https://www.ibm.com/docs/en/zos-basic-skills?topic=procedures-cobol-compile-link-procedure
+	-
+	- When the COBOL is processing data, it's common to use [[JCL/DD/override]] to supply the data definitions to the program
 -
-- When the COBOL is processing data, it's common to use [[JCL/DD/override]] to supply the data definitions to the program
--
--
+- # [[AmHat]] Specifics
+	- which might be common.
+	-
 - # References
 	-
 	-
