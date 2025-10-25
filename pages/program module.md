@@ -16,7 +16,7 @@
 	-
 	- diagram
 		- ![image.png](../assets/image_1754180789322_0.png){:height 0, :width 800}
-		-
+	-
 -
 - # References
 	- Introduction to Program Mangement — https://www.ibm.com/docs/en/zos/2.5.0?topic=zmpmugr-introduction
