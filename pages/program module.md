@@ -11,6 +11,5 @@
 			- program objects
 				- newer
 				- stored in a [[Data Set/Type/Extended PDS (PDSE)]]
-- [[How program modules are made]]
--
--
+- # see also
+	- [[How program modules are made]]
