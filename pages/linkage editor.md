@@ -1,2 +1,3 @@
 - [[MVS]]'s linker, producing executables.
-- the [[z/OS/
+- the predecessor to the [[z/OS/Binder]]
+-
