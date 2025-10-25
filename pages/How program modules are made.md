@@ -9,7 +9,7 @@
 		  logseq.order-list-type:: number
 	- An [[object module]] is linked into a [[program module]]
 	  logseq.order-list-type:: number
-		- programmers can control the linking via
+		- programmers can control the linking via ...
 		  logseq.order-list-type:: number
 	- logseq.order-list-type:: number
 - Diagram
