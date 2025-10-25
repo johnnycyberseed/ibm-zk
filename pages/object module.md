@@ -1,2 +1,2 @@
-- a file containing files of [[object deck]]
+- a file containing [[object deck]]
 -
