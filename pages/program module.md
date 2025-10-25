@@ -6,7 +6,7 @@
 				- legacy
 				- limited to 16M in size
 				- lives in a [[Data Set/Type/Partitioned Data Set (PDS)]]
-	- Program Management (new)
+	- [[Program Management]] (new)
 		- (Source Listing) => Compiler => (object module) => Binder => (program object / load module) => Loader => (executable in memory)
 			- program objects
 				- newer
