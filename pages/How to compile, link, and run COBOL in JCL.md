@@ -15,7 +15,11 @@
 		- JCL files stored in `&SYSUID.PROCLIB.CUR`
 		- Link edit control input `&SYSUID.INCLIB.CUR`
 		- [[program module]]s `&SYSUID.LINKLIB.CUR`
-			-
+			- Organization: `PO`
+			- Record Format: `U`
+			- Record Length: `0`
+			- Block size: `32760`
+			- Primary Alloc: `10`
 		-
 	-
 - # References
