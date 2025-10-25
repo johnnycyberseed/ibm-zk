@@ -22,5 +22,7 @@
 		  ALTLIB ACT APP(EXEC) DA('YOURID.REXX.EXEC')
 		  ```
 	- One of the many [[search path]]s in z/OS
-	-
+- # Declare Data for a Program from the Command Line
+	- ```
+	  ```
 -
