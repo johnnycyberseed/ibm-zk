@@ -10,9 +10,10 @@
 	-
 	- When the COBOL is processing data, it's common to use [[JCL/DD/override]] to supply the data definitions to the program
 -
-- # [[AmHat]] Specifics
+- # Project Specifics
 	- which might be common.
-	- JCL files stored in `&SYSUID.PROCLIB.CUR`
+	- [[AmHat]]
+		- JCL files stored in `&SYSUID.PROCLIB.CUR`
 	-
 - # References
 	-
