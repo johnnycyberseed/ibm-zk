@@ -2,5 +2,4 @@
 	- usually in [[FB80]]
 - technically a collection of one or more compilation units
 - produced by an assembler, compiler, or other language translator.
-- used as input to
--
+- used as input to the [[linkage editor]]
