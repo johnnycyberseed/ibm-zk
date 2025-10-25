@@ -23,7 +23,8 @@
 		  ```
 	- One of the many [[search path]]s in z/OS
 - # Declare Data for a Program from the Command Line
-	- Given a program that expects two files `DTTM` and `AUJDUI` (a compiled and linked COBOL program), you can wire these in analygous
+	- Given a program that expects two files `DTTM` and `AUJDUI` (a compiled and linked COBOL program), you can wire these in analogous to a [[JCL/DD]] statement.
+		-
 	- ```
 	  ALLOC DD(DTTM) DSN('W044Z.BAK.S001.X0227.DATE.CREATION')
 	    READY
