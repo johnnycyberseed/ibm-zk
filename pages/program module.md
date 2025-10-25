@@ -11,11 +11,6 @@
 			- program objects
 				- newer
 				- stored in a [[Data Set/Type/Extended PDS (PDSE)]]
+- [[How program modules are made]]
 -
 -
-- # References
-	- Introduction to Program Mangement — https://www.ibm.com/docs/en/zos/2.5.0?topic=zmpmugr-introduction
-	- z/OS Basics: How programs are prepared to run: https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-how-programs-are-prepared-run
-		-
-		-
-	-
