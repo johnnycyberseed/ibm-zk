@@ -20,7 +20,7 @@
 			  logseq.order-list-type:: number
 		- Source is compiled to an  [[object module]]
 		  logseq.order-list-type:: number
-			- typically in an [[FB80]] in a PDS (e.g. `&SYSUID.LOADLIB`)
+			- typically in an [[FB80]] in a PDS (referred to as an [[object library]] )
 			  logseq.order-list-type:: number
 				- yeah, it's a common confusion that the PDS is named "LOAD" when in fact it contains FB80s
 				- the trick is to view the organization:
