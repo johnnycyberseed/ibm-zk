@@ -12,6 +12,7 @@
 -
 - # [[AmHat]] Specifics
 	- which might be common.
+	- JCL files stored in `&SYSUID.PROCLIB.CUR`
 	-
 - # References
 	-
