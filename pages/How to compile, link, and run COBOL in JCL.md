@@ -19,7 +19,8 @@
 			- Record Format: `U`
 			- Record Length: `0`
 			- Block size: `32760`
-			- Primary Alloc: `10`
+			- Primary Alloc: `10` `TRACKS`
+		-
 		-
 	-
 - # References
