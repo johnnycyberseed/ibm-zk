@@ -23,9 +23,10 @@
 			- typically in an FB80 in a PDS (e.g. `&SYSUID.LOADLIB`)
 			  logseq.order-list-type:: number
 				- yeah, it's a common confusion that the PDS is named "LOAD" when in fact it contains FB80s
-				  logseq.order-list-type:: number
 				- the trick is to view the organization:
-				  logseq.order-list-type:: number
+					- FB80? it's likely "object deck" files (compiled, but not linked)
+					- U0 (Undefined org)? it's almost certainly a complied
+				- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 	- Diagram
 		- ![image.png](../assets/image_1754180789322_0.png){:height 0, :width 800}
