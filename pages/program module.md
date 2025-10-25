@@ -22,10 +22,6 @@
 		  logseq.order-list-type:: number
 			- typically in an [[FB80]] in a PDS (referred to as an [[object library]] )
 			  logseq.order-list-type:: number
-				- yeah, it's a common confusion that the PDS is named "LOAD" when in fact it contains FB80s
-				- the trick is to view the organization:
-					- [[FB80]]? it's likely "object deck" files (compiled, but not linked)
-					- U0 (Undefined org)? it's almost certainly a complied _and_ linked executable program module.
 		- An [[object module]] is linked into
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
