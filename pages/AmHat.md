@@ -1,2 +1,2 @@
-- second mainframe project
+- second mainframe project (aka "Tessier")
 -
