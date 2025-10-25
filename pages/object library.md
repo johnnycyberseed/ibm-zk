@@ -2,5 +2,5 @@
 -
 - Examples:
 	- [[AmHat]] `&SYSUID.LOADLIB.CUR`
-		-
+		- yes, this can be confusing; these are not "load modules"
 	-
