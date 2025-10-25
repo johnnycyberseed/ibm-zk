@@ -1,2 +1,2 @@
-- second mainframe project (aka "Tessier")
+- second mainframe project (mid-to-late 2025)
 -
