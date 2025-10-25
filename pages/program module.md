@@ -13,8 +13,14 @@
 				- stored in a [[Data Set/Type/Extended PDS (PDSE)]]
 -
 - # How Program Modules are Made
-	-
-	- diagram
+	- Process
+		- Source is coded (e.g. in COBOL)
+		  logseq.order-list-type:: number
+			- typically in a FB80 in a PDS (e.g. `&SYSUID.SRCELIB`)
+			  logseq.order-list-type:: number
+		- Source is compiled to
+		  logseq.order-list-type:: number
+	- Diagram
 		- ![image.png](../assets/image_1754180789322_0.png){:height 0, :width 800}
 	-
 -
