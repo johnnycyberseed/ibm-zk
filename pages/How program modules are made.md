@@ -15,7 +15,8 @@
 - Diagram
 	- ![image.png](../assets/image_1754180789322_0.png){:height 818, :width 614}
 - # References
-	- Introduction to [[Program Mangement]] — https://www.ibm.com/docs/en/zos/2.5.0?topic=zmpmugr-introduction
+	- [[Program Management]]
+	-
 	- z/OS Basics: How programs are prepared to run: https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-how-programs-are-prepared-run
 		-
 		-
