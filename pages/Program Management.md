@@ -6,6 +6,7 @@
 			- program objects
 				- newer
 				- stored in a [[Data Set/Type/Extended PDS (PDSE)]]
+					- TODO determine if storing "program objects"
 	- Legacy
 		- (Source Listing) => Compiler => (object module) => Linkage Editor => (load module) => Batch Loader => (executable in memory)
 			- load modules
