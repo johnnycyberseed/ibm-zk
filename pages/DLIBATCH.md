@@ -6,9 +6,10 @@
 -
 - IBM provides a template
 	- https://www.ibm.com/docs/en/ims/15.4.0?topic=environments-dlibatch-procedure
-	- that sites customize
+	- that sites can customize
 		- to define site-wide IMS configuration (e.g. where compiled PSBs and DBDs are found/defined).
-		- [[AmHat]]
+		- [[AmHat]] — `SYS2.IMS.PROCLIB(DLIBATCH)`
+		-
 -
 - DONE Unpack the mystery of the similarly named PSB from [[AmHat]].
 	- The JCL mechanics for executing a procedure like DLIBATCH (i.e. that itself invokes a program handing _that_ a program to execute.)
