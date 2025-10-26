@@ -14,10 +14,18 @@
 			              STOP RUN.
 			          0100-OPEN-FILES.
 			  ```
-	- Scoping
+	- Scoping:
 		- Terminate scope of a statement
 			- ```COBOL
-			  IF WS-EOF-FLAG = "Y"
-			      DISPLAY 'End of File'
-			  END-IF
+			        * Legacy: scope terminated with periods
+			          IF WS-EOF-FLAG = "Y"
+			              DISPLAY 'End of File'.
+			         
+			        * Modern: explicit scope terminator
+			          IF WS-EOF-FLAG = "Y"
+			              DISPLAY 'End of File'
+			          END-IF
+			  ```
+		- Simple Statements — not required but recommended
+			- ```COBOL
 			  ```
