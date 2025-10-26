@@ -9,6 +9,7 @@
 			          FILE SECTION.
 			          LINKAGE SECTION.
 			          PROCEDURE DIVISION.
-			              
+			          0001-MAIN.
+			          0100-OPEN-FILES.
 			  ```
 		- Program-Level Statements
