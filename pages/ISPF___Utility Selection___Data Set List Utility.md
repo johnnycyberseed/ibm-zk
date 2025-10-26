@@ -1,5 +1,8 @@
 -
 - # Tips and Tricks
 	- ## How to locate a member from a list of PDSs
-		- `Dsname Level....` = `HLQ.*LIB`
-			- e.g. ``
+		- `Dsname Level...` = `HLQ.*LIB`
+		-
+		- [[AmHat]]
+			- `Dsname Level...` = `P1930.*.LIB`
+			-
