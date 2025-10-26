@@ -1,8 +1,13 @@
 - a standard JCL procedure that provides a high-level interface into executing in [[IMS/DB Batch Environment]]
 -
-- MBR=  name of the application program
+- MBR= name of the application program
 - PSB= the [[IMS/PSB]]
 - Ultimately invokes [[DFSRRC00]]
+-
+- IBM provides a template
+	- https://www.ibm.com/docs/en/ims/15.4.0?topic=environments-dlibatch-procedure
+	- which sites customize
+		- to define site-wide ISM
 -
 - DONE Unpack the mystery of the similarly named PSB from [[AmHat]].
 	- The JCL mechanics for executing a procedure like DLIBATCH (i.e. that itself invokes a program handing _that_ a program to execute.)
