@@ -8,7 +8,6 @@
 			  collapsed:: true
 				- e.g. for COBOL: https://www.ibm.com/docs/en/ims/15.4.0?topic=areas-coding-batch-program-in-cobol
 			- Which is compiled and linked to the DFSLI000 via the IMS-supplied `IMSCOBOL` procedure
-			  collapsed:: true
 				- https://www.ibm.com/docs/en/ims/15.4.0?topic=cobol-binding-code-ims-language-interface-module
 		- {{renderer :mermaid_68c427e4-70f7-42ad-a989-e19f05e289c5, 8}}
 		  collapsed:: true
