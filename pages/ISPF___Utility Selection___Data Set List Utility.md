@@ -6,5 +6,5 @@
 		- [[AmHat]]
 			- Locating the library where the DLI interface for COBOL was stored
 			- `Dsname Level...` = `P1930.*.LIB`
-			- `Command ===>` = `DLITCBL`
+			- `Command ===>` = `CBLTDLI`
 -
