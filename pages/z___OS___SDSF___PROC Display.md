@@ -1,5 +1,5 @@
 - a SDSF view that lists PROC libraries
-- very useful for locating [[The Procedure Library]] — system-level PROCs — that applications depends on
+- very useful for locating [[The Procedure Library]] — system-level PROCs — that applications can "just use"
 	- Key columns:
 		- `TSO` — PROCLIB
 		- `STC` —
