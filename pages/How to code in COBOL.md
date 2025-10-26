@@ -28,4 +28,8 @@
 			  ```
 		- Simple Statements — not required but recommended
 			- ```COBOL
+			          DISPLAY 'Processing started'.
+			          MOVE SPACES TO WS-WORK-AREA.
+			          ADD 1 to WS-COUNTER.
 			  ```
+-
