@@ -14,5 +14,10 @@
 			              STOP RUN.
 			          0100-OPEN-FILES.
 			  ```
-	- Legacy style
-		- Terminate
+	- Scoping
+		- Terminate scope of a statement
+			- ```COBOL
+			  IF WS-EOF-FLAG = "Y"
+			      DISPLAY 'End of File'
+			  END-IF
+			  ```
