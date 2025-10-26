@@ -53,7 +53,7 @@
 	- C/C++
 	- Assembler
 	- Pascal
-	- COBOL
+	- [[COBOL]]
 		- typically using [[IMS DB/DL/I]]
 	- PL/I
 	- REXX

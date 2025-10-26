@@ -1,6 +1,6 @@
 -
 - ## Periods
-	- periods end a block
+	- periods end a block.
 	- Required:
 		- Division / Section / Paragraph headers and Program-Level statements
 			- ```COBOL
