@@ -2,7 +2,9 @@
 - # Tips and Tricks
 	- ## How to locate a member from a list of PDSs
 		- `Dsname Level...` = `HLQ.*LIB`
-		-
+		- `Command ===> ` = `MEMBER (member name)` / `M (member)`
 		- [[AmHat]]
 			- `Dsname Level...` = `P1930.*.LIB`
+			- `Command ===>` = `DLITCBL`
+			-
 			-
