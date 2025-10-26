@@ -1,4 +1,5 @@
 - A [[Data Set/Type/Partitioned Data Set (PDS)]] named `SYS1.PROCLIB`
 - Contains [[cataloged procedure]]s
 - Can be concatenated with a user/site specific procedure library `SYS2.PROCLIB`
-- Can be detected
+- Can be detected through [[z/OS/SDSF/PROC Display]].
+-
