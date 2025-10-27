@@ -8,7 +8,10 @@
 	- define what data the application can view
 - [[IMS TM/AIB]]
 -
--
+- ## Lifecycle of a PSB
+	- [[AmHat]]
+		- Source file is written and stored in
+		  logseq.order-list-type:: number
 -
 - # References
 	- https://www.ibm.com/docs/en/zos/3.1.0?topic=definitions-psb-definition
