@@ -6,11 +6,9 @@
 - # AMS Commands
 	- BLDINDEX
 	  id:: 6877de3f-7502-4fe4-b15d-2373eaf086f6
-	- DEFINE
-	  id:: 6877e0f3-3ad1-4aa7-a2d7-068c7d4e2e7b
-		- CLUSTER
-		  id:: 6884eb00-63d1-4e59-bbba-309ee07ff2fb
-			- https://www.ibm.com/docs/en/zos/2.5.0?topic=commands-define-cluster
+	- DEFINE CLUSTER
+	  id:: 6884eb00-63d1-4e59-bbba-309ee07ff2fb
+		- https://www.ibm.com/docs/en/zos/2.5.0?topic=commands-define-cluster
 		- INDEXED
 		  id:: 6877e0f6-a278-4009-8565-f3711df822d1
 		- NONINDEXED

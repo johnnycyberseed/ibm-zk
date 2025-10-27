@@ -1,5 +1,5 @@
 - a sequential set of records (the VSAM equivalent of [[Data Set/Type/Physical Sequential (PS)]])
-- created using the [[utility/IDCAMS]]'s ((6877e0f3-3ad1-4aa7-a2d7-068c7d4e2e7b)) with the ((6877f357-9738-47fd-a3ff-5fb2c09c1f90)) parameter
+- created using the [[utility/IDCAMS]]'s DEFINE with the ((6877f357-9738-47fd-a3ff-5fb2c09c1f90)) parameter
 - all new records are _always_ placed at the end of the data set
 - records are never deleted
 	- it is up to the application to mark records as such
