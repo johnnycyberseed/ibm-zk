@@ -1,3 +1,3 @@
 - Installation Performance Specification
-- removed in z/OS V1R3 as part of [[Breaking Change/Workload Control and Tuning Configuration (early 2000s)]]
+- removed in z/OS V1R3 as part of [[Breaking Change/SRM for WLM for Performance Control (early 2000s)]]
 -

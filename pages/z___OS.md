@@ -52,7 +52,7 @@
 		                  └───────────┘
 		  ```
 	- Breaking Changes
-		- [[Breaking Change/Workload Control and Tuning Configuration (early 2000s)]]
+		- [[Breaking Change/SRM for WLM for Performance Control (early 2000s)]]
 		-
 - # References
 	- z/OS Basics

@@ -22,7 +22,7 @@
 		-
 	- 2000-10 — [[zSeries/900]]
 		- [[z/OS]] — v1
-			- [[Breaking Change/Workload Control and Tuning Configuration (early 2000s)]]
+			- [[Breaking Change/SRM for WLM for Performance Control (early 2000s)]]
 			- [[Breaking Change/End of ISAM Dataset Support]]
 	- 2005 — [[System z9]]
 	- 2008 — [[System z10]]
