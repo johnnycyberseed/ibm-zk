@@ -7,8 +7,14 @@
 - ## Part 2: System Initialization
 	- Initialization Overview
 	- Descriptions of Individual [[SYS1.PARMLIB]] members
-- ## Part 3: How to Use the System Resources Manager [[MVS/SRM]]
-	- Description of the System Resource Manager ()
+- ## Part 3: How to Use the System Resources Manager
+	- Description of the System Resource Manager ([[MVS/SRM]])
+		- The Workload Manager
+		- Resource Use Routines
+		- The SRM Control Routine
+	- How the System Resources Manager is Controlled
+		- `IEAIPSxx` —
+		-
 - ## Part 4: How to Use the System Activity Measurement Facility
 - ## Part 5: System Performance Factors
 -
