@@ -9,7 +9,7 @@
 		- [[JCL]]
 	- 1970 — [[S/370]]
 		- 1971 — [[OS_VS1]] — single user batch with virtual storage
-		- 1974-03 — [[MVS]]
+		- 1974-03 — [[MVS]] (aka "OS/VS2")
 		- 1979-03-20 — Mike Cowlishaw proposed [[REXX]]
 	- 1981 — [[370/XA]]
 		- [[MVS_XA]]
@@ -22,6 +22,8 @@
 		-
 	- 2000-10 — [[zSeries/900]]
 		- [[z/OS]] — v1
+			- [[Breaking Change/Workload Control and Tuning Configuration (early 2000s)]]
+			-
 	- 2005 — [[System z9]]
 	- 2008 — [[System z10]]
 	- 2010 — [[zEnterprise gen1]]
