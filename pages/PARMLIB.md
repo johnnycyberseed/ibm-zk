@@ -3,7 +3,7 @@
 - the central repository for system configuration.
 - A [[Data Set/Type/Partitioned Data Set (PDS)]] containing configuration files (in a key-value syntax)
 - Most commonly used/referenced/edited members:
-	- [[PARMLIB/IEASSYSxx]]
+	- [[PARMLIB/IEASYSxx]]
 	- [[PARMLIB/IEASYMxx]]
 	- [[PARMLIB/PROGxx]]
 	- [[PARMLIB/IEAAPFxx]]
@@ -13,3 +13,5 @@
 	-
 - # Reference
 	- [[OS_VS2 System Programming Library: Initialization and Tuning Guide (pdf)]]
+	- https://tommysprinkle.com/mvs/parmlib.html
+	-
