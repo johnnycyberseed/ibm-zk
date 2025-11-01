@@ -1,2 +1,2 @@
 - Installation Control Specification
-- removed in
+- removed in z/OS V1R3

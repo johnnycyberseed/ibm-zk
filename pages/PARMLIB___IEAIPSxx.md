@@ -1,0 +1,3 @@
+- Installation Performance Specification
+- removed in z/OS V1R3 as part of [[Breaking Change/Workload Control and Tuning Configuration]]
+-
