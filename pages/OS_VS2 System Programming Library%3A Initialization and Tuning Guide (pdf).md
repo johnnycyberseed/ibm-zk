@@ -5,7 +5,10 @@
 - # Table of Contents
 - ## Part 1: Introduction
 - ## Part 2: System Initialization
+	- Initialization Overview
+	- Descriptions of Individual [[SYS1.PARMLIB]] members
 - ## Part 3: How to Use the System Resources Manager [[MVS/SRM]]
+	- Description of the System Resource Manager ()
 - ## Part 4: How to Use the System Activity Measurement Facility
 - ## Part 5: System Performance Factors
 -
