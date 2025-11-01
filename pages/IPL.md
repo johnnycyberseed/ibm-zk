@@ -15,7 +15,6 @@
 		  logseq.order-list-type:: number
 	- See ((68f55e1e-ed7f-4844-b25a-568b0e3a6a11))
 -
--
 - # Resources
 	- https://studylib.net/doc/18345777/prs3699-ipl-logic-flow-v2
 	-
