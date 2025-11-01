@@ -1,2 +1,6 @@
 - General Tracing Facility
 -
+- System components issue the SYSEVENT macro to inform the System Resource
+  Manager ([[MVS/SRM]]) that the status of an address space or a system resource has changed.
+-
+-
