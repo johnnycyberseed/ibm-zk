@@ -23,7 +23,6 @@
 	- 2000-10 — [[zSeries/900]]
 		- [[z/OS]] — v1
 			- [[Breaking Change/Workload Control and Tuning Configuration (early 2000s)]]
-			-
 	- 2005 — [[System z9]]
 	- 2008 — [[System z10]]
 	- 2010 — [[zEnterprise gen1]]
