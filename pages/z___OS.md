@@ -10,9 +10,8 @@
 	- [[z/OS/RSM]]
 	- [[SMS]]
 -
-- Evolution
+- # Evolution
 	- (diagram)
-	  collapsed:: true
 		- ```
 		                      ┌────────────┐
 		                      │  S/360 HW  │
