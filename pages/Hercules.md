@@ -1,6 +1,10 @@
 -
 - Typically is running [[MVS 3.8]]
 -
+- # Tips & Tricks
+	- `help (config-param)` — displays reference documentation for `config-param`
+		- e.g. `help MSGLEVEL` — lists possible values for configuring Hercules
+-
 - # Resources
 	- Official site — https://sdl-hercules-390.github.io/html/
 	- Source code
