@@ -1,6 +1,6 @@
 - The last release of [[MVS]]
 - The last release of any OS that IBM provided as effectively freeware.
--
+	- also known as "OS/VS2"
 - # Fundamental Commands
 	- [[MVS 3.8/Commands Cheat Sheet]]
 -
