@@ -1,4 +1,4 @@
 - In [[MVS]], provided workload control through [[MVS/SRM]]
 	- up and through [[MVS_ESA]]
-- in [[z/OS]] V1R3, onwards
-- IBM replaced
+- in [[z/OS]] V1R3, onwards, IBM required operators to use the [[z/OS/WLM]] "goal mode"
+-
