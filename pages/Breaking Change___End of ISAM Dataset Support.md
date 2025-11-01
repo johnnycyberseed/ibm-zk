@@ -1,5 +1,6 @@
-- ISAM (Indexed Sequential Access Method) files were a holdover from pre-VSAM days.
 - By z/OS 1.10 (around 2008), IBM removed native ISAM access method support.
-- Any old ISAM datasets had to be converted to VSAM, though an “ISAM compatibility interface” remained to intercept old calls[en.wikipedia.org](https://en.wikipedia.org/wiki/Data_Facility_Storage_Management_Subsystem_(MVS)#:~:text=remained%20separate%20products,Tape%20Library%20Dataserver).
-- For operators, this wasn’t a daily task change, but it marked the end of an entire data format that an MVS 3.8-era sysop would have known (ISAM utilities, AMORGs, etc. became relics).
+- ISAM (Indexed Sequential Access Method) files were a holdover from pre-VSAM days.
+- ## Impact
+	- Any old ISAM datasets had to be converted to VSAM, though an “ISAM compatibility interface” remained to intercept old calls[en.wikipedia.org](https://en.wikipedia.org/wiki/Data_Facility_Storage_Management_Subsystem_(MVS)#:~:text=remained%20separate%20products,Tape%20Library%20Dataserver).
+	- For operators, this wasn’t a daily task change, but it marked the end of an entire data format that an MVS 3.8-era sysop would have known (ISAM utilities, AMORGs, etc. became relics).
 -
