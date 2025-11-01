@@ -13,7 +13,13 @@
 		- Resource Use Routines
 		- The SRM Control Routine
 	- How the System Resources Manager is Controlled
-		- `IEAIPSxx` —
+		- `IEAIPSxx` — UPS Parameters
+		- `IEAOPTxx` — System Tuning Parameters
+		- Other SRM Constants
+	- Guidelines for Defining SRM Parameters
+		- Changing the Installation Performance Specification
+			- `IEAIPSxx`
+		- Changing the System Tuning
 		-
 - ## Part 4: How to Use the System Activity Measurement Facility
 - ## Part 5: System Performance Factors
