@@ -1,2 +1,6 @@
 - System Monitoring Facility
 -
+- Considered part of the MVS Control Program
+-
+- One of the primary monitoring facilities in MVS.
+-
