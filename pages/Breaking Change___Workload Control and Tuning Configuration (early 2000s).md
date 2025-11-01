@@ -1,7 +1,8 @@
 - In [[MVS]], provided workload control through [[MVS/SRM]]
 - in [[z/OS]] V1R3, onwards, IBM required operators to use the [[z/OS/WLM]] "goal mode"
 - ## Impact
-- Perhaps the most cited paradigm shift – MVS’s traditional SRM tuning parameters (ICS, IPS, OPT member values for fixed dispatch priorities, region affinities, etc.) gave way to **WLM “goal mode.”**
-- With [[z/OS/WLM]] (available in MVS/ESA SP5 and onward), admins stop micro-managing resource queues and instead define performance *goals* and importance levels for workload categories.
-- The system then dynamically adjusts dispatching and memory resources to meet those goals. This eliminated dozens of old tuning knobs – **in goal mode, two-thirds of the old SRM parameters and the entire ICS/IPS scheme disappeared[epstrategies.com](https://www.epstrategies.com/library/content/Enrico.WLM.30th.Anniversary.pdf#:~:text=Pivotor%20www,cruft%20%3Abadly)**.
-- Operators/performance analysts had to relearn performance management from a resource-allocation mindset to a policy-and-goals mindset. (WLM compatibility mode existed in early OS/390, but is no longer supported on modern z/OS[ibm.com](https://www.ibm.com/docs/en/zos/2.5.0?topic=messages-ira903i#:~:text=ira903i%20wlm%20compatibility%20mode%20is,switch%20to%20WLM%20compatibility%20mode).)
+	- Perhaps the most cited paradigm shift – MVS’s traditional SRM tuning parameters (ICS, IPS, OPT member values for fixed dispatch priorities, region affinities, etc.) gave way to **WLM “goal mode.”**
+	- With [[z/OS/WLM]] (available in MVS/ESA SP5 and onward), admins stop micro-managing resource queues and instead define performance *goals* and importance levels for workload categories.
+	- The system then dynamically adjusts dispatching and memory resources to meet those goals. This eliminated dozens of old tuning knobs – **in goal mode, two-thirds of the old SRM parameters and the entire ICS/IPS scheme disappeared[epstrategies.com](https://www.epstrategies.com/library/content/Enrico.WLM.30th.Anniversary.pdf#:~:text=Pivotor%20www,cruft%20%3Abadly)**.
+	- Operators/performance analysts had to relearn performance management from a resource-allocation mindset to a policy-and-goals mindset. (WLM compatibility mode existed in early OS/390, but is no longer supported on modern z/OS[ibm.com](https://www.ibm.com/docs/en/zos/2.5.0?topic=messages-ira903i#:~:text=ira903i%20wlm%20compatibility%20mode%20is,switch%20to%20WLM%20compatibility%20mode).)
+-
