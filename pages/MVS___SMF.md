@@ -1,6 +1,6 @@
 - System Monitoring Facility
 -
 - Considered part of the MVS Control Program
-- Initialized using parameters from [[SYS1.PARMLIB]]
+- Initialized using parameters from [[PARMLIB]]
 - One of the primary monitoring facilities in MVS.
 -

@@ -1,0 +1,6 @@
+- the central repository for system configuration.
+-
+- A [[Data Set/Type/Partitioned Data Set (PDS)]] containing configuration files (in a key-value syntax)
+-
+- # Reference
+	- [[OS_VS2 System Programming Library: Initialization and Tuning Guide (pdf)]]

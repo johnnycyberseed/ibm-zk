@@ -6,7 +6,7 @@
 - ## Part 1: Introduction
 - ## Part 2: System Initialization
 	- Initialization Overview
-	- Descriptions of Individual [[SYS1.PARMLIB]] members
+	- Descriptions of Individual [[PARMLIB]] members
 - ## Part 3: How to Use the System Resources Manager
 	- Description of the System Resource Manager ([[MVS/SRM]])
 		- The Workload Manager
