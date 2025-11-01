@@ -1,1 +1,6 @@
-- Document
+- Document Id: GC28-0681-2
+- File No. S370-34
+- https://bitsavers.trailing-edge.com/pdf/ibm/370/OS_VS2/Release_3.7_1976/GC28-0681-2_OSVS2_SPL_Initialization_and_Tuning_Guide_VS2_Release_3.7_3rd_ed_197601.pdf
+-
+-
+-
