@@ -1,1 +1,2 @@
 - Hardware Configuration Definition
+- A utility used to manage hardware devices
