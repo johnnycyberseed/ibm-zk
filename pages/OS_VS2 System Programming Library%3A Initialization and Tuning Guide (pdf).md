@@ -4,5 +4,9 @@
 -
 - # Table of Contents
 - ## Part 1: Introduction
-- ##
+- ## Part 2: System Initialization
+- ## Part 3: How to Use the System Resources Manager [[MVS/SRM]]
+- ## Part 4: How to Use the System Activity Measurement Facility
+- ## Part 5: System Performance Factors
+-
 -
