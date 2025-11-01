@@ -1,1 +1,3 @@
+- the central repository for system configuration.
+-
 - A [[Data Set/Type/Partitioned Data Set (PDS)]] containing configuration files
