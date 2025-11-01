@@ -1,4 +1,4 @@
-- General Tracing Facility
+- Generalized Tracing Facility
 -
 - System components issue the SYSEVENT macro
 - to inform the System Resource Manager ([[MVS/SRM]])
