@@ -11,7 +11,8 @@
 	- [[SMS]]
 -
 - # Evolution
-	- (diagram)
+	- Family Tree (diagram)
+	  collapsed:: true
 		- ```
 		                      ┌────────────┐
 		                      │  S/360 HW  │
@@ -50,7 +51,8 @@
 		                  │  z/OS     │ (2001–Today)
 		                  └───────────┘
 		  ```
-	-
+	- Breaking Changes
+		- From
 - # References
 	- z/OS Basics
 		- Latest (Web): https://www.ibm.com/docs/en/zos-basic-skills
