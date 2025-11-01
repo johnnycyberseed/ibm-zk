@@ -1,7 +1,4 @@
 - In [[MVS]], provided workload control through [[MVS/SRM]]
-	- configured in [[PARMLIB/IEAIPSxx]] and [[PARMLIB/IEAICSxx]]
-	-
-	-
-	-
+	- up and through [[MVS_ESA]]
 - in [[z/OS]] V1R3, onwards
 - IBM replaced
