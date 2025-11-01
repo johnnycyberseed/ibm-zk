@@ -1,4 +1,4 @@
-- IBM introduced **HCD**, a full-screen interactive tool to manage I/O definitions, and by MVS/ESA SP5 (circa 1994) **all device configuration had to be done via HCD**.
+- IBM introduced [[z/OS/HCD]] , a full-screen interactive tool to manage I/O definitions, and by MVS/ESA SP5 (circa 1994) **all device configuration had to be done via HCD**.
 - The old method of defining I/O devices by assembling SYS1.NCP macros (MVSCP) was eliminated.
 - ## Impact
 	- This meant operators/sysprogs no longer hand-coded IO definition source
