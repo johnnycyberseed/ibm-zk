@@ -3,7 +3,8 @@
 -
 - # Tips & Tricks
 	- `help (config-param)` — displays reference documentation for `config-param`
-		- e.g. `help MSGLEVEL` — lists possible values for configuring Hercules
+		- e.g. `help MSGLEVEL` — lists possible values for configuring Hercules' logging output
+	-
 -
 - # Resources
 	- Official site — https://sdl-hercules-390.github.io/html/
