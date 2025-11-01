@@ -1,3 +1,0 @@
-- In [[MVS]],
-- in [[z/OS]] V1R3, onwards
-- IBM replaced

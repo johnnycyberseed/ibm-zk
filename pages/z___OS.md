@@ -52,7 +52,7 @@
 		                  └───────────┘
 		  ```
 	- Breaking Changes
-		- [[Breaking Change/Performance Tuning Configuration]]
+		- [[Breaking Change/Workload Control and Tuning Configuration]]
 		-
 - # References
 	- z/OS Basics

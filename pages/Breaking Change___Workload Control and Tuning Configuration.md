@@ -1,0 +1,5 @@
+- In [[MVS]], provided workload control through [[MVS/SRM]]
+	- configured in `IEAIPSxx`
+	-
+- in [[z/OS]] V1R3, onwards
+- IBM replaced
