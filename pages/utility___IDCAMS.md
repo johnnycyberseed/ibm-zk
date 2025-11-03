@@ -17,6 +17,8 @@
 		  id:: 6877f5d2-5ccd-4169-bbb2-23c2fa3ba138
 		- LINEAR
 		  id:: 6877fa2b-c92c-4270-81dd-5633cb0587db
+	- DEFINE GENERATIONALDATAGROUP / DEFINE GDG
+		- https://www.ibm.com/docs/en/zos/2.5.0?topic=commands-define-generationdatagroup
 	- PRINT
 		-
 	- REPRO
