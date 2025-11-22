@@ -1,11 +1,16 @@
-- Workload Automation Restart Option for z/OS Schedulers — Run Handler
+- Workload Automation Restart Option for z/OS Schedulers
+-
+- Components
+	-
+	- [[WA Restart Option/CMT]] — Uses/Manages state in the
+	- [[WA Restart Option/JEHF]] — Data can be optionally retained in the
+-
+- — Run Handler
 -
 - A Broadcom utility that added additional functionality to [[JES]]/ [[JCL]]
 -
 - On [[AmHat]], wrapped in procedure `UCC11RMS` in `SYS2.PROCLIB`
 -
-- Uses/Manages state in the [[WA Restart Option/CMT]]
-- Data can be optionally retained in the [[WA Restart Option/JEHF]]
 -
 -
 - # References
