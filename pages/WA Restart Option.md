@@ -4,8 +4,8 @@
 -
 - On [[AmHat]], wrapped in procedure `UCC11RMS` in `SYS2.PROCLIB`
 -
-- Uses/Manages state in the [[U11/CMT]]
-- Data can be optionally retained in the [[U11/JEHF]]
+- Uses/Manages state in the [[WA Restart Option/CMT]]
+- Data can be optionally retained in the [[WA Restart Option/JEHF]]
 -
 -
 - # References
