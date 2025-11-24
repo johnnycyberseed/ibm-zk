@@ -10,6 +10,7 @@
 - A Broadcom utility that added additional functionality to [[JES]]/ [[JCL]]
 -
 - On [[AmHat]], wrapped in procedure `UCC11RMS` in `SYS2.PROCLIB`
+	- Simple wrapper around [[WA Restart Option/U11]]
 -
 -
 -
