@@ -5,7 +5,8 @@
 	- [[WA Restart Option/CMT]] — Uses/Manages state in the
 	- [[WA Restart Option/JEHF]] — Data can be optionally retained in the
 	- [[WA Restart Option/Run Handler]] — automatically handles aspects of reruns and restarts of JCL jobs
-	- [[WA Restart Option/CINQ]] — GUI for scanning contents of
+	- [[WA Restart Option/CINQ]] — GUI for scanning contents of [[WA Restart Option/CMT]]
+	-
 	-
 -
 -
