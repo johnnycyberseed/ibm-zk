@@ -4,7 +4,7 @@
 - Components
 	- [[WA Restart Option/CMT]] — Uses/Manages state in the
 	- [[WA Restart Option/JEHF]] — Data can be optionally retained in the
-	- [[WA Restart Option/Run Handler]] — Runtime
+	- [[WA Restart Option/Run Handler]] — automatically handles aspects of reruns and restarts of JCL jobs
 -
 - — Run Handler
 -
