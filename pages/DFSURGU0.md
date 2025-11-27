@@ -1,5 +1,8 @@
 -
 -
+-
 - # Reference
 	- https://www.ibm.com/docs/en/ims/15.6.0?topic=rcu-hd-reorganization-unload-utility-dfsurgu0
+	- https://chatgpt.com/share/e/68f00075-b3ec-8001-a6e5-6af45b2093ad
+	-
 	-
