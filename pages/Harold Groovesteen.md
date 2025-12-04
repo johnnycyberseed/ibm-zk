@@ -1,6 +1,6 @@
 -
 - Subscribed (and active) on the [[Hercules-390 (Mailing List)]]
 -
-- ## Sighings
+- ## Sightings
 	- ~2025-12 — requested a review on [[SDL Hercules Input/Output Architecture User Guide (pdf)]]
 -
