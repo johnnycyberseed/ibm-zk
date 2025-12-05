@@ -1,3 +1,9 @@
 - 🤖 Research Query: What breaking changes have their been?
-	- https://chatgpt.com/share/e/69065d16-3e48-8001-901b-56d2be5a18e2
 -
+- # References
+	- Robot Research
+		- https://chatgpt.com/share/e/69065d16-3e48-8001-901b-56d2be5a18e2
+		-
+	- Articles
+		- https://www.longpelaexpertise.com.au/ezine/IBMBackwardCompatibility.php
+	-
