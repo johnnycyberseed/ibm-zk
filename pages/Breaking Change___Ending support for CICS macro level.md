@@ -1,4 +1,7 @@
 -
+- 1978 — IBM stated that all new CICS functions would only be command level from CICS/VS 1.4
+- 1987 — The last CICS to support macros was CICS/MVS 2.1.2
+-
 -
 - IBM supplied `DFHMSCAN` — a tool to scan your code for CICS macros
 	- https://www.ibm.com/docs/en/cics-ts/5.5.0?topic=utilities-identify-macro-level-programs-utility-program-dfhmscan
