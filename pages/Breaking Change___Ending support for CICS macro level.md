@@ -1,7 +1,7 @@
 -
 -
-- IBM supplied `DFHMSCAN`
-- https://www.ibm.com/docs/en/cics-ts/5.5.0?topic=utilities-identify-macro-level-programs-utility-program-dfhmscan
+- IBM supplied `DFHMSCAN` — a tool to scan your code for CICS macros
+	- https://www.ibm.com/docs/en/cics-ts/5.5.0?topic=utilities-identify-macro-level-programs-utility-program-dfhmscan
 -
 - # References
 	- https://www.longpelaexpertise.com.au/ezine/IBMBackwardCompatibility.php
