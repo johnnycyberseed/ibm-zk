@@ -20,3 +20,5 @@
 	- no extra power supplies
 - [[z/Storage Protection]]
 -
+- https://www.longpelaexpertise.com.au/What%20on%20Earth%20is%20a%20Mainframe_ColourPoster.pdf
+-
