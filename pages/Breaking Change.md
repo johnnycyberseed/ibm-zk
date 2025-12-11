@@ -7,6 +7,8 @@
 - # References
 	- Robot Research
 		- https://chatgpt.com/share/e/69065d16-3e48-8001-901b-56d2be5a18e2
+		- https://chatgpt.com/share/e/693ad1ea-fdec-8001-85bf-321c4836e19d
+		-
 		-
 	- Articles
 		- https://www.longpelaexpertise.com.au/ezine/IBMBackwardCompatibility.php
