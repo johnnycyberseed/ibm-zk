@@ -15,5 +15,6 @@
 		- TODO locate and link to this guide, directly
 	- z/OS MVS JCL User's Guide, GC28-1758
 		- TODO locate and link to this guide, directly
-		-
+	- In depth tutorial (recommended by Onsi)
+		- https://www.mainframestechhelp.com/
 	-
