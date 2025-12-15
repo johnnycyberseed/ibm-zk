@@ -25,7 +25,8 @@
 		- "training" videos
 		- self-paced courses
 		- sample code repos
-	-
+	- Tutorial
+		- https://www.mainframestechhelp.com/tutorials/imsdb/
 	- IMS Insiders: https://imsinsiders.wordpress.com/about/
 - # Resources
 	- Java / SpringBoot for IMS — https://github.com/imsdev/ims-java-jee-springboot
