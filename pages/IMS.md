@@ -25,6 +25,7 @@
 		- "training" videos
 		- self-paced courses
 		- sample code repos
+	-
 	- IMS Insiders: https://imsinsiders.wordpress.com/about/
 - # Resources
 	- Java / SpringBoot for IMS — https://github.com/imsdev/ims-java-jee-springboot
