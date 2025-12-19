@@ -1,5 +1,5 @@
 - Physical Unit
--
+- the "middlemen" of SNA networking
 - Examples:
 	- the Mainframe itself
 	- Communications Controller
