@@ -9,5 +9,9 @@
 	- Chapter 4 — Talking to z/OS Networks and Communications
 		- Network Type 1: [[SNA]]
 		- Network Type 2: [[TCP\IP]]
-	- Chapter 5 —
+	- Chapter 5 — Putting the Mainframe to Work — Transaction Managers and DBMS
+	- Chapter 6 — Application Development on z/OS
+	- Chapter 7 — Accessorize — Software for the Mainframe
+	- Chapter 8 — What Do All These People DO? People You Need to Run a Mainframe
+	- Chapter 9 —
 	-
