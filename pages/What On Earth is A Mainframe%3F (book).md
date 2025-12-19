@@ -13,5 +13,11 @@
 	- Chapter 6 — Application Development on z/OS
 	- Chapter 7 — Accessorize — Software for the Mainframe
 	- Chapter 8 — What Do All These People DO? People You Need to Run a Mainframe
-	- Chapter 9 —
+	- Chapter 9 — What Do We Do With It?
+	- Chapter 10 — Mainframe Manager Nightmares
+		- What do you mean it's unavailable?
+		- Where does all the money go?
+		- Who's paying for all this?
+		- Software and hardware support
+		-
 	-
