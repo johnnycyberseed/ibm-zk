@@ -21,7 +21,8 @@
 	  | Specify the application program you want to talk to via a **port number** | Specify the program you want to talk to via the Logical Unit ([[SNA/LU]]) |
 	  | Routing is done by the network | You manually define the route from your computer to the other computer |
 	  | You can talk to any other computer on the network | SNA subarea networks are point-to-point. Only APN networks can be routed. |
-	  | No need for extra hardare
+	  | No need for extra hardare — computers can talk directly if they have a connection | You need [[SNA/PU]]s between two [[SNA/LU]]s |
+	  | Includes tools like file transfer (FTP) and 3270 terminal emulation | No tools. |
 	-
 	-
 	-
