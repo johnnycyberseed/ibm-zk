@@ -1,0 +1,6 @@
+- Logical Unit
+- Different types:
+	- Type 1 — a printer
+	- Type 2 — a terminal (e.g. 3270)
+	- Type 3 — a printer using 3270 protocols
+	- Type
