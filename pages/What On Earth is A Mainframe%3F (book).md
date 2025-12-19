@@ -8,8 +8,10 @@
 	- ## Chapter 3 — The z/OS Jigsaw Puzzle — The Many Pieces of [[z/OS]]
 	- ## Chapter 4 — Talking to z/OS Networks and Communications
 		- Network Type 1: [[SNA]]
-			- On defines the network using [[VTAM]]
-				- event Logical Unit (LU) and
+			- One
+				- defines the network using [[VTAM]]
+				- event Logical Unit ([[SNA/LU]]) and Physical Unit ([[SNA/PU]])
+				-
 		- Network Type 2: [[TCP\IP]]
 	- ## Chapter 5 — Putting the Mainframe to Work — Transaction Managers and DBMS
 	- ## Chapter 6 — Application Development on z/OS
