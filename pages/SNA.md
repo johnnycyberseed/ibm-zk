@@ -17,8 +17,8 @@
 	-
 	- | TCP/IP | SNA |
 	  | --- | --- |
-	  | An IP address is used to specify the computer you want to talk to. | No need to specify the computer |
-	  | You speify the applicat
+	  | Specify the computer you want to talk to via **IP Address**. | No need to specify the computer |
+	  | Specify the application program you want to talk to via a **port number** | Specify the program you
 	-
 	-
 	-
