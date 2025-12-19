@@ -26,5 +26,8 @@
 		- When do we get a new one?
 		- Providing the Mainframe with a good home
 		- Keeping it safe
-	- Chapter 11 —
+	- Chapter 11 — The Last Word (?)
+	- Appendix 1 — An Executive Summary — The Whole Book in Three and a Half Pages.
+	- Appendix 2 — Where to Go Next
+	- Appendix 3 — Glossary — Translating the Mainframe Speak
 	-
