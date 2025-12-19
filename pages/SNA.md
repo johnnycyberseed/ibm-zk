@@ -24,7 +24,8 @@
 	  | No need for extra hardare — computers can talk directly if they have a connection | You need [[SNA/PU]]s between two [[SNA/LU]]s |
 	  | Includes tools like file transfer (FTP) and 3270 terminal emulation | No tools. |
 	  | Is an "open" networking protocol | Is a "proprietary" networking protocol, owned by IBM |
-	  | It's easy
+	  | Easy to connect computers of other platforms (UNIX and Windows) | Difficult to connect other computer systems to the Mainframe |
+	  | Must do a lot of work to make the network secure | Because it's so defined,
 	-
 	-
 	-
