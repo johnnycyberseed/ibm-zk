@@ -3,14 +3,14 @@
 	-
 -
 - # Table of Contents
-	- Chapter 1 — But Aren't Mainframes Dead? An introduction to the Mainframe
-	- Chatper 2 — What Are These Refrigerators? Mainframe Hardware
-	- Chapter 3 — The z/OS Jigsaw Puzzle — The Many Pieces of [[z/OS]]
-	- Chapter 4 — Talking to z/OS Networks and Communications
+	- ## Chapter 1 — But Aren't Mainframes Dead? An introduction to the Mainframe
+	- ## Chapter 2 — What Are These Refrigerators? Mainframe Hardware
+	- ## Chapter 3 — The z/OS Jigsaw Puzzle — The Many Pieces of [[z/OS]]
+	- ## Chapter 4 — Talking to z/OS Networks and Communications
 		- Network Type 1: [[SNA]]
 		- Network Type 2: [[TCP\IP]]
-	- Chapter 5 — Putting the Mainframe to Work — Transaction Managers and DBMS
-	- Chapter 6 — Application Development on z/OS
+	- ## Chapter 5 — Putting the Mainframe to Work — Transaction Managers and DBMS
+	- ## Chapter 6 — Application Development on z/OS
 	- Chapter 7 — Accessorize — Software for the Mainframe
 	- Chapter 8 — What Do All These People DO? People You Need to Run a Mainframe
 	- Chapter 9 — What Do We Do With It?
