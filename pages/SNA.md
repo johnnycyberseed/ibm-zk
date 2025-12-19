@@ -23,6 +23,8 @@
 	  | You can talk to any other computer on the network | SNA subarea networks are point-to-point. Only APN networks can be routed. |
 	  | No need for extra hardare — computers can talk directly if they have a connection | You need [[SNA/PU]]s between two [[SNA/LU]]s |
 	  | Includes tools like file transfer (FTP) and 3270 terminal emulation | No tools. |
+	  | Is an "open" networking protocol | Is a "proprietary" networking protocol, owned by IBM |
+	  | It's easy
 	-
 	-
 	-
