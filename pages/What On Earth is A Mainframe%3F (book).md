@@ -8,13 +8,14 @@
 	- ## Chapter 3 — The z/OS Jigsaw Puzzle — The Many Pieces of [[z/OS]]
 	- ## Chapter 4 — Talking to z/OS Networks and Communications
 		- Network Type 1: [[SNA]]
+			-
 		- Network Type 2: [[TCP\IP]]
 	- ## Chapter 5 — Putting the Mainframe to Work — Transaction Managers and DBMS
 	- ## Chapter 6 — Application Development on z/OS
-	- Chapter 7 — Accessorize — Software for the Mainframe
-	- Chapter 8 — What Do All These People DO? People You Need to Run a Mainframe
-	- Chapter 9 — What Do We Do With It?
-	- Chapter 10 — Mainframe Manager Nightmares
+	- ## Chapter 7 — Accessorize — Software for the Mainframe
+	- ## Chapter 8 — What Do All These People DO? People You Need to Run a Mainframe
+	- ## Chapter 9 — What Do We Do With It?
+	- ## Chapter 10 — Mainframe Manager Nightmares
 		- What do you mean it's unavailable?
 		- Where does all the money go?
 		- Who's paying for all this?
@@ -26,8 +27,8 @@
 		- When do we get a new one?
 		- Providing the Mainframe with a good home
 		- Keeping it safe
-	- Chapter 11 — The Last Word (?)
-	- Appendix 1 — An Executive Summary — The Whole Book in Three and a Half Pages.
-	- Appendix 2 — Where to Go Next
-	- Appendix 3 — Glossary — Translating the Mainframe Speak
+	- ## Chapter 11 — The Last Word (?)
+	- ## Appendix 1 — An Executive Summary — The Whole Book in Three and a Half Pages.
+	- ## Appendix 2 — Where to Go Next
+	- ## Appendix 3 — Glossary — Translating the Mainframe Speak
 	-
