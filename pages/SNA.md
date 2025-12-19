@@ -13,7 +13,8 @@
 - diagram
 	- ![image.png](../assets/image_1766155466502_0.png){:width 800}
 		- src: [[What On Earth is A Mainframe? (book)]]
--
+- Compared to [[TCP\IP]]
+	-
 	-
 	-
 	-
