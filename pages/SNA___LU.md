@@ -1,6 +1,8 @@
 - Logical Unit
+- An entity in SNA that connects with other [[SNA/LU]]s and/or [[SNA/PU]]s
 - Different types:
 	- Type 1 — a printer
 	- Type 2 — a terminal (e.g. 3270)
 	- Type 3 — a printer using 3270 protocols
-	- Type
+	- Type 6.2 — Another application program.
+	-
