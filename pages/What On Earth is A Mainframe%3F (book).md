@@ -4,5 +4,8 @@
 -
 - # Table of Contents
 	- Chapter 1 — But Aren't Mainframes Dead? An introduction to the Mainframe
-	- Chatper 2 — What are these
+	- Chatper 2 — What Are These Refrigerators? Mainframe Hardware
+	- Chapter 3 — The z/OS Jigsaw Puzzle — The Many Pieces of [[z/OS]]
+	- Chapter 4 — Talking to z/OS Networks and Comunications
+		-
 	-
