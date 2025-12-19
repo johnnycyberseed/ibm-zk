@@ -18,7 +18,10 @@
 	- | TCP/IP | SNA |
 	  | --- | --- |
 	  | Specify the computer you want to talk to via **IP Address**. | No need to specify the computer |
-	  | Specify the application program you want to talk to via a **port number** | Specify the program you
+	  | Specify the application program you want to talk to via a **port number** | Specify the program you want to talk to via the Logical Unit ([[SNA/LU]]) |
+	  | Routing is done by the network | You manually define the route from your computer to the other computer |
+	  | You
+	-
 	-
 	-
 	-
