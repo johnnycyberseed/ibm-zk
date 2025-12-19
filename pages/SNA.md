@@ -10,11 +10,12 @@
 	- application-to-application messaging
 - across IBM systems.
 - comparable in scope to “TCP/IP,” but older and designed around IBM hosts and controllers.
-- diagram
+- Typical SNA Network Elements (diagram)
+  collapsed:: true
 	- ![image.png](../assets/image_1766155466502_0.png){:width 800}
 		- src: [[What On Earth is A Mainframe? (book)]]
-- Compared to [[TCP\IP]]
-	-
+- Comparing [[TCP\IP]] and [[SNA]] (table)
+  collapsed:: true
 	- | TCP/IP | SNA |
 	  | --- | --- |
 	  | Specify the computer you want to talk to via **IP Address**. | No need to specify the computer |
@@ -27,7 +28,7 @@
 	  | Easy to connect computers of other platforms (UNIX and Windows) | Difficult to connect other computer systems to the Mainframe |
 	  | Must do a lot of work to make the network secure | Because it's so defined, it's more secure |
 	  | Almost universally used. | Only used to communicate with IBM Mainframe and midrange computers |
-	  | Can be used to connect to the Internet |
+	  | Can be used to connect to the Internet | No options for connecting to the Internet |
 	-
 	-
 	-
