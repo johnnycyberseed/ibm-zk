@@ -11,5 +11,9 @@
 - across IBM systems.
 - comparable in scope to “TCP/IP,” but older and designed around IBM hosts and controllers.
 - diagram
-	- ![image.png](../assets/image_1766155466502_0.png){width: 400}
+	- ![image.png](../assets/image_1766155466502_0.png){:width 800}
+		- src: [[What On Earth is A Mainframe? (book)]]
+-
+	-
+	-
 	-
