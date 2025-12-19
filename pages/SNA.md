@@ -15,6 +15,9 @@
 		- src: [[What On Earth is A Mainframe? (book)]]
 - Compared to [[TCP\IP]]
 	-
+	- | TCP/IP | SNA |
+	  | --- | --- |
+	  |
 	-
 	-
 	-
