@@ -11,7 +11,9 @@
 			- To establish a connection one would
 				- defines the network using [[VTAM]]
 					- event Logical Unit ([[SNA/LU]]) and Physical Unit ([[SNA/PU]])
-				- activate every one of those component
+				- activate every one of those components in z/OS (again using [[VTAM]])
+				- start a connection over those activated components (using the [[VTAM/SSCP]] )
+				-
 				-
 		- Network Type 2: [[TCP\IP]]
 	- ## Chapter 5 — Putting the Mainframe to Work — Transaction Managers and DBMS
