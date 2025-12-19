@@ -25,7 +25,9 @@
 	  | Includes tools like file transfer (FTP) and 3270 terminal emulation | No tools. |
 	  | Is an "open" networking protocol | Is a "proprietary" networking protocol, owned by IBM |
 	  | Easy to connect computers of other platforms (UNIX and Windows) | Difficult to connect other computer systems to the Mainframe |
-	  | Must do a lot of work to make the network secure | Because it's so defined,
+	  | Must do a lot of work to make the network secure | Because it's so defined, it's more secure |
+	  | Almost universally used. | Only used to communicate with IBM Mainframe and midrange computers |
+	  | Can be used to connect to the Internet |
 	-
 	-
 	-
