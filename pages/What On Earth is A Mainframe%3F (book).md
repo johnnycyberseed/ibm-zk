@@ -19,5 +19,12 @@
 		- Where does all the money go?
 		- Who's paying for all this?
 		- Software and hardware support
-		-
+		- Being readfor for a disaster
+		- Mainframe people — where do I get one
+		- Paying someone else to do it?
+		- Why is it taking so long?
+		- When do we get a new one?
+		- Providing the Mainframe with a good home
+		- Keeping it safe
+	- Chapter 11 —
 	-
