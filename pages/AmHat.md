@@ -1,2 +1,2 @@
-- second mainframe project (mid-to-late 2025)
+- second mainframe project (mid 2025 through early 2026)
 -
