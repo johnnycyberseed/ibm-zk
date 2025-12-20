@@ -31,7 +31,9 @@
 - # Resources
 	- Java / SpringBoot for IMS — https://github.com/imsdev/ims-java-jee-springboot
 	- [[File-AID for IMS]]
-	-
+	- IBM courses:
+		- IMS Data Sharing — https://learn.ibm.com/course/view.php?id=11499
+		-
 	-
 	-
 - # Personal Learning
