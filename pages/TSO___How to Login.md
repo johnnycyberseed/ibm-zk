@@ -1,4 +1,4 @@
 -
 - In [[AmHat]]
 	- Rocket TE Web Edition — Browser-based 3270 Terminal Emulator
-	-
+	- `SPSC` — launches CL/SuperSession
