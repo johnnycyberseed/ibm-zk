@@ -1,4 +1,6 @@
 - https://learn.ibm.com/course/view.php?id=11499
 -
 - Key Takeaways (so far)
-	-
+	- The following databases can share:
+		- [[IMS DB/FF/HIDAM]] / [[IMS DB/PHIDAM]]
+		- [[HDAM]]
