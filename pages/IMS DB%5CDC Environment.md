@@ -1,3 +1,5 @@
 -
+- diagram
+	- ![DB/DC includes: control region, dependent regions, databases, terminals, log, DBRC, DRA, and CCTL. MVS console starts control region. MTO starts dependent regions. User terminals enter transactions.](https://www.ibm.com/docs/en/SSEPH2_15.6.0/com.ibm.ims156.doc.sag/z0sag002.gif){:width 800}
 - https://www.ibm.com/docs/en/ims/15.6.0?topic=configurations-dbdc-environment
 -
