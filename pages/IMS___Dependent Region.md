@@ -1,4 +1,4 @@
-- an address space where application programs can run
+- an kind of address space where application programs can run
 	- aka "Processing Region"
 - Application types
 	- Transaction-oriented (aka "message-driven")
