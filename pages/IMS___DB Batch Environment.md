@@ -1,5 +1,7 @@
 - an ad-hoc batch region created to enable a batch program to perform IMS DB work
 - aka "offline" IMS
+- diagram
+	- ![DB batch region has an application program and DL/I. DL/I reads from an update file and writes to a database. A TSO terminal submits jobs. The batch region writes to a log.](https://www.ibm.com/docs/en/SSEPH2_15.6.0/com.ibm.ims156.doc.sag/z0sag005.gif){:width 400}
 - # DL/I Batch Processing
 	- DL/I Call Flow Sequence Diagram
 		- Procedures like [[DLIBATCH]] ultimately invoke [[DFSRRC00]]
