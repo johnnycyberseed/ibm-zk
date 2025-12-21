@@ -1,6 +1,7 @@
 - DL/I Separate Address Space
 	- aka "DL/I Subordinate Address Space"
--
+- Originally, this address space was not part of IMS
+	-
 - # References and Resources
 	- Details on how a DL/I Separate Address Space is configured and launched
 	- https://www.ibm.com/docs/en/ims/14.1.0?topic=system-starting-dli-separate-address-space
