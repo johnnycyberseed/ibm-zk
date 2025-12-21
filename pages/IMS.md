@@ -4,6 +4,7 @@
 	- [[IMS DB]]
 	- [[IMS TM]]
 - Implementations / Configurations / "Environments":
+	- [[IMS/DB Batch Environment]]
 	-
 - Architecture
 	- [[IMS/Architecture]]
