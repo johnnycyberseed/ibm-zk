@@ -1,0 +1,3 @@
+- An IMS implementation that includes only the [[IMS DB]] product.
+- Overview (diagram)
+	- ![DBCTL includes: control region without terminal support, BMP dependent regions, DBRC, DLISAS, databases, log, MVS console (no MTO), DRA, and CCTL.](https://www.ibm.com/docs/en/SSEPH2_15.6.0/com.ibm.ims156.doc.sag/z0sag003.gif){:width 600}
