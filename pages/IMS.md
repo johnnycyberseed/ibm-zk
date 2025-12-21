@@ -1,9 +1,12 @@
 - Information Management System
 - has been known as: "IMS/ESA"
-- [[IMS/Architecture]]
-- Two of IMS
+- IMS Products:
 	- [[IMS DB]]
 	- [[IMS TM]]
+- Implementations / Configurations:
+	-
+- Architecture
+	- [[IMS/Architecture]]
 	- Interfaces to IMS (diagram)
 	  collapsed:: true
 		- ![image.png](../assets/image_1752333373572_0.png){:width 800}
