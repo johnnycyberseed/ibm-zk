@@ -4,5 +4,6 @@
 -
 - ## Components
 	- [[IMS/IMSCTL]] — IMS Control Region
-	- [[IMS/DBRC]] — Database
+	- [[address space/DBRC]] — Database
+	-
 	-

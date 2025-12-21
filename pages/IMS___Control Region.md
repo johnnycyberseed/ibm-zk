@@ -3,7 +3,8 @@
 - IMS Control Region
 -
 - During initialization always starts a
-	- [[IMS/DBRC]]
+	- [[address space/DBRC]]
+	-
 - # Responsibilities
 	- services _all_ DL/I calls
 		- can be directly
