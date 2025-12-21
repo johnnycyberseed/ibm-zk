@@ -5,6 +5,7 @@
 - ## Components
 	- [[IMS/IMSCTL]] — the front-end server
 	- [[IMS/DBRC]] — database integrity manager
-	- [[IMS/DLISAS]] —
+	- [[IMS/DLISAS]] — "sidecar" for the IMSCTL, supporting connections
+	-
 	-
 	-
