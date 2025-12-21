@@ -1,16 +1,16 @@
 - Information Management System
 - has been known as: "IMS/ESA"
+- [[IMS/Architecture]]
 - Parts of IMS
 	- [[IMS DB]]
 	- [[IMS TM]]
-	- [[IMS/Architecture]]
 	- Interfaces to IMS (diagram)
 	  collapsed:: true
 		- ![image.png](../assets/image_1752333373572_0.png){:width 800}
+	- [[IMS/Catalog]]
 - IMS Access Methods
 	- [[VSAM]]
 	- OSAM
-- [[IMS/Catalog]]
 -
 -
 -
