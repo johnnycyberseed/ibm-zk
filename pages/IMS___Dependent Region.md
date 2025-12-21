@@ -1,4 +1,5 @@
-- an address space where applications can run
+- an address space where application programs can run
+	- aka "Processing Region"
 - Application types
 	- Transaction-oriented (aka "message-driven")
 		- [[IMS/Dependent Region/MPR]]
