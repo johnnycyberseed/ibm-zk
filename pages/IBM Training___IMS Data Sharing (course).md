@@ -1,1 +1,4 @@
 - https://learn.ibm.com/course/view.php?id=11499
+-
+- Key Takeaways (so far)
+	-
