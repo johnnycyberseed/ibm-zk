@@ -11,9 +11,8 @@
 	- OSAM
 - [[IMS/Catalog]]
 -
+- [[IMS/Architecture]]
 -
-- Architecture (diagram)
-	- ![image.png](../assets/image_1766331275022_0.png){:width 800}
 -
 -
 - #  History
