@@ -6,6 +6,7 @@
 	- [[IMS/IMSCTL]] — the front-end server
 	- [[IMS/DBRC]] — database integrity manager
 	- [[IMS/DLISAS]] — "sidecar" for the IMSCTL, supporting connections
-	- Various Processing Regions —
+	- Various [[IMS/Dependent Region]]s — where customer-written applications run
+	-
 	-
 	-
