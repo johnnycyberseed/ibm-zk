@@ -1,0 +1,3 @@
+- An IMS implementation that includes only the [[IMS TM]] product.
+- Overview (diagram)
+	- ![DCCTL includes: control region with data communications manager, message manager, and Transaction Manager; DBRC; dependent regions; terminals; and an external subsystem.](https://www.ibm.com/docs/en/SSEPH2_15.6.0/com.ibm.ims156.doc.sag/z0sag004.gif){:width 600}
