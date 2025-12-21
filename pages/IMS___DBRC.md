@@ -1,3 +1,6 @@
 - DataBase Recovery Control
-- records information about database usage (maintnenace)
+- records information about database usage (maintenance) to support recovery
+	- when was the database last backed up?
+	- when was it organized, last?
+- enforces certain rules to ensure that the database is always recover-able.
 	-
