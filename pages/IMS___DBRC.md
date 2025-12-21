@@ -1,6 +1,6 @@
 - Database Recovery Control facility
 -
-- Runs in its own address space, but is subordinate to the [[IMS/Control Region]].
+- Runs in its own address space, but is subordinate to the [[IMS/IMSCTL]].
 - required by all online IMS systems
 - records information about database usage (maintenance) to support recovery
 	- when was the database last backed up?

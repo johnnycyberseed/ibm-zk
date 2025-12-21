@@ -1,5 +1,5 @@
 - Batch Message Processing
-- These applications are started via JCL and _not_ by the [[IMS/Control Region]]
+- These applications are started via JCL and _not_ by the [[IMS/IMSCTL]]
 - Come in two flavors:
 	- Transaction-Oriented
 		- has access to the IMS message queue
