@@ -4,10 +4,13 @@
 	- [[IMS DB]]
 	- [[IMS TM]]
 - Implementations / Configurations / "Environments":
-	- [[IMS DB\DC Environment]] — both the "application server" and "database backend" deployed
--
-	- [[IMS/DB Batch Environment]]
-	-
+	- Server Components
+		- [[IMS DB\DC Environment]] — both the "application server" and "database backend" deployed
+		- [[IMS/Environment/DBCTL]] —
+		-
+	- Client Components
+		- [[IMS/DB Batch Environment]]
+		-
 - Architecture
 	- [[IMS/Architecture]]
 	- Interfaces to IMS (diagram)
