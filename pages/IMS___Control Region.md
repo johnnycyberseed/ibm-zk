@@ -1,9 +1,10 @@
+- IMS Control Region
 - can manage up to 4000 applications in parallel
 -
 - IMS Control Region
 -
 - During initialization always starts a
-	- [[address space/DBRC]]
+	- [[IMS/DBRC]]
 	-
 - # Responsibilities
 	- services _all_ DL/I calls
@@ -14,7 +15,7 @@
 -
 - # Start up
 	- normally launched with the z/OS `START` command
-		- initializes the [[address space/DBRC]]
+		- initializes the [[IMS/DBRC]]
 		-
 -
 - # References and Resources
