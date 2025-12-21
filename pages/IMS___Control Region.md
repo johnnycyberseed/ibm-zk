@@ -1,5 +1,9 @@
 - can manage up to 4000 applications in parallel
 -
+- IMS Control Region
+-
+- During initialization always starts a
+	- [[IMS/DBRC]]
 - # Responsibilities
 	- services _all_ DL/I calls
 		- can be directly
