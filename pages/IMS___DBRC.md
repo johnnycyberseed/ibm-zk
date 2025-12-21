@@ -3,4 +3,5 @@
 	- when was the database last backed up?
 	- when was it organized, last?
 - enforces certain rules to ensure that the database is always recover-able.
-	-
+	- e.g. after reorganizing  an IMS DB, DBRC will prevent updates until a backup is taken.
+-
