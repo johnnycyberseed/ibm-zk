@@ -3,6 +3,8 @@
 - Originally, this address space was not part of IMS
 	- its parts were originally stored/implemented in the [[IMS/IMSCTL]]
 	- but that address space would get squeezed for room.
+- These days it's required in some use-cases
+	- e.g. if you're using [[CICS]] as your transaction manager, it required there be a DLISAS.
 -
 - # References and Resources
 	- Details on how a DL/I Separate Address Space is configured and launched
