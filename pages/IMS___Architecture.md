@@ -3,7 +3,8 @@
 		- ![image.png](../assets/image_1766331275022_0.png){:width 800}
 -
 - ## Components
-	- [[IMS/IMSCTL]] — IMS Control Region
-	- [[IMS/DBRC]] — Database
+	- [[IMS/IMSCTL]] — the front-end server
+	- [[IMS/DBRC]] — database integrity manager
+	- [[IMS/DLISAS]] —
 	-
 	-
