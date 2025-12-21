@@ -13,9 +13,11 @@
 			  logseq.order-list-type:: number
 			- Responds to the message
 			  logseq.order-list-type:: number
+		- Assumes that you're using the IMS transaction processor
 	- Batch Processing (aka "Non-Message Processing")
 		- [[IMS/Dependent Region/BMP]] (batch-oriented)
 		- [[IMS/Dependent Region/JBP]]
 		- for IMS systems with only IMS DB, this is the only kind of application that can be deployed
+		-
 -
 -
