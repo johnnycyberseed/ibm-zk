@@ -1,7 +1,7 @@
 - Information Management System
 - has been known as: "IMS/ESA"
 - [[IMS/Architecture]]
-- Parts of IMS
+- Two of IMS
 	- [[IMS DB]]
 	- [[IMS TM]]
 	- Interfaces to IMS (diagram)
