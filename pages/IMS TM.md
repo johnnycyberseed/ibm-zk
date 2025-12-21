@@ -18,8 +18,6 @@
 		- applications are "defined" via [[IMS/PSB]]s
 	- (maybe) other runtime targets? (e.g. running entirely outside of the mainframe)
 -
-	-
-	-
 - Messages
 	- each has an identifier
 - Message Types
