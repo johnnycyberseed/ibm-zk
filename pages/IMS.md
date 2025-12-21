@@ -11,6 +11,11 @@
 	- OSAM
 - [[IMS/Catalog]]
 -
+-
+- Architecture (diagram)
+	- ![image.png](../assets/image_1766331275022_0.png){:width 800}
+-
+-
 - #  History
 	- 1968 — first introduced
 	- Was inspired from bespoke spaceship parts management as part of the Apollo program
