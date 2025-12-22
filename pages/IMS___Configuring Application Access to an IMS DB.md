@@ -1,6 +1,6 @@
 -
 -
--
+- IMS separates the concern of
 -
 	- Declare a database via [[IMS/DBD]]
 	  logseq.order-list-type:: number
