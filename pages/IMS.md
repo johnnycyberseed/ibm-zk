@@ -19,7 +19,8 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1752333373572_0.png){:width 800}
 	- [[IMS/Catalog]]
-- Usage
+- Programming
+	-
 	-
 - IMS Access Methods
 	- [[VSAM]]
