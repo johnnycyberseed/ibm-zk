@@ -13,14 +13,14 @@
 	- "Client" configurations
 		- [[IMS/DB Batch Environment]]
 		- [[IMS/TM Batch Environment]]
-		-
-		-
 - Architecture
 	- [[IMS/Architecture]]
 	- Interfaces to IMS (diagram)
 	  collapsed:: true
 		- ![image.png](../assets/image_1752333373572_0.png){:width 800}
 	- [[IMS/Catalog]]
+- Usage
+	-
 - IMS Access Methods
 	- [[VSAM]]
 	- OSAM
