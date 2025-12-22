@@ -11,7 +11,6 @@
 	- "Client" configurations
 		- [[IMS/DB Batch Environment]]
 		-
-		-
 - Architecture
 	- [[IMS/Architecture]]
 	- Interfaces to IMS (diagram)
