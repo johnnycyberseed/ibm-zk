@@ -10,6 +10,7 @@
 		- [[IMS/Environment/DCCTL]] — just the "application service" that uses another backend (often Db2)
 	- "Client" configurations
 		- [[IMS/DB Batch Environment]]
+		- [[IMS/TM Batch Environment]]
 		-
 		-
 - Architecture
