@@ -20,6 +20,7 @@
 		- ![image.png](../assets/image_1752333373572_0.png){:width 800}
 	- [[IMS/Catalog]]
 - Programming
+	- [[IMS/Configuring Application Access to an IMS DB]]
 	-
 	-
 - IMS Access Methods
