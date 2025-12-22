@@ -3,7 +3,8 @@
 - IMS Products:
 	- [[IMS DB]]
 	- [[IMS TM]]
--
+- Additional "IMS Tools" are available to extend the OOTB features
+	- https://www.ibm.com/products/ims/tools
 - Implementations / Configurations / "Environments":
 	- "Server" configurations
 		- [[IMS/Environment/DB\DC]] — both the "application server" and "database backend" deployed
