@@ -6,8 +6,9 @@
 	  logseq.order-list-type:: number
 	- Define a program's usage of that DB with a [[IMS/PSB]]
 	  logseq.order-list-type:: number
-		- More specifically
+		- More specifically, one or more [[IMS/PCB]]s
 		  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
 	- [[IMS/ACB]]
 	  logseq.order-list-type:: number
+-
+-
