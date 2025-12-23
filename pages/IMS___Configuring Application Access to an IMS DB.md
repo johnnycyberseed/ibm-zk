@@ -13,5 +13,8 @@
 	  logseq.order-list-type:: number
 - These configuration files are
 	- coded using a set of Assembler macros
-	- compiled into a
+	- compiled and linked
+	- stored in a [[Data Set/Type/Partitioned Data Set (PDS)]]
+		- typically having a lowest-level qualifier of `DBDLIB`,
+		-
 -
