@@ -17,4 +17,5 @@
 			- typically having a lowest-level qualifier of `DBDLIB` or `PSBLIB`, respectively.
 			-
 - With the introduction of the [[IMS/Catalog]]...
+	- DBDs are described using and heavily modified DDL SQL statements (with extensions)
 	-
