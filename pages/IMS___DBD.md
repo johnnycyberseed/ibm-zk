@@ -1,4 +1,6 @@
 - Database Description
-- Coded as an Assembler program using macros
-- a [[z/OS/Control Block]] that defines the structure of a physical or logical database.
+- Coded in Assembler using macros
+- Built using DBDGEN into...
+	- a [[z/OS/Control Block]] that defines the physical structure of an IMS database.
+-
 -
