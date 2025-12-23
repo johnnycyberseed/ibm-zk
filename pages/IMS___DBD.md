@@ -1,2 +1,4 @@
 - Database Description
+- Coded as an Assembler program using macros
 - a [[z/OS/Control Block]] that defines the structure of a physical or logical database.
+-
