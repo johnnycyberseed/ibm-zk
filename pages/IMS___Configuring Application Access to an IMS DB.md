@@ -15,6 +15,6 @@
 	- coded using a set of Assembler macros
 	- compiled and linked
 	- stored in a [[Data Set/Type/Partitioned Data Set (PDS)]]
-		- typically having a lowest-level qualifier of `DBDLIB`,
+		- typically having a lowest-level qualifier of `DBDLIB` or `PSBLIB`, respectively.
 		-
 -
