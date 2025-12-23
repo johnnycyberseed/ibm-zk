@@ -1,5 +1,7 @@
 -
 - Prior to version 14...
+	-
+	- https://www.ibm.com/docs/en/ims/15.6.0?topic=design-using-ims-generation-utilities-ims-databases
 	- IMS separates the concern of
 		- Declare the structure of the database via [[IMS/DBD]]
 		  logseq.order-list-type:: number
@@ -18,7 +20,6 @@
 		- compiled and linked
 		- stored in a [[Data Set/Type/Partitioned Data Set (PDS)]]
 			- typically having a lowest-level qualifier of `DBDLIB` or `PSBLIB`, respectively.
-			-
 - With the introduction of the [[IMS/Catalog]]...
 	- DBDs are described using and heavily modified DDL SQL statements (with extensions)
 		- https://www.ibm.com/docs/en/ims/15.6.0?topic=design-using-ddl-define-databases-program-views
