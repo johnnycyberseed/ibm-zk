@@ -1,7 +1,7 @@
 -
 - Prior to version 14...
-	-
-	- https://www.ibm.com/docs/en/ims/15.6.0?topic=design-using-ims-generation-utilities-ims-databases
+	- Metadata is configured via a set of control blocks
+		- https://www.ibm.com/docs/en/ims/15.6.0?topic=design-using-ims-generation-utilities-ims-databases
 	- IMS separates the concern of
 		- Declare the structure of the database via [[IMS/DBD]]
 		  logseq.order-list-type:: number
