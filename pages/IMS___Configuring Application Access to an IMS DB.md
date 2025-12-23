@@ -2,6 +2,7 @@
 -
 - IMS separates the concern of
 -
+	-
 	- Declare a database via [[IMS/DBD]]
 	  logseq.order-list-type:: number
 	- Define a program's usage of that DB with a [[IMS/PSB]]
