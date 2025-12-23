@@ -11,5 +11,7 @@
 		  logseq.order-list-type:: number
 	- [[IMS/ACB]]
 	  logseq.order-list-type:: number
-- These configuration files are coded using a set of
+- These configuration files are
+	- coded using a set of Assembler macros
+	- compiled into a
 -
