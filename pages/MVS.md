@@ -7,7 +7,7 @@
 		- memory-management
 		- core OS services
 - 🤖 The evolution from OS/360 through MVS up to z/OS
-	- https://chatgpt.com/share/e/68b5be65-8fd0-8001-8cbe-3de0a6497874
+	-
 - The latest version of MVS is [[MVS 3.8]] is open sourced.
 -
 - # References
