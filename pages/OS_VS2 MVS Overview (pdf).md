@@ -96,7 +96,7 @@
 		- MVS System IPO Documentation
 		- The MVS System IPO Installation Plan
 	- Servicing the System
-		- The System Modification Program (SMP)
+		- The System Modification Program ([[SMP]])
 		- Installing Selectable Units (SUs)
 		- SMP Option
 		- Installing Programming Temporary Fixes (PTFs)
