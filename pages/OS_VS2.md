@@ -1,1 +1,2 @@
-- Rename of MVS Release 3.8
+- Release 3.8 renamed to [[MVS]]
+-

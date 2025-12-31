@@ -1,6 +1,6 @@
 - The last release of [[MVS]]
 - The last release of any OS that IBM provided as effectively freeware.
-	- also known as "OS/VS2" [[OS_VS2]]
+	- a rename of "OS/VS2" [[OS_VS2]]
 -
 - # Essential Documentation
 	- https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/
