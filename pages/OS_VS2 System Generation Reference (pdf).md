@@ -7,4 +7,6 @@
 - > This publication does not explain the concepts underlying VS2 operations or the options available in VS2.
 - > Information of this type is contained in the following publications:
 	- [[OS_VS2 Planning and Use Guide (pdf)]]
+	- [[OS_VS System Generation Introduction (pdf)]]
+	-
 -
