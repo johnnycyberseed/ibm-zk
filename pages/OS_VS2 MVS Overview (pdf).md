@@ -1,5 +1,7 @@
-- https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/GC28-0984-1_OS_VS2_MVS_Overview_May1980.pdf
+-
 - Document id: GC28-0984-1
+- https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978
+	- https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/GC28-0984-1_OS_VS2_MVS_Overview_May1980.pdf
 -
 - # Table of Contents
 - ## Chapter 1: Introduction
