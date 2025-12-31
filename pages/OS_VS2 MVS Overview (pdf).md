@@ -170,6 +170,7 @@
 		- JES3 Device Allocation
 		- Dynamic Allocation
 - ## Chapter 6: Supervising the Execution of Work
+  collapsed:: true
 	- Interruption Processing
 		- The Role of Program Status Words
 		- The Interruption Handler (IH) Routines
@@ -181,6 +182,7 @@
 		- Enqueueing
 		- Locking
 - ## Chapter 7: Managing System Resources
+  collapsed:: true
 	- How the SRM Meets Its Objectives
 		- Major Functional Areas of SRM
 		- Communicating With SRM
@@ -193,6 +195,7 @@
 		- Processor Management
 		- Resource Monitoring
 - ## Chapter 8: Satisfying I/O Requests and Data Management
+  collapsed:: true
 	- Access Methods
 		- Data Organization
 		- Access Techniques
@@ -225,6 +228,7 @@
 		- Alternate Indexes
 		- System Catalog
 - ## Chapter 9: Recovering from Errors
+  collapsed:: true
 	- Recovery Termination
 		- Task Recovery Routines
 		- Functional Recovery Routines
@@ -236,6 +240,7 @@
 		- Dynamic Device Reconfiguration
 		- Missing Interrupt Handler
 - ## Chapter 10: Multiprocessing
+  collapsed:: true
 	- Loosely-Coupled Multiprocessing
 	- Tightly-Coupled Multiprocessing
 		- Configuration
@@ -249,6 +254,7 @@
 			- Status and Control Information
 	- Attached Processor System
 - ## Chapter 11: Monitoring System Activity
+  collapsed:: true
 	- System Management Facilities
 	- Resource Measurement Facility
 	- Dumping Facilities
