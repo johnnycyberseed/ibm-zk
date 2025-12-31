@@ -8,5 +8,6 @@
 - > Information of this type is contained in the following publications:
 	- [[OS_VS2 Planning and Use Guide (pdf)]]
 	- [[OS_VS System Generation Introduction (pdf)]]
+	- [[IBM System/370 System Summary (pdf)]]
 	-
 -
