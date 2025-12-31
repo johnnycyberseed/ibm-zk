@@ -1,4 +1,5 @@
--
+- Document id: GC26-3792-1
+- File No. S370-34
 - https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_1.6_Mar73/
 	- https://www.bitsavers.org/pdf/ibm/370/OS_VS2/Release_1.6_Mar73/GC26-3792-1_OS_VS2_System_Generation_Reference_Rel_1.6_Mar73.pdf
 -
