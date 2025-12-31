@@ -5,6 +5,7 @@
 -
 - # Table of Contents
 - ## Chapter 1: Introduction
+  collapsed:: true
 	- Direct Benefits
 		- Multiple Virtual Storage
 		      Addressing in MVS
@@ -41,9 +42,10 @@
 			- System Generation
 			- System Initialization
 			- System Operation
-		- Virtual Storage Access Method (VSAM)
+		- Virtual Storage Access Method ([[VSAM]])
 	- Summary
 - ## Chapter 2: Virtual Storage in MVS
+  collapsed:: true
 	- Pages, Frames, and Slots
 	- Integrity
 		- Storage Protect Keys
@@ -80,6 +82,7 @@
 		- Modified Link Pack Area (MLPA)
 		- BLDL Lists
 - ## Chapter 3: Installing and Servicing the System
+  collapsed:: true
 	- Installing the System
 		- Preliminary Considerations
 		- The Installation Plan
@@ -103,6 +106,7 @@
 		- Installing User Modifications
 		- SMP Control Functions
 - ## Chapter 4: Preparing the System for Work
+  collapsed:: true
 	- Overview of the Initialization Process
 		- Initiating the Load Procedure
 			- The System Residence Volume
@@ -150,6 +154,7 @@
 	- Address Space Creation
 	- TSO Initialization
 - ## Chapter 5: Entering and Scheduling Work
+  collapsed:: true
 	- Job Entry Subsystem Processing
 		- Input
 		- Execution
