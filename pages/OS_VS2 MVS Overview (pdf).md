@@ -33,9 +33,9 @@
 		- Validate and Authorize
 		- User Responsibility
 	- Enhanced Function
-		- Job Entry Subsystem
-			- JES2
-			- JES3
+		- Job Entry Subsystem ([[JES]])
+			- [[JES2]]
+			- [[JES3]]
 		- Subsystem Interface
 		- System Generation and Initialization
 			- System Generation
