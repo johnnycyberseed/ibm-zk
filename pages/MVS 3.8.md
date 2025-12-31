@@ -2,7 +2,11 @@
 - The last release of any OS that IBM provided as effectively freeware.
 	- also known as "OS/VS2"
 -
-- [[OS_VS2 MVS Overview (Release 3.8) (pdf)]]
+- # Essential Documentation
+	- https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/
+		- [[OS_VS2 MVS Overview (Release 3.8) (pdf)]]
+	-
+	-
 - # Fundamental Commands
 	- [[MVS 3.8/Commands Cheat Sheet]]
 -
@@ -27,10 +31,7 @@
 	- Bit Savers Library of IBM docs:
 		- https://bitsavers.org/pdf/ibm/
 			- OS/VS
-				- https://bitsavers.org/pdf/ibm/370/OS_VS/
-				- https://bitsavers.org/pdf/ibm/370/OS_VS1/
-				- https://bitsavers.org/pdf/ibm/370/OS_VS2/
-				- up to https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/
+				- up to
 			- S/370 MVS — https://bitsavers.org/pdf/ibm/370/MVS/
 	- Softlib-hosted IBM manuals:
 		- http://softlib.classiccmp.org/manuals.html
