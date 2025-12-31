@@ -1,5 +1,7 @@
-- Document id: GC26-3792-1
+- Document id: GC26-3792-8
 - File No. S370-34
+- http://www.bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978
+	- http://www.bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/GC26-3792-8_OS_VS2_System_Generation_Reference_Release_3.8_198010.pdf
 - https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_1.6_Mar73/
 	- https://www.bitsavers.org/pdf/ibm/370/OS_VS2/Release_1.6_Mar73/GC26-3792-1_OS_VS2_System_Generation_Reference_Rel_1.6_Mar73.pdf
 -
