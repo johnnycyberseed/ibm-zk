@@ -27,11 +27,9 @@
 					- https://www.jaymoseley.com/hercules/faq/mvsfaq00.htm#General002
 	- moshix's MVS utilities — https://github.com/moshix/mvs
 	-
-- # References
+- # Additional References
 	- Bit Savers Library of IBM docs:
 		- https://bitsavers.org/pdf/ibm/
-			- OS/VS
-				- up to
 			- S/370 MVS — https://bitsavers.org/pdf/ibm/370/MVS/
 	- Softlib-hosted IBM manuals:
 		- http://softlib.classiccmp.org/manuals.html

@@ -3,6 +3,8 @@
 	- All Products — https://www.ibm.com/docs/en/products
 	- All Product Docs — https://www.ibm.com/docs
 	- Posted manuals
+		- Bitsavers — significant source of
+			- https://bitsavers.org/pdf/ibm/
 		- http://softlib.classiccmp.org/manuals.html
 		-
 -
