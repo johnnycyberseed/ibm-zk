@@ -1,3 +1,7 @@
 -
 - https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_1.6_Mar73/
 	- https://www.bitsavers.org/pdf/ibm/370/OS_VS2/Release_1.6_Mar73/GC26-3792-1_OS_VS2_System_Generation_Reference_Rel_1.6_Mar73.pdf
+-
+- > This publication is intended for system programmers who are to generate an OS/VS2 System Control Program.
+- > This publication does not explain the concepts underlying VS2 operations or the options available in VS2.
+- > Information of this type is contained in the following publications:
