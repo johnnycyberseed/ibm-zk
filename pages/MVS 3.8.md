@@ -29,7 +29,7 @@
 				- https://bitsavers.org/pdf/ibm/370/OS_VS1/
 				- https://bitsavers.org/pdf/ibm/370/OS_VS2/
 				- up to https://bitsavers.org/pdf/ibm/370/OS_VS2/Release_3.8_1978/
-					- [[OS_VS2 MVS Overview (pdf)]]
+					- 👉 [[OS_VS2 MVS Overview (Release 3.8) (pdf)]]
 					-
 					-
 			- S/370 MVS — https://bitsavers.org/pdf/ibm/370/MVS/
