@@ -25,4 +25,6 @@
 	-
 - # References
 	- https://www.ibm.com/docs/en/zos/3.1.0?topic=reference-dd-statement
+	- https://www.mainframestechhelp.com/tutorials/jcl/disp-parameter.htm
+	-
 	-
