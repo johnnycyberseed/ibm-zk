@@ -4,5 +4,6 @@
 - Articles
 	- https://www.longpelaexpertise.com.au/ezine/ExitsforBeginners.php
 	- https://www.longpelaexpertise.com.au//ezine/ExitsBestPractices.php
+	- https://www.longpelaexpertise.com.au//ezine/SMPforExits.php
 	-
 	-
