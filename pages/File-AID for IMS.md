@@ -2,5 +2,5 @@
 - ## How to Configure File-AID
 -
 - ## Getting to File-AID for IMS
-	- On [[AmHat]], it's `=U.4.4` (?)
+	- On [[AmHat]], it's `=U.3.8`
 -
