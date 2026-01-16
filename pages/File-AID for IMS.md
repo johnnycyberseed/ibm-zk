@@ -1,4 +1,6 @@
 -
 - ## How to Configure File-AID
 -
+- ## Getting to File-AID for IMS
+	- On [[AmHat]], it
 -
