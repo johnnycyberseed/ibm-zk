@@ -3,4 +3,8 @@
 - # References
 	- https://opentelemetry.io/docs/specs/semconv/resource/zos/
 	- https://opentelemetry.io/blog/2025/otel-mainframe-priorities-survey/
-- # Communi
+- # Community
+	- `#otel-mainframes` on CNCF Slack — https://app.slack.com/client/T08PSQ7BQ/C05PXDFTCPJ
+	-
+	-
+	-
