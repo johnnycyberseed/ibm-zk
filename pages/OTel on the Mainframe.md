@@ -5,6 +5,7 @@
 	- https://opentelemetry.io/blog/2025/otel-mainframe-priorities-survey/
 - # Community
 	- `#otel-mainframes` on CNCF Slack — https://app.slack.com/client/T08PSQ7BQ/C05PXDFTCPJ
+		- https://docs.google.com/document/d/14p-bpofozTL4n3jy6HZH_TKjoOXvog18G1HBRqq6liE
 	-
 	-
 	-
