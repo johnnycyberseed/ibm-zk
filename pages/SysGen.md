@@ -1,2 +1,6 @@
-- Google LLM Notebook containing key documents around
-- https://notebooklm.google.com/notebook/5c9d950f-6425-45c9-b99d-431c530644f2
+-
+- # Key Documentation
+	- [[OS_VS2 MVS Overview (Release 3.8) (pdf)]].
+	-
+- Google LLM Notebook containing key documents around this process:
+	- https://notebooklm.google.com/notebook/5c9d950f-6425-45c9-b99d-431c530644f2
