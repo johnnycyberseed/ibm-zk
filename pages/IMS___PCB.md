@@ -1,7 +1,7 @@
 - Program Communication Block
 -
 - Types of PCBs
-	-
+	- I/O PCB —
 - Can define the specific view the application is allowed of the schema in a database
 	- narrowing the dependency to just what the application needs
 -
