@@ -9,5 +9,4 @@
 		- Do this via menu option `0 — Parameters`
 	-
 	- [[File-AID for IMS/Extract]]
-		- `4 — Extract/Load`; `1 — Data Base Extract`
-		-
+-
