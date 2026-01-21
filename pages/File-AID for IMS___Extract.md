@@ -1,8 +1,4 @@
 -
-- # Launching
-	- [[AmHat]]
-		- Add-on utility attached to the ISPF main panel
-		- `=U.3.8`
 -
 - # Configuring
 -
