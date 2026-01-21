@@ -1,6 +1,9 @@
 -
 - `4 — Extract/Load`; `1 — Data Base Extract`
 -
+- Data Base Extract — Data Base Spec (Panel)
+	- Extract job type {`DLI`, `BMP`}
+		- `DLI` — offline mode — when accessing data files
 -
 -
 -
