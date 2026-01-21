@@ -4,6 +4,8 @@
 		- `=U.3.8`
 		-
 - ## How to Configure
-	- ⚠️
+	- ⚠️ Ensure that you've first selected the right IMS instance before performing any other action
+		- [[AmHat]] this was selecting `IMST` (on `IPLD`)
+		- Do this via menu option `0  Parameters`
 	- [[File-AID for IMS/Extract]]
 -
