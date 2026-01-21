@@ -4,7 +4,8 @@
 - Data Base Extract — Data Base Spec (Panel)
 	- Extract job type
 		- `DLI` — offline mode — when accessing data files via a
-		- `BMP` — online mode — when accessing a
+		- `BMP` — online mode — when accessing an [[IMS/IMSCTL]]
+		-
 -
 -
 -
