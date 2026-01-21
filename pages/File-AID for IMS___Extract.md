@@ -1,0 +1,3 @@
+- To specify "FIELD Selection Criteria", you need to specify a copybook [[Data Set/Type/Partitioned Data Set (PDS)]]
+	- [[AmHat]]
+		- `D0229.COPYLIB.CUR`

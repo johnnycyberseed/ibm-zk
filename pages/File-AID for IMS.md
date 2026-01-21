@@ -1,6 +1,7 @@
 -
 - ## How to Configure File-AID
--
+	- [[File-AID for IMS/Extract]]
+	-
 - ## Getting to File-AID for IMS
 	- On [[AmHat]], it's `=U.3.8`
 -
