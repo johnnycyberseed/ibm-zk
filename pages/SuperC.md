@@ -1,0 +1,2 @@
+- Utility for comparing data sets
+- Can be invoked directory using:`ISRSUPC`
