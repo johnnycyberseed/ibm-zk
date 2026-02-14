@@ -8,7 +8,7 @@
 	- https://www.ibm.com/docs/en/ims/15.4.0?topic=environments-dlibatch-procedure
 	- that sites can customize
 		- to define site-wide IMS configuration (e.g. where compiled PSBs and DBDs are found/defined).
-		- [[AmHat]] — `SYS2.IMS.PROCLIB(DLIBATCH)`
+		- [[AmHat6]] — `SYS2.IMS.PROCLIB(DLIBATCH)`
 		-
 -
 - DONE Unpack the mystery of the similarly named PSB from AmHat.

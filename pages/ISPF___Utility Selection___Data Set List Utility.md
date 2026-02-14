@@ -3,7 +3,7 @@
 	- ## How to locate a member from a list of PDSs
 		- `Dsname Level...` = `HLQ.*LIB` (or similar)
 		- `Command ===> ` = `MEMBER (member name)` / `M (member)`
-		- [[AmHat]]
+		- [[AmHat6]]
 			- Locating the library where the DLI interface for COBOL was stored
 			- `Dsname Level...` = `P1930.*LIB`
 			- `Command ===>` = `CBLTDLI`

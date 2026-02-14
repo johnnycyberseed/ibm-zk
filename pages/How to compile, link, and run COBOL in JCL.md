@@ -11,7 +11,7 @@
 	- When the COBOL is processing data, it's common to use [[JCL/DD/override]] to supply the data definitions to the program
 -
 - # Project Specifics
-	- [[AmHat]]
+	- [[AmHat6]]
 		- JCL files stored in `&SYSUID.PROCLIB.CUR`
 		- Link edit control input `&SYSUID.INCLIB.CUR`
 		- [[program module]]s `&SYSUID.LINKLIB.CUR`

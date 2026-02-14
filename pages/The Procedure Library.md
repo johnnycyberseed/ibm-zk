@@ -2,5 +2,5 @@
 - Contains [[cataloged procedure]]s
 - Can be concatenated with a user/site specific procedure library `SYS2.PROCLIB`
 - Can be detected through [[z/OS/SDSF/PROC Display]].
-	- [[AmHat]] — `SYS2.IMS.PROCLIB`
+	- [[AmHat6]] — `SYS2.IMS.PROCLIB`
 	-

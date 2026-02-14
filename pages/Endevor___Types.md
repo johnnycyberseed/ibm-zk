@@ -1,6 +1,6 @@
 - types of Elements
 - e.g. COBOL, ASEMBLER, BASIC, CLIST, COPYBOOK, JCL, ...
-- [[AmHat]] — ~90 types; numeric org (e.g. `0055` = REXX; `0002` = Assembler H Compile; `204` = COBOL3 compile;)
+- [[AmHat6]] — ~90 types; numeric org (e.g. `0055` = REXX; `0002` = Assembler H Compile; `204` = COBOL3 compile;)
 	- Sequentially:
 		- `0002HL` — Assembler HL Compile
 		  id:: 68c2e0d2-c6ea-48c5-9beb-8ebc71ac0462

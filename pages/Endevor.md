@@ -2,7 +2,7 @@
 - Defacto SCM for z/OS
 -
 - Typically started from ISPF's TSO (`=6`)
-	- [[AmHat]]
+	- [[AmHat6]]
 		- v18.1.0
 		- Launch: ISPF `=6`; `ENDEVOR`; `ENVPROD`
 - # Hierarchy
@@ -21,7 +21,7 @@
 -
 - # Operations
 	- Retrieving
-		- [[AmHat]]
+		- [[AmHat6]]
 			- CCID = `99999999`
 -
 - # References and Resources

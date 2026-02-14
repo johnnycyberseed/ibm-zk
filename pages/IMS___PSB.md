@@ -9,7 +9,7 @@
 - [[IMS TM/AIB]]
 -
 - ## Lifecycle of a PSB
-	- [[AmHat]]
+	- [[AmHat6]]
 		- Source file is written and stored in [[ENDEVOR]]
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number

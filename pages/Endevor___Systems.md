@@ -1,4 +1,4 @@
 - the applications at the site
 - e.g. `FINANCE` for finance system; `MFG` for manufacturing
-- [[AmHat]] — `022` la premiere app
+- [[AmHat6]] — `022` la premiere app
 -
