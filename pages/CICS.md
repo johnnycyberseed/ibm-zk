@@ -8,7 +8,9 @@
 	- 1974 — IBM decided to end development to concentrate on [[IMS]]
 		- IMS was considered more strategic
 		- [[IBM Hursley]] picked up development of CICS
-			- had just
+			- had just finished work on the [[PL_I]] compiler
+				- which had many of the same customers as CICS
+	-
 	-
 - Raw Notes:
 	- supports multiple programming language
