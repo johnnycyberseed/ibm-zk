@@ -2,4 +2,6 @@
 - Ran under [[OS_VS1]]
 - Written in [[IBM Basic Assembly Language]]
 - Interfaced with [[3270 Terminal]]s
--
+- History
+	- late 1960s — first release
+	-
