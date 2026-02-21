@@ -4,14 +4,14 @@
 - History
 	- late 1960s — [[IBM MTCS]] predecessor to CICS
 	- initially developed in Palo Alto
-	-
+	- 1972 — provided support for [[3270 Terminal]]
 	- 1974 — IBM decided to end development to concentrate on [[IMS]]
 		- IMS was considered more strategic
 		- [[IBM Hursley]] picked up development of CICS
 			- had just finished work on the [[PL_I]] compiler
 				- which had many of the same customers as CICS
 	-
-	-
+- Development Contru
 - Raw Notes:
 	- supports multiple programming language
 -
