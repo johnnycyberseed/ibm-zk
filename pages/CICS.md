@@ -3,7 +3,9 @@
 	- [[CICS/TM]]
 - History
 	- late 1960s — [[IBM MTCS]] predecessor to CICS
-	-
+	- initially developed in Palo Alto
+	- Considered less strategic than [[IMS]]
+	- 1974 — IBM decided to end development
 	-
 - Raw Notes:
 	- supports multiple programming language
