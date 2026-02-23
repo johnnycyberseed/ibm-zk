@@ -11,6 +11,8 @@
 		- [[IBM Hursley]] picked up development of CICS
 			- had just finished work on the [[PL_I]] compiler
 				- which had many of the same customers as CICS
+	- 1986 — Suport for record-oriented file serviecs via [[DDM]]
+	-
 - People
 	- Ben Riggins — principal architect of the earlier releases of CICS
 		- moved to California when the CICS team did to stay working on CICS
