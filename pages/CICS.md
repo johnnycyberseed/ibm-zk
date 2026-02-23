@@ -1,6 +1,7 @@
 -
 - Architecture:
 	- [[CICS/TM]]
+	- CICS TS — CICS Transaction Server
 - History
 	- late 1960s — [[IBM MTCS]] predecessor to CICS
 	- initially developed in Palo Alto
@@ -12,8 +13,8 @@
 			- had just finished work on the [[PL_I]] compiler
 				- which had many of the same customers as CICS
 	- 1986 — Suport for record-oriented file serviecs via [[DDM]]
-	- 1997 — (CICS Transaction Server for [[OS_390]] 1.2) introduced Web Brdige and supported HTTP
-	- ? — (CICS
+	- 1997 — (CICS TS for [[OS_390]] 1.2) introduced Web Brdige and supported HTTP
+	- ? — (CICS TS 2.1 through 2.3)
 	-
 	- 2003 (~version 5.2) — Support for the [[DDM]] component on [[z/OS]] was discontinued.
 	-
