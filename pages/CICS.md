@@ -18,6 +18,7 @@
 	- 2003 (~version 5.2) — Support for the [[DDM]] component on [[z/OS]] was discontinued.
 	- 2009 — v4.1
 	- 2012 — v5.1
+	- 2015 — v5.3 — WebSphere Liberty was fully embedded in CICS TS
 	- 2022 — v6.1
 	- 2024 — v6.2
 	-
