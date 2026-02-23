@@ -12,7 +12,8 @@
 			- had just finished work on the [[PL_I]] compiler
 				- which had many of the same customers as CICS
 - People
-	- Ben Riggins —
+	- Ben Riggins — principal architect of the earlier releases of CICS
+		- moved to California when the CICS team did to stay working on CICS
 - Development Contributors
 	- In the early days, software was "free" and followed an Open Source kind of model.
 	- Standard Oil of Indiana (Amoco) made major contributions to CICS
