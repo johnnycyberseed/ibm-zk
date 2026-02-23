@@ -1,1 +1,6 @@
 - Distributed Data Management Architecture
+-
+- This enabled programs on remote, network-connected computers to create, manage, and access files that had previously been available only within the CICS/MVS and CICS/VSE transaction processing environments
+-
+- # References
+	- https://en.wikipedia.org/wiki/Distributed_Data_Management_Architecture
