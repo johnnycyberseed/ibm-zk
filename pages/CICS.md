@@ -11,7 +11,10 @@
 			- had just finished work on the [[PL_I]] compiler
 				- which had many of the same customers as CICS
 	-
-- Development Contru
+- Development Contributors
+	- In the early days, software was "free" and followed an Open Source kind of model.
+	- Standard Oil of Indiana (Amoco) made major contributions to CICS
+-
 - Raw Notes:
 	- supports multiple programming language
 -
