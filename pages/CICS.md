@@ -19,7 +19,7 @@
 	- 2009 — v4.1
 	- 2012 — v5.1 — introduced WebSphere Liberty (as a web-container)
 	- 2015 — v5.3 — WebSphere Liberty was fully embedded in CICS TS
-		- obviating
+		- obviating CORBA and EJB tech.
 	- 2022 — v6.1
 	- 2024 — v6.2
 	-
