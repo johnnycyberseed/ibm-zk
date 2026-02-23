@@ -16,7 +16,10 @@
 	- 1997 — (CICS TS for [[OS_390]] 1.2) introduced Web Brdige and supported HTTP
 	- 2001 — (CICS TS 2.1 through 2.3) hosts Java applications and supports CORBA and EJB.
 	- 2003 (~version 5.2) — Support for the [[DDM]] component on [[z/OS]] was discontinued.
-	- 200
+	- 2009 — v4.1
+	- 2012 — v5.1
+	- 2022 — v6.1
+	- 2024 — v6.2
 	-
 	-
 - People
