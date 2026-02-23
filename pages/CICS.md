@@ -11,7 +11,8 @@
 		- [[IBM Hursley]] picked up development of CICS
 			- had just finished work on the [[PL_I]] compiler
 				- which had many of the same customers as CICS
-	-
+- People
+	- Ben Riggins —
 - Development Contributors
 	- In the early days, software was "free" and followed an Open Source kind of model.
 	- Standard Oil of Indiana (Amoco) made major contributions to CICS
