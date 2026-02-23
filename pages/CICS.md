@@ -19,8 +19,10 @@
 	- Standard Oil of Indiana (Amoco) made major contributions to CICS
 		- When CICS first attempted to support Teletype Model 33 ASR, it crashed the OS/360 system it ran on
 		- They Amoco redesigned and rewrote CICS (especially the Terminal Control Program (TCP) and give it back to IBM)
-	-
+-
 -
 - Raw Notes:
 	- supports multiple programming language
 -
+- # References
+	- https://en.wikipedia.org/wiki/CICS
