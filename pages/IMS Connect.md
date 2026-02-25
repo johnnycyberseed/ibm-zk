@@ -1,4 +1,4 @@
-- TCP/IP-based front end for [[IMS TM]].
+- TCP/IP-based front end for [[IMS/TM]].
 - Handles multiple inbound TCP/IP connections
 - Can route to multiple target [[IMS]] instances
 - is a [[IMS/CSL/ODBM]] client

@@ -1,4 +1,4 @@
-- An IMS implementation that includes both the [[IMS TM]] and the [[IMS DB]] products deployed.
+- An IMS implementation that includes both the [[IMS/TM]] and the [[IMS DB]] products deployed.
 - Overview (diagram)
 	- ![DB/DC includes: control region, dependent regions, databases, terminals, log, DBRC, DRA, and CCTL. MVS console starts control region. MTO starts dependent regions. User terminals enter transactions.](https://www.ibm.com/docs/en/SSEPH2_15.6.0/com.ibm.ims156.doc.sag/z0sag002.gif){:width 600}
 -

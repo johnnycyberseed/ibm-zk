@@ -2,7 +2,7 @@
 - has been known as: "IMS/ESA"
 - IMS Products:
 	- [[IMS DB]]
-	- [[IMS TM]]
+	- [[IMS/TM]]
 - Additional "IMS Tools" are available to extend the OOTB features
 	- https://www.ibm.com/products/ims/tools
 - Implementations / Configurations / "Environments":

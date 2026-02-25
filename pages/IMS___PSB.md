@@ -6,7 +6,7 @@
 	- data definitions
 - contains one or more [[IMS/PCB]]s
 	- define what data the application can view
-- [[IMS TM/AIB]]
+- [[IMS/TM/AIB]]
 -
 - ## Lifecycle of a PSB
 	- [[AmHat6]]
