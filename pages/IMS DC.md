@@ -1,2 +1,2 @@
 - Data Communications Manager
-- old name for [[IMS/TM]]
+- old name for [[IMS TM]]

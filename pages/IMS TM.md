@@ -1,5 +1,5 @@
 - IMS Transaction Manager
-	- (new name for " [[IMS/DC]] " — Data Communications Manager)
+	- (new name for " [[IMS DC]] " — Data Communications Manager)
 - Plays the role of "Application Server"
 - a message-based transaction processor
 	- processes messages
@@ -31,9 +31,9 @@
 		- by API
 		- by TCP/IP
 			- via [[IMS Connect]]
-	- message is received by [[IMS/TM/OTMA]]
-	- it hands the message to the [[IMS/TM/Queue Manager]]
-	- the [[IMS/TM/Scheduler]] services that queue
+	- message is received by [[IMS TM/OTMA]]
+	- it hands the message to the [[IMS TM/Queue Manager]]
+	- the [[IMS TM/Scheduler]] services that queue
 		- determines which [[IMS/Dependent Region]] the target application lives
 		- activates that application and points it to the message in the queue
 	- the application wakes, de-queues the message and processes it

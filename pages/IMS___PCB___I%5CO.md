@@ -1,4 +1,4 @@
 - IMS I/O PCB Control Block
-- interface to [[IMS/TM]] services
+- interface to [[IMS TM]] services
 	-
 -
