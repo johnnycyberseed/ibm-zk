@@ -8,6 +8,6 @@
 	  END-EXEC.
 	  ```
 -
--
-- https://www.ibm.com/docs/en/cics-ts/6.x?topic=reference-cics-command-summary
+- CICS command reference
+	- https://www.ibm.com/docs/en/cics-ts/6.x?topic=reference-cics-command-summary
 -
