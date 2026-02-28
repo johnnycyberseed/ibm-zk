@@ -18,6 +18,6 @@
 		- effectively a stateful session
 	- ## Pseudo-Conversational Transaction
 		- program ends as it sends the [[CICS/Map]] back to the user
-		- each response includes the [[TRANSID]] of the next transaction to call
+		- each response includes the [[CICS/TRANSID]] of the next transaction to call
 		- effectively stateless session.
 	-
