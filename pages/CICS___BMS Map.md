@@ -1,2 +1,4 @@
+- Basic Mapping Support Map
+-
 - CICS UI protocol and screen definitions
 - analogous to a web application's view template + SPA payload
