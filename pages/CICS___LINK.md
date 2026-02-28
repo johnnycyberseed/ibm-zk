@@ -1,4 +1,5 @@
-- means of calling or forwarding from a CICS [[CICS/Application Program]] to another
-- analogous to a web application forward/redirect
-- (maybe?) connected with XCTL
+- means of calling from a CICS [[CICS/Application Program]] to another
+- analogous to a web application internal invocation
+- when "link"ed program completes, control is returned to the
+- contrast with [[CICS/XCTL]] which
 -
