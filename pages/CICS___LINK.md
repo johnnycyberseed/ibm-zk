@@ -1,0 +1,1 @@
+- means of calling or forwarding from a CICS [[CICS/Application Program]] to another
