@@ -1,4 +1,5 @@
 - Program Control Table
 - Look up via a 4-character [[CICS/Transaction ID]]
 - identifies which [[CICS/Program]] to start when a [[CICS/Transaction]] is entered.
-	- Indicates when that program runs in  a
+	- Indicates when that program runs in a [[CICS/Task]] environment or not.
+-
