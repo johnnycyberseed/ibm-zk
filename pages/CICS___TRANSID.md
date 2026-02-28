@@ -1,2 +1,2 @@
 - CICS Transaction ID
--
+- a 1 to 4 character transaction identifier
