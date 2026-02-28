@@ -1,1 +1,4 @@
 - means of calling or forwarding from a CICS [[CICS/Application Program]] to another
+- analogous to a web application forward/redirect
+- (maybe?) connected with XCTL
+-
