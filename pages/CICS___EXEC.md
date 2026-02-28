@@ -1,0 +1,4 @@
+- the CICS command level programming interface
+-
+- (see "CICS Application Programming Reference" for the list of commands)
+-
