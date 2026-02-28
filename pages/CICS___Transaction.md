@@ -8,3 +8,4 @@
 - Consists of one or more [[CICS/Application Program]]s
 - Described by a [[CICS/Transaction Resource Definition]]
 -
+-
