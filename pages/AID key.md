@@ -1,0 +1,6 @@
+- a set of terminal keys that indicates submission
+- Examples:
+	- ENTER
+	- PF1-PF24
+	- PA1-PA3
+	- CLEAR
