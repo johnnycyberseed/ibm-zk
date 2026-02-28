@@ -1,0 +1,3 @@
+- CICS Terminal Control Program
+- receives inbound data from [[VTAM]]
+-
