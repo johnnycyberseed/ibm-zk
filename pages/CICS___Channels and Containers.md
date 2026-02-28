@@ -1,0 +1,3 @@
+-
+- similar to [[CICS/COMMAREA]]
+-
