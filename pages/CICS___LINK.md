@@ -1,5 +1,6 @@
 - means of calling from a CICS [[CICS/Application Program]] to another
 - analogous to a web application internal invocation
-- when "link"ed program completes, control is returned to the
-- contrast with [[CICS/XCTL]] which
+- when "link"ed program completes, control is returned to the "link"ing program.
+- contrast with [[CICS/XCTL]]
+-
 -
