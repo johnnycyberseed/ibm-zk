@@ -1,0 +1,3 @@
+- Temporary Storage Queue
+- a named queue for storing data records _temporarily_ inside CICS
+- analogous to
