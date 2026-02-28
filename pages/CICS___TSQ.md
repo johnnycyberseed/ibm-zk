@@ -1,3 +1,4 @@
 - Temporary Storage Queue
 - a named queue for storing data records _temporarily_ inside CICS
-- analogous to
+- analogous to a web application session store / Redis key / or temp table
+-
