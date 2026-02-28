@@ -1,2 +1,4 @@
+- transfer program control
+- https://www.ibm.com/docs/en/cics-ts/6.x?topic=summary-xctl
 -
 -
