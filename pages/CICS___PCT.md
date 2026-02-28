@@ -1,6 +1,7 @@
 - Program Control Table
+- Analogous to a web applcation router/dispatch mapping (e.g. Spring MVC mappings)
+-
 - Look up via a 4-character [[CICS/TRANSID]]
 - identifies which [[CICS/Application Program]] to start when a [[CICS/Transaction]] is entered.
 	- Indicates when that program runs in a [[CICS/Task]] environment or not.
-- Analogous to a router/dispatch mapping
 -

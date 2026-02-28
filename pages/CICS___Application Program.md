@@ -1,4 +1,5 @@
 -
+- analogous to a web application Controller
 - must be quasi-reentrant
 	- must be serially reusable between entry and exit points.
 -
