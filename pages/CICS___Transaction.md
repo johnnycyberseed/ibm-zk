@@ -1,10 +1,10 @@
 - a piece of processing initiated by a single request
-	- by submitting a [[CICS/TRANSID]]
-	- most commonly from an end user at a terminal
-	- or from a web page
-	- or from a remote workstation
-	- or from another CICS system
-	- or triggered automatically at a predefined time.
+	- by submitting a [[CICS/TRANSID]] to CICS
+		- most commonly from an end user at a terminal
+		- or from a web page
+		- or from a remote workstation
+		- or from another CICS system
+		- or triggered automatically at a predefined time.
 - Consists of one or more [[CICS/Application Program]]s
 - Described by a [[CICS/Transaction Resource Definition]]
 -
