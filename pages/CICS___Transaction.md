@@ -13,7 +13,8 @@
 	-
 	- User "signs on"
 	  logseq.order-list-type:: number
-		-
+	- logseq.order-list-type:: number
+	- If program end
 - # Transaction Types
 	- ## Conversational Transaction
 		- program holds resources while waiting to receive data.
