@@ -13,4 +13,7 @@
 		- program holds resources while waiting to receive data.
 		- effectively a stateful session
 	- ## Pseudo-Conversational Transaction
-		- each response
+		- program ends as it sends the [[CICS/Map]] back to the user
+		- each response includes the [[TRANSID]] of the next transaction to call
+		- effectively stateless session.
+	-
