@@ -7,5 +7,7 @@
 	    RIDFLD(ACCTC) UPDATE ...
 	  END-EXEC.
 	  ```
-- (see "CICS Application Programming Reference" for the list of commands)
+-
+-
+- https://www.ibm.com/docs/en/cics-ts/6.x?topic=reference-cics-command-summary
 -
