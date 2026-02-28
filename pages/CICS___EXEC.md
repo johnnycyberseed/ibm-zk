@@ -1,6 +1,6 @@
 - the CICS command level programming interface
 -
-- Example
+- Example (COBOL)
 	- ```
 	  EXEC CICS
 	    READ FILE('ACCTFIL')
