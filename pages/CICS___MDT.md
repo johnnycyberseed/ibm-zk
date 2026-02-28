@@ -1,2 +1,3 @@
 - Modified Data Tag
-- a bit on each fields in a [[CICS/BMS Map]] that indicates
+- a bit on each fields in a [[CICS/BMS Map]] that indicates ehtrher the field's data should be sent back to the program when the user presses an [[AID key]]
+-
