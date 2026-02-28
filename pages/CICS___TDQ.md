@@ -1,6 +1,7 @@
 - Transient Data Queue
 - a Sequential-only queue for transient data
 - analogous to Kafka or RabitMQ or an append-only log.
+- think: "fire and forget"
 -
 - often used for
 	- logging
