@@ -1,0 +1,3 @@
+-
+- gives the transaction type a name [[CICS/TRANSID]]
+- indicates which [[CICS/Application Program]] should be invoked first
