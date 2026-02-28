@@ -1,0 +1,2 @@
+-
+- analogous to a web application's view template + SPA payload
