@@ -14,7 +14,8 @@
 	- User "signs on"
 	  logseq.order-list-type:: number
 	- logseq.order-list-type:: number
-	- If program end
+	- If program ends successfully, CICS performs an implicit syncpoint (i.e. COMMIT)
+	- if program abends, CICS performs a rollback.
 - # Transaction Types
 	- ## Conversational Transaction
 		- program holds resources while waiting to receive data.
