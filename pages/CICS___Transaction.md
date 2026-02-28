@@ -9,6 +9,8 @@
 - Described by a [[CICS/Transaction Resource Definition]]
 -
 - # Transaction Flow
+	- src: https://www.ibm.com/docs/en/zos-basic-skills?topic=cics-how-transaction-flows
+	-
 	- User "signs on"
 	  logseq.order-list-type:: number
 		-
