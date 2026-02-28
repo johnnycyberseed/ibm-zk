@@ -1,4 +1,4 @@
-- analogous to a thread
+- analogous to a thread (with state)
 - When CICS receives a request to run a transaction, it starts a new task which is the instance/execution of the transaction. When the transaction compeltes, the task is terminated.
 - Tasks are managed by [[CICS/Task Control]]
 -
