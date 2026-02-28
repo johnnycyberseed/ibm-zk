@@ -1,3 +1,14 @@
 - Transient Data Queue
 - a Sequential-only queue for transient data
+- analogous to
+-
+- often used for
+	- logging
+	- batch handoff
+	- asynchronous processing
+- # Types of Queues
+	- ## Intra-Partition
+		- managed by CICS
+	- ## Extra-Partition
+		- writes to an external dataset
 -
