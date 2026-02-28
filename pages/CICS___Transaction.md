@@ -11,4 +11,6 @@
 - # Transaction Types
 	- ## Conversational Transaction
 		- program holds resources while waiting to receive data.
-		- effectively stateful
+		- effectively a stateful session
+	- ## Pseudo-Conversational Transaction
+		- each response
