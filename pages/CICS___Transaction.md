@@ -1,4 +1,5 @@
 - a piece of processing initiated by a single request
+	- by submitting a [[CICS/TRANSID]]
 	- most commonly from an end user at a terminal
 	- or from a web page
 	- or from a remote workstation

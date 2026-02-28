@@ -1,3 +1,6 @@
 -
 - gives the transaction type a name [[CICS/TRANSID]]
-- indicates which [[CICS/Application Program]] should be invoked first
+- indicates
+	- which [[CICS/Application Program]] should be invoked first,
+	- what kind of authentication is required.
+-
