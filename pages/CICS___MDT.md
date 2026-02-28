@@ -1,0 +1,2 @@
+- Modified Data Tag
+- a bit on each fields in a [[CICS/BMS Map]] that indicates
