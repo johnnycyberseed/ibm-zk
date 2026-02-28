@@ -1,0 +1,2 @@
+- An [[address space]] running CICS
+- analogous to a web application runtime (JVM process / app server)
