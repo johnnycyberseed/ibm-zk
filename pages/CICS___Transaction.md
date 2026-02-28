@@ -4,4 +4,6 @@
 	- or from a remote workstation
 	- or from another CICS system
 	- or triggered automatically at a predefined time.
+- Consists of one or more [[CICS/Application Program]]s
+- Described by a [[CICS/Transaction Resource Definition]]
 -
