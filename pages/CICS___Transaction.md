@@ -8,6 +8,10 @@
 - Consists of one or more [[CICS/Application Program]]s
 - Described by a [[CICS/Transaction Resource Definition]]
 -
+- # Transaction Flow
+	- User "signs on"
+	  logseq.order-list-type:: number
+		-
 - # Transaction Types
 	- ## Conversational Transaction
 		- program holds resources while waiting to receive data.
