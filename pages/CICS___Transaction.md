@@ -8,4 +8,7 @@
 - Consists of one or more [[CICS/Application Program]]s
 - Described by a [[CICS/Transaction Resource Definition]]
 -
--
+- # Transaction Types
+	- ## Conversational Transaction
+		- program holds resources while waiting to receive data.
+		- effectively stateful
