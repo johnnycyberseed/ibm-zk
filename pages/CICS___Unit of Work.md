@@ -1,1 +1,2 @@
-- The "unit of recovery"
+- the "unit of recovery" — what is known these days as a "distributed transaction"
+-
