@@ -1,4 +1,3 @@
--
 - Architecture:
 	- [[CICS/TM]]
 	- CICS TS — CICS Transaction Server
