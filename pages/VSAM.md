@@ -1,5 +1,3 @@
-filters:: {"ims" false}
-
 - Virtual Storage Access Method
 - One of several access methods in [[z/OS]]
 - Catalog Management
