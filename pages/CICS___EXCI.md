@@ -1,0 +1,15 @@
+- External CICS Interface
+- Legacy connectivity protocol use to invoke [[CICS/Transaction]]s
+- Communicates through cross-memory on z/OS
+	- i.e. the Transaction Gateway must be running on the same z/OS image as the [[CICS/TS/Region]]
+	- connections are made through EXCI "pipes"
+		- not to be confused with [[USS]] pipes (not at all the same thing)
+	- EXCI "pipe" <--> CICS MRO/IRC <--> z/OS cross-memory services
+-
+- Older, traditional protocol — predates IPIC by many years
+- No TCP/IP overhead — since it's in-memory/cross-memory, it avoids network stack costs
+- COMMAREA-based primarily, though channels/containers are also supported
+- Limited scalability compared to IPIC — pipe counts constrain concurrency
+-
+- For off-machine connections, systems use [[CICS/IPIC]]
+-

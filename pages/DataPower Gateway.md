@@ -1,0 +1,37 @@
+- IBM DataPower Gateway
+- API gateway
+- ## CICS Applications
+	- Commonly used with [[ACE]] + [[CICS/TG]]
+	- ### DataPower (API Gateway)
+		- **TLS termination** — decrypts inbound HTTPS
+		- **Authentication** — validates identity (OAuth token, JWT, API key, client certificate)
+		- **Coarse-grained authorization** — is this client allowed to call this API at all?
+		- **Threat protection** — schema validation, malformed payload rejection, injection attack filtering
+		- **Rate limiting / throttling** — enforcing quotas per client/API
+		- **Routing** — determining which backend pipeline to forward to
+		- **Audit logging** — recording the inbound request at the API boundary
+	- ### [[ACE]] (App Connect Enterprise)
+		- **Protocol mediation** — e.g. REST/JSON in, HTTP/TCP out to [[CICS/TG]]
+		- **Message transformation** — the heavy lifting: converting modern formats (JSON, XML) into mainframe-friendly structures ([[CICS/COMMAREA]] layout matching a COBOL copybook, correct field lengths, data types)
+		- **Message enrichment** — calling other services to augment the request before sending to CICS (e.g. looking up a customer ID, adding context data)
+		- **Field mapping** — aligning the API payload fields to the exact byte layout the CICS program expects in its COMMAREA or channel/container
+		- **Orchestration** — if the request requires calling multiple CICS programs and aggregating results
+		- **Error handling** — catching CICS error responses and translating them into meaningful API error responses
+	- ### [[CICS/TG]] (Transaction Gateway)
+		- **Connection pooling** — maintains a pool of persistent connections to CICS TS regions, avoiding per-request connection overhead
+		- **Protocol translation** — converts the inbound HTTP/TCP request from ACE into IPIC (or EXCI) for CICS TS
+		- **[[CICS/TG/ECI]] invocation** — drives the actual DPL call, specifying the target program name, CICS region, and COMMAREA/channel
+		- **Load balancing** — distributing requests across multiple CICS regions if configured
+		- **SSL/TLS** — encrypting the connection to CICS TS if required
+	- ### [[CICS/TS]] (Transaction Server)
+		- **Transaction dispatch** — receives the inbound DPL as a CSMI mirror transaction, dispatches a task
+		- **Security check** — ESM ([[RACF]]/ [[ACF2]] / [[Top Secret]] ) verifies the transaction and resource authorizations
+		- **Program control** — loads and [[CICS/LINK]]s to the target application program
+		- **Application execution** — the CICS program runs its business logic:
+			- Reads/writes [[VSAM]] files via File Control
+			- Calls [[DB2]] for relational data
+			- May [[CICS/LINK]] to further sub-programs
+			- Builds the response in the COMMAREA or channel
+		- **Transaction integrity** — manages the unit of work, syncpoint/rollback if something fails
+		- **Response return** — passes the completed COMMAREA back through CTG → ACE → DataPower → Client
+-

@@ -1,0 +1,6 @@
+- IBM Integration Bus
+- Replacement for [[WebSphere/Message Broker]]
+-
+- # References
+	- https://www.ibm.com/docs/en/integration-bus/10.1.0
+	-

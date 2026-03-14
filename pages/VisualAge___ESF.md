@@ -1,0 +1,8 @@
+- Export Source Format
+-
+- ## References
+	- [VisualAge Generator 4.5 Generation Guide](https://public.dhe.ibm.com/software/websphere/awdtools/visgen/library/hptgge45.pdf)
+	- [VisualAge Generator 4.5 Programmer’s Reference](https://public.dhe.ibm.com/software/websphere/awdtools/visgen/library/hptrfe45.pdf)
+	- [VisualAge Generator 4.5 User’s Guide](https://ia801604.us.archive.org/10/items/VisualAgeGeneratorBooks/hptuge45.pdf)
+	- [VisualAge Generator 4.5 External Source Format Reference](https://public.dhe.ibm.com/software/websphere/awdtools/visgen/library/hptexe45.pdf)
+-

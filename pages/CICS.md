@@ -1,7 +1,25 @@
-- Architecture:
-	- [[CICS/TM]]
-	- CICS TS — CICS Transaction Server
-- History
+- Customer Information Control System
+-
+- # Overview
+	- ## Value Proposition
+		- High value, high volume applications
+			- Scalable
+			- Reliable
+			- Available
+		- Widely used
+		- Flexible implementation
+			- Handles Integration between components written in different langauges
+	-
+- # Architecture
+	- [[CICS/TS]]
+	- ## Application Architecture
+		- Interface Logic
+		- Business Logic
+- # Products
+	- [[CICS/TS]] — CICS Transaction Server for z/OS
+	- [[CICS/TG]] — CICS Transaction Gateway for z/OS
+	-
+- # History
 	- late 1960s — [[IBM MTCS]] predecessor to CICS
 	- initially developed in Palo Alto
 	- 1969 — First release
@@ -23,19 +41,21 @@
 	- 2024 — v6.2
 	-
 	-
-- People
+- # People
 	- Ben Riggins — principal architect of the earlier releases of CICS
 		- moved to California when the CICS team did to stay working on CICS
-- Development Contributors
-	- In the early days, software was "free" and followed an Open Source kind of model.
-	- Standard Oil of Indiana (Amoco) made major contributions to CICS
-		- When CICS first attempted to support Teletype Model 33 ASR, it crashed the OS/360 system it ran on
-		- They Amoco redesigned and rewrote CICS (especially the Terminal Control Program (TCP) and give it back to IBM)
--
--
--
-- Raw Notes:
-	- supports multiple programming language
+	- ## Development Contributors
+		- In the early days, software was "free" and followed an Open Source kind of model.
+		- Standard Oil of Indiana (Amoco) made major contributions to CICS
+			- When CICS first attempted to support Teletype Model 33 ASR, it crashed the OS/360 system it ran on
+			- They Amoco redesigned and rewrote CICS (especially the Terminal Control Program (TCP) and give it back to IBM)
 -
 - # References
 	- https://en.wikipedia.org/wiki/CICS
+-
+- # Resources
+	- IBM Redbook Tutorial: Introduction to CICS
+		- https://www.redbooks.ibm.com/abstracts/crse0303
+	- Redbook: Architect's Guide to IBM CICS on System z
+		- https://www.ibm.com/docs/en/redbooks/architects-guide-cics-system-z
+-

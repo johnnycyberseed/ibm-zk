@@ -1,7 +1,7 @@
 -
 - # References
-	- All Products — https://www.ibm.com/docs/en/products
-	- All Product Docs — https://www.ibm.com/docs
+	- All Product Docs — https://www.ibm.com/docs/en/products
+	- All Docs — https://www.ibm.com/docs
 	- Posted manuals
 		- Bitsavers — significant archive of IBM manuals
 			- https://bitsavers.org/pdf/ibm/

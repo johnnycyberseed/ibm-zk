@@ -1,0 +1,10 @@
+- CICS Transaction Server
+-
+-
+- # References
+	- https://www.ibm.com/docs/en/cics-ts/6.x
+- # Resources
+	- Redbook: CICS Transaction Server Application Architecture
+		- https://www.ibm.com/docs/en/redbooks/cics-transaction-server-application-architecture
+	-
+-

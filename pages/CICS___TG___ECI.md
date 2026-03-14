@@ -1,0 +1,2 @@
+- External Call Interface
+- API provided by CICS Transaction Gateway allowing non-CICS applications to invoke a CICS program.

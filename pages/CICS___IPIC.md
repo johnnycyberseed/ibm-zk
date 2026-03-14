@@ -1,0 +1,6 @@
+- IP Interconnectivity
+- Modern connectivity protocol use to invoke [[CICS/Transaction]]s
+	- replaces [[CICS/EXCI]]
+- Introduced in [[CICS/TS]] 3.2
+-
+-

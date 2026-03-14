@@ -1,0 +1,18 @@
+-
+- # Vulnerabilities
+- There are some structural vulnerabilities that we need to stay aware of
+	- using plain-text protocols
+		- FTP/21 and Telnet/23 for TN3270
+	- Insecure Password Policies
+		- shore, case-insensitive passwords are more susceptible to brute force attacks
+	- hidden fields exploitation
+		- elevating privileges by modifying hidden fields that guard certain actions
+		- https://github.com/gglessner/hack3270
+	- protected fields manipulation
+		- modifying [[CICS/]]
+-
+- # Mitigations
+	- IBM's [[VTAM/IDS]]
+	-
+- # References
+	- https://www.netspi.com/blog/technical-blog/mainframe-penetration-testing/hacking-cics-applications/

@@ -1,0 +1,14 @@
+- IBM App Connect Enterprise
+- replacement for [[IIB]]
+- can be deployed as a (Docker) container
+	- https://www.ibm.com/docs/en/app-connect/13.0.x?topic=enterprise-configuring-app-connect-run-in-docker
+- [[ACE/Common Use-Cases]]
+-
+- # References
+	- https://www.ibm.com/docs/en/app-connect/13.0.x
+- # Resources
+	- IBM TechXchange (App Connect / IIB center)
+		- https://community.ibm.com/community/user/communities/community-home?CommunityKey=77544459-9fda-40da-ae0b-fc8c76f0ce18
+	- IBM YouTube ACE Playlist
+		- https://www.youtube.com/playlist?list=PL_4RxtD-BL5tKxx9GiR2BH146ZUC21cOp
+	-
