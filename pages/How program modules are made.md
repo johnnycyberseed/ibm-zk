@@ -12,8 +12,35 @@
 		- programmers can control the linking via
 		  logseq.order-list-type:: number
 	- logseq.order-list-type:: number
-- Diagram
-	- ![image.png](../assets/image_1754180789322_0.png){:height 818, :width 614}
+- Compilation, Linking, Loading, and Execution of [[program module]]s.
+	- {{renderer :mermaid_69bf22d8-2912-463c-a385-5557f7731c59, 6}}
+	  collapsed:: true
+		- ```mermaid
+		  flowchart TD
+		      SM[("Source<p>modules")]
+		      AC["Assembler<p>or compiler"]
+		      OM[("Object<p>modules")]
+		      PMB["Program<p>management<p>binder"]
+		      LE["Linkage<p>editor"]
+		      PO[("Program object<p>in<p>PDSE<p>program library<p>or z/OS UNIX file")]
+		      LM[("Load module<p>in<p>PDS<p>program library")]
+		      PML["Program<p>management<p>loader"]
+		      BL["Batch<p>loader"]
+		      PVS["Program<p>in virtual storage<p>ready for execution"]
+		  
+		      SM --> AC
+		      AC --> OM
+		      OM --> PMB
+		      OM --> LE
+		      PMB --> PO
+		      PMB --> LM
+		      LE --> LM
+		      PO --> PML
+		      LM --> PML
+		      LM --> BL
+		      BL --> PVS
+		      PML --> PVS
+		  ```
 - # References
 	- [[Program Management]]
 	-

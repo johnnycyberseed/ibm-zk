@@ -1,2 +1,2 @@
-- A [[search path]] for Procedures in JCL.
+- A [[search path]] for [[JCL/Procedure]].
 -

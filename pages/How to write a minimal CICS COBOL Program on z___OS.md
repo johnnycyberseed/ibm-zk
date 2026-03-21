@@ -108,12 +108,11 @@
 	- ## Step 0 — Setup
 		- **Pick your placeholder values** for the JCL variables:
 		  logseq.order-list-type:: number
-		  collapsed:: true
 			- `&HLQ` (your user high-level qualifier)
 				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS`
 			- `&CICSHLQ` (your site’s CICS TS product HLQ that owns `SDFHLOAD`, `SDFHCOB`, `SDFHMAC`, `SDFHPROC`)
 				- on [[MO-LPAR]] this is `DFH310.CICS`
-			- `&SRC` (your source library dataset name)
+			- `&SRC`
 				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS.SRCLIB`
 			- `&COPY` (your copybook library)
 				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS.COPYLIB`
@@ -122,10 +121,14 @@
 			- IBM’s examples assume shipped libraries like `CICSTSnn.CICS.SDFHLOAD` / `SDFHPROC` exist, where `nn` is the release.
 		- **Allocate datasets**
 		  logseq.order-list-type:: number
-		  collapsed:: true
 			- How this is done is site-standard (IDCAMS, ISPF 3.2, or your shop tooling).
-				- On [[MO-LPAR]] this is [[How to create a new PDS]]
-			- Ensure the load library is a proper program library type your CICS region can load from.
+				- On [[MO-LPAR]] this is [[How to create a new PDSE]]
+			- Allocate the following Datasets (all should be PDSEs):
+				- `&HLQ.SRCLIB` — COBOL source files
+				- `&HLQ.COPYLIB` — COBOL copybooks
+				- `&HLQ.PROCLIB` — JCL files (both [[JCL/Job]]s and [[JCL/Procedure]]s)
+				- `&HLQ.LOADLIB` — compiled and linked [[program module]]s
+				-
 			- PDSE recommended for load libraries
 			- PDS/PDSE for source/copy/JCL
 			- Assumptions
@@ -179,11 +182,9 @@
 				  IBM’s `RESP`/`RESP2` documentation explains that `RESP` returns a value (normally `DFHRESP(NORMAL)`) corresponding to the condition that might have been raised.
 		- **Create the translate/compile/link-edit JCL**
 		  logseq.order-list-type:: number
-		  collapsed:: true
 			- member (example name `&HLQ..CICSDEMO.JCL(COMPCICS)`) using explicit steps and your requested placeholders.
 			- Important IBM requirement: for online programs using `EXEC CICS`, the link-edit input must include the correct interface module before the object deck, and for HLL languages that module is `DFHELII`. IBM shows that omitting it leads to unresolved externals and “not executable.”
 			- `COMPCICS.jcl` contents...
-			  collapsed:: true
 				- ```jcl
 				  //* --------------------------------------------------------------
 				  //* COMPCICS: Explicit translate + compile + link-edit (binder)

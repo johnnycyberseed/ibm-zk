@@ -1,5 +1,6 @@
-- How to allocate a new [[Data Set/Type/Partitioned Data Set (PDS)]] from scratch.
-- Note: if you're creating a PDS for your own purposes, consider creating a PDSE instead — [[PDS vs. PDSE]]
+- How to allocate a new [[Data Set/Type/Extended PDS (PDSE)]] from scratch.
+- Note: generally speaking, favor PDSEs.
+	- For details, see [[PDS vs. PDSE]]
 - # Step-by-Step
 	- Data Set Utility
 	  logseq.order-list-type:: number

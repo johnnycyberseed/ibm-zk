@@ -1,5 +1,5 @@
 - acts like a container (like an archive file)
 - commonly used for holding source code for programs
 -
-- [[How to create a new PDS]]
+- [[How to create a new PDSE]]
 - Prefer [[Data Set/Type/Extended PDS (PDSE)]]'s — [[PDS vs. PDSE]]
