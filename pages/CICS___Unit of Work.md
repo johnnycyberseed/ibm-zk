@@ -1,3 +1,4 @@
 - the "unit of recovery" — what is known these days as a "distributed transaction"
 - not to be confused with a [[CICS/Transaction]] — the terminology has drifted over the decades
+- Can be "committed" explicitly from a [[CICS/SYNCPOINT]]
 -

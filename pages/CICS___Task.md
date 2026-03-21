@@ -1,4 +1,10 @@
 - analogous to a thread (with state)
 - When CICS receives a request to run a transaction, it starts a new task which is the instance/execution of the transaction. When the transaction compeltes, the task is terminated.
 - Tasks are managed by [[CICS/Task Control]]
+- There is a 1:1 relationship between a [[CICS/TASK]] and a [[CICS/Unit of Work]]
 -
+-
+-
+- # Reference
+	-
+	- Relationship between Programs, Transactions, and Tasks — https://www.ibm.com/docs/en/cics-ts/5.6.0?topic=applications-cics-programs-transactions-tasks

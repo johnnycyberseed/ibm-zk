@@ -1,0 +1,8 @@
+-
+- # Tutorials
+	- https://www.youtube.com/playlist?list=PLM5r-PFDuqKC1oQAa8g2v1_0eKY2vOhRt
+		- Enthusiast covering topics from [[S/370]] to [[z]]
+- # Courses
+	- [[IBM Mainframe Developer Professional Certificate (Course)]]
+	-
+-

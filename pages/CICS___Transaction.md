@@ -18,4 +18,6 @@
 		- program ends as it sends the [[CICS/Map]] back to the user
 		- each response includes the [[CICS/TRANSID]] of the next transaction to call
 		- effectively stateless session.
+- # References
+	- https://www.ibm.com/docs/en/cics-ts/5.6.0?topic=applications-transactions-in-cics
 	-

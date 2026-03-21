@@ -1,7 +1,6 @@
 - Time Share Option
 - An interactive shell for [[z/OS]]
 - Includes a character-based GUI: [[ISPF]]
-- [[TSO Tips and Tricks]]
 -
 - ## Logon
 	- [[Koi]] LOGON sequence included

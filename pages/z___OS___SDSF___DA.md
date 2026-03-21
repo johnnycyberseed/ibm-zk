@@ -1,0 +1,18 @@
+- Active Users Panel
+-
+- ## Default Columns quick ref
+	- NP — action/input field. You type row commands here, like K to cancel or ? for more detail.  ￼
+	- JOBNAME — the address space’s job name.
+		- For a [[TSO]] user session this is often the userid.  ￼
+	- StepName — the job step name.
+		- For [[TSO]] users, this is the TSO logon procedure name.
+	- ProcStep — the procedure step name.
+		- For [[TSO]] users, this is the terminal ID. (e.g `TCP00006`)
+	- JobID — the JES job identifier, such as TSU01305 for a TSO user, STC... for a started task, or JOB... for a batch job.  ￼
+	- Owner — the RACF/security owner userid of the address space.  ￼
+	- C — JES input class. For active TSO sessions and started tasks it is often not very interesting day-to-day, but that is what the column is.  ￼
+	- Pos — address-space position, such as IN or OUT. This tells you whether it is swapped in, swapped out, in transition, and so on. In your MOCADE row it shows OUT.  ￼
+	- DP — dispatching priority, shown in hexadecimal. Higher generally means the system is more willing to dispatch it.  ￼
+	- Real — current real storage usage.  ￼
+	- Paging — demand paging rate for that address space.  ￼
+	- SIO — EXCP/I/O rate, roughly how much physical I/O the address space is doing. IBM notes some DA values are approximate.

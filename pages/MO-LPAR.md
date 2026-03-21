@@ -1,0 +1,15 @@
+- Mechanical Orchard's leased mainframe
+- #mf-environment
+- Part of system named `CPAC` (?)
+- Software Installed
+	- z/OS: 2.5
+	- COBOL: 6.4
+	- DB2: 13.0
+	- CICS/TS: 4.1
+	- PLI: 5.1
+	- ISPF: 7.5
+-
+- # History
+	- 2023-03 — LPAR came online
+		- with DB2, CICS, perhaps others.
+-

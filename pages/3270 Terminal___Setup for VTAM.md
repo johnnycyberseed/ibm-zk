@@ -1,0 +1,11 @@
+# Common Useful Keystrokes
+	- `Esc [Z` — reverse/back tab (for navigating backwards through field definitions)
+	-
+- # Application-Specifics
+	- ## c3270
+		- Uses ncurses, so sometimes keystrokes need to be bound from an escape sequence to the corresponding ncurses action
+			- e.g. `Esc [Z` => `BackTab()`
+				- https://github.com/johnnycyberseed/mo-lpar/blob/c2868dd5f7d6744c5d265df32adb91a1288c048a/mo-lpar.c3270#L11
+	-
+		-
+		-

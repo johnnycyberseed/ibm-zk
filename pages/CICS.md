@@ -1,6 +1,7 @@
 - Customer Information Control System
 -
 - # Overview
+  collapsed:: true
 	- ## Value Proposition
 		- High value, high volume applications
 			- Scalable
@@ -11,15 +12,18 @@
 			- Handles Integration between components written in different langauges
 	-
 - # Architecture
+  collapsed:: true
 	- [[CICS/TS]]
 	- ## Application Architecture
 		- Interface Logic
 		- Business Logic
 - # Products
+  collapsed:: true
 	- [[CICS/TS]] — CICS Transaction Server for z/OS
 	- [[CICS/TG]] — CICS Transaction Gateway for z/OS
 	-
 - # History
+  collapsed:: true
 	- late 1960s — [[IBM MTCS]] predecessor to CICS
 	- initially developed in Palo Alto
 	- 1969 — First release
@@ -42,6 +46,7 @@
 	-
 	-
 - # People
+  collapsed:: true
 	- Ben Riggins — principal architect of the earlier releases of CICS
 		- moved to California when the CICS team did to stay working on CICS
 	- ## Development Contributors
@@ -49,7 +54,9 @@
 		- Standard Oil of Indiana (Amoco) made major contributions to CICS
 			- When CICS first attempted to support Teletype Model 33 ASR, it crashed the OS/360 system it ran on
 			- They Amoco redesigned and rewrote CICS (especially the Terminal Control Program (TCP) and give it back to IBM)
--
+- # Process
+	- [[Building a CICS application from scratch]]
+	-
 - # References
 	- https://en.wikipedia.org/wiki/CICS
 -

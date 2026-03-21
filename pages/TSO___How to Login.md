@@ -1,6 +1,14 @@
 -
-- In [[AmHat6]]
-	- Rocket TE Web Edition — Browser-based 3270 Terminal Emulator
-	- `SPSC` — launches [[CL\SuperSession]]
-		- this allows one to specify a new password
+- ## Session Management
+	- In [[AmHat6]]
+		- Rocket TE Web Edition — Browser-based 3270 Terminal Emulator
+		- `SPSC` — launches [[CL\SuperSession]]
+			- this allows one to specify a new password
+-
+- ## Reconnecting
+	- Sometimes, a terminal gets disconnected from the session.
+	- In most (all?) cases, TSO won't allow you to log in with more than one session as a given user.
+	- One option is to reconnect.
+		- on [[MO-LPAR]], you do this by selecting the "Reconnect" option on the TSO login form.
 	-
+-

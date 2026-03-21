@@ -1,0 +1,2 @@
+-
+- `SET DISPLAY [OFF]` — shows(or hides) a status line showing active filters
