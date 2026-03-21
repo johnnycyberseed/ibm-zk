@@ -33,7 +33,6 @@
 		- Start with this path: ((69bec8f6-bb9f-4e48-a722-70367d175aaa))
 		- Folding in this path: ((69bec8f6-22ff-47be-9a79-24a77c12f8db))
 - # Assumptions and prerequisites
-  collapsed:: true
 	- ## Software Installed
 	  collapsed:: true
 		- a working z/OS environment
@@ -62,14 +61,13 @@
 		- This tutorial shows a **separate translator step** first because it makes the pipeline explicit:
 			- translate → compile → link-edit.
 		- IBM lists the CICS stand-alone COBOL translator as `DFHECP1$`,
-		- and also warns the separate translator is not updated for newer COBOL language features (recommending the integrated translator for newest COBOL features).
+			- and also warns the separate translator is not updated for newer COBOL language features (recommending the integrated translator for newest COBOL features).
 		- If your shop uses the integrated translator (Enterprise COBOL `CICS(...)` compiler option),
-		- you can still follow the **same deployment steps**, but your JCL changes.
+			- you can still follow the **same deployment steps**, but your JCL changes.
 		- IBM provides sample JCL for both separate and integrated translator pipelines.
 - # Artifact inventory and dataset conventions
   collapsed:: true
 	- ## Files you will create
-	  collapsed:: true
 		- The table uses the placeholders you requested: `&HLQ`, `&CICSHLQ`, `&SRC`, `&COPY`, `&LOAD`. In the JCL templates, these are set via `//SET` (symbolic parameters) so you can quickly adapt them.
 		- | Artifact (member) | Type | Purpose | Suggested dataset/member convention |
 		  |---|---|---|---|
@@ -86,6 +84,7 @@
 		- translator converts `EXEC CICS` into language-level calls;
 		- you then compile and link-edit, including the required EXEC interface module.
 		- {{renderer :mermaid_69beca6b-611e-44f2-a60d-8c582ebcd06d, 6}}
+		  collapsed:: true
 			- ```mermaid
 			  flowchart TD
 			    A["Write COBOL source<p>EXEC CICS ... END-EXEC"] --> B["Translate DFHECP1$<p>(stand-alone)<p>or integrated translator"]
@@ -105,275 +104,271 @@
 			  ```
 - # Minimal path: SEND TEXT with no BMS
   id:: 69bec8f6-bb9f-4e48-a722-70367d175aaa
-  collapsed:: true
-	- This path is the fastest “first win” because it avoids BMS maps entirely and relies on `SEND TEXT`,
-		- which IBM describes as sending text data “without mapping.”
-	- ### Step-by-step actions a developer executes
-	- #### Setup steps
-	  
-	  1) **Pick your placeholder values** for the JCL variables:
-		- `&HLQ` (your user high-level qualifier)
-		- `&CICSHLQ` (your site’s CICS TS product HLQ that owns `SDFHLOAD`, `SDFHCOB`, `SDFHMAC`, `SDFHPROC`)
-		- `&SRC` (your source library dataset name)
-		- `&COPY` (your copybook library)
-		- `&LOAD` (your load library that CICS will search via DFHRPL or LIBRARY)
-		  
-		  IBM’s examples assume shipped libraries like `CICSTSnn.CICS.SDFHLOAD` / `SDFHPROC` exist, where `nn` is the release. citeturn9view2turn6search0  
-		  (confidence: 0.75)
-		  
-		  2) **Allocate datasets** (PDSE recommended for load libraries; PDS/PDSE for source/copy/JCL). This is site-standard (IDCAMS, ISPF 3.2, or your shop tooling). Ensure the load library is a proper program library type your CICS region can load from.  
-		  (confidence: 0.6)  
-		  Assumptions:
-		- Your shop allows you to allocate `&SRC`, `&COPY`, and `&LOAD`.
-		- Your CICS region can access the resulting datasets (RACF/ACF2/TSS rules vary).
-		  
-		  3) **Confirm how your CICS region will find load modules**:
-		- **DFHRPL path**: ask a sysprog which datasets are in DFHRPL for the region, or locate the region startup JCL and look for the `DFHRPL` DD concatenation. IBM explains DFHRPL is defined at startup and is not changeable without restarting CICS. citeturn1search2turn7search10
-		- **Dynamic LIBRARY path**: confirm whether your region uses dynamic program library resources (`LIBRARY`) and whether you are allowed to define/install them. IBM documents the LIBRARY resource model and that DFHRPL is a “special” LIBRARY that cannot be altered in a running region. citeturn7search14turn1search2  
-		  (confidence: 0.72)
-	- #### Create and build the minimal program
-	  
-	  4) **Create COBOL program source** member `&SRC(HELLOTXT)` exactly as follows.
-	  
-	  ```cobol
-	       IDENTIFICATION DIVISION.
-	       PROGRAM-ID. HELLOTXT.
-	  
-	       DATA DIVISION.
-	       WORKING-STORAGE SECTION.
-	       01  WS-MSG   PIC X(80)
-	           VALUE 'HELLO FROM CICS: SEND TEXT (no BMS).'.
-	  
-	       01  WS-RESP  PIC S9(9) COMP VALUE 0.
-	       01  WS-RESP2 PIC S9(9) COMP VALUE 0.
-	  
-	       PROCEDURE DIVISION.
-	       MAIN.
-	           EXEC CICS
-	                SEND TEXT
-	                FROM(WS-MSG)
-	                LENGTH(LENGTH OF WS-MSG)
-	                ERASE
-	                FREEKB
-	                RESP(WS-RESP)
-	                RESP2(WS-RESP2)
-	           END-EXEC
-	  
-	           EXEC CICS
-	                RETURN
-	           END-EXEC.
-	  
-	           GOBACK.
-	  ```
-	  
-	  IBM’s `SEND TEXT` command reference documents that it sends text data without mapping. citeturn3search0turn3search8  
-	  IBM’s `RESP`/`RESP2` documentation explains that `RESP` returns a value (normally `DFHRESP(NORMAL)`) corresponding to the condition that might have been raised. citeturn4search1turn4search10  
-	  (confidence: 0.86)
-	  
-	  5) **Create the translate/compile/link-edit JCL** member (example name `&HLQ..CICSDEMO.JCL(COMPCICS)`) using explicit steps and your requested placeholders.
-	  
-	  Important IBM requirement: for online programs using `EXEC CICS`, the link-edit input must include the correct interface module before the object deck, and for HLL languages that module is `DFHELII`. IBM shows that omitting it leads to unresolved externals and “not executable.” citeturn9view2turn0search0turn6search1
-	  
-	  ```jcl
-	  //* --------------------------------------------------------------
-	  //* COMPCICS: Explicit translate + compile + link-edit (binder)
-	  //* Change only the SET symbols and the MEMBER/PGMNAME values.
-	  //* --------------------------------------------------------------
-	  //COMPCICS JOB (ACCT),'CICS COBOL',CLASS=A,MSGCLASS=X,NOTIFY=&SYSUID
-	  //SET HLQ=YOUR.HLQ
-	  //SET CICSHLQ=CICSTSXX.CICS
-	  //SET SRC=&HLQ..CICSDEMO.SRC
-	  //SET COPY=&HLQ..CICSDEMO.COPY
-	  //SET LOAD=&HLQ..CICSDEMO.LOAD
-	  //SET MEMBER=HELLOTXT
-	  //SET PGMNAME=HELLOTXT
-	  
-	  //* --- STEP 1: Translate EXEC CICS using stand-alone translator
-	  //* IBM identifies the COBOL separate translator as DFHECP1$. 
-	  //TRN     EXEC PGM=DFHECP1$,REGION=4M,
-	  //         PARM='COBOL3,APOST,CICS'
-	  //STEPLIB  DD  DSN=&CICSHLQ..SDFHLOAD,DISP=SHR
-	  //SYSPRINT DD  SYSOUT=*
-	  //SYSPUNCH DD  DSN=&&TRNOUT,DISP=(,PASS),UNIT=SYSDA,
-	  //             SPACE=(TRK,(10,10)),DCB=(RECFM=FB,LRECL=80,BLKSIZE=0)
-	  //SYSIN    DD  DSN=&SRC(&MEMBER),DISP=SHR
-	  
-	  //* --- STEP 2: Compile translated output with Enterprise COBOL
-	  //* IBM sample guidance: RENT and NODYNAM are required for COBOL programs.
-	  //COB     EXEC PGM=IGYCRCTL,REGION=0M,
-	  //         PARM='OBJECT,RENT,NODYNAM,APOST,MAP,XREF'
-	  //STEPLIB  DD  DSN=YOUR.COBOL.COMPILER.SIGYCOMP,DISP=SHR
-	  //SYSLIB   DD  DSN=&COPY,DISP=SHR
-	  //         DD  DSN=&CICSHLQ..SDFHCOB,DISP=SHR
-	  //         DD  DSN=&CICSHLQ..SDFHMAC,DISP=SHR
-	  //SYSPRINT DD  SYSOUT=*
-	  //SYSIN    DD  DSN=&&TRNOUT,DISP=(OLD,DELETE)
-	  //SYSLIN   DD  DSN=&&OBJ,DISP=(,PASS),UNIT=SYSDA,
-	  //             SPACE=(TRK,(10,10))
-	  
-	  //* --- STEP 3: Link-edit (binder) and write load module
-	  //* Must include DFHELII for HLL programs.
-	  //LKED    EXEC PGM=IEWL,REGION=0M,COND=(5,LT,COB),
-	  //         PARM='LIST,XREF,AMODE=31,RMODE=ANY'
-	  //SYSLIB   DD  DSN=&CICSHLQ..SDFHLOAD,DISP=SHR
-	  //         DD  DSN=YOUR.LE.SCEELKED,DISP=SHR
-	  //SYSPRINT DD  SYSOUT=*
-	  //SYSLMOD  DD  DSN=&LOAD(&PGMNAME),DISP=SHR
-	  //SYSLIN   DD  *
-	  INCLUDE SYSLIB(DFHELII)
-	  NAME &PGMNAME(R)
-	  /*
-	  //         DD  DSN=&&OBJ,DISP=(OLD,DELETE)
-	  ```
-	  
-	  Why these specific elements:
-	- `DFHECP1$` is IBM’s COBOL stand-alone CICS translator. citeturn11search13turn11search5
-	- IBM’s sample JCL for COBOL application programs states you need compiler options **RENT** and **NODYNAM**. citeturn9view1
-	- IBM requires `DFHELII` to be included for HLL programs at link-edit. citeturn9view2turn0search4turn6search1  
-	  (confidence: 0.74)  
-	  Assumptions:
-	- Your site’s COBOL compiler load library (`SIGYCOMP`) and LE binder library (`SCEELKED`) dataset names differ from the placeholders.
-	- Your standards might require additional dependencies (DB2, IMS, MQ). This tutorial assumes none.
-	  
-	  6) **Submit the JCL** and verify:
-		- Translator step `TRN` return code = 0 (or acceptable per your standards).
-		- Compile step `COB` return code is acceptable.
-		- Link-edit step produces member `&LOAD(HELLOTXT)`.
-		  
-		  IBM’s “Using your own job streams” explicitly ties success to correct interface module inclusion at link-edit. citeturn9view2  
-		  (confidence: 0.8)
-	- #### Make the program loadable by the CICS region
-	  
-	  7) **Choose one** of the two ways to make `&LOAD` visible to the region (do not skip).
-	  
-	  **Option A — DFHRPL (static)**  
-	  8A) Ask your sysprog/admin to add `&LOAD` to the region startup JCL `DFHRPL` concatenation (requires restart). IBM notes DFHRPL changes are not possible while CICS is running. citeturn1search2turn7search10  
-	  (confidence: 0.6)  
-	  Assumptions:
-	- You cannot edit production region JCL; you may need a dev/test region.
-	  
-	  **Option B — dynamic LIBRARY (preferred in many test setups)**  
-	  8B) Define a `LIBRARY` resource (example name `HWDLOAD`) that points to `&LOAD`.
-	  
-	  IBM documents LIBRARY resource definitions as representing PDS/PDSE concatenations used for program artifacts and that DFHRPL is a special static case. citeturn7search14turn7search3  
-	  (confidence: 0.75)
-	  
-	  Concrete actions (dynamic LIBRARY):
-	  9B) In CICS, run:
-	  
-	  ```text
-	  CEDA DEFINE LIBRARY(HWDLOAD) GROUP(HWDEMO)
-	  ```
-	  
-	  10B) On the LIBRARY definition panel, set:
-	- `DSNAME01` = `&LOAD` (your actual dataset name, e.g., `USER01.CICSDEMO.LOAD`)
-	- `CRITICAL` = `NO` (typical for dev/test; choose per your site policy)
-	  
-	  IBM’s LIBRARY attribute reference documents DSNAME01–16 as the dataset names for the concatenation. citeturn7search3turn7search14  
-	  (confidence: 0.7)
-	  
-	  11B) Install and enable:
-	  
-	  ```text
-	  CEDA INSTALL LIBRARY(HWDLOAD) GROUP(HWDEMO) STATUS(ENABLED)
-	  ```
-	  
-	  IBM provides this exact “install LIBRARY by using CEDA” pattern. citeturn7search2  
-	  (confidence: 0.8)
-	  
-	  12B) Verify CICS sees it:
-	  
-	  ```text
-	  CEMT INQUIRE LIBRARY(HWDLOAD)
-	  ```
-	  
-	  IBM documents `CEMT INQUIRE LIBRARY`. citeturn7search1  
-	  (confidence: 0.78)
-	- #### Define the CICS resources and run
-	  
-	  13) **Define a PROGRAM resource** for your load module:
-	  
-	  ```text
-	  CEDA DEFINE PROGRAM(HELLOTXT) GROUP(HWDEMO)
-	  ```
-	  
-	  IBM documents that PROGRAM resources control information used to process a transaction, and that they can be created via CEDA. citeturn2search7turn2search3  
-	  (confidence: 0.75)
-	  
-	  14) On the PROGRAM panel, set or confirm common defaults:
-	- `LANGUAGE` = `COBOL`
-	- `STATUS` = `ENABLED` (or enable later)
-	  
-	  (The exact panel fields vary by CICS TS release/site standards; the resource exists either way.) citeturn2search0  
-	  (confidence: 0.65)  
-	  Assumptions:
-	- Your site uses RDO panels rather than bundles or DFHCSDUP pipelines.
-	  
-	  15) **Define a TRANSACTION** that points to the program (choose a 4-character ID not reserved by your shop):
-	  
-	  ```text
-	  CEDA DEFINE TRANSACTION(HTX1) GROUP(HWDEMO)
-	  ```
-	  
-	  On the TRANSACTION panel:
-	- `PROGRAM` = `HELLOTXT`
-	  
-	  IBM notes that at a minimum you must define a transaction before you can run a program in CICS, and it defines TRANSACTION resources as defining transaction attributes and providing the TRANSID. citeturn2search21turn2search1  
-	  (confidence: 0.8)
-	  
-	  16) **Install the group into the running region**:
-	  
-	  ```text
-	  CEDA INSTALL GROUP(HWDEMO)
-	  ```
-	  
-	  IBM’s `CEDA INSTALL` reference states it makes the resource definitions in the named group available to the active CICS system. citeturn0search3turn2search19  
-	  (confidence: 0.9)
-	  
-	  17) **Run the transaction** from your 3270 terminal: type `HTX1` and press Enter.
-	  
-	  Mock 3270 screenshot (mockup — include inline in your notes/wiki near this step):
-	  
-	  ```text
-	  +------------------------------------------------------------------------------+
-	  | CICS REGION: DEV1                         DATE: 2026-03-13                   |
-	  |                                                                              |
-	  | ==> HTX1                                                                     |
-	  |                                                                              |
-	  |                                                                              |
-	  |                                                                              |
-	  |                                                                              |
-	  +------------------------------------------------------------------------------+
-	  ```
-	  
-	  18) You should see a blanked screen with your message.
-	  
-	  Mock 3270 screenshot (mockup):
-	  
-	  ```text
-	  +------------------------------------------------------------------------------+
-	  | HELLO FROM CICS: SEND TEXT (no BMS).                                         |
-	  |                                                                              |
-	  |                                                                              |
-	  |                                                                              |
-	  |                                                                              |
-	  |                                                                              |
-	  |                                                                              |
-	  |                                                                              |
-	  +------------------------------------------------------------------------------+
-	  ```
-	  
-	  IBM’s `SEND TEXT` is explicitly “without mapping.” citeturn3search0  
-	  (confidence: 0.85)
-	  
-	  19) **Iterate**: after you recompile/link a new version into the same `&LOAD(HELLOTXT)` member, issue:
-	  
-	  ```text
-	  CEMT SET PROGRAM(HELLOTXT) NEWCOPY
-	  ```
-	  
-	  IBM’s `CEMT SET PROGRAM` documentation explains NEWCOPY/PHASEIN behavior (new copy used for new requests while old runs finish) and that CICS loads the new version from DFHRPL or dynamic LIBRARY concatenation. citeturn1search0turn7search15  
-	  (confidence: 0.85)
+	- Simplest CICS app — omits using BMS
+	- ## Step 0 — Setup
+		- **Pick your placeholder values** for the JCL variables:
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- `&HLQ` (your user high-level qualifier)
+				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS`
+			- `&CICSHLQ` (your site’s CICS TS product HLQ that owns `SDFHLOAD`, `SDFHCOB`, `SDFHMAC`, `SDFHPROC`)
+				- on [[MO-LPAR]] this is `DFH310.CICS`
+			- `&SRC` (your source library dataset name)
+				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS.SRCLIB`
+			- `&COPY` (your copybook library)
+				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS.COPYLIB`
+			- `&LOAD` (your load library that CICS will search via DFHRPL or LIBRARY)
+				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS.LOADLIB`
+			- IBM’s examples assume shipped libraries like `CICSTSnn.CICS.SDFHLOAD` / `SDFHPROC` exist, where `nn` is the release.
+		- **Allocate datasets**
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- How this is done is site-standard (IDCAMS, ISPF 3.2, or your shop tooling).
+				- On [[MO-LPAR]] this is [[How to create a new PDS]]
+			- Ensure the load library is a proper program library type your CICS region can load from.
+			- PDSE recommended for load libraries
+			- PDS/PDSE for source/copy/JCL
+			- Assumptions
+				- Your shop allows you to allocate the datasets `&SRC`, `&COPY`, and `&LOAD`.
+				- Your CICS region can access the resulting datasets (RACF/ACF2/TSS rules vary).
+		- **Confirm how your CICS region will find load modules**:
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- **Dynamic LIBRARY path**
+			  collapsed:: true
+				- confirm
+					- whether your region uses dynamic program library resources (`LIBRARY`)
+					- whether you are allowed to define/install them.
+				- TODO: HOW?!!?!
+			- **DFHRPL path**:
+			  collapsed:: true
+				- ask a sysprog which datasets are in DFHRPL for the region, or locate the region startup JCL and look for the `DFHRPL` DD concatenation.
+				- IBM explains DFHRPL is defined at startup and is not changeable without restarting CICS.
+			- IBM documents the LIBRARY resource model and that DFHRPL is a “special” LIBRARY that cannot be altered in a running region.
+	- ## Step 1 — Create and build the minimal program
+		- **Create COBOL program source** member `&SRC(HELLOTXT)` exactly as follows.
+		  logseq.order-list-type:: number
+		  id:: 69bed880-2759-4ffe-b9a4-44f57ea5628d
+			- `HELLOTXT.cbl` contents...
+				- ```cobol
+				        IDENTIFICATION DIVISION.
+				        PROGRAM-ID. HELLOTXT.
+				        DATA DIVISION.
+				        WORKING-STORAGE SECTION.
+				          01  WS-MSG   PIC X(80)
+				              VALUE 'HELLO FROM CICS: SEND TEXT (no BMS).'.
+				          01  WS-RESP  PIC S9(9) COMP VALUE 0.
+				          01  WS-RESP2 PIC S9(9) COMP VALUE 0.
+				        PROCEDURE DIVISION.
+				         MAIN.
+				         EXEC CICS
+				              SEND TEXT
+				              FROM(WS-MSG)
+				              LENGTH(LENGTH OF WS-MSG)
+				              ERASE
+				              FREEKB
+				              RESP(WS-RESP)
+				              RESP2(WS-RESP2)
+				         END-EXEC
+				         EXEC CICS
+				              RETURN
+				         END-EXEC.
+				         GOBACK.
+				  ```
+				- IBM’s `SEND TEXT` command reference documents that it sends text data without mapping.
+				  IBM’s `RESP`/`RESP2` documentation explains that `RESP` returns a value (normally `DFHRESP(NORMAL)`) corresponding to the condition that might have been raised.
+		- **Create the translate/compile/link-edit JCL**
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- member (example name `&HLQ..CICSDEMO.JCL(COMPCICS)`) using explicit steps and your requested placeholders.
+			- Important IBM requirement: for online programs using `EXEC CICS`, the link-edit input must include the correct interface module before the object deck, and for HLL languages that module is `DFHELII`. IBM shows that omitting it leads to unresolved externals and “not executable.”
+			- `COMPCICS.jcl` contents...
+			  collapsed:: true
+				- ```jcl
+				  //* --------------------------------------------------------------
+				  //* COMPCICS: Explicit translate + compile + link-edit (binder)
+				  //* Change only the SET symbols and the MEMBER/PGMNAME values.
+				  //* --------------------------------------------------------------
+				  //COMPCICS JOB (ACCT),'CICS COBOL',CLASS=A,MSGCLASS=X,NOTIFY=&SYSUID
+				  //SET HLQ=YOUR.HLQ
+				  //SET CICSHLQ=CICSTSXX.CICS
+				  //SET SRC=&HLQ..CICSDEMO.SRC
+				  //SET COPY=&HLQ..CICSDEMO.COPY
+				  //SET LOAD=&HLQ..CICSDEMO.LOAD
+				  //SET MEMBER=HELLOTXT
+				  //SET PGMNAME=HELLOTXT
+				  //* --- STEP 1: Translate EXEC CICS using stand-alone translator
+				  //* IBM identifies the COBOL separate translator as DFHECP1$. 
+				  //TRN     EXEC PGM=DFHECP1$,REGION=4M,
+				  //         PARM='COBOL3,APOST,CICS'
+				  //STEPLIB  DD  DSN=&CICSHLQ..SDFHLOAD,DISP=SHR
+				  //SYSPRINT DD  SYSOUT=*
+				  //SYSPUNCH DD  DSN=&&TRNOUT,DISP=(,PASS),UNIT=SYSDA,
+				  //             SPACE=(TRK,(10,10)),DCB=(RECFM=FB,LRECL=80,BLKSIZE=0)
+				  //SYSIN    DD  DSN=&SRC(&MEMBER),DISP=SHR
+				  //* --- STEP 2: Compile translated output with Enterprise COBOL
+				  //* IBM sample guidance: RENT and NODYNAM are required for COBOL programs.
+				  //COB     EXEC PGM=IGYCRCTL,REGION=0M,
+				  //         PARM='OBJECT,RENT,NODYNAM,APOST,MAP,XREF'
+				  //STEPLIB  DD  DSN=YOUR.COBOL.COMPILER.SIGYCOMP,DISP=SHR
+				  //SYSLIB   DD  DSN=&COPY,DISP=SHR
+				  //         DD  DSN=&CICSHLQ..SDFHCOB,DISP=SHR
+				  //         DD  DSN=&CICSHLQ..SDFHMAC,DISP=SHR
+				  //SYSPRINT DD  SYSOUT=*
+				  //SYSIN    DD  DSN=&&TRNOUT,DISP=(OLD,DELETE)
+				  //SYSLIN   DD  DSN=&&OBJ,DISP=(,PASS),UNIT=SYSDA,
+				  //             SPACE=(TRK,(10,10))
+				  //* --- STEP 3: Link-edit (binder) and write load module
+				  //* Must include DFHELII for HLL programs.
+				  //LKED    EXEC PGM=IEWL,REGION=0M,COND=(5,LT,COB),
+				  //         PARM='LIST,XREF,AMODE=31,RMODE=ANY'
+				  //SYSLIB   DD  DSN=&CICSHLQ..SDFHLOAD,DISP=SHR
+				  //         DD  DSN=YOUR.LE.SCEELKED,DISP=SHR
+				  //SYSPRINT DD  SYSOUT=*
+				  //SYSLMOD  DD  DSN=&LOAD(&PGMNAME),DISP=SHR
+				  //SYSLIN   DD  *
+				  INCLUDE SYSLIB(DFHELII)
+				  NAME &PGMNAME(R)
+				  /*
+				  //         DD  DSN=&&OBJ,DISP=(OLD,DELETE)
+				  ```
+				- Why these specific elements:
+					- `DFHECP1$` is IBM’s COBOL stand-alone CICS translator. citeturn11search13turn11search5
+					- IBM’s sample JCL for COBOL application programs states you need compiler options **RENT** and **NODYNAM**. citeturn9view1
+					- IBM requires `DFHELII` to be included for HLL programs at link-edit. citeturn9view2turn0search4turn6search1  
+					  (confidence: 0.74)  
+					  Assumptions:
+					- Your site’s COBOL compiler load library (`SIGYCOMP`) and LE binder library (`SCEELKED`) dataset names differ from the placeholders.
+					- Your standards might require additional dependencies (DB2, IMS, MQ). This tutorial assumes none.
+		- **Submit the JCL** and verify:
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- Translator step `TRN` return code = 0 (or acceptable per your standards).
+			- Compile step `COB` return code is acceptable.
+			- Link-edit step produces member `&LOAD(HELLOTXT)`.
+			- IBM’s “Using your own job streams” explicitly ties success to correct interface module inclusion at link-edit.
+	- ## Step 2 — Make the program loadable by the CICS region
+	  collapsed:: true
+		- **Choose one** of the two ways to make `&LOAD` visible to the region (do not skip).
+		- ### Option A — DFHRPL (static)
+		  collapsed:: true
+			- Ask your sysprog/admin to add `&LOAD` to the region startup JCL `DFHRPL` concatenation (requires restart). IBM notes DFHRPL changes are not possible while CICS is running.
+			  logseq.order-list-type:: number
+			- Assumptions:
+				- You cannot edit production region JCL; you may need a dev/test region.
+		- ### Option B — dynamic LIBRARY (preferred in many test setups)
+		  collapsed:: true
+			- Define a `LIBRARY` resource (example name `HWDLOAD`) that points to `&LOAD`.
+			  logseq.order-list-type:: number
+				- In CICS, run:
+				  logseq.order-list-type:: number
+					- ```text
+					  CEDA DEFINE LIBRARY(HWDLOAD) GROUP(HWDEMO)
+					  ```
+				- On the LIBRARY definition panel, set:
+				  logseq.order-list-type:: number
+					- `DSNAME01` = `&LOAD` (your actual dataset name, e.g., `USER01.CICSDEMO.LOAD`)
+					- `CRITICAL` = `NO` (typical for dev/test; choose per your site policy)
+					- IBM’s LIBRARY attribute reference documents DSNAME01–16 as the dataset names for the concatenation.
+				- IBM documents LIBRARY resource definitions as representing PDS/PDSE concatenations used for program artifacts and that DFHRPL is a special static case.
+				  logseq.order-list-type:: number
+			- Install and enable the library:
+			  logseq.order-list-type:: number
+				- ```text
+				  CEDA INSTALL LIBRARY(HWDLOAD) GROUP(HWDEMO) STATUS(ENABLED)
+				  ```
+				- IBM provides this exact “install LIBRARY by using CEDA” pattern.
+			- Verify CICS sees the library:
+			  logseq.order-list-type:: number
+				- ```text
+				  CEMT INQUIRE LIBRARY(HWDLOAD)
+				  ```
+				- IBM documents `CEMT INQUIRE LIBRARY`.
+	- ## Step 3 — Define the CICS resources and run
+	  collapsed:: true
+		- **Define a PROGRAM resource** for your load module:
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- In CICS, define the program
+			  logseq.order-list-type:: number
+			  collapsed:: true
+				- ```text
+				  CEDA DEFINE PROGRAM(HELLOTXT) GROUP(HWDEMO)
+				  ```
+				- IBM documents that PROGRAM resources control information used to process a transaction, and that they can be created via CEDA.
+			- On the PROGRAM panel, **set or confirm common defaults**:
+			  logseq.order-list-type:: number
+			  collapsed:: true
+				- `LANGUAGE` = `COBOL`
+				- `STATUS` = `ENABLED` (or enable later)
+				- (The exact panel fields vary by CICS TS release/site standards; the resource exists either way.)
+				- Assumptions:
+					- Your site uses RDO panels rather than bundles or DFHCSDUP pipelines.
+		- **Define a TRANSACTION** that points to the program (choose a 4-character ID not reserved by your shop):
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- In CICS, define the transaction
+			  logseq.order-list-type:: number
+			  collapsed:: true
+				- ```text
+				  CEDA DEFINE TRANSACTION(HTX1) GROUP(HWDEMO)
+				  ```
+			- On the TRANSACTION panel:
+			  logseq.order-list-type:: number
+			  collapsed:: true
+				- `PROGRAM` = `HELLOTXT`
+				- IBM notes that at a minimum you must define a transaction before you can run a program in CICS, and it defines TRANSACTION resources as defining transaction attributes and providing the TRANSID.
+		- **Install the group into the running region**:
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- In CICS, install the group
+				- ```text
+				  CEDA INSTALL GROUP(HWDEMO)
+				  ```
+				- IBM’s `CEDA INSTALL` reference states it makes the resource definitions in the named group available to the active CICS system.
+		- **Run the transaction** from your 3270 terminal: type `HTX1` and press Enter.
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- Mock 3270 screenshot (mockup — include inline in your notes/wiki near this step):
+			  collapsed:: true
+				- ```text
+				  +------------------------------------------------------------------------------+
+				  | CICS REGION: DEV1                         DATE: 2026-03-13                   |
+				  |                                                                              |
+				  | ==> HTX1                                                                     |
+				  |                                                                              |
+				  |                                                                              |
+				  |                                                                              |
+				  |                                                                              |
+				  +------------------------------------------------------------------------------+
+				  ```
+		- You should see a blanked screen with your message.
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- Mock 3270 screenshot (mockup):
+			  collapsed:: true
+				- ```text
+				  +------------------------------------------------------------------------------+
+				  | HELLO FROM CICS: SEND TEXT (no BMS).                                         |
+				  |                                                                              |
+				  |                                                                              |
+				  |                                                                              |
+				  |                                                                              |
+				  |                                                                              |
+				  |                                                                              |
+				  |                                                                              |
+				  +------------------------------------------------------------------------------+
+				  ```
+			- IBM’s `SEND TEXT` is explicitly “without mapping.”
+		- **Iterate**: after you recompile/link a new version into the same `&LOAD(HELLOTXT)` member, issue:
+		  logseq.order-list-type:: number
+		  collapsed:: true
+			- In CICS, set the new copy of the program
+			  collapsed:: true
+				- ```text
+				  CEMT SET PROGRAM(HELLOTXT) NEWCOPY
+				  ```
+				- IBM’s `CEMT SET PROGRAM` documentation explains NEWCOPY/PHASEIN behavior (new copy used for new requests while old runs finish) and that CICS loads the new version from DFHRPL or dynamic LIBRARY concatenation.
 - # Optional path: add a BMS map and use SEND MAP / RECEIVE MAP
   id:: 69bec8f6-22ff-47be-9a79-24a77c12f8db
   collapsed:: true
@@ -686,3 +681,4 @@
 	  ---
 	  
 	  Reminder about the nature of our relationship: I’m GPT-5.2 Thinking—an OpenAI-operated generative model that pattern-matches across sources and proposes likely-correct procedures. Treat this as an accelerator, and always reconcile with IBM documentation and your site’s CICS standards/security controls. (confidence: 0.9)
+-
