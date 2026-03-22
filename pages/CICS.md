@@ -55,7 +55,7 @@
 			- When CICS first attempted to support Teletype Model 33 ASR, it crashed the OS/360 system it ran on
 			- They Amoco redesigned and rewrote CICS (especially the Terminal Control Program (TCP) and give it back to IBM)
 - # Process
-	- [[Building a CICS application from scratch]]
+	- [[How to write a minimal CICS COBOL Program on zOS]]
 	-
 - # References
 	- https://en.wikipedia.org/wiki/CICS

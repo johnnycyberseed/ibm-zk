@@ -1,0 +1,9 @@
+- CICS integration with [[z/OS/LE]]
+-
+-
+- # References
+	- https://www.ibm.com/docs/en/cics-ts/6.x?topic=applications-using-language-environment-cics-programs
+	- Runtime interface between [[CICS]] and [[z/OS/LE]] — https://www.ibm.com/docs/en/cics-ts/6.x?topic=components-language-environment-interface
+	-
+	-
+	-

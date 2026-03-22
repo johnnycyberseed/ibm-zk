@@ -66,9 +66,10 @@
 			- you can still follow the **same deployment steps**, but your JCL changes.
 		- IBM provides sample JCL for both separate and integrated translator pipelines.
 - # Artifact inventory and dataset conventions
-  collapsed:: true
 	- ## Files you will create
-		- The table uses the placeholders you requested: `&HLQ`, `&CICSHLQ`, `&SRC`, `&COPY`, `&LOAD`. In the JCL templates, these are set via `//SET` (symbolic parameters) so you can quickly adapt them.
+	  collapsed:: true
+		- The table uses the placeholders you requested: `&HLQ`, `&CICSHLQ`, `&SRC`, `&COPY`, `&LOAD`.
+		- In the JCL templates, these are set via `//SET` (symbolic parameters) so you can quickly adapt them.
 		- | Artifact (member) | Type | Purpose | Suggested dataset/member convention |
 		  |---|---|---|---|
 		  | `HELLOTXT` | COBOL source | Minimal CICS program using `EXEC CICS SEND TEXT` | `&SRC(HELLOTXT)` |
@@ -80,6 +81,7 @@
 		  | `HWMAP1` | COPYBOOK (generated) | Symbolic map copybook emitted by DFHMAPS (`SYSPUNCH`) | `&COPY(HWMAP1)` |
 		  | `HELLOTXT`, `BMSHELLO`, `HWMAP1` | Load modules | Executable program(s) and physical mapset for CICS to load | `&LOAD(HELLOTXT)` etc. |
 	- ## Workflow Overview
+	  collapsed:: true
 		- Preparation of command-level CICS programs as:
 		- translator converts `EXEC CICS` into language-level calls;
 		- you then compile and link-edit, including the required EXEC interface module.
@@ -112,6 +114,8 @@
 				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS`
 			- `&CICSHLQ` (your site’s CICS TS product HLQ that owns `SDFHLOAD`, `SDFHCOB`, `SDFHMAC`, `SDFHPROC`)
 				- on [[MO-LPAR]] this is `DFH310.CICS`
+				- typically, it's something like `CICSTSnn.CICS`
+					- where `nn` is the CICS release number.
 			- `&SRC`
 				- on [[MO-LPAR]] this is `MOCADE.LEARN.CICS.SRCLIB`
 			- `&COPY` (your copybook library)
@@ -121,6 +125,7 @@
 			- IBM’s examples assume shipped libraries like `CICSTSnn.CICS.SDFHLOAD` / `SDFHPROC` exist, where `nn` is the release.
 		- **Allocate datasets**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- How this is done is site-standard (IDCAMS, ISPF 3.2, or your shop tooling).
 				- On [[MO-LPAR]] this is [[How to create a new PDSE]]
 			- Allocate the following Datasets (all should be PDSEs):
@@ -128,21 +133,16 @@
 				- `&HLQ.COPYLIB` — COBOL copybooks
 				- `&HLQ.PROCLIB` — JCL files (both [[JCL/Job]]s and [[JCL/Procedure]]s)
 				- `&HLQ.LOADLIB` — compiled and linked [[program module]]s
-				-
-			- PDSE recommended for load libraries
-			- PDS/PDSE for source/copy/JCL
-			- Assumptions
-				- Your shop allows you to allocate the datasets `&SRC`, `&COPY`, and `&LOAD`.
-				- Your CICS region can access the resulting datasets (RACF/ACF2/TSS rules vary).
 		- **Confirm how your CICS region will find load modules**:
 		  logseq.order-list-type:: number
 		  collapsed:: true
 			- **Dynamic LIBRARY path**
-			  collapsed:: true
 				- confirm
 					- whether your region uses dynamic program library resources (`LIBRARY`)
+						- TODO determine by what means we'd confirm the CICS region uses dynamic program library
 					- whether you are allowed to define/install them.
-				- TODO: HOW?!!?!
+						- TODO determine how we'd confirm a given use is allowed to install a dynamic program library
+				-
 			- **DFHRPL path**:
 			  collapsed:: true
 				- ask a sysprog which datasets are in DFHRPL for the region, or locate the region startup JCL and look for the `DFHRPL` DD concatenation.
@@ -182,6 +182,7 @@
 				  IBM’s `RESP`/`RESP2` documentation explains that `RESP` returns a value (normally `DFHRESP(NORMAL)`) corresponding to the condition that might have been raised.
 		- **Create the translate/compile/link-edit JCL**
 		  logseq.order-list-type:: number
+		  id:: 69bed95a-5f08-4397-9e1e-91c47a15bd1f
 			- member (example name `&HLQ..CICSDEMO.JCL(COMPCICS)`) using explicit steps and your requested placeholders.
 			- Important IBM requirement: for online programs using `EXEC CICS`, the link-edit input must include the correct interface module before the object deck, and for HLL languages that module is `DFHELII`. IBM shows that omitting it leads to unresolved externals and “not executable.”
 			- `COMPCICS.jcl` contents...
@@ -234,13 +235,15 @@
 				  //         DD  DSN=&&OBJ,DISP=(OLD,DELETE)
 				  ```
 				- Why these specific elements:
-					- `DFHECP1$` is IBM’s COBOL stand-alone CICS translator. citeturn11search13turn11search5
-					- IBM’s sample JCL for COBOL application programs states you need compiler options **RENT** and **NODYNAM**. citeturn9view1
-					- IBM requires `DFHELII` to be included for HLL programs at link-edit. citeturn9view2turn0search4turn6search1  
-					  (confidence: 0.74)  
-					  Assumptions:
-					- Your site’s COBOL compiler load library (`SIGYCOMP`) and LE binder library (`SCEELKED`) dataset names differ from the placeholders.
-					- Your standards might require additional dependencies (DB2, IMS, MQ). This tutorial assumes none.
+					- [[CICS/Translator/DFHECP1$]] is IBM’s COBOL stand-alone CICS translator.
+						- `COBOL3` — translate programs that are [[CICS/LE Interface]]-conforming.
+						- `APOST` — literals are surrounded by apostrophes (as opposed to double quotes)
+						-
+					- IBM’s sample JCL for COBOL application programs states you need compiler options **RENT** and **NODYNAM**.
+					- IBM requires `DFHELII` to be included for HLL programs at link-edit.
+					- Assumptions:
+						- Your site’s COBOL compiler load library (`SIGYCOMP`) and LE binder library (`SCEELKED`) dataset names differ from the placeholders.
+						- Your standards might require additional dependencies (DB2, IMS, MQ). This tutorial assumes none.
 		- **Submit the JCL** and verify:
 		  logseq.order-list-type:: number
 		  collapsed:: true
@@ -657,7 +660,7 @@
 		  | `CEMT SET PROGRAM(... ) NEWCOPY` fails / doesn’t take | Program might be in use or held; IBM documents PHASEIN semantics and provides a support note for failures like “NOT FOR HOLD PROG” where RESCOUNT is non-zero and program was loaded with HOLD. citeturn1search0turn1search16 | `CEMT INQ PROGRAM(...)` → check RESCOUNT; wait or stop users; avoid HOLD loads unless required. |
 		-
 - # Authoritative references
-  collapsed:: true
+	-
 	- ### IBM official documentation prioritized in this tutorial
 	  
 	  These IBM pages are the “source of truth” for the behaviors and commands used above:

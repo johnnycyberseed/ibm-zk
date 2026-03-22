@@ -1,0 +1,10 @@
+- Language Environment
+- An element of [[z/OS]] that provides a common set of runtime libraries/services for compiled languages
+- Provides runtimes for:
+	- [[COBOL]]
+	- [[PL_I]]
+	- [[Fortran]]
+	- [[C]]
+	-
+-
+-

@@ -1,0 +1,5 @@
+- CICS separate translator for [[PL_I]]
+-
+- # Reference
+	- https://www.ibm.com/docs/en/cics-ts/6.x?topic=modules-dfhepp1-executable-module
+	-
