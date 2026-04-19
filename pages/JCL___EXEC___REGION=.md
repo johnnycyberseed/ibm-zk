@@ -1,0 +1,5 @@
+- sets the amount of memory allowed for the step.
+- `0M` — do not limit the amount of memory allocated
+	- might be limited by other factors, just not this feature
+- `4M` — limit to 4 Megs
+-

@@ -9,6 +9,9 @@
 	- `PGM=`
 	- `PROC=`
 	- `PARM=` / `PARMDD=`
+	- [[JCL/EXEC/REGION=]]
+	-
+	-
 - Symbolic parameters
 	- src: https://www.mainframestechhelp.com/tutorials/jcl/symbolic-parameters.htm
 -

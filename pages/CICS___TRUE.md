@@ -1,0 +1,4 @@
+- Task-Related User Exits
+- Custom programs that access a resource manager that is not otherwise available to the CICS system.
+	- e.g. `DSNCSQL` used to access DB2 when a CICS program issues a SQL call.
+-

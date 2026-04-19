@@ -1,0 +1,4 @@
+- Global User Exits
+- Hook into a CICS module or CICS domain allowing custom a program to insert some behavior
+-
+-

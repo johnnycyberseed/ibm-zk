@@ -1,0 +1,6 @@
+- Jen Spinney's First Resources:
+	- https://mainframestechhelp.com/
+	- https://www.ibm.com/docs/en/zos-basic-skills
+	- [Intro to JCL, COBOL, and z/OS](https://docs.google.com/presentation/d/1kfY3gigoo5Qpof1aPWMDrVU7SLAnUs-Pvr1IOLNp4LE) (Google Slides)
+- [[What On Earth is A Mainframe? (book)]]
+	- a very gentle introduction

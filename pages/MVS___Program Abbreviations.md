@@ -57,14 +57,15 @@
 	- IHL -- OS Generalized Trace Facility
 	- IKF -- ANS COBOL compiler and OS/VS COBOL compiler
 	- IKJ -- [[TSO]]
-	- IKM -- PL/I Syntax Checker
-	- IKT -- TSO/VTAM
+	- IKM -- [[PL_I]] Syntax Checker
+	- IKT -- TSO/[[VTAM]]
 	- ILR -- MVS Auxiliary Storage Management
 	- IMA / IMB / IMD -- OS Service Aids
 	- IMC -- OS Job Queue utilities
 	- IPD -- FORTRAN IV Syntax Checker
 	- IRA -- MVS System Resources Manager
 	- IRB -- MF/1 (Measurement Facility/1)
+	- IRR -- [[RACF]]
 	- IST -- [[VTAM]]
 	-
 -

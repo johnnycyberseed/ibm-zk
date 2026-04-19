@@ -1,0 +1,4 @@
+- MVS/z/OS Linkage Editor
+- aka "the Binder"
+- Takes [[object module]]s produced by a compiler and combines them with libraries to create a [[program module]].
+-

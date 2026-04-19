@@ -7,6 +7,7 @@
 	- ## Chapter 2 — What Are These Refrigerators? Mainframe Hardware
 	- ## Chapter 3 — The z/OS Jigsaw Puzzle — The Many Pieces of [[z/OS]]
 	- ## Chapter 4 — Talking to z/OS Networks and Communications
+	  collapsed:: true
 		- Network Type 1: [[SNA]]
 			- To establish a connection one would
 				- defines the network using [[VTAM]]
@@ -22,6 +23,7 @@
 	- ## Chapter 8 — What Do All These People DO? People You Need to Run a Mainframe
 	- ## Chapter 9 — What Do We Do With It?
 	- ## Chapter 10 — Mainframe Manager Nightmares
+	  collapsed:: true
 		- What do you mean it's unavailable?
 		- Where does all the money go?
 		- Who's paying for all this?

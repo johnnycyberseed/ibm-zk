@@ -1,0 +1,5 @@
+- Data tables held in memory and backed by [[Data Set/Type/VSAM/Key-Sequenced (KSDS)]]s.
+-
+- There are two types:
+	- CMT — CICS-maintained data table
+	- UMT — User-maintained data table
