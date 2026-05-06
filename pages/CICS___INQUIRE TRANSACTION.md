@@ -1,0 +1,4 @@
+- Retrieve information about a [[CICS/Transaction]] definition
+- https://www.ibm.com/docs/en/cics-ts/5.6.0?topic=commands-inquire-transaction
+-
+-

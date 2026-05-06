@@ -1,0 +1,4 @@
+- Allocate a session to a remote APPC logical unit for use by an APPC mapped conversation.
+- https://www.ibm.com/docs/en/cics-ts/5.6.0?topic=summary-allocate-appc
+-
+-

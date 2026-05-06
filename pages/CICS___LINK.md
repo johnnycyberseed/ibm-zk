@@ -2,6 +2,7 @@
 - analogous to a web application internal invocation
 - when "link"ed program completes, control is returned to the "link"ing program.
 - contrast with [[CICS/XCTL]]
-- can pass data between programs using the [[CICS/COMMAREA]]
+- can pass data between programs using the [[CICS/COMMAREA]] or [[CICS/Channels and Containers]]
+-
 -
 -

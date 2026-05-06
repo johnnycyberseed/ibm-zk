@@ -1,0 +1,7 @@
+- Distributed Transaction Processing
+-
+- # References
+	- https://www.ibm.com/docs/en/cics-ts/5.6.0?topic=intercommunication-distributed-transaction-processing
+	- #Alexandria : ibm-official/cics-pdf-library/SSGMCP_5.4.0/distributed-transaction-programming_pdf/
+	-
+-
